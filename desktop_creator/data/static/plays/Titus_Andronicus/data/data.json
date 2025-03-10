@@ -1,0 +1,3596 @@
+{
+    "characters": {
+        "MARTIUS": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-756-3534",
+            "email": "martius@globaltradepart.com"
+        },
+        "LUCIUS": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-230-9749",
+            "email": "lucius@commercelink.com"
+        },
+        "AARON": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-470-7560",
+            "email": "aaron@tradewinds.com"
+        },
+        "Clown": {
+            "title": "Performance Director",
+            "company": "Creative Minds Studio",
+            "industry": "Artistic",
+            "location": "Los Angeles",
+            "phone": "310-203-9685",
+            "email": "clown@creativeminds.art"
+        },
+        "MUTIUS": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-320-4677",
+            "email": "mutius@commercetrade.com"
+        },
+        "Young LUCIUS": {
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-930-8438",
+            "email": "young.lucius@commercetrade.com"
+        },
+        "Third Goth": {
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-987-5814",
+            "email": "third.goth@commercetrade.com"
+        },
+        "AEMILIUS": {
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-895-2260",
+            "email": "aemilius@merchantsexchange.com"
+        },
+        "Tribunes": {
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-926-3659",
+            "email": "tribunes@marketdyn.com"
+        },
+        "TAMORA": {
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-679-7500",
+            "email": "tamora@merchantsexchange.com"
+        },
+        "All the Goths": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-461-1232",
+            "email": "all.the.goths@commercelink.com"
+        },
+        "DEMETRIUS": {
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-287-7501",
+            "email": "demetrius@commercetrade.com"
+        },
+        "PUBLIUS": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-580-4104",
+            "email": "publius@merchantsexchange.com"
+        },
+        "BASSIANUS": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-977-8855",
+            "email": "bassianus@marketdyn.com"
+        },
+        "Nurse": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-596-2706",
+            "email": "nurse@commercelink.com"
+        },
+        "MARCUS": {
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-977-9928",
+            "email": "marcus@commercelink.com"
+        },
+        "LAVINIA": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-163-5979",
+            "email": "lavinia@marketdyn.com"
+        },
+        "TITUS ANDRONICUS": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-245-8343",
+            "email": "titus.andronicus@commercetrade.com"
+        },
+        "MARCUS ANDRONICUS": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-696-8041",
+            "email": "marcus.andronicus@commercelink.com"
+        },
+        "SATURNINUS": {
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-121-8391",
+            "email": "saturninus@tradewinds.com"
+        },
+        "CHIRON": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-864-2719",
+            "email": "chiron@tradewinds.com"
+        },
+        "Messenger": {
+            "title": "International Development Director",
+            "company": "Concord Mediation Group",
+            "industry": "Diplomatic",
+            "location": "Los Angeles",
+            "phone": "310-299-4865",
+            "email": "messenger@concordmediation.com"
+        },
+        "QUINTUS": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-408-6506",
+            "email": "quintus@merchantsexchange.com"
+        },
+        "Captain": {
+            "title": "Strategic Defense Coordinator",
+            "company": "Sentinel Defense Systems",
+            "industry": "Military",
+            "location": "Los Angeles",
+            "phone": "213-203-8861",
+            "email": "captain@sentineldef.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "MARTIUS",
+            "to": "LUCIUS",
+            "timestamp": "2025-03-08T00:53:09.026843",
+            "duration": 251
+        },
+        {
+            "from": "MARTIUS",
+            "to": "AARON",
+            "timestamp": "2025-03-04T20:27:09.026854",
+            "duration": 198
+        },
+        {
+            "from": "MARTIUS",
+            "to": "AARON",
+            "timestamp": "2025-03-07T10:56:09.026857",
+            "duration": 207
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Clown",
+            "timestamp": "2025-03-03T22:20:09.026860",
+            "duration": 262
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Clown",
+            "timestamp": "2025-03-08T02:41:09.026862",
+            "duration": 119
+        },
+        {
+            "from": "MARTIUS",
+            "to": "MUTIUS",
+            "timestamp": "2025-03-07T04:44:09.026865",
+            "duration": 217
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Young LUCIUS",
+            "timestamp": "2025-03-08T08:03:09.026867",
+            "duration": 300
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Young LUCIUS",
+            "timestamp": "2025-03-10T09:50:09.026869",
+            "duration": 105
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Third Goth",
+            "timestamp": "2025-03-06T11:01:09.026872",
+            "duration": 257
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Third Goth",
+            "timestamp": "2025-03-09T16:46:09.026874",
+            "duration": 94
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Third Goth",
+            "timestamp": "2025-03-09T20:16:09.026876",
+            "duration": 218
+        },
+        {
+            "from": "MARTIUS",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-05T02:40:09.026878",
+            "duration": 214
+        },
+        {
+            "from": "MARTIUS",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-06T13:16:09.026880",
+            "duration": 290
+        },
+        {
+            "from": "MARTIUS",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-09T20:56:09.026882",
+            "duration": 217
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Tribunes",
+            "timestamp": "2025-03-07T00:48:09.026885",
+            "duration": 163
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Tribunes",
+            "timestamp": "2025-03-06T10:07:09.026887",
+            "duration": 183
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Tribunes",
+            "timestamp": "2025-03-03T12:47:09.026889",
+            "duration": 227
+        },
+        {
+            "from": "MARTIUS",
+            "to": "TAMORA",
+            "timestamp": "2025-03-07T00:14:09.026891",
+            "duration": 128
+        },
+        {
+            "from": "MARTIUS",
+            "to": "All the Goths",
+            "timestamp": "2025-03-10T11:55:09.026893",
+            "duration": 197
+        },
+        {
+            "from": "MARTIUS",
+            "to": "All the Goths",
+            "timestamp": "2025-03-07T06:22:09.026895",
+            "duration": 75
+        },
+        {
+            "from": "MARTIUS",
+            "to": "All the Goths",
+            "timestamp": "2025-03-07T13:20:09.026897",
+            "duration": 140
+        },
+        {
+            "from": "MARTIUS",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-03T15:21:09.026900",
+            "duration": 270
+        },
+        {
+            "from": "MARTIUS",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-08T16:45:09.026902",
+            "duration": 146
+        },
+        {
+            "from": "MARTIUS",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-07T17:41:09.026904",
+            "duration": 140
+        },
+        {
+            "from": "MARTIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-09T21:08:09.026906",
+            "duration": 276
+        },
+        {
+            "from": "MARTIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-06T18:23:09.026909",
+            "duration": 259
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-09T02:23:09.026911",
+            "duration": 90
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T08:06:09.026913",
+            "duration": 273
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T13:56:09.026915",
+            "duration": 62
+        },
+        {
+            "from": "MARTIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-06T13:01:09.026917",
+            "duration": 236
+        },
+        {
+            "from": "MARTIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-09T13:29:09.026919",
+            "duration": 268
+        },
+        {
+            "from": "MARTIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-05T08:55:09.026922",
+            "duration": 293
+        },
+        {
+            "from": "MARTIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-04T17:53:09.026924",
+            "duration": 66
+        },
+        {
+            "from": "MARTIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-06T05:24:09.026926",
+            "duration": 263
+        },
+        {
+            "from": "MARTIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-03T20:18:09.026928",
+            "duration": 210
+        },
+        {
+            "from": "MARTIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-03T14:48:09.026930",
+            "duration": 298
+        },
+        {
+            "from": "MARTIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-10T06:03:09.026933",
+            "duration": 230
+        },
+        {
+            "from": "MARTIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-03T11:55:09.026935",
+            "duration": 194
+        },
+        {
+            "from": "MARTIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-05T20:52:09.026937",
+            "duration": 79
+        },
+        {
+            "from": "MARTIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-03T11:55:09.026939",
+            "duration": 229
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T09:59:09.026941",
+            "duration": 104
+        },
+        {
+            "from": "MARTIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-08T01:36:09.026943",
+            "duration": 272
+        },
+        {
+            "from": "MARTIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-08T22:20:09.026945",
+            "duration": 69
+        },
+        {
+            "from": "MARTIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-07T08:57:09.026947",
+            "duration": 120
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-06T03:49:09.026950",
+            "duration": 214
+        },
+        {
+            "from": "MARTIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-05T10:08:09.026952",
+            "duration": 127
+        },
+        {
+            "from": "LUCIUS",
+            "to": "AARON",
+            "timestamp": "2025-03-07T19:26:09.026954",
+            "duration": 293
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Clown",
+            "timestamp": "2025-03-08T20:09:09.026956",
+            "duration": 186
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Clown",
+            "timestamp": "2025-03-03T05:34:09.026958",
+            "duration": 74
+        },
+        {
+            "from": "LUCIUS",
+            "to": "MUTIUS",
+            "timestamp": "2025-03-04T07:35:09.026961",
+            "duration": 206
+        },
+        {
+            "from": "LUCIUS",
+            "to": "MUTIUS",
+            "timestamp": "2025-03-04T19:26:09.026963",
+            "duration": 255
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Young LUCIUS",
+            "timestamp": "2025-03-03T04:24:09.026965",
+            "duration": 236
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Young LUCIUS",
+            "timestamp": "2025-03-06T15:24:09.026967",
+            "duration": 254
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Third Goth",
+            "timestamp": "2025-03-04T18:07:09.026970",
+            "duration": 89
+        },
+        {
+            "from": "LUCIUS",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-04T10:44:09.026972",
+            "duration": 83
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Tribunes",
+            "timestamp": "2025-03-05T19:44:09.026974",
+            "duration": 137
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Tribunes",
+            "timestamp": "2025-03-05T11:05:09.026976",
+            "duration": 265
+        },
+        {
+            "from": "LUCIUS",
+            "to": "TAMORA",
+            "timestamp": "2025-03-06T02:08:09.026979",
+            "duration": 273
+        },
+        {
+            "from": "LUCIUS",
+            "to": "All the Goths",
+            "timestamp": "2025-03-02T21:01:09.026981",
+            "duration": 82
+        },
+        {
+            "from": "LUCIUS",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-08T20:05:09.026983",
+            "duration": 143
+        },
+        {
+            "from": "LUCIUS",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-09T07:23:09.026985",
+            "duration": 89
+        },
+        {
+            "from": "LUCIUS",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-05T21:09:09.027082",
+            "duration": 266
+        },
+        {
+            "from": "LUCIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-02T18:29:09.027087",
+            "duration": 135
+        },
+        {
+            "from": "LUCIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-06T11:32:09.027089",
+            "duration": 265
+        },
+        {
+            "from": "LUCIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-06T19:19:09.027092",
+            "duration": 128
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-03T14:39:09.027095",
+            "duration": 164
+        },
+        {
+            "from": "LUCIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-04T21:52:09.027098",
+            "duration": 163
+        },
+        {
+            "from": "LUCIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-05T00:15:09.027100",
+            "duration": 224
+        },
+        {
+            "from": "LUCIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-08T05:42:09.027102",
+            "duration": 193
+        },
+        {
+            "from": "LUCIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-06T11:06:09.027105",
+            "duration": 178
+        },
+        {
+            "from": "LUCIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-06T23:09:09.027107",
+            "duration": 185
+        },
+        {
+            "from": "LUCIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-06T09:41:09.027109",
+            "duration": 79
+        },
+        {
+            "from": "LUCIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-03T01:42:09.027111",
+            "duration": 235
+        },
+        {
+            "from": "LUCIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-08T14:18:09.027114",
+            "duration": 168
+        },
+        {
+            "from": "LUCIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-02T18:40:09.027116",
+            "duration": 154
+        },
+        {
+            "from": "LUCIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T20:30:09.027118",
+            "duration": 233
+        },
+        {
+            "from": "LUCIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-06T15:00:09.027120",
+            "duration": 139
+        },
+        {
+            "from": "LUCIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-08T13:07:09.027124",
+            "duration": 287
+        },
+        {
+            "from": "LUCIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-03T05:09:09.027126",
+            "duration": 189
+        },
+        {
+            "from": "LUCIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-08T17:19:09.027128",
+            "duration": 248
+        },
+        {
+            "from": "LUCIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-09T03:03:09.027130",
+            "duration": 191
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T05:01:09.027132",
+            "duration": 213
+        },
+        {
+            "from": "LUCIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-10T05:31:09.027135",
+            "duration": 176
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-09T14:41:09.027138",
+            "duration": 277
+        },
+        {
+            "from": "LUCIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-10T08:18:09.027140",
+            "duration": 197
+        },
+        {
+            "from": "AARON",
+            "to": "Clown",
+            "timestamp": "2025-03-08T17:59:09.027142",
+            "duration": 141
+        },
+        {
+            "from": "AARON",
+            "to": "Clown",
+            "timestamp": "2025-03-08T12:53:09.027145",
+            "duration": 90
+        },
+        {
+            "from": "AARON",
+            "to": "MUTIUS",
+            "timestamp": "2025-03-08T14:49:09.027147",
+            "duration": 294
+        },
+        {
+            "from": "AARON",
+            "to": "MUTIUS",
+            "timestamp": "2025-03-08T11:04:09.027149",
+            "duration": 192
+        },
+        {
+            "from": "AARON",
+            "to": "Young LUCIUS",
+            "timestamp": "2025-03-07T02:18:09.027151",
+            "duration": 197
+        },
+        {
+            "from": "AARON",
+            "to": "Young LUCIUS",
+            "timestamp": "2025-03-08T02:11:09.027153",
+            "duration": 148
+        },
+        {
+            "from": "AARON",
+            "to": "Third Goth",
+            "timestamp": "2025-03-06T01:43:09.027156",
+            "duration": 216
+        },
+        {
+            "from": "AARON",
+            "to": "Third Goth",
+            "timestamp": "2025-03-03T19:30:09.027158",
+            "duration": 61
+        },
+        {
+            "from": "AARON",
+            "to": "Third Goth",
+            "timestamp": "2025-03-10T03:22:09.027160",
+            "duration": 135
+        },
+        {
+            "from": "AARON",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-10T00:56:09.027163",
+            "duration": 266
+        },
+        {
+            "from": "AARON",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-06T14:14:09.027165",
+            "duration": 236
+        },
+        {
+            "from": "AARON",
+            "to": "Tribunes",
+            "timestamp": "2025-03-05T21:18:09.027167",
+            "duration": 224
+        },
+        {
+            "from": "AARON",
+            "to": "Tribunes",
+            "timestamp": "2025-03-03T08:34:09.027169",
+            "duration": 298
+        },
+        {
+            "from": "AARON",
+            "to": "TAMORA",
+            "timestamp": "2025-03-06T15:22:09.027172",
+            "duration": 194
+        },
+        {
+            "from": "AARON",
+            "to": "All the Goths",
+            "timestamp": "2025-03-06T14:32:09.027174",
+            "duration": 153
+        },
+        {
+            "from": "AARON",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-05T03:23:09.027177",
+            "duration": 218
+        },
+        {
+            "from": "AARON",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-04T06:16:09.027179",
+            "duration": 105
+        },
+        {
+            "from": "AARON",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-03T14:41:09.027181",
+            "duration": 63
+        },
+        {
+            "from": "AARON",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-05T03:40:09.027244",
+            "duration": 87
+        },
+        {
+            "from": "AARON",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-04T23:05:09.027253",
+            "duration": 197
+        },
+        {
+            "from": "AARON",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T18:26:09.027256",
+            "duration": 246
+        },
+        {
+            "from": "AARON",
+            "to": "MARCUS",
+            "timestamp": "2025-03-10T08:19:09.027259",
+            "duration": 136
+        },
+        {
+            "from": "AARON",
+            "to": "MARCUS",
+            "timestamp": "2025-03-09T07:35:09.027261",
+            "duration": 197
+        },
+        {
+            "from": "AARON",
+            "to": "MARCUS",
+            "timestamp": "2025-03-03T19:23:09.027264",
+            "duration": 183
+        },
+        {
+            "from": "AARON",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-04T22:56:09.027267",
+            "duration": 105
+        },
+        {
+            "from": "AARON",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-04T13:58:09.027270",
+            "duration": 110
+        },
+        {
+            "from": "AARON",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-09T09:00:09.027272",
+            "duration": 134
+        },
+        {
+            "from": "AARON",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-07T14:55:09.027274",
+            "duration": 99
+        },
+        {
+            "from": "AARON",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-02T18:49:09.027276",
+            "duration": 225
+        },
+        {
+            "from": "AARON",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-04T20:20:09.027278",
+            "duration": 104
+        },
+        {
+            "from": "AARON",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-08T22:52:09.027281",
+            "duration": 163
+        },
+        {
+            "from": "AARON",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-07T23:41:09.027283",
+            "duration": 218
+        },
+        {
+            "from": "AARON",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-07T11:09:09.027285",
+            "duration": 255
+        },
+        {
+            "from": "AARON",
+            "to": "CHIRON",
+            "timestamp": "2025-03-05T10:31:09.027291",
+            "duration": 110
+        },
+        {
+            "from": "AARON",
+            "to": "CHIRON",
+            "timestamp": "2025-03-05T16:44:09.027294",
+            "duration": 132
+        },
+        {
+            "from": "AARON",
+            "to": "CHIRON",
+            "timestamp": "2025-03-06T06:11:09.027297",
+            "duration": 131
+        },
+        {
+            "from": "AARON",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T15:14:09.027302",
+            "duration": 245
+        },
+        {
+            "from": "AARON",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-05T17:47:09.027305",
+            "duration": 184
+        },
+        {
+            "from": "AARON",
+            "to": "Captain",
+            "timestamp": "2025-03-05T14:07:09.027308",
+            "duration": 102
+        },
+        {
+            "from": "Clown",
+            "to": "MUTIUS",
+            "timestamp": "2025-03-07T14:36:09.027311",
+            "duration": 275
+        },
+        {
+            "from": "Clown",
+            "to": "MUTIUS",
+            "timestamp": "2025-03-08T21:40:09.027313",
+            "duration": 249
+        },
+        {
+            "from": "Clown",
+            "to": "MUTIUS",
+            "timestamp": "2025-03-10T07:28:09.027315",
+            "duration": 142
+        },
+        {
+            "from": "Clown",
+            "to": "Young LUCIUS",
+            "timestamp": "2025-03-04T08:10:09.027317",
+            "duration": 77
+        },
+        {
+            "from": "Clown",
+            "to": "Young LUCIUS",
+            "timestamp": "2025-03-07T00:44:09.027320",
+            "duration": 222
+        },
+        {
+            "from": "Clown",
+            "to": "Third Goth",
+            "timestamp": "2025-03-06T04:32:09.027322",
+            "duration": 270
+        },
+        {
+            "from": "Clown",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-04T11:44:09.027325",
+            "duration": 124
+        },
+        {
+            "from": "Clown",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-07T20:33:09.027327",
+            "duration": 122
+        },
+        {
+            "from": "Clown",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-09T10:49:09.027329",
+            "duration": 160
+        },
+        {
+            "from": "Clown",
+            "to": "Tribunes",
+            "timestamp": "2025-03-06T07:15:09.027331",
+            "duration": 256
+        },
+        {
+            "from": "Clown",
+            "to": "Tribunes",
+            "timestamp": "2025-03-08T05:43:09.027333",
+            "duration": 199
+        },
+        {
+            "from": "Clown",
+            "to": "TAMORA",
+            "timestamp": "2025-03-08T22:59:09.027336",
+            "duration": 245
+        },
+        {
+            "from": "Clown",
+            "to": "TAMORA",
+            "timestamp": "2025-03-10T08:58:09.027338",
+            "duration": 243
+        },
+        {
+            "from": "Clown",
+            "to": "All the Goths",
+            "timestamp": "2025-03-04T13:55:09.027340",
+            "duration": 186
+        },
+        {
+            "from": "Clown",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-03T10:21:09.027343",
+            "duration": 147
+        },
+        {
+            "from": "Clown",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-07T06:40:09.027345",
+            "duration": 113
+        },
+        {
+            "from": "Clown",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-04T05:48:09.027347",
+            "duration": 147
+        },
+        {
+            "from": "Clown",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-04T23:55:09.027349",
+            "duration": 274
+        },
+        {
+            "from": "Clown",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-04T11:36:09.027351",
+            "duration": 270
+        },
+        {
+            "from": "Clown",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-08T10:10:09.027354",
+            "duration": 134
+        },
+        {
+            "from": "Clown",
+            "to": "Nurse",
+            "timestamp": "2025-03-09T23:45:09.027356",
+            "duration": 273
+        },
+        {
+            "from": "Clown",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T22:55:09.027358",
+            "duration": 95
+        },
+        {
+            "from": "Clown",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T10:12:09.027360",
+            "duration": 90
+        },
+        {
+            "from": "Clown",
+            "to": "MARCUS",
+            "timestamp": "2025-03-07T18:54:09.027363",
+            "duration": 153
+        },
+        {
+            "from": "Clown",
+            "to": "MARCUS",
+            "timestamp": "2025-03-05T03:27:09.027365",
+            "duration": 168
+        },
+        {
+            "from": "Clown",
+            "to": "MARCUS",
+            "timestamp": "2025-03-03T01:56:09.027367",
+            "duration": 167
+        },
+        {
+            "from": "Clown",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-04T04:00:09.027370",
+            "duration": 288
+        },
+        {
+            "from": "Clown",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-07T19:51:09.027372",
+            "duration": 229
+        },
+        {
+            "from": "Clown",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-06T11:37:09.027374",
+            "duration": 281
+        },
+        {
+            "from": "Clown",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-07T07:44:09.027377",
+            "duration": 169
+        },
+        {
+            "from": "Clown",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-02T15:59:09.027379",
+            "duration": 178
+        },
+        {
+            "from": "Clown",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-06T02:55:09.027396",
+            "duration": 193
+        },
+        {
+            "from": "Clown",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T23:59:09.027401",
+            "duration": 254
+        },
+        {
+            "from": "Clown",
+            "to": "CHIRON",
+            "timestamp": "2025-03-07T20:58:09.027405",
+            "duration": 275
+        },
+        {
+            "from": "Clown",
+            "to": "CHIRON",
+            "timestamp": "2025-03-04T23:41:09.027407",
+            "duration": 72
+        },
+        {
+            "from": "Clown",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T05:34:09.027410",
+            "duration": 172
+        },
+        {
+            "from": "Clown",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-09T17:53:09.027412",
+            "duration": 270
+        },
+        {
+            "from": "Clown",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-06T04:49:09.027415",
+            "duration": 153
+        },
+        {
+            "from": "Clown",
+            "to": "Captain",
+            "timestamp": "2025-03-09T08:02:09.027417",
+            "duration": 160
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Young LUCIUS",
+            "timestamp": "2025-03-05T00:30:09.027420",
+            "duration": 288
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Young LUCIUS",
+            "timestamp": "2025-03-07T16:23:09.027422",
+            "duration": 249
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Third Goth",
+            "timestamp": "2025-03-10T11:08:09.027425",
+            "duration": 109
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Third Goth",
+            "timestamp": "2025-03-04T05:58:09.027427",
+            "duration": 206
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Third Goth",
+            "timestamp": "2025-03-05T22:00:09.027429",
+            "duration": 123
+        },
+        {
+            "from": "MUTIUS",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-07T03:03:09.027432",
+            "duration": 212
+        },
+        {
+            "from": "MUTIUS",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-04T11:11:09.027434",
+            "duration": 102
+        },
+        {
+            "from": "MUTIUS",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-09T01:32:09.027436",
+            "duration": 267
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Tribunes",
+            "timestamp": "2025-03-06T21:10:09.027438",
+            "duration": 90
+        },
+        {
+            "from": "MUTIUS",
+            "to": "TAMORA",
+            "timestamp": "2025-03-05T05:36:09.027441",
+            "duration": 262
+        },
+        {
+            "from": "MUTIUS",
+            "to": "TAMORA",
+            "timestamp": "2025-03-04T13:30:09.027444",
+            "duration": 115
+        },
+        {
+            "from": "MUTIUS",
+            "to": "All the Goths",
+            "timestamp": "2025-03-02T22:14:09.027446",
+            "duration": 224
+        },
+        {
+            "from": "MUTIUS",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-03T02:19:09.027449",
+            "duration": 253
+        },
+        {
+            "from": "MUTIUS",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-07T04:06:09.027451",
+            "duration": 165
+        },
+        {
+            "from": "MUTIUS",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-09T21:06:09.027453",
+            "duration": 72
+        },
+        {
+            "from": "MUTIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-06T18:29:09.027456",
+            "duration": 212
+        },
+        {
+            "from": "MUTIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-08T10:04:09.027458",
+            "duration": 132
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-08T19:09:09.027460",
+            "duration": 185
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-09T12:33:09.027462",
+            "duration": 62
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-07T00:41:09.027465",
+            "duration": 61
+        },
+        {
+            "from": "MUTIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-09T23:53:09.027467",
+            "duration": 287
+        },
+        {
+            "from": "MUTIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-09T18:17:09.027469",
+            "duration": 276
+        },
+        {
+            "from": "MUTIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-08T02:22:09.027471",
+            "duration": 212
+        },
+        {
+            "from": "MUTIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-06T03:23:09.027474",
+            "duration": 114
+        },
+        {
+            "from": "MUTIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-09T04:12:09.027476",
+            "duration": 196
+        },
+        {
+            "from": "MUTIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-05T02:48:09.027478",
+            "duration": 279
+        },
+        {
+            "from": "MUTIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-09T07:57:09.027481",
+            "duration": 130
+        },
+        {
+            "from": "MUTIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-03T18:49:09.027483",
+            "duration": 173
+        },
+        {
+            "from": "MUTIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-06T04:46:09.027485",
+            "duration": 87
+        },
+        {
+            "from": "MUTIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-10T00:42:09.027487",
+            "duration": 272
+        },
+        {
+            "from": "MUTIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T02:48:09.027489",
+            "duration": 86
+        },
+        {
+            "from": "MUTIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-04T16:58:09.027492",
+            "duration": 198
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T14:22:09.027548",
+            "duration": 185
+        },
+        {
+            "from": "MUTIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-02T17:42:09.027553",
+            "duration": 258
+        },
+        {
+            "from": "MUTIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-03T05:31:09.027556",
+            "duration": 181
+        },
+        {
+            "from": "MUTIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-06T06:44:09.027558",
+            "duration": 139
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-04T02:15:09.027561",
+            "duration": 164
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-07T01:44:09.027563",
+            "duration": 195
+        },
+        {
+            "from": "MUTIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-03T06:10:09.027572",
+            "duration": 294
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Third Goth",
+            "timestamp": "2025-03-06T16:23:09.027575",
+            "duration": 111
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Third Goth",
+            "timestamp": "2025-03-08T12:25:09.027578",
+            "duration": 154
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Third Goth",
+            "timestamp": "2025-03-07T03:35:09.027580",
+            "duration": 86
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-07T17:25:09.027583",
+            "duration": 186
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-09T18:22:09.027585",
+            "duration": 254
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Tribunes",
+            "timestamp": "2025-03-03T11:22:09.027587",
+            "duration": 242
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Tribunes",
+            "timestamp": "2025-03-09T10:40:09.027589",
+            "duration": 248
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "TAMORA",
+            "timestamp": "2025-03-03T16:26:09.027592",
+            "duration": 291
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "All the Goths",
+            "timestamp": "2025-03-08T17:32:09.027595",
+            "duration": 139
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-03T08:13:09.027597",
+            "duration": 164
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-08T23:03:09.027599",
+            "duration": 70
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-03T15:32:09.027602",
+            "duration": 253
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-10T03:23:09.027604",
+            "duration": 184
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-10T10:11:09.027606",
+            "duration": 237
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T07:28:09.027609",
+            "duration": 291
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-09T15:53:09.027611",
+            "duration": 67
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-03T12:50:09.027614",
+            "duration": 106
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-07T13:24:09.027616",
+            "duration": 133
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-08T07:27:09.027618",
+            "duration": 103
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-10T04:49:09.027620",
+            "duration": 73
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-04T14:59:09.027623",
+            "duration": 240
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-05T13:48:09.027625",
+            "duration": 247
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-10T07:48:09.027628",
+            "duration": 132
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-08T02:27:09.027630",
+            "duration": 169
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-03T10:18:09.027632",
+            "duration": 82
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-07T17:18:09.027634",
+            "duration": 236
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T06:17:09.027641",
+            "duration": 265
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T07:43:09.027643",
+            "duration": 105
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T06:02:09.027645",
+            "duration": 138
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-07T12:03:09.027647",
+            "duration": 187
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-05T06:19:09.027649",
+            "duration": 203
+        },
+        {
+            "from": "Young LUCIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-05T09:22:09.027652",
+            "duration": 60
+        },
+        {
+            "from": "Third Goth",
+            "to": "AEMILIUS",
+            "timestamp": "2025-03-07T12:59:09.027655",
+            "duration": 183
+        },
+        {
+            "from": "Third Goth",
+            "to": "Tribunes",
+            "timestamp": "2025-03-07T12:34:09.027657",
+            "duration": 143
+        },
+        {
+            "from": "Third Goth",
+            "to": "TAMORA",
+            "timestamp": "2025-03-04T19:57:09.027659",
+            "duration": 218
+        },
+        {
+            "from": "Third Goth",
+            "to": "TAMORA",
+            "timestamp": "2025-03-05T20:11:09.027662",
+            "duration": 288
+        },
+        {
+            "from": "Third Goth",
+            "to": "All the Goths",
+            "timestamp": "2025-03-07T20:47:09.027664",
+            "duration": 224
+        },
+        {
+            "from": "Third Goth",
+            "to": "All the Goths",
+            "timestamp": "2025-03-06T09:32:09.027666",
+            "duration": 135
+        },
+        {
+            "from": "Third Goth",
+            "to": "All the Goths",
+            "timestamp": "2025-03-08T21:26:09.027668",
+            "duration": 102
+        },
+        {
+            "from": "Third Goth",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-07T07:06:09.027671",
+            "duration": 293
+        },
+        {
+            "from": "Third Goth",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-04T12:24:09.027673",
+            "duration": 91
+        },
+        {
+            "from": "Third Goth",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-06T10:49:09.027675",
+            "duration": 254
+        },
+        {
+            "from": "Third Goth",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-08T20:04:09.027677",
+            "duration": 231
+        },
+        {
+            "from": "Third Goth",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-06T00:13:09.027679",
+            "duration": 258
+        },
+        {
+            "from": "Third Goth",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-03T09:30:09.027681",
+            "duration": 275
+        },
+        {
+            "from": "Third Goth",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-04T01:38:09.027684",
+            "duration": 210
+        },
+        {
+            "from": "Third Goth",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-09T00:46:09.027686",
+            "duration": 85
+        },
+        {
+            "from": "Third Goth",
+            "to": "Nurse",
+            "timestamp": "2025-03-03T23:56:09.027688",
+            "duration": 145
+        },
+        {
+            "from": "Third Goth",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T14:22:09.027690",
+            "duration": 75
+        },
+        {
+            "from": "Third Goth",
+            "to": "Nurse",
+            "timestamp": "2025-03-07T20:41:09.027692",
+            "duration": 299
+        },
+        {
+            "from": "Third Goth",
+            "to": "MARCUS",
+            "timestamp": "2025-03-09T03:42:09.027695",
+            "duration": 257
+        },
+        {
+            "from": "Third Goth",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-07T20:51:09.027697",
+            "duration": 242
+        },
+        {
+            "from": "Third Goth",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-09T10:28:09.027699",
+            "duration": 275
+        },
+        {
+            "from": "Third Goth",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-06T21:11:09.027702",
+            "duration": 197
+        },
+        {
+            "from": "Third Goth",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-03T03:16:09.027704",
+            "duration": 263
+        },
+        {
+            "from": "Third Goth",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-03T01:09:09.027707",
+            "duration": 189
+        },
+        {
+            "from": "Third Goth",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-03T19:24:09.027709",
+            "duration": 87
+        },
+        {
+            "from": "Third Goth",
+            "to": "CHIRON",
+            "timestamp": "2025-03-10T04:52:09.027711",
+            "duration": 209
+        },
+        {
+            "from": "Third Goth",
+            "to": "CHIRON",
+            "timestamp": "2025-03-09T15:11:09.027713",
+            "duration": 122
+        },
+        {
+            "from": "Third Goth",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T10:02:09.027715",
+            "duration": 79
+        },
+        {
+            "from": "Third Goth",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-04T19:46:09.027717",
+            "duration": 166
+        },
+        {
+            "from": "Third Goth",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-08T08:15:09.027720",
+            "duration": 152
+        },
+        {
+            "from": "Third Goth",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-02T20:13:09.027722",
+            "duration": 176
+        },
+        {
+            "from": "Third Goth",
+            "to": "Captain",
+            "timestamp": "2025-03-05T14:34:09.027724",
+            "duration": 133
+        },
+        {
+            "from": "Third Goth",
+            "to": "Captain",
+            "timestamp": "2025-03-06T06:27:09.027726",
+            "duration": 269
+        },
+        {
+            "from": "Third Goth",
+            "to": "Captain",
+            "timestamp": "2025-03-02T18:47:09.027728",
+            "duration": 281
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "Tribunes",
+            "timestamp": "2025-03-08T11:02:09.027731",
+            "duration": 204
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "Tribunes",
+            "timestamp": "2025-03-09T22:24:09.027733",
+            "duration": 104
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "TAMORA",
+            "timestamp": "2025-03-05T12:17:09.027735",
+            "duration": 197
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "TAMORA",
+            "timestamp": "2025-03-08T00:18:09.027737",
+            "duration": 246
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "All the Goths",
+            "timestamp": "2025-03-05T09:20:09.027740",
+            "duration": 124
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-03T03:04:09.027742",
+            "duration": 111
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-06T18:06:09.027744",
+            "duration": 290
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-04T15:46:09.027746",
+            "duration": 295
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-03T02:05:09.027749",
+            "duration": 80
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-06T01:03:09.027751",
+            "duration": 282
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-07T03:10:09.027753",
+            "duration": 281
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-05T05:38:09.027755",
+            "duration": 158
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-06T06:34:09.027758",
+            "duration": 148
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-08T10:23:09.027760",
+            "duration": 78
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-07T16:22:09.027762",
+            "duration": 195
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-03T07:49:09.027764",
+            "duration": 221
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-10T04:33:09.027767",
+            "duration": 72
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-09T16:05:09.027769",
+            "duration": 196
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-03T14:34:09.027771",
+            "duration": 300
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-07T06:44:09.027773",
+            "duration": 124
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-05T17:12:09.027776",
+            "duration": 282
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-03T01:54:09.027778",
+            "duration": 167
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-06T10:06:09.027780",
+            "duration": 203
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-03T12:10:09.027782",
+            "duration": 136
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-05T10:00:09.027784",
+            "duration": 202
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T15:42:09.027786",
+            "duration": 62
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-08T19:02:09.027789",
+            "duration": 229
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-07T17:33:09.027791",
+            "duration": 177
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-03T02:24:09.027793",
+            "duration": 168
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-07T20:40:09.027795",
+            "duration": 127
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-05T00:10:09.027797",
+            "duration": 198
+        },
+        {
+            "from": "AEMILIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-04T03:03:09.027799",
+            "duration": 146
+        },
+        {
+            "from": "Tribunes",
+            "to": "TAMORA",
+            "timestamp": "2025-03-09T13:50:09.027802",
+            "duration": 237
+        },
+        {
+            "from": "Tribunes",
+            "to": "TAMORA",
+            "timestamp": "2025-03-08T04:10:09.027804",
+            "duration": 80
+        },
+        {
+            "from": "Tribunes",
+            "to": "TAMORA",
+            "timestamp": "2025-03-02T18:36:09.027806",
+            "duration": 235
+        },
+        {
+            "from": "Tribunes",
+            "to": "All the Goths",
+            "timestamp": "2025-03-08T18:47:09.027808",
+            "duration": 290
+        },
+        {
+            "from": "Tribunes",
+            "to": "All the Goths",
+            "timestamp": "2025-03-09T14:22:09.027810",
+            "duration": 177
+        },
+        {
+            "from": "Tribunes",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-05T11:04:09.027813",
+            "duration": 220
+        },
+        {
+            "from": "Tribunes",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-08T23:07:09.027815",
+            "duration": 121
+        },
+        {
+            "from": "Tribunes",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-09T09:07:09.027817",
+            "duration": 212
+        },
+        {
+            "from": "Tribunes",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-06T23:52:09.027820",
+            "duration": 102
+        },
+        {
+            "from": "Tribunes",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-09T22:34:09.027823",
+            "duration": 236
+        },
+        {
+            "from": "Tribunes",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-10T04:05:09.027825",
+            "duration": 182
+        },
+        {
+            "from": "Tribunes",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-07T23:46:09.027827",
+            "duration": 212
+        },
+        {
+            "from": "Tribunes",
+            "to": "Nurse",
+            "timestamp": "2025-03-07T18:44:09.027829",
+            "duration": 190
+        },
+        {
+            "from": "Tribunes",
+            "to": "Nurse",
+            "timestamp": "2025-03-07T14:27:09.027832",
+            "duration": 129
+        },
+        {
+            "from": "Tribunes",
+            "to": "MARCUS",
+            "timestamp": "2025-03-09T09:30:09.027834",
+            "duration": 188
+        },
+        {
+            "from": "Tribunes",
+            "to": "MARCUS",
+            "timestamp": "2025-03-09T14:29:09.027836",
+            "duration": 285
+        },
+        {
+            "from": "Tribunes",
+            "to": "MARCUS",
+            "timestamp": "2025-03-07T08:40:09.027838",
+            "duration": 298
+        },
+        {
+            "from": "Tribunes",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-05T17:13:09.027840",
+            "duration": 164
+        },
+        {
+            "from": "Tribunes",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-02T15:14:09.027842",
+            "duration": 106
+        },
+        {
+            "from": "Tribunes",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-04T22:09:09.027845",
+            "duration": 195
+        },
+        {
+            "from": "Tribunes",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-04T19:58:09.027847",
+            "duration": 138
+        },
+        {
+            "from": "Tribunes",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-06T23:42:09.027849",
+            "duration": 156
+        },
+        {
+            "from": "Tribunes",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-09T02:51:09.027851",
+            "duration": 268
+        },
+        {
+            "from": "Tribunes",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-05T03:42:09.027853",
+            "duration": 183
+        },
+        {
+            "from": "Tribunes",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-08T00:31:09.027855",
+            "duration": 179
+        },
+        {
+            "from": "Tribunes",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-10T00:42:09.027858",
+            "duration": 230
+        },
+        {
+            "from": "Tribunes",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-10T02:27:09.027860",
+            "duration": 165
+        },
+        {
+            "from": "Tribunes",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T08:43:09.027862",
+            "duration": 283
+        },
+        {
+            "from": "Tribunes",
+            "to": "CHIRON",
+            "timestamp": "2025-03-03T08:17:09.027864",
+            "duration": 98
+        },
+        {
+            "from": "Tribunes",
+            "to": "CHIRON",
+            "timestamp": "2025-03-09T00:19:09.027866",
+            "duration": 283
+        },
+        {
+            "from": "Tribunes",
+            "to": "CHIRON",
+            "timestamp": "2025-03-04T02:54:09.027868",
+            "duration": 160
+        },
+        {
+            "from": "Tribunes",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T09:48:09.027871",
+            "duration": 147
+        },
+        {
+            "from": "Tribunes",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-10T13:20:09.027873",
+            "duration": 192
+        },
+        {
+            "from": "Tribunes",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-04T07:56:09.027875",
+            "duration": 72
+        },
+        {
+            "from": "Tribunes",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-04T09:53:09.027877",
+            "duration": 249
+        },
+        {
+            "from": "Tribunes",
+            "to": "Captain",
+            "timestamp": "2025-03-07T09:10:09.027880",
+            "duration": 181
+        },
+        {
+            "from": "Tribunes",
+            "to": "Captain",
+            "timestamp": "2025-03-08T00:41:09.027882",
+            "duration": 278
+        },
+        {
+            "from": "TAMORA",
+            "to": "All the Goths",
+            "timestamp": "2025-03-06T18:06:09.027884",
+            "duration": 204
+        },
+        {
+            "from": "TAMORA",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-02T22:06:09.027887",
+            "duration": 211
+        },
+        {
+            "from": "TAMORA",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-03T02:36:09.027889",
+            "duration": 261
+        },
+        {
+            "from": "TAMORA",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-07T00:51:09.027891",
+            "duration": 262
+        },
+        {
+            "from": "TAMORA",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-09T11:05:09.027897",
+            "duration": 264
+        },
+        {
+            "from": "TAMORA",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-05T18:58:09.027900",
+            "duration": 65
+        },
+        {
+            "from": "TAMORA",
+            "to": "Nurse",
+            "timestamp": "2025-03-02T19:44:09.027902",
+            "duration": 153
+        },
+        {
+            "from": "TAMORA",
+            "to": "Nurse",
+            "timestamp": "2025-03-09T03:21:09.027904",
+            "duration": 71
+        },
+        {
+            "from": "TAMORA",
+            "to": "MARCUS",
+            "timestamp": "2025-03-08T10:14:09.027906",
+            "duration": 116
+        },
+        {
+            "from": "TAMORA",
+            "to": "MARCUS",
+            "timestamp": "2025-03-09T17:33:09.027908",
+            "duration": 227
+        },
+        {
+            "from": "TAMORA",
+            "to": "MARCUS",
+            "timestamp": "2025-03-08T17:00:09.027910",
+            "duration": 172
+        },
+        {
+            "from": "TAMORA",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-09T09:10:09.027913",
+            "duration": 62
+        },
+        {
+            "from": "TAMORA",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-07T06:31:09.027915",
+            "duration": 165
+        },
+        {
+            "from": "TAMORA",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-07T18:46:09.027917",
+            "duration": 88
+        },
+        {
+            "from": "TAMORA",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-06T01:46:09.027919",
+            "duration": 94
+        },
+        {
+            "from": "TAMORA",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-02T21:14:09.027921",
+            "duration": 174
+        },
+        {
+            "from": "TAMORA",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-07T02:42:09.027924",
+            "duration": 128
+        },
+        {
+            "from": "TAMORA",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T11:52:09.027926",
+            "duration": 162
+        },
+        {
+            "from": "TAMORA",
+            "to": "CHIRON",
+            "timestamp": "2025-03-06T07:00:09.027929",
+            "duration": 153
+        },
+        {
+            "from": "TAMORA",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T04:07:09.027931",
+            "duration": 298
+        },
+        {
+            "from": "TAMORA",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T10:03:09.027933",
+            "duration": 74
+        },
+        {
+            "from": "TAMORA",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-10T08:17:09.027936",
+            "duration": 256
+        },
+        {
+            "from": "TAMORA",
+            "to": "Captain",
+            "timestamp": "2025-03-05T21:04:09.027938",
+            "duration": 97
+        },
+        {
+            "from": "TAMORA",
+            "to": "Captain",
+            "timestamp": "2025-03-06T23:23:09.027940",
+            "duration": 298
+        },
+        {
+            "from": "TAMORA",
+            "to": "Captain",
+            "timestamp": "2025-03-04T10:01:09.027942",
+            "duration": 289
+        },
+        {
+            "from": "All the Goths",
+            "to": "DEMETRIUS",
+            "timestamp": "2025-03-09T16:35:09.027945",
+            "duration": 77
+        },
+        {
+            "from": "All the Goths",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-05T00:10:09.027947",
+            "duration": 279
+        },
+        {
+            "from": "All the Goths",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-05T06:37:09.027949",
+            "duration": 68
+        },
+        {
+            "from": "All the Goths",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-04T05:02:09.027951",
+            "duration": 70
+        },
+        {
+            "from": "All the Goths",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-09T18:20:09.027954",
+            "duration": 283
+        },
+        {
+            "from": "All the Goths",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-08T22:01:09.027956",
+            "duration": 120
+        },
+        {
+            "from": "All the Goths",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-08T03:07:09.027958",
+            "duration": 90
+        },
+        {
+            "from": "All the Goths",
+            "to": "Nurse",
+            "timestamp": "2025-03-10T12:32:09.027960",
+            "duration": 273
+        },
+        {
+            "from": "All the Goths",
+            "to": "Nurse",
+            "timestamp": "2025-03-07T03:11:09.027962",
+            "duration": 152
+        },
+        {
+            "from": "All the Goths",
+            "to": "Nurse",
+            "timestamp": "2025-03-10T07:14:09.027964",
+            "duration": 186
+        },
+        {
+            "from": "All the Goths",
+            "to": "MARCUS",
+            "timestamp": "2025-03-06T09:12:09.027967",
+            "duration": 251
+        },
+        {
+            "from": "All the Goths",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-09T12:15:09.027969",
+            "duration": 294
+        },
+        {
+            "from": "All the Goths",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-07T06:53:09.027971",
+            "duration": 157
+        },
+        {
+            "from": "All the Goths",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-05T11:16:09.027973",
+            "duration": 267
+        },
+        {
+            "from": "All the Goths",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-04T00:04:09.027975",
+            "duration": 224
+        },
+        {
+            "from": "All the Goths",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-08T16:42:09.027978",
+            "duration": 99
+        },
+        {
+            "from": "All the Goths",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-04T13:52:09.027980",
+            "duration": 288
+        },
+        {
+            "from": "All the Goths",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-08T21:09:09.027982",
+            "duration": 196
+        },
+        {
+            "from": "All the Goths",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-03T17:03:09.027984",
+            "duration": 62
+        },
+        {
+            "from": "All the Goths",
+            "to": "CHIRON",
+            "timestamp": "2025-03-05T07:45:09.027986",
+            "duration": 290
+        },
+        {
+            "from": "All the Goths",
+            "to": "CHIRON",
+            "timestamp": "2025-03-09T11:12:09.027988",
+            "duration": 203
+        },
+        {
+            "from": "All the Goths",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T21:19:09.027991",
+            "duration": 285
+        },
+        {
+            "from": "All the Goths",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T06:35:09.027993",
+            "duration": 223
+        },
+        {
+            "from": "All the Goths",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-04T02:28:09.027995",
+            "duration": 225
+        },
+        {
+            "from": "All the Goths",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-04T11:10:09.027997",
+            "duration": 276
+        },
+        {
+            "from": "All the Goths",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-09T08:54:09.027999",
+            "duration": 296
+        },
+        {
+            "from": "All the Goths",
+            "to": "Captain",
+            "timestamp": "2025-03-08T04:36:09.028002",
+            "duration": 157
+        },
+        {
+            "from": "All the Goths",
+            "to": "Captain",
+            "timestamp": "2025-03-08T11:16:09.028004",
+            "duration": 161
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-08T19:19:09.028006",
+            "duration": 124
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "PUBLIUS",
+            "timestamp": "2025-03-09T03:52:09.028008",
+            "duration": 283
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-07T22:38:09.028010",
+            "duration": 232
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-05T01:29:09.028013",
+            "duration": 73
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-06T12:56:09.028015",
+            "duration": 121
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-08T12:46:09.028017",
+            "duration": 137
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-09T12:25:09.028019",
+            "duration": 118
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-04T23:11:09.028022",
+            "duration": 251
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-05T10:38:09.028029",
+            "duration": 113
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-08T04:38:09.028033",
+            "duration": 190
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-04T16:54:09.028035",
+            "duration": 76
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-07T23:50:09.028038",
+            "duration": 269
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-10T02:07:09.028040",
+            "duration": 237
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-02T20:57:09.028042",
+            "duration": 72
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-09T01:02:09.028044",
+            "duration": 72
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-05T13:39:09.028047",
+            "duration": 147
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-09T07:50:09.028049",
+            "duration": 70
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-09T18:20:09.028051",
+            "duration": 135
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T02:44:09.028058",
+            "duration": 219
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T03:51:09.028060",
+            "duration": 141
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-07T14:12:09.028063",
+            "duration": 108
+        },
+        {
+            "from": "DEMETRIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-09T03:39:09.028065",
+            "duration": 171
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "BASSIANUS",
+            "timestamp": "2025-03-07T01:00:09.028067",
+            "duration": 123
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-05T10:18:09.028070",
+            "duration": 66
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-09T00:46:09.028072",
+            "duration": 101
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-09T07:57:09.028074",
+            "duration": 249
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-08T05:21:09.028077",
+            "duration": 247
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-06T20:33:09.028079",
+            "duration": 97
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-10T02:04:09.028081",
+            "duration": 175
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-07T12:41:09.028083",
+            "duration": 123
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-08T15:48:09.028086",
+            "duration": 217
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T01:19:09.028088",
+            "duration": 294
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T05:34:09.028090",
+            "duration": 151
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-08T23:38:09.028092",
+            "duration": 163
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T09:18:09.028095",
+            "duration": 134
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T15:58:09.028097",
+            "duration": 61
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T02:03:09.028099",
+            "duration": 135
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-02T16:32:09.028101",
+            "duration": 136
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-06T23:18:09.028104",
+            "duration": 83
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-08T17:25:09.028106",
+            "duration": 237
+        },
+        {
+            "from": "PUBLIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-05T12:57:09.028108",
+            "duration": 207
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-07T15:55:09.028110",
+            "duration": 75
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "Nurse",
+            "timestamp": "2025-03-03T14:31:09.028112",
+            "duration": 102
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-09T08:25:09.028115",
+            "duration": 87
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "MARCUS",
+            "timestamp": "2025-03-05T22:19:09.028117",
+            "duration": 213
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-09T00:19:09.028119",
+            "duration": 195
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-05T12:27:09.028121",
+            "duration": 188
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-04T13:43:09.028124",
+            "duration": 171
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-09T03:09:09.028126",
+            "duration": 202
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-08T10:53:09.028128",
+            "duration": 233
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-04T18:36:09.028130",
+            "duration": 232
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-03T16:48:09.028133",
+            "duration": 209
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-05T18:06:09.028135",
+            "duration": 224
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-04T08:55:09.028137",
+            "duration": 75
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-07T20:04:09.028139",
+            "duration": 234
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T14:32:09.028142",
+            "duration": 155
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T23:12:09.028144",
+            "duration": 231
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-05T22:26:09.028146",
+            "duration": 91
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-05T15:56:09.028148",
+            "duration": 65
+        },
+        {
+            "from": "BASSIANUS",
+            "to": "Captain",
+            "timestamp": "2025-03-04T14:24:09.028151",
+            "duration": 158
+        },
+        {
+            "from": "Nurse",
+            "to": "MARCUS",
+            "timestamp": "2025-03-07T08:26:09.028153",
+            "duration": 95
+        },
+        {
+            "from": "Nurse",
+            "to": "MARCUS",
+            "timestamp": "2025-03-05T05:52:09.028155",
+            "duration": 198
+        },
+        {
+            "from": "Nurse",
+            "to": "MARCUS",
+            "timestamp": "2025-03-06T16:20:09.028157",
+            "duration": 275
+        },
+        {
+            "from": "Nurse",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-07T05:18:09.028160",
+            "duration": 123
+        },
+        {
+            "from": "Nurse",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-05T15:46:09.028162",
+            "duration": 66
+        },
+        {
+            "from": "Nurse",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-03T19:36:09.028164",
+            "duration": 73
+        },
+        {
+            "from": "Nurse",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-03T05:31:09.028166",
+            "duration": 119
+        },
+        {
+            "from": "Nurse",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-02T19:09:09.028169",
+            "duration": 123
+        },
+        {
+            "from": "Nurse",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T16:24:09.028172",
+            "duration": 117
+        },
+        {
+            "from": "Nurse",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-03T08:23:09.028174",
+            "duration": 266
+        },
+        {
+            "from": "Nurse",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-07T09:14:09.028176",
+            "duration": 148
+        },
+        {
+            "from": "Nurse",
+            "to": "CHIRON",
+            "timestamp": "2025-03-03T14:44:09.028178",
+            "duration": 269
+        },
+        {
+            "from": "Nurse",
+            "to": "CHIRON",
+            "timestamp": "2025-03-09T21:11:09.028181",
+            "duration": 296
+        },
+        {
+            "from": "Nurse",
+            "to": "CHIRON",
+            "timestamp": "2025-03-03T17:14:09.028183",
+            "duration": 211
+        },
+        {
+            "from": "Nurse",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T16:25:09.028185",
+            "duration": 127
+        },
+        {
+            "from": "Nurse",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T19:11:09.028187",
+            "duration": 82
+        },
+        {
+            "from": "Nurse",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T08:26:09.028189",
+            "duration": 64
+        },
+        {
+            "from": "Nurse",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-07T02:34:09.028192",
+            "duration": 246
+        },
+        {
+            "from": "Nurse",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-05T18:56:09.028194",
+            "duration": 164
+        },
+        {
+            "from": "Nurse",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-05T12:37:09.028196",
+            "duration": 199
+        },
+        {
+            "from": "Nurse",
+            "to": "Captain",
+            "timestamp": "2025-03-04T09:23:09.028198",
+            "duration": 144
+        },
+        {
+            "from": "Nurse",
+            "to": "Captain",
+            "timestamp": "2025-03-08T17:17:09.028200",
+            "duration": 68
+        },
+        {
+            "from": "Nurse",
+            "to": "Captain",
+            "timestamp": "2025-03-04T19:03:09.028203",
+            "duration": 70
+        },
+        {
+            "from": "MARCUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-07T21:39:09.028205",
+            "duration": 295
+        },
+        {
+            "from": "MARCUS",
+            "to": "LAVINIA",
+            "timestamp": "2025-03-08T08:19:09.028207",
+            "duration": 84
+        },
+        {
+            "from": "MARCUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-04T21:22:09.028209",
+            "duration": 241
+        },
+        {
+            "from": "MARCUS",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-04T14:47:09.028212",
+            "duration": 148
+        },
+        {
+            "from": "MARCUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-06T12:05:09.028214",
+            "duration": 240
+        },
+        {
+            "from": "MARCUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-04T21:02:09.028217",
+            "duration": 256
+        },
+        {
+            "from": "MARCUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-06T01:21:09.028219",
+            "duration": 87
+        },
+        {
+            "from": "MARCUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-08T19:40:09.028221",
+            "duration": 133
+        },
+        {
+            "from": "MARCUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T20:32:09.028226",
+            "duration": 171
+        },
+        {
+            "from": "MARCUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T21:34:09.028229",
+            "duration": 104
+        },
+        {
+            "from": "MARCUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-04T18:38:09.028231",
+            "duration": 184
+        },
+        {
+            "from": "MARCUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-04T14:17:09.028233",
+            "duration": 240
+        },
+        {
+            "from": "MARCUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-08T18:23:09.028235",
+            "duration": 299
+        },
+        {
+            "from": "MARCUS",
+            "to": "Captain",
+            "timestamp": "2025-03-09T16:17:09.028238",
+            "duration": 151
+        },
+        {
+            "from": "LAVINIA",
+            "to": "TITUS ANDRONICUS",
+            "timestamp": "2025-03-02T22:12:09.028240",
+            "duration": 95
+        },
+        {
+            "from": "LAVINIA",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-03T19:47:09.028242",
+            "duration": 125
+        },
+        {
+            "from": "LAVINIA",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-03T06:20:09.028245",
+            "duration": 124
+        },
+        {
+            "from": "LAVINIA",
+            "to": "CHIRON",
+            "timestamp": "2025-03-05T20:50:09.028247",
+            "duration": 131
+        },
+        {
+            "from": "LAVINIA",
+            "to": "CHIRON",
+            "timestamp": "2025-03-08T18:33:09.028249",
+            "duration": 145
+        },
+        {
+            "from": "LAVINIA",
+            "to": "CHIRON",
+            "timestamp": "2025-03-08T23:56:09.028251",
+            "duration": 69
+        },
+        {
+            "from": "LAVINIA",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T17:00:09.028253",
+            "duration": 148
+        },
+        {
+            "from": "LAVINIA",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-04T18:27:09.028256",
+            "duration": 269
+        },
+        {
+            "from": "LAVINIA",
+            "to": "Captain",
+            "timestamp": "2025-03-06T02:59:09.028258",
+            "duration": 158
+        },
+        {
+            "from": "TITUS ANDRONICUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-10T12:30:09.028260",
+            "duration": 259
+        },
+        {
+            "from": "TITUS ANDRONICUS",
+            "to": "MARCUS ANDRONICUS",
+            "timestamp": "2025-03-03T16:30:09.028262",
+            "duration": 172
+        },
+        {
+            "from": "TITUS ANDRONICUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T06:07:09.028265",
+            "duration": 273
+        },
+        {
+            "from": "TITUS ANDRONICUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T10:05:09.028267",
+            "duration": 290
+        },
+        {
+            "from": "TITUS ANDRONICUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-04T08:19:09.028269",
+            "duration": 97
+        },
+        {
+            "from": "TITUS ANDRONICUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T06:14:09.028272",
+            "duration": 300
+        },
+        {
+            "from": "TITUS ANDRONICUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-07T07:35:09.028274",
+            "duration": 129
+        },
+        {
+            "from": "TITUS ANDRONICUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-09T07:26:09.028276",
+            "duration": 120
+        },
+        {
+            "from": "TITUS ANDRONICUS",
+            "to": "Captain",
+            "timestamp": "2025-03-04T07:56:09.028278",
+            "duration": 179
+        },
+        {
+            "from": "MARCUS ANDRONICUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-04T06:46:09.028281",
+            "duration": 191
+        },
+        {
+            "from": "MARCUS ANDRONICUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-05T09:58:09.028283",
+            "duration": 75
+        },
+        {
+            "from": "MARCUS ANDRONICUS",
+            "to": "SATURNINUS",
+            "timestamp": "2025-03-09T23:48:09.028285",
+            "duration": 109
+        },
+        {
+            "from": "MARCUS ANDRONICUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-04T23:40:09.028287",
+            "duration": 152
+        },
+        {
+            "from": "MARCUS ANDRONICUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-10T00:09:09.028289",
+            "duration": 129
+        },
+        {
+            "from": "MARCUS ANDRONICUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T23:46:09.028291",
+            "duration": 186
+        },
+        {
+            "from": "MARCUS ANDRONICUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T23:59:09.028293",
+            "duration": 91
+        },
+        {
+            "from": "MARCUS ANDRONICUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-06T11:40:09.028296",
+            "duration": 144
+        },
+        {
+            "from": "MARCUS ANDRONICUS",
+            "to": "Captain",
+            "timestamp": "2025-03-06T04:12:09.028298",
+            "duration": 80
+        },
+        {
+            "from": "SATURNINUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-07T01:43:09.028300",
+            "duration": 253
+        },
+        {
+            "from": "SATURNINUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-05T10:31:09.028302",
+            "duration": 297
+        },
+        {
+            "from": "SATURNINUS",
+            "to": "CHIRON",
+            "timestamp": "2025-03-03T03:56:09.028304",
+            "duration": 145
+        },
+        {
+            "from": "SATURNINUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T21:36:09.028307",
+            "duration": 243
+        },
+        {
+            "from": "SATURNINUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T03:38:09.028309",
+            "duration": 135
+        },
+        {
+            "from": "SATURNINUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-06T14:51:09.028311",
+            "duration": 158
+        },
+        {
+            "from": "SATURNINUS",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-08T07:56:09.028313",
+            "duration": 199
+        },
+        {
+            "from": "SATURNINUS",
+            "to": "Captain",
+            "timestamp": "2025-03-08T08:49:09.028316",
+            "duration": 257
+        },
+        {
+            "from": "SATURNINUS",
+            "to": "Captain",
+            "timestamp": "2025-03-04T00:46:09.028318",
+            "duration": 204
+        },
+        {
+            "from": "SATURNINUS",
+            "to": "Captain",
+            "timestamp": "2025-03-05T05:15:09.028320",
+            "duration": 111
+        },
+        {
+            "from": "CHIRON",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T17:24:09.028322",
+            "duration": 67
+        },
+        {
+            "from": "CHIRON",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T23:19:09.028324",
+            "duration": 281
+        },
+        {
+            "from": "CHIRON",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T17:29:09.028326",
+            "duration": 176
+        },
+        {
+            "from": "CHIRON",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-03T03:31:09.028329",
+            "duration": 235
+        },
+        {
+            "from": "CHIRON",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-07T02:07:09.028331",
+            "duration": 69
+        },
+        {
+            "from": "CHIRON",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-03T00:21:09.028333",
+            "duration": 167
+        },
+        {
+            "from": "CHIRON",
+            "to": "Captain",
+            "timestamp": "2025-03-09T04:15:09.028335",
+            "duration": 240
+        },
+        {
+            "from": "CHIRON",
+            "to": "Captain",
+            "timestamp": "2025-03-05T21:39:09.028337",
+            "duration": 118
+        },
+        {
+            "from": "Messenger",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-06T11:07:09.028340",
+            "duration": 196
+        },
+        {
+            "from": "Messenger",
+            "to": "QUINTUS",
+            "timestamp": "2025-03-10T09:09:09.028342",
+            "duration": 180
+        },
+        {
+            "from": "Messenger",
+            "to": "Captain",
+            "timestamp": "2025-03-02T21:38:09.028344",
+            "duration": 246
+        },
+        {
+            "from": "Messenger",
+            "to": "Captain",
+            "timestamp": "2025-03-04T18:03:09.028346",
+            "duration": 104
+        },
+        {
+            "from": "QUINTUS",
+            "to": "Captain",
+            "timestamp": "2025-03-09T11:38:09.028348",
+            "duration": 182
+        },
+        {
+            "from": "QUINTUS",
+            "to": "Captain",
+            "timestamp": "2025-03-10T03:08:09.028350",
+            "duration": 232
+        }
+    ],
+    "contact_data": {
+        "MARTIUS": {
+            "phone": "646-787-9765",
+            "email": "martius@commercelink.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "LUCIUS": {
+            "phone": "646-887-1039",
+            "email": "lucius@marketdyn.com",
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "AARON": {
+            "phone": "212-650-6065",
+            "email": "aaron@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Clown": {
+            "phone": "646-903-2460",
+            "email": "clown@dramaticworks.com",
+            "title": "Artistic Director",
+            "company": "Dramatic Works Productions",
+            "industry": "Artistic"
+        },
+        "MUTIUS": {
+            "phone": "646-276-9941",
+            "email": "mutius@globaltradepart.com",
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Young LUCIUS": {
+            "phone": "917-748-7380",
+            "email": "young.lucius@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Third Goth": {
+            "phone": "917-529-3907",
+            "email": "third.goth@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "AEMILIUS": {
+            "phone": "646-915-4062",
+            "email": "aemilius@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Tribunes": {
+            "phone": "646-506-9632",
+            "email": "tribunes@commercetrade.com",
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "TAMORA": {
+            "phone": "646-449-7363",
+            "email": "tamora@commercelink.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "All the Goths": {
+            "phone": "917-979-4362",
+            "email": "all.the.goths@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "DEMETRIUS": {
+            "phone": "212-595-1074",
+            "email": "demetrius@commercetrade.com",
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "PUBLIUS": {
+            "phone": "917-544-5503",
+            "email": "publius@merchantsexchange.com",
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "BASSIANUS": {
+            "phone": "917-587-9509",
+            "email": "bassianus@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Nurse": {
+            "phone": "212-303-8570",
+            "email": "nurse@marketdyn.com",
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "MARCUS": {
+            "phone": "646-570-2975",
+            "email": "marcus@globaltradepart.com",
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "LAVINIA": {
+            "phone": "212-778-1773",
+            "email": "lavinia@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "TITUS ANDRONICUS": {
+            "phone": "646-880-3265",
+            "email": "titus.andronicus@tradewinds.com",
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "MARCUS ANDRONICUS": {
+            "phone": "212-307-2630",
+            "email": "marcus.andronicus@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "SATURNINUS": {
+            "phone": "212-930-7289",
+            "email": "saturninus@marketdyn.com",
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "CHIRON": {
+            "phone": "212-320-5711",
+            "email": "chiron@tradewinds.com",
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Messenger": {
+            "phone": "212-901-5205",
+            "email": "messenger@concordmediation.com",
+            "title": "Diplomatic Affairs Manager",
+            "company": "Concord Mediation Group",
+            "industry": "Diplomatic"
+        },
+        "QUINTUS": {
+            "phone": "212-961-9155",
+            "email": "quintus@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "Captain": {
+            "phone": "917-672-8642",
+            "email": "captain@vanguardtech.com",
+            "title": "Strategic Defense Coordinator",
+            "company": "Vanguard Defense Technologies",
+            "industry": "Military"
+        }
+    }
+}

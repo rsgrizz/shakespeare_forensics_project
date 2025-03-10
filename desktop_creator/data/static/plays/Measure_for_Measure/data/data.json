@@ -1,0 +1,3716 @@
+{
+    "characters": {
+        "DUKE": {
+            "title": "Managing Director",
+            "company": "Regency Financial",
+            "industry": "Royal",
+            "location": "Los Angeles",
+            "phone": "323-198-1032",
+            "email": "duke@regencyfinancial.com"
+        },
+        "As long as you or I": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-734-6913",
+            "email": "as.long.as.you.or.i@tradewinds.com"
+        },
+        "FROTH": {
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-133-9405",
+            "email": "froth@merchantsexchange.com"
+        },
+        "ABHORSON": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-841-5306",
+            "email": "abhorson@commercelink.com"
+        },
+        "CLAUDIO": {
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-313-1635",
+            "email": "claudio@commercelink.com"
+        },
+        "FRIAR PETER": {
+            "title": "Guidance Counselor",
+            "company": "Spirit & Soul Wellness",
+            "industry": "Religious",
+            "location": "New York",
+            "phone": "917-133-6677",
+            "email": "friar.peter@spiritsoul.org"
+        },
+        "POMPHEY": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-313-9051",
+            "email": "pomphey@tradewinds.com"
+        },
+        "Provost": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-220-9424",
+            "email": "provost@commercetrade.com"
+        },
+        "ELBOW": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-942-7282",
+            "email": "elbow@commercelink.com"
+        },
+        "POMPEY": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-801-3721",
+            "email": "pompey@marketdyn.com"
+        },
+        "ANGELO": {
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-329-1301",
+            "email": "angelo@marketdyn.com"
+        },
+        "FRIAR THOMAS": {
+            "title": "Guidance Counselor",
+            "company": "Divine Guidance Counsel",
+            "industry": "Religious",
+            "location": "Houston",
+            "phone": "713-419-4089",
+            "email": "friar.thomas@divineguidance.org"
+        },
+        "BARNARDINE": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-606-4214",
+            "email": "barnardine@merchantsexchange.com"
+        },
+        "DUKE VINCENTIO": {
+            "title": "President",
+            "company": "Crown Holdings International",
+            "industry": "Royal",
+            "location": "New York",
+            "phone": "646-808-7195",
+            "email": "duke.vincentio@crownholdings.com"
+        },
+        "MISTRESS OVERDONE": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-954-5168",
+            "email": "mistress.overdone@merchantsexchange.com"
+        },
+        "Justice": {
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-650-5908",
+            "email": "justice@merchantsexchange.com"
+        },
+        "Servant": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-516-3438",
+            "email": "servant@globaltradepart.com"
+        },
+        "JULIET": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-834-1814",
+            "email": "juliet@commercelink.com"
+        },
+        "ESCALUS": {
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-730-1650",
+            "email": "escalus@globaltradepart.com"
+        },
+        "Messenger": {
+            "title": "Diplomatic Affairs Manager",
+            "company": "Unity Diplomatic Solutions",
+            "industry": "Diplomatic",
+            "location": "Chicago",
+            "phone": "872-234-1443",
+            "email": "messenger@unitydiplomacy.com"
+        },
+        "MARIANA": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-668-8719",
+            "email": "mariana@commercelink.com"
+        },
+        "FRANCISCA": {
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-249-8610",
+            "email": "francisca@commercetrade.com"
+        },
+        "ISABELLA": {
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-489-8372",
+            "email": "isabella@commercelink.com"
+        },
+        "LUCIO": {
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-753-1312",
+            "email": "lucio@tradewinds.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "DUKE",
+            "to": "As long as you or I",
+            "timestamp": "2025-03-09T10:32:06.882105",
+            "duration": 148
+        },
+        {
+            "from": "DUKE",
+            "to": "As long as you or I",
+            "timestamp": "2025-03-04T03:10:06.882118",
+            "duration": 273
+        },
+        {
+            "from": "DUKE",
+            "to": "FROTH",
+            "timestamp": "2025-03-06T01:39:06.882121",
+            "duration": 177
+        },
+        {
+            "from": "DUKE",
+            "to": "ABHORSON",
+            "timestamp": "2025-03-07T11:27:06.882124",
+            "duration": 152
+        },
+        {
+            "from": "DUKE",
+            "to": "ABHORSON",
+            "timestamp": "2025-03-07T11:45:06.882127",
+            "duration": 111
+        },
+        {
+            "from": "DUKE",
+            "to": "ABHORSON",
+            "timestamp": "2025-03-05T20:07:06.882129",
+            "duration": 215
+        },
+        {
+            "from": "DUKE",
+            "to": "CLAUDIO",
+            "timestamp": "2025-03-08T00:26:06.882132",
+            "duration": 240
+        },
+        {
+            "from": "DUKE",
+            "to": "FRIAR PETER",
+            "timestamp": "2025-03-05T16:14:06.882134",
+            "duration": 102
+        },
+        {
+            "from": "DUKE",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-06T10:05:06.882137",
+            "duration": 71
+        },
+        {
+            "from": "DUKE",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-09T06:26:06.882139",
+            "duration": 107
+        },
+        {
+            "from": "DUKE",
+            "to": "Provost",
+            "timestamp": "2025-03-06T15:48:06.882142",
+            "duration": 148
+        },
+        {
+            "from": "DUKE",
+            "to": "Provost",
+            "timestamp": "2025-03-07T02:38:06.882144",
+            "duration": 139
+        },
+        {
+            "from": "DUKE",
+            "to": "Provost",
+            "timestamp": "2025-03-07T05:09:06.882147",
+            "duration": 83
+        },
+        {
+            "from": "DUKE",
+            "to": "ELBOW",
+            "timestamp": "2025-03-06T05:04:06.882149",
+            "duration": 135
+        },
+        {
+            "from": "DUKE",
+            "to": "ELBOW",
+            "timestamp": "2025-03-04T09:25:06.882152",
+            "duration": 255
+        },
+        {
+            "from": "DUKE",
+            "to": "ELBOW",
+            "timestamp": "2025-03-09T20:42:06.882154",
+            "duration": 216
+        },
+        {
+            "from": "DUKE",
+            "to": "POMPEY",
+            "timestamp": "2025-03-09T09:44:06.882157",
+            "duration": 287
+        },
+        {
+            "from": "DUKE",
+            "to": "ANGELO",
+            "timestamp": "2025-03-04T05:08:06.882159",
+            "duration": 180
+        },
+        {
+            "from": "DUKE",
+            "to": "ANGELO",
+            "timestamp": "2025-03-07T02:03:06.882162",
+            "duration": 155
+        },
+        {
+            "from": "DUKE",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-10T11:11:06.882164",
+            "duration": 235
+        },
+        {
+            "from": "DUKE",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-04T13:33:06.882167",
+            "duration": 281
+        },
+        {
+            "from": "DUKE",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-04T06:33:06.882169",
+            "duration": 81
+        },
+        {
+            "from": "DUKE",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-09T13:26:06.882171",
+            "duration": 243
+        },
+        {
+            "from": "DUKE",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-09T09:26:06.882174",
+            "duration": 222
+        },
+        {
+            "from": "DUKE",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-04T22:57:06.882176",
+            "duration": 99
+        },
+        {
+            "from": "DUKE",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-09T15:57:06.882178",
+            "duration": 211
+        },
+        {
+            "from": "DUKE",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-10T08:09:06.882181",
+            "duration": 291
+        },
+        {
+            "from": "DUKE",
+            "to": "Justice",
+            "timestamp": "2025-03-07T05:15:06.882183",
+            "duration": 293
+        },
+        {
+            "from": "DUKE",
+            "to": "Justice",
+            "timestamp": "2025-03-02T20:46:06.882186",
+            "duration": 198
+        },
+        {
+            "from": "DUKE",
+            "to": "Servant",
+            "timestamp": "2025-03-08T03:29:06.882188",
+            "duration": 89
+        },
+        {
+            "from": "DUKE",
+            "to": "JULIET",
+            "timestamp": "2025-03-10T07:00:06.882191",
+            "duration": 87
+        },
+        {
+            "from": "DUKE",
+            "to": "JULIET",
+            "timestamp": "2025-03-07T21:16:06.882193",
+            "duration": 285
+        },
+        {
+            "from": "DUKE",
+            "to": "JULIET",
+            "timestamp": "2025-03-10T06:20:06.882195",
+            "duration": 154
+        },
+        {
+            "from": "DUKE",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-08T11:17:06.882198",
+            "duration": 146
+        },
+        {
+            "from": "DUKE",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-05T12:07:06.882200",
+            "duration": 215
+        },
+        {
+            "from": "DUKE",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-10T05:50:06.882202",
+            "duration": 204
+        },
+        {
+            "from": "DUKE",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T05:21:06.882204",
+            "duration": 121
+        },
+        {
+            "from": "DUKE",
+            "to": "MARIANA",
+            "timestamp": "2025-03-05T10:05:06.882207",
+            "duration": 211
+        },
+        {
+            "from": "DUKE",
+            "to": "MARIANA",
+            "timestamp": "2025-03-10T01:50:06.882209",
+            "duration": 189
+        },
+        {
+            "from": "DUKE",
+            "to": "MARIANA",
+            "timestamp": "2025-03-05T09:49:06.882211",
+            "duration": 250
+        },
+        {
+            "from": "DUKE",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-04T19:20:06.882214",
+            "duration": 274
+        },
+        {
+            "from": "DUKE",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-06T03:29:06.882216",
+            "duration": 87
+        },
+        {
+            "from": "DUKE",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T01:19:06.882218",
+            "duration": 156
+        },
+        {
+            "from": "DUKE",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-06T03:39:06.882220",
+            "duration": 285
+        },
+        {
+            "from": "DUKE",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-04T03:55:06.882223",
+            "duration": 171
+        },
+        {
+            "from": "DUKE",
+            "to": "LUCIO",
+            "timestamp": "2025-03-06T08:06:06.882225",
+            "duration": 73
+        },
+        {
+            "from": "As long as you or I",
+            "to": "FROTH",
+            "timestamp": "2025-03-08T02:45:06.882228",
+            "duration": 232
+        },
+        {
+            "from": "As long as you or I",
+            "to": "FROTH",
+            "timestamp": "2025-03-05T00:42:06.882230",
+            "duration": 121
+        },
+        {
+            "from": "As long as you or I",
+            "to": "ABHORSON",
+            "timestamp": "2025-03-04T12:12:06.882232",
+            "duration": 187
+        },
+        {
+            "from": "As long as you or I",
+            "to": "ABHORSON",
+            "timestamp": "2025-03-07T10:22:06.882235",
+            "duration": 282
+        },
+        {
+            "from": "As long as you or I",
+            "to": "CLAUDIO",
+            "timestamp": "2025-03-03T14:10:06.882237",
+            "duration": 204
+        },
+        {
+            "from": "As long as you or I",
+            "to": "FRIAR PETER",
+            "timestamp": "2025-03-09T16:37:06.882239",
+            "duration": 75
+        },
+        {
+            "from": "As long as you or I",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-09T04:02:06.882242",
+            "duration": 211
+        },
+        {
+            "from": "As long as you or I",
+            "to": "Provost",
+            "timestamp": "2025-03-09T06:58:06.882245",
+            "duration": 178
+        },
+        {
+            "from": "As long as you or I",
+            "to": "Provost",
+            "timestamp": "2025-03-05T11:47:06.882247",
+            "duration": 249
+        },
+        {
+            "from": "As long as you or I",
+            "to": "Provost",
+            "timestamp": "2025-03-06T23:27:06.882249",
+            "duration": 66
+        },
+        {
+            "from": "As long as you or I",
+            "to": "ELBOW",
+            "timestamp": "2025-03-07T06:30:06.882251",
+            "duration": 219
+        },
+        {
+            "from": "As long as you or I",
+            "to": "ELBOW",
+            "timestamp": "2025-03-09T01:19:06.882253",
+            "duration": 299
+        },
+        {
+            "from": "As long as you or I",
+            "to": "ELBOW",
+            "timestamp": "2025-03-04T19:33:06.882256",
+            "duration": 295
+        },
+        {
+            "from": "As long as you or I",
+            "to": "POMPEY",
+            "timestamp": "2025-03-08T22:16:06.882258",
+            "duration": 130
+        },
+        {
+            "from": "As long as you or I",
+            "to": "POMPEY",
+            "timestamp": "2025-03-07T04:51:06.882261",
+            "duration": 263
+        },
+        {
+            "from": "As long as you or I",
+            "to": "POMPEY",
+            "timestamp": "2025-03-05T16:38:06.882263",
+            "duration": 94
+        },
+        {
+            "from": "As long as you or I",
+            "to": "ANGELO",
+            "timestamp": "2025-03-05T13:22:06.882265",
+            "duration": 97
+        },
+        {
+            "from": "As long as you or I",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-03T13:31:06.882268",
+            "duration": 97
+        },
+        {
+            "from": "As long as you or I",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-05T04:08:06.882270",
+            "duration": 209
+        },
+        {
+            "from": "As long as you or I",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-05T00:59:06.882273",
+            "duration": 232
+        },
+        {
+            "from": "As long as you or I",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-04T23:50:06.882275",
+            "duration": 88
+        },
+        {
+            "from": "As long as you or I",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-05T20:12:06.882277",
+            "duration": 280
+        },
+        {
+            "from": "As long as you or I",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-06T13:32:06.882280",
+            "duration": 87
+        },
+        {
+            "from": "As long as you or I",
+            "to": "Justice",
+            "timestamp": "2025-03-05T06:51:06.882282",
+            "duration": 159
+        },
+        {
+            "from": "As long as you or I",
+            "to": "Servant",
+            "timestamp": "2025-03-04T18:57:06.882285",
+            "duration": 174
+        },
+        {
+            "from": "As long as you or I",
+            "to": "Servant",
+            "timestamp": "2025-03-03T02:45:06.882287",
+            "duration": 66
+        },
+        {
+            "from": "As long as you or I",
+            "to": "Servant",
+            "timestamp": "2025-03-09T14:41:06.882289",
+            "duration": 69
+        },
+        {
+            "from": "As long as you or I",
+            "to": "JULIET",
+            "timestamp": "2025-03-10T13:52:06.882292",
+            "duration": 179
+        },
+        {
+            "from": "As long as you or I",
+            "to": "JULIET",
+            "timestamp": "2025-03-02T16:54:06.882294",
+            "duration": 173
+        },
+        {
+            "from": "As long as you or I",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-09T01:04:06.882296",
+            "duration": 198
+        },
+        {
+            "from": "As long as you or I",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T18:27:06.882299",
+            "duration": 239
+        },
+        {
+            "from": "As long as you or I",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T05:45:06.882313",
+            "duration": 82
+        },
+        {
+            "from": "As long as you or I",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T14:07:06.882315",
+            "duration": 223
+        },
+        {
+            "from": "As long as you or I",
+            "to": "MARIANA",
+            "timestamp": "2025-03-04T23:46:06.882318",
+            "duration": 178
+        },
+        {
+            "from": "As long as you or I",
+            "to": "MARIANA",
+            "timestamp": "2025-03-05T05:04:06.882320",
+            "duration": 285
+        },
+        {
+            "from": "As long as you or I",
+            "to": "MARIANA",
+            "timestamp": "2025-03-06T14:02:06.882322",
+            "duration": 99
+        },
+        {
+            "from": "As long as you or I",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-05T09:38:06.882325",
+            "duration": 287
+        },
+        {
+            "from": "As long as you or I",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-06T08:14:06.882327",
+            "duration": 270
+        },
+        {
+            "from": "As long as you or I",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-02T22:22:06.882333",
+            "duration": 143
+        },
+        {
+            "from": "As long as you or I",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-03T13:51:06.882336",
+            "duration": 181
+        },
+        {
+            "from": "As long as you or I",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T04:27:06.882338",
+            "duration": 93
+        },
+        {
+            "from": "As long as you or I",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-03T07:57:06.882340",
+            "duration": 297
+        },
+        {
+            "from": "As long as you or I",
+            "to": "LUCIO",
+            "timestamp": "2025-03-04T20:40:06.882343",
+            "duration": 258
+        },
+        {
+            "from": "As long as you or I",
+            "to": "LUCIO",
+            "timestamp": "2025-03-09T03:04:06.882345",
+            "duration": 272
+        },
+        {
+            "from": "As long as you or I",
+            "to": "LUCIO",
+            "timestamp": "2025-03-07T01:01:06.882363",
+            "duration": 153
+        },
+        {
+            "from": "FROTH",
+            "to": "ABHORSON",
+            "timestamp": "2025-03-03T23:44:06.882373",
+            "duration": 269
+        },
+        {
+            "from": "FROTH",
+            "to": "CLAUDIO",
+            "timestamp": "2025-03-06T20:21:06.882376",
+            "duration": 99
+        },
+        {
+            "from": "FROTH",
+            "to": "CLAUDIO",
+            "timestamp": "2025-03-08T21:23:06.882380",
+            "duration": 132
+        },
+        {
+            "from": "FROTH",
+            "to": "CLAUDIO",
+            "timestamp": "2025-03-09T02:13:06.882383",
+            "duration": 136
+        },
+        {
+            "from": "FROTH",
+            "to": "FRIAR PETER",
+            "timestamp": "2025-03-09T04:11:06.882385",
+            "duration": 177
+        },
+        {
+            "from": "FROTH",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-08T09:23:06.882388",
+            "duration": 68
+        },
+        {
+            "from": "FROTH",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-10T03:20:06.882390",
+            "duration": 202
+        },
+        {
+            "from": "FROTH",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-08T10:45:06.882393",
+            "duration": 213
+        },
+        {
+            "from": "FROTH",
+            "to": "Provost",
+            "timestamp": "2025-03-04T03:33:06.882395",
+            "duration": 266
+        },
+        {
+            "from": "FROTH",
+            "to": "ELBOW",
+            "timestamp": "2025-03-07T15:22:06.882398",
+            "duration": 225
+        },
+        {
+            "from": "FROTH",
+            "to": "POMPEY",
+            "timestamp": "2025-03-04T08:58:06.882402",
+            "duration": 87
+        },
+        {
+            "from": "FROTH",
+            "to": "POMPEY",
+            "timestamp": "2025-03-07T13:37:06.882405",
+            "duration": 196
+        },
+        {
+            "from": "FROTH",
+            "to": "POMPEY",
+            "timestamp": "2025-03-07T20:25:06.882407",
+            "duration": 211
+        },
+        {
+            "from": "FROTH",
+            "to": "ANGELO",
+            "timestamp": "2025-03-02T20:53:06.882410",
+            "duration": 252
+        },
+        {
+            "from": "FROTH",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-04T01:09:06.882413",
+            "duration": 272
+        },
+        {
+            "from": "FROTH",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-06T17:57:06.882415",
+            "duration": 194
+        },
+        {
+            "from": "FROTH",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-08T10:46:06.882417",
+            "duration": 279
+        },
+        {
+            "from": "FROTH",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-05T10:46:06.882419",
+            "duration": 292
+        },
+        {
+            "from": "FROTH",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-09T13:15:06.882423",
+            "duration": 97
+        },
+        {
+            "from": "FROTH",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-07T20:26:06.882425",
+            "duration": 263
+        },
+        {
+            "from": "FROTH",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-08T11:17:06.882427",
+            "duration": 64
+        },
+        {
+            "from": "FROTH",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-06T11:33:06.882429",
+            "duration": 118
+        },
+        {
+            "from": "FROTH",
+            "to": "Justice",
+            "timestamp": "2025-03-04T10:45:06.882432",
+            "duration": 165
+        },
+        {
+            "from": "FROTH",
+            "to": "Justice",
+            "timestamp": "2025-03-06T08:03:06.882434",
+            "duration": 147
+        },
+        {
+            "from": "FROTH",
+            "to": "Justice",
+            "timestamp": "2025-03-05T02:22:06.882437",
+            "duration": 115
+        },
+        {
+            "from": "FROTH",
+            "to": "Servant",
+            "timestamp": "2025-03-07T21:45:06.882439",
+            "duration": 98
+        },
+        {
+            "from": "FROTH",
+            "to": "JULIET",
+            "timestamp": "2025-03-10T08:52:06.882442",
+            "duration": 108
+        },
+        {
+            "from": "FROTH",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T05:44:06.882444",
+            "duration": 196
+        },
+        {
+            "from": "FROTH",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-05T19:28:06.882447",
+            "duration": 135
+        },
+        {
+            "from": "FROTH",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T00:49:06.882449",
+            "duration": 293
+        },
+        {
+            "from": "FROTH",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T12:58:06.882452",
+            "duration": 254
+        },
+        {
+            "from": "FROTH",
+            "to": "MARIANA",
+            "timestamp": "2025-03-08T19:40:06.882454",
+            "duration": 284
+        },
+        {
+            "from": "FROTH",
+            "to": "MARIANA",
+            "timestamp": "2025-03-04T03:13:06.882456",
+            "duration": 259
+        },
+        {
+            "from": "FROTH",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-06T19:04:06.882459",
+            "duration": 140
+        },
+        {
+            "from": "FROTH",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-10T11:21:06.882461",
+            "duration": 201
+        },
+        {
+            "from": "FROTH",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-04T22:35:06.882463",
+            "duration": 209
+        },
+        {
+            "from": "FROTH",
+            "to": "LUCIO",
+            "timestamp": "2025-03-09T22:50:06.882466",
+            "duration": 157
+        },
+        {
+            "from": "FROTH",
+            "to": "LUCIO",
+            "timestamp": "2025-03-05T02:47:06.882468",
+            "duration": 163
+        },
+        {
+            "from": "FROTH",
+            "to": "LUCIO",
+            "timestamp": "2025-03-10T02:34:06.882470",
+            "duration": 151
+        },
+        {
+            "from": "ABHORSON",
+            "to": "CLAUDIO",
+            "timestamp": "2025-03-06T10:41:06.882473",
+            "duration": 192
+        },
+        {
+            "from": "ABHORSON",
+            "to": "FRIAR PETER",
+            "timestamp": "2025-03-09T20:55:06.882476",
+            "duration": 85
+        },
+        {
+            "from": "ABHORSON",
+            "to": "FRIAR PETER",
+            "timestamp": "2025-03-04T05:18:06.882478",
+            "duration": 159
+        },
+        {
+            "from": "ABHORSON",
+            "to": "FRIAR PETER",
+            "timestamp": "2025-03-03T19:17:06.882480",
+            "duration": 191
+        },
+        {
+            "from": "ABHORSON",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-04T11:16:06.882482",
+            "duration": 229
+        },
+        {
+            "from": "ABHORSON",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-03T07:07:06.882487",
+            "duration": 204
+        },
+        {
+            "from": "ABHORSON",
+            "to": "Provost",
+            "timestamp": "2025-03-07T21:32:06.882489",
+            "duration": 268
+        },
+        {
+            "from": "ABHORSON",
+            "to": "ELBOW",
+            "timestamp": "2025-03-06T22:42:06.882492",
+            "duration": 216
+        },
+        {
+            "from": "ABHORSON",
+            "to": "POMPEY",
+            "timestamp": "2025-03-08T21:41:06.882497",
+            "duration": 293
+        },
+        {
+            "from": "ABHORSON",
+            "to": "ANGELO",
+            "timestamp": "2025-03-03T08:23:06.882499",
+            "duration": 174
+        },
+        {
+            "from": "ABHORSON",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-07T00:37:06.882502",
+            "duration": 290
+        },
+        {
+            "from": "ABHORSON",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-09T20:17:06.882504",
+            "duration": 165
+        },
+        {
+            "from": "ABHORSON",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-10T09:09:06.882506",
+            "duration": 222
+        },
+        {
+            "from": "ABHORSON",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-05T11:16:06.882509",
+            "duration": 157
+        },
+        {
+            "from": "ABHORSON",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-08T13:57:06.882511",
+            "duration": 63
+        },
+        {
+            "from": "ABHORSON",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-08T16:18:06.882515",
+            "duration": 131
+        },
+        {
+            "from": "ABHORSON",
+            "to": "Justice",
+            "timestamp": "2025-03-05T04:29:06.882517",
+            "duration": 147
+        },
+        {
+            "from": "ABHORSON",
+            "to": "Servant",
+            "timestamp": "2025-03-09T19:39:06.882520",
+            "duration": 101
+        },
+        {
+            "from": "ABHORSON",
+            "to": "Servant",
+            "timestamp": "2025-03-03T19:00:06.882522",
+            "duration": 77
+        },
+        {
+            "from": "ABHORSON",
+            "to": "Servant",
+            "timestamp": "2025-03-08T08:08:06.882524",
+            "duration": 190
+        },
+        {
+            "from": "ABHORSON",
+            "to": "JULIET",
+            "timestamp": "2025-03-07T01:49:06.882527",
+            "duration": 83
+        },
+        {
+            "from": "ABHORSON",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-09T22:00:06.882529",
+            "duration": 282
+        },
+        {
+            "from": "ABHORSON",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-08T23:10:06.882532",
+            "duration": 157
+        },
+        {
+            "from": "ABHORSON",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-05T18:09:06.882534",
+            "duration": 193
+        },
+        {
+            "from": "ABHORSON",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T17:06:06.882536",
+            "duration": 192
+        },
+        {
+            "from": "ABHORSON",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T23:40:06.882539",
+            "duration": 118
+        },
+        {
+            "from": "ABHORSON",
+            "to": "MARIANA",
+            "timestamp": "2025-03-08T17:46:06.882541",
+            "duration": 278
+        },
+        {
+            "from": "ABHORSON",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T04:31:06.882543",
+            "duration": 195
+        },
+        {
+            "from": "ABHORSON",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-06T21:37:06.882546",
+            "duration": 284
+        },
+        {
+            "from": "ABHORSON",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-10T13:17:06.882548",
+            "duration": 156
+        },
+        {
+            "from": "ABHORSON",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-06T02:55:06.882550",
+            "duration": 84
+        },
+        {
+            "from": "ABHORSON",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-06T19:54:06.882552",
+            "duration": 154
+        },
+        {
+            "from": "ABHORSON",
+            "to": "LUCIO",
+            "timestamp": "2025-03-03T14:02:06.882555",
+            "duration": 174
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "FRIAR PETER",
+            "timestamp": "2025-03-05T10:44:06.882557",
+            "duration": 164
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-08T22:18:06.882560",
+            "duration": 295
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-03T11:06:06.882562",
+            "duration": 91
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "Provost",
+            "timestamp": "2025-03-04T08:29:06.882564",
+            "duration": 238
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "ELBOW",
+            "timestamp": "2025-03-04T14:02:06.882567",
+            "duration": 198
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "POMPEY",
+            "timestamp": "2025-03-07T09:02:06.882569",
+            "duration": 274
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "POMPEY",
+            "timestamp": "2025-03-05T04:01:06.882572",
+            "duration": 272
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "POMPEY",
+            "timestamp": "2025-03-03T16:44:06.882574",
+            "duration": 159
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "ANGELO",
+            "timestamp": "2025-03-08T19:09:06.882576",
+            "duration": 91
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "ANGELO",
+            "timestamp": "2025-03-08T17:01:06.882579",
+            "duration": 135
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-03T22:42:06.882581",
+            "duration": 91
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-07T14:16:06.882584",
+            "duration": 71
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-10T11:13:06.882586",
+            "duration": 174
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-10T07:13:06.882589",
+            "duration": 192
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-05T12:11:06.882591",
+            "duration": 252
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "Justice",
+            "timestamp": "2025-03-08T18:21:06.882593",
+            "duration": 277
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "Servant",
+            "timestamp": "2025-03-05T11:29:06.882596",
+            "duration": 216
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "Servant",
+            "timestamp": "2025-03-04T21:19:06.882598",
+            "duration": 162
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "Servant",
+            "timestamp": "2025-03-09T15:22:06.882600",
+            "duration": 214
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T10:46:06.882603",
+            "duration": 153
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T11:59:06.882606",
+            "duration": 64
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-03T04:32:06.882608",
+            "duration": 95
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T15:11:06.882610",
+            "duration": 187
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T02:14:06.882613",
+            "duration": 159
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T07:35:06.882615",
+            "duration": 159
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "MARIANA",
+            "timestamp": "2025-03-10T05:41:06.882617",
+            "duration": 144
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "MARIANA",
+            "timestamp": "2025-03-05T19:01:06.882620",
+            "duration": 82
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "MARIANA",
+            "timestamp": "2025-03-04T04:44:06.882622",
+            "duration": 172
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-09T10:00:06.882624",
+            "duration": 198
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T17:27:06.882627",
+            "duration": 70
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-05T02:10:06.882629",
+            "duration": 293
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "LUCIO",
+            "timestamp": "2025-03-10T14:16:06.882632",
+            "duration": 63
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "LUCIO",
+            "timestamp": "2025-03-09T01:23:06.882642",
+            "duration": 93
+        },
+        {
+            "from": "CLAUDIO",
+            "to": "LUCIO",
+            "timestamp": "2025-03-04T19:33:06.882644",
+            "duration": 230
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-09T06:20:06.882658",
+            "duration": 125
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-05T11:28:06.882660",
+            "duration": 243
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "POMPHEY",
+            "timestamp": "2025-03-09T21:20:06.882663",
+            "duration": 204
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "Provost",
+            "timestamp": "2025-03-07T07:07:06.882665",
+            "duration": 114
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "Provost",
+            "timestamp": "2025-03-07T02:08:06.882668",
+            "duration": 175
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "ELBOW",
+            "timestamp": "2025-03-06T13:17:06.882674",
+            "duration": 262
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "ELBOW",
+            "timestamp": "2025-03-04T21:12:06.882678",
+            "duration": 105
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "POMPEY",
+            "timestamp": "2025-03-05T11:21:06.882681",
+            "duration": 184
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "ANGELO",
+            "timestamp": "2025-03-05T01:06:06.882684",
+            "duration": 298
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "ANGELO",
+            "timestamp": "2025-03-09T20:39:06.882686",
+            "duration": 167
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-04T10:26:06.882688",
+            "duration": 258
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-10T08:02:06.882690",
+            "duration": 118
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-07T17:20:06.882693",
+            "duration": 290
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-05T05:23:06.882695",
+            "duration": 146
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-07T02:17:06.882697",
+            "duration": 183
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-03T22:32:06.882700",
+            "duration": 272
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-08T06:02:06.882702",
+            "duration": 132
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-06T20:18:06.882706",
+            "duration": 60
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-09T01:19:06.882708",
+            "duration": 106
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "Justice",
+            "timestamp": "2025-03-08T11:16:06.882710",
+            "duration": 271
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "Servant",
+            "timestamp": "2025-03-04T14:04:06.882713",
+            "duration": 251
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "Servant",
+            "timestamp": "2025-03-04T14:21:06.882715",
+            "duration": 62
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "JULIET",
+            "timestamp": "2025-03-02T23:08:06.882717",
+            "duration": 166
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T05:34:06.882720",
+            "duration": 281
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "JULIET",
+            "timestamp": "2025-03-07T17:46:06.882722",
+            "duration": 245
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-10T07:36:06.882724",
+            "duration": 177
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T12:18:06.882727",
+            "duration": 266
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T21:45:06.882729",
+            "duration": 82
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "MARIANA",
+            "timestamp": "2025-03-08T15:50:06.882731",
+            "duration": 105
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-07T10:26:06.882734",
+            "duration": 281
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-05T20:09:06.882736",
+            "duration": 170
+        },
+        {
+            "from": "FRIAR PETER",
+            "to": "LUCIO",
+            "timestamp": "2025-03-09T05:24:06.882739",
+            "duration": 139
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Provost",
+            "timestamp": "2025-03-05T12:25:06.882741",
+            "duration": 195
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Provost",
+            "timestamp": "2025-03-09T00:49:06.882743",
+            "duration": 268
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ELBOW",
+            "timestamp": "2025-03-06T17:59:06.882746",
+            "duration": 118
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ELBOW",
+            "timestamp": "2025-03-03T08:55:06.882748",
+            "duration": 257
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ELBOW",
+            "timestamp": "2025-03-05T12:01:06.882751",
+            "duration": 147
+        },
+        {
+            "from": "POMPHEY",
+            "to": "POMPEY",
+            "timestamp": "2025-03-09T23:26:06.882753",
+            "duration": 138
+        },
+        {
+            "from": "POMPHEY",
+            "to": "POMPEY",
+            "timestamp": "2025-03-03T00:46:06.882755",
+            "duration": 228
+        },
+        {
+            "from": "POMPHEY",
+            "to": "POMPEY",
+            "timestamp": "2025-03-10T06:39:06.882757",
+            "duration": 72
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ANGELO",
+            "timestamp": "2025-03-07T12:48:06.882760",
+            "duration": 123
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ANGELO",
+            "timestamp": "2025-03-02T15:06:06.882762",
+            "duration": 200
+        },
+        {
+            "from": "POMPHEY",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-07T09:27:06.882764",
+            "duration": 160
+        },
+        {
+            "from": "POMPHEY",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-06T09:12:06.882767",
+            "duration": 197
+        },
+        {
+            "from": "POMPHEY",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-03T11:10:06.882769",
+            "duration": 91
+        },
+        {
+            "from": "POMPHEY",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-07T18:56:06.882771",
+            "duration": 161
+        },
+        {
+            "from": "POMPHEY",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-08T16:39:06.882774",
+            "duration": 284
+        },
+        {
+            "from": "POMPHEY",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-10T04:51:06.882776",
+            "duration": 121
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Justice",
+            "timestamp": "2025-03-07T00:19:06.882779",
+            "duration": 130
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Justice",
+            "timestamp": "2025-03-08T00:51:06.882781",
+            "duration": 284
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Justice",
+            "timestamp": "2025-03-02T20:05:06.882783",
+            "duration": 114
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Servant",
+            "timestamp": "2025-03-08T00:09:06.882785",
+            "duration": 181
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Servant",
+            "timestamp": "2025-03-07T03:39:06.882788",
+            "duration": 197
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Servant",
+            "timestamp": "2025-03-09T18:13:06.882790",
+            "duration": 136
+        },
+        {
+            "from": "POMPHEY",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T08:45:06.882792",
+            "duration": 73
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-08T17:43:06.882795",
+            "duration": 271
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-10T11:38:06.882797",
+            "duration": 204
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-03T06:13:06.882800",
+            "duration": 117
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T14:42:06.882803",
+            "duration": 61
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T19:34:06.882805",
+            "duration": 261
+        },
+        {
+            "from": "POMPHEY",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T12:20:06.882807",
+            "duration": 97
+        },
+        {
+            "from": "POMPHEY",
+            "to": "MARIANA",
+            "timestamp": "2025-03-04T23:38:06.882809",
+            "duration": 294
+        },
+        {
+            "from": "POMPHEY",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T14:20:06.882812",
+            "duration": 243
+        },
+        {
+            "from": "POMPHEY",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-09T17:40:06.882814",
+            "duration": 135
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T07:17:06.882816",
+            "duration": 137
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-06T10:51:06.882819",
+            "duration": 255
+        },
+        {
+            "from": "POMPHEY",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T08:44:06.882821",
+            "duration": 246
+        },
+        {
+            "from": "POMPHEY",
+            "to": "LUCIO",
+            "timestamp": "2025-03-06T13:56:06.882824",
+            "duration": 187
+        },
+        {
+            "from": "POMPHEY",
+            "to": "LUCIO",
+            "timestamp": "2025-03-05T00:59:06.882826",
+            "duration": 277
+        },
+        {
+            "from": "Provost",
+            "to": "ELBOW",
+            "timestamp": "2025-03-05T14:45:06.882828",
+            "duration": 73
+        },
+        {
+            "from": "Provost",
+            "to": "ELBOW",
+            "timestamp": "2025-03-08T08:49:06.882830",
+            "duration": 229
+        },
+        {
+            "from": "Provost",
+            "to": "ELBOW",
+            "timestamp": "2025-03-04T06:43:06.882832",
+            "duration": 286
+        },
+        {
+            "from": "Provost",
+            "to": "POMPEY",
+            "timestamp": "2025-03-09T22:49:06.882835",
+            "duration": 73
+        },
+        {
+            "from": "Provost",
+            "to": "ANGELO",
+            "timestamp": "2025-03-06T12:55:06.882838",
+            "duration": 138
+        },
+        {
+            "from": "Provost",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-06T09:33:06.882840",
+            "duration": 270
+        },
+        {
+            "from": "Provost",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-04T19:19:06.882842",
+            "duration": 243
+        },
+        {
+            "from": "Provost",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-10T00:14:06.882844",
+            "duration": 240
+        },
+        {
+            "from": "Provost",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-04T05:44:06.882847",
+            "duration": 270
+        },
+        {
+            "from": "Provost",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-04T14:26:06.882849",
+            "duration": 134
+        },
+        {
+            "from": "Provost",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-05T15:04:06.882852",
+            "duration": 149
+        },
+        {
+            "from": "Provost",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-06T02:56:06.882854",
+            "duration": 248
+        },
+        {
+            "from": "Provost",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-02T18:15:06.882856",
+            "duration": 127
+        },
+        {
+            "from": "Provost",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-08T08:01:06.882858",
+            "duration": 127
+        },
+        {
+            "from": "Provost",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-10T08:44:06.882861",
+            "duration": 165
+        },
+        {
+            "from": "Provost",
+            "to": "Justice",
+            "timestamp": "2025-03-07T04:48:06.882863",
+            "duration": 164
+        },
+        {
+            "from": "Provost",
+            "to": "Justice",
+            "timestamp": "2025-03-08T14:43:06.882866",
+            "duration": 259
+        },
+        {
+            "from": "Provost",
+            "to": "Servant",
+            "timestamp": "2025-03-05T03:06:06.882868",
+            "duration": 215
+        },
+        {
+            "from": "Provost",
+            "to": "Servant",
+            "timestamp": "2025-03-04T01:05:06.882870",
+            "duration": 250
+        },
+        {
+            "from": "Provost",
+            "to": "Servant",
+            "timestamp": "2025-03-05T08:40:06.882873",
+            "duration": 264
+        },
+        {
+            "from": "Provost",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T01:18:06.882875",
+            "duration": 248
+        },
+        {
+            "from": "Provost",
+            "to": "JULIET",
+            "timestamp": "2025-03-04T11:14:06.882877",
+            "duration": 239
+        },
+        {
+            "from": "Provost",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T02:34:06.882879",
+            "duration": 127
+        },
+        {
+            "from": "Provost",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-06T00:13:06.882882",
+            "duration": 289
+        },
+        {
+            "from": "Provost",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-04T07:50:06.882884",
+            "duration": 151
+        },
+        {
+            "from": "Provost",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T17:42:06.882886",
+            "duration": 207
+        },
+        {
+            "from": "Provost",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T00:50:06.882888",
+            "duration": 129
+        },
+        {
+            "from": "Provost",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T13:33:06.882891",
+            "duration": 241
+        },
+        {
+            "from": "Provost",
+            "to": "MARIANA",
+            "timestamp": "2025-03-05T06:42:06.882893",
+            "duration": 169
+        },
+        {
+            "from": "Provost",
+            "to": "MARIANA",
+            "timestamp": "2025-03-09T19:04:06.882895",
+            "duration": 70
+        },
+        {
+            "from": "Provost",
+            "to": "MARIANA",
+            "timestamp": "2025-03-06T21:32:06.882897",
+            "duration": 193
+        },
+        {
+            "from": "Provost",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-04T13:26:06.882900",
+            "duration": 84
+        },
+        {
+            "from": "Provost",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-05T00:12:06.882902",
+            "duration": 282
+        },
+        {
+            "from": "Provost",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T01:04:06.882904",
+            "duration": 101
+        },
+        {
+            "from": "Provost",
+            "to": "LUCIO",
+            "timestamp": "2025-03-08T05:01:06.882907",
+            "duration": 227
+        },
+        {
+            "from": "Provost",
+            "to": "LUCIO",
+            "timestamp": "2025-03-03T13:34:06.882909",
+            "duration": 134
+        },
+        {
+            "from": "Provost",
+            "to": "LUCIO",
+            "timestamp": "2025-03-07T05:09:06.882911",
+            "duration": 100
+        },
+        {
+            "from": "ELBOW",
+            "to": "POMPEY",
+            "timestamp": "2025-03-08T03:14:06.882914",
+            "duration": 253
+        },
+        {
+            "from": "ELBOW",
+            "to": "POMPEY",
+            "timestamp": "2025-03-05T02:51:06.882916",
+            "duration": 120
+        },
+        {
+            "from": "ELBOW",
+            "to": "ANGELO",
+            "timestamp": "2025-03-04T00:44:06.882918",
+            "duration": 287
+        },
+        {
+            "from": "ELBOW",
+            "to": "ANGELO",
+            "timestamp": "2025-03-05T06:36:06.882921",
+            "duration": 126
+        },
+        {
+            "from": "ELBOW",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-06T08:29:06.882923",
+            "duration": 170
+        },
+        {
+            "from": "ELBOW",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-10T06:42:06.882926",
+            "duration": 291
+        },
+        {
+            "from": "ELBOW",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-05T11:59:06.882929",
+            "duration": 143
+        },
+        {
+            "from": "ELBOW",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-06T22:39:06.882931",
+            "duration": 245
+        },
+        {
+            "from": "ELBOW",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-05T18:43:06.882933",
+            "duration": 166
+        },
+        {
+            "from": "ELBOW",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-09T05:25:06.882936",
+            "duration": 151
+        },
+        {
+            "from": "ELBOW",
+            "to": "Justice",
+            "timestamp": "2025-03-05T06:13:06.882938",
+            "duration": 272
+        },
+        {
+            "from": "ELBOW",
+            "to": "Servant",
+            "timestamp": "2025-03-07T17:44:06.882941",
+            "duration": 63
+        },
+        {
+            "from": "ELBOW",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T23:35:06.882943",
+            "duration": 289
+        },
+        {
+            "from": "ELBOW",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-02T17:22:06.882946",
+            "duration": 245
+        },
+        {
+            "from": "ELBOW",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-03T08:59:06.882948",
+            "duration": 89
+        },
+        {
+            "from": "ELBOW",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-07T21:13:06.882950",
+            "duration": 233
+        },
+        {
+            "from": "ELBOW",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T18:44:06.882952",
+            "duration": 146
+        },
+        {
+            "from": "ELBOW",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T04:38:06.882954",
+            "duration": 168
+        },
+        {
+            "from": "ELBOW",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T11:52:06.882957",
+            "duration": 150
+        },
+        {
+            "from": "ELBOW",
+            "to": "MARIANA",
+            "timestamp": "2025-03-04T03:53:06.882959",
+            "duration": 109
+        },
+        {
+            "from": "ELBOW",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-09T08:42:06.882961",
+            "duration": 127
+        },
+        {
+            "from": "ELBOW",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-03T14:21:06.882963",
+            "duration": 71
+        },
+        {
+            "from": "ELBOW",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-10T13:58:06.882966",
+            "duration": 289
+        },
+        {
+            "from": "ELBOW",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-05T17:41:06.882968",
+            "duration": 294
+        },
+        {
+            "from": "ELBOW",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T23:04:06.882970",
+            "duration": 143
+        },
+        {
+            "from": "ELBOW",
+            "to": "LUCIO",
+            "timestamp": "2025-03-10T09:17:06.882972",
+            "duration": 226
+        },
+        {
+            "from": "POMPEY",
+            "to": "ANGELO",
+            "timestamp": "2025-03-05T12:27:06.882975",
+            "duration": 263
+        },
+        {
+            "from": "POMPEY",
+            "to": "ANGELO",
+            "timestamp": "2025-03-08T09:10:06.882982",
+            "duration": 263
+        },
+        {
+            "from": "POMPEY",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-07T06:12:06.882984",
+            "duration": 167
+        },
+        {
+            "from": "POMPEY",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-08T15:22:06.882987",
+            "duration": 224
+        },
+        {
+            "from": "POMPEY",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-06T17:36:06.883045",
+            "duration": 172
+        },
+        {
+            "from": "POMPEY",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-09T06:37:06.883050",
+            "duration": 289
+        },
+        {
+            "from": "POMPEY",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-04T09:34:06.883053",
+            "duration": 86
+        },
+        {
+            "from": "POMPEY",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-08T15:58:06.883055",
+            "duration": 168
+        },
+        {
+            "from": "POMPEY",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-09T19:09:06.883058",
+            "duration": 153
+        },
+        {
+            "from": "POMPEY",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-06T19:52:06.883061",
+            "duration": 113
+        },
+        {
+            "from": "POMPEY",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-10T14:04:06.883063",
+            "duration": 213
+        },
+        {
+            "from": "POMPEY",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-02T14:56:06.883065",
+            "duration": 186
+        },
+        {
+            "from": "POMPEY",
+            "to": "Justice",
+            "timestamp": "2025-03-07T10:27:06.883068",
+            "duration": 108
+        },
+        {
+            "from": "POMPEY",
+            "to": "Servant",
+            "timestamp": "2025-03-09T06:18:06.883070",
+            "duration": 275
+        },
+        {
+            "from": "POMPEY",
+            "to": "Servant",
+            "timestamp": "2025-03-07T00:22:06.883072",
+            "duration": 237
+        },
+        {
+            "from": "POMPEY",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T19:44:06.883080",
+            "duration": 140
+        },
+        {
+            "from": "POMPEY",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T12:39:06.883083",
+            "duration": 75
+        },
+        {
+            "from": "POMPEY",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-06T13:08:06.883086",
+            "duration": 209
+        },
+        {
+            "from": "POMPEY",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T13:31:06.883088",
+            "duration": 74
+        },
+        {
+            "from": "POMPEY",
+            "to": "MARIANA",
+            "timestamp": "2025-03-05T02:43:06.883091",
+            "duration": 212
+        },
+        {
+            "from": "POMPEY",
+            "to": "MARIANA",
+            "timestamp": "2025-03-08T16:59:06.883093",
+            "duration": 296
+        },
+        {
+            "from": "POMPEY",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-04T09:50:06.883095",
+            "duration": 74
+        },
+        {
+            "from": "POMPEY",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-07T02:17:06.883098",
+            "duration": 176
+        },
+        {
+            "from": "POMPEY",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-08T17:14:06.883100",
+            "duration": 211
+        },
+        {
+            "from": "POMPEY",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-10T14:07:06.883103",
+            "duration": 63
+        },
+        {
+            "from": "POMPEY",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T22:51:06.883106",
+            "duration": 98
+        },
+        {
+            "from": "POMPEY",
+            "to": "LUCIO",
+            "timestamp": "2025-03-08T07:53:06.883108",
+            "duration": 153
+        },
+        {
+            "from": "POMPEY",
+            "to": "LUCIO",
+            "timestamp": "2025-03-04T15:44:06.883110",
+            "duration": 175
+        },
+        {
+            "from": "ANGELO",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-07T13:11:06.883113",
+            "duration": 110
+        },
+        {
+            "from": "ANGELO",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-05T08:30:06.883115",
+            "duration": 276
+        },
+        {
+            "from": "ANGELO",
+            "to": "FRIAR THOMAS",
+            "timestamp": "2025-03-04T16:50:06.883117",
+            "duration": 285
+        },
+        {
+            "from": "ANGELO",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-06T14:24:06.883120",
+            "duration": 289
+        },
+        {
+            "from": "ANGELO",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-04T13:23:06.883122",
+            "duration": 212
+        },
+        {
+            "from": "ANGELO",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-03T01:05:06.883124",
+            "duration": 262
+        },
+        {
+            "from": "ANGELO",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-08T11:08:06.883127",
+            "duration": 201
+        },
+        {
+            "from": "ANGELO",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-03T03:04:06.883129",
+            "duration": 70
+        },
+        {
+            "from": "ANGELO",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-05T15:57:06.883131",
+            "duration": 300
+        },
+        {
+            "from": "ANGELO",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-06T01:42:06.883133",
+            "duration": 174
+        },
+        {
+            "from": "ANGELO",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-05T10:03:06.883136",
+            "duration": 257
+        },
+        {
+            "from": "ANGELO",
+            "to": "Justice",
+            "timestamp": "2025-03-10T11:20:06.883138",
+            "duration": 160
+        },
+        {
+            "from": "ANGELO",
+            "to": "Justice",
+            "timestamp": "2025-03-05T14:32:06.883140",
+            "duration": 181
+        },
+        {
+            "from": "ANGELO",
+            "to": "Justice",
+            "timestamp": "2025-03-03T19:31:06.883143",
+            "duration": 124
+        },
+        {
+            "from": "ANGELO",
+            "to": "Servant",
+            "timestamp": "2025-03-09T08:39:06.883145",
+            "duration": 87
+        },
+        {
+            "from": "ANGELO",
+            "to": "Servant",
+            "timestamp": "2025-03-08T07:42:06.883147",
+            "duration": 231
+        },
+        {
+            "from": "ANGELO",
+            "to": "Servant",
+            "timestamp": "2025-03-08T14:15:06.883149",
+            "duration": 248
+        },
+        {
+            "from": "ANGELO",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T21:00:06.883152",
+            "duration": 194
+        },
+        {
+            "from": "ANGELO",
+            "to": "JULIET",
+            "timestamp": "2025-03-04T12:43:06.883154",
+            "duration": 169
+        },
+        {
+            "from": "ANGELO",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-03T10:35:06.883156",
+            "duration": 160
+        },
+        {
+            "from": "ANGELO",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-05T18:21:06.883159",
+            "duration": 197
+        },
+        {
+            "from": "ANGELO",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-05T19:16:06.883161",
+            "duration": 167
+        },
+        {
+            "from": "ANGELO",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T14:49:06.883163",
+            "duration": 217
+        },
+        {
+            "from": "ANGELO",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T22:04:06.883166",
+            "duration": 84
+        },
+        {
+            "from": "ANGELO",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T23:06:06.883168",
+            "duration": 141
+        },
+        {
+            "from": "ANGELO",
+            "to": "MARIANA",
+            "timestamp": "2025-03-09T23:11:06.883171",
+            "duration": 182
+        },
+        {
+            "from": "ANGELO",
+            "to": "MARIANA",
+            "timestamp": "2025-03-06T01:15:06.883173",
+            "duration": 74
+        },
+        {
+            "from": "ANGELO",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-02T22:14:06.883175",
+            "duration": 79
+        },
+        {
+            "from": "ANGELO",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-07T05:36:06.883177",
+            "duration": 204
+        },
+        {
+            "from": "ANGELO",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-04T00:32:06.883184",
+            "duration": 233
+        },
+        {
+            "from": "ANGELO",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T20:26:06.883186",
+            "duration": 82
+        },
+        {
+            "from": "ANGELO",
+            "to": "LUCIO",
+            "timestamp": "2025-03-07T18:34:06.883189",
+            "duration": 220
+        },
+        {
+            "from": "ANGELO",
+            "to": "LUCIO",
+            "timestamp": "2025-03-03T11:03:06.883191",
+            "duration": 171
+        },
+        {
+            "from": "ANGELO",
+            "to": "LUCIO",
+            "timestamp": "2025-03-02T18:09:06.883193",
+            "duration": 258
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "BARNARDINE",
+            "timestamp": "2025-03-03T17:04:06.883196",
+            "duration": 110
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-04T12:42:06.883198",
+            "duration": 234
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-09T15:09:06.883200",
+            "duration": 174
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-05T22:55:06.883203",
+            "duration": 260
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-04T14:56:06.883205",
+            "duration": 298
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-10T03:12:06.883207",
+            "duration": 86
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-03T16:24:06.883209",
+            "duration": 82
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "Justice",
+            "timestamp": "2025-03-09T10:50:06.883212",
+            "duration": 97
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "Justice",
+            "timestamp": "2025-03-06T02:33:06.883214",
+            "duration": 172
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "Justice",
+            "timestamp": "2025-03-05T20:37:06.883216",
+            "duration": 189
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "Servant",
+            "timestamp": "2025-03-09T07:48:06.883219",
+            "duration": 87
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "Servant",
+            "timestamp": "2025-03-04T14:41:06.883221",
+            "duration": 118
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T07:22:06.883223",
+            "duration": 205
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T00:23:06.883225",
+            "duration": 85
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T17:45:06.883228",
+            "duration": 115
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-06T03:23:06.883230",
+            "duration": 127
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-03T13:39:06.883232",
+            "duration": 194
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-04T08:45:06.883234",
+            "duration": 86
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T22:49:06.883237",
+            "duration": 130
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T08:06:06.883239",
+            "duration": 236
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "MARIANA",
+            "timestamp": "2025-03-05T23:31:06.883241",
+            "duration": 137
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T19:29:06.883243",
+            "duration": 189
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-04T21:06:06.883246",
+            "duration": 247
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-06T16:40:06.883248",
+            "duration": 68
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-04T05:52:06.883250",
+            "duration": 75
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-06T22:19:06.883252",
+            "duration": 289
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "LUCIO",
+            "timestamp": "2025-03-09T18:42:06.883255",
+            "duration": 242
+        },
+        {
+            "from": "FRIAR THOMAS",
+            "to": "LUCIO",
+            "timestamp": "2025-03-04T08:07:06.883257",
+            "duration": 283
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-10T12:39:06.883260",
+            "duration": 164
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-05T17:19:06.883262",
+            "duration": 163
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "DUKE VINCENTIO",
+            "timestamp": "2025-03-05T07:56:06.883264",
+            "duration": 88
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-05T05:39:06.883266",
+            "duration": 111
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-07T14:17:06.883268",
+            "duration": 97
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "Justice",
+            "timestamp": "2025-03-04T01:58:06.883271",
+            "duration": 183
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "Justice",
+            "timestamp": "2025-03-03T17:36:06.883273",
+            "duration": 160
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "Servant",
+            "timestamp": "2025-03-03T11:37:06.883275",
+            "duration": 194
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "JULIET",
+            "timestamp": "2025-03-02T16:11:06.883278",
+            "duration": 267
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T04:44:06.883280",
+            "duration": 190
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T03:56:06.883282",
+            "duration": 137
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-10T12:03:06.883285",
+            "duration": 266
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-09T05:28:06.883287",
+            "duration": 238
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-08T20:25:06.883289",
+            "duration": 224
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T22:26:06.883291",
+            "duration": 176
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T15:07:06.883293",
+            "duration": 129
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T13:53:06.883296",
+            "duration": 135
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "MARIANA",
+            "timestamp": "2025-03-09T21:43:06.883298",
+            "duration": 207
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "MARIANA",
+            "timestamp": "2025-03-04T20:55:06.883300",
+            "duration": 66
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-08T21:43:06.883303",
+            "duration": 234
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-08T12:21:06.883305",
+            "duration": 255
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-05T21:04:06.883307",
+            "duration": 125
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-10T07:21:06.883309",
+            "duration": 297
+        },
+        {
+            "from": "BARNARDINE",
+            "to": "LUCIO",
+            "timestamp": "2025-03-09T14:15:06.883312",
+            "duration": 114
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-08T17:33:06.883314",
+            "duration": 115
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-04T18:53:06.883316",
+            "duration": 149
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "MISTRESS OVERDONE",
+            "timestamp": "2025-03-09T18:34:06.883319",
+            "duration": 203
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "Justice",
+            "timestamp": "2025-03-09T07:16:06.883321",
+            "duration": 80
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "Justice",
+            "timestamp": "2025-03-08T06:49:06.883323",
+            "duration": 293
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "Servant",
+            "timestamp": "2025-03-04T15:16:06.883325",
+            "duration": 163
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "JULIET",
+            "timestamp": "2025-03-04T22:18:06.883328",
+            "duration": 254
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "JULIET",
+            "timestamp": "2025-03-10T07:16:06.883330",
+            "duration": 244
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "JULIET",
+            "timestamp": "2025-03-05T00:05:06.883332",
+            "duration": 264
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-10T07:34:06.883335",
+            "duration": 191
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-02T19:32:06.883337",
+            "duration": 78
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-10T03:23:06.883339",
+            "duration": 210
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T21:58:06.883341",
+            "duration": 134
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T10:31:06.883343",
+            "duration": 178
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "MARIANA",
+            "timestamp": "2025-03-09T04:07:06.883346",
+            "duration": 202
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-03T13:53:06.883348",
+            "duration": 85
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-03T20:39:06.883350",
+            "duration": 137
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-09T12:56:06.883353",
+            "duration": 163
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-10T09:07:06.883355",
+            "duration": 267
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-05T05:20:06.883357",
+            "duration": 124
+        },
+        {
+            "from": "DUKE VINCENTIO",
+            "to": "LUCIO",
+            "timestamp": "2025-03-03T05:40:06.883359",
+            "duration": 145
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "Justice",
+            "timestamp": "2025-03-06T20:12:06.883362",
+            "duration": 297
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "Justice",
+            "timestamp": "2025-03-08T18:13:06.883364",
+            "duration": 157
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "Justice",
+            "timestamp": "2025-03-09T22:15:06.883366",
+            "duration": 182
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "Servant",
+            "timestamp": "2025-03-08T05:05:06.883369",
+            "duration": 232
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "Servant",
+            "timestamp": "2025-03-04T13:43:06.883371",
+            "duration": 245
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "Servant",
+            "timestamp": "2025-03-02T22:06:06.883373",
+            "duration": 227
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T03:56:06.883376",
+            "duration": 283
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "JULIET",
+            "timestamp": "2025-03-04T01:22:06.883378",
+            "duration": 296
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "JULIET",
+            "timestamp": "2025-03-05T10:16:06.883380",
+            "duration": 150
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-03T23:37:06.883382",
+            "duration": 196
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-09T03:56:06.883384",
+            "duration": 268
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T08:47:06.883386",
+            "duration": 151
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "MARIANA",
+            "timestamp": "2025-03-02T15:49:06.883389",
+            "duration": 96
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "MARIANA",
+            "timestamp": "2025-03-09T00:17:06.883391",
+            "duration": 150
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-03T23:17:06.883393",
+            "duration": 140
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-04T21:05:06.883395",
+            "duration": 232
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-10T03:37:06.883398",
+            "duration": 164
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-04T09:33:06.883400",
+            "duration": 262
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "LUCIO",
+            "timestamp": "2025-03-02T23:47:06.883402",
+            "duration": 106
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "LUCIO",
+            "timestamp": "2025-03-03T18:56:06.883404",
+            "duration": 228
+        },
+        {
+            "from": "MISTRESS OVERDONE",
+            "to": "LUCIO",
+            "timestamp": "2025-03-03T21:40:06.883406",
+            "duration": 258
+        },
+        {
+            "from": "Justice",
+            "to": "Servant",
+            "timestamp": "2025-03-05T12:14:06.883409",
+            "duration": 66
+        },
+        {
+            "from": "Justice",
+            "to": "JULIET",
+            "timestamp": "2025-03-04T09:54:06.883412",
+            "duration": 294
+        },
+        {
+            "from": "Justice",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T04:36:06.883417",
+            "duration": 113
+        },
+        {
+            "from": "Justice",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-03T07:43:06.883420",
+            "duration": 201
+        },
+        {
+            "from": "Justice",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T08:07:06.883423",
+            "duration": 282
+        },
+        {
+            "from": "Justice",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T09:47:06.883425",
+            "duration": 154
+        },
+        {
+            "from": "Justice",
+            "to": "MARIANA",
+            "timestamp": "2025-03-05T21:58:06.883427",
+            "duration": 172
+        },
+        {
+            "from": "Justice",
+            "to": "MARIANA",
+            "timestamp": "2025-03-09T12:51:06.883430",
+            "duration": 287
+        },
+        {
+            "from": "Justice",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-08T23:41:06.883432",
+            "duration": 146
+        },
+        {
+            "from": "Justice",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-10T09:36:06.883434",
+            "duration": 244
+        },
+        {
+            "from": "Justice",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-06T21:38:06.883437",
+            "duration": 91
+        },
+        {
+            "from": "Justice",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T00:02:06.883439",
+            "duration": 160
+        },
+        {
+            "from": "Justice",
+            "to": "LUCIO",
+            "timestamp": "2025-03-04T17:00:06.883441",
+            "duration": 100
+        },
+        {
+            "from": "Justice",
+            "to": "LUCIO",
+            "timestamp": "2025-03-09T23:18:06.883443",
+            "duration": 251
+        },
+        {
+            "from": "Justice",
+            "to": "LUCIO",
+            "timestamp": "2025-03-05T23:03:06.883446",
+            "duration": 110
+        },
+        {
+            "from": "Servant",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T10:33:06.883448",
+            "duration": 154
+        },
+        {
+            "from": "Servant",
+            "to": "JULIET",
+            "timestamp": "2025-03-05T20:39:06.883450",
+            "duration": 96
+        },
+        {
+            "from": "Servant",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-10T06:48:06.883453",
+            "duration": 149
+        },
+        {
+            "from": "Servant",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T15:15:06.883455",
+            "duration": 152
+        },
+        {
+            "from": "Servant",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T15:40:06.883457",
+            "duration": 113
+        },
+        {
+            "from": "Servant",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T15:00:06.883459",
+            "duration": 234
+        },
+        {
+            "from": "Servant",
+            "to": "MARIANA",
+            "timestamp": "2025-03-04T10:35:06.883462",
+            "duration": 245
+        },
+        {
+            "from": "Servant",
+            "to": "MARIANA",
+            "timestamp": "2025-03-04T17:54:06.883464",
+            "duration": 144
+        },
+        {
+            "from": "Servant",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-04T11:16:06.883467",
+            "duration": 220
+        },
+        {
+            "from": "Servant",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-03T12:44:06.883469",
+            "duration": 128
+        },
+        {
+            "from": "Servant",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-04T09:05:06.883472",
+            "duration": 181
+        },
+        {
+            "from": "Servant",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-03T08:10:06.883474",
+            "duration": 285
+        },
+        {
+            "from": "Servant",
+            "to": "LUCIO",
+            "timestamp": "2025-03-08T15:24:06.883476",
+            "duration": 260
+        },
+        {
+            "from": "Servant",
+            "to": "LUCIO",
+            "timestamp": "2025-03-05T18:36:06.883478",
+            "duration": 250
+        },
+        {
+            "from": "JULIET",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-06T01:16:06.883481",
+            "duration": 223
+        },
+        {
+            "from": "JULIET",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-05T09:29:06.883483",
+            "duration": 82
+        },
+        {
+            "from": "JULIET",
+            "to": "ESCALUS",
+            "timestamp": "2025-03-09T07:09:06.883485",
+            "duration": 71
+        },
+        {
+            "from": "JULIET",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T08:32:06.883488",
+            "duration": 147
+        },
+        {
+            "from": "JULIET",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T20:33:06.883490",
+            "duration": 244
+        },
+        {
+            "from": "JULIET",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T10:52:06.883492",
+            "duration": 265
+        },
+        {
+            "from": "JULIET",
+            "to": "MARIANA",
+            "timestamp": "2025-03-05T03:26:06.883495",
+            "duration": 157
+        },
+        {
+            "from": "JULIET",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-06T15:26:06.883498",
+            "duration": 171
+        },
+        {
+            "from": "JULIET",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-04T15:22:06.883500",
+            "duration": 269
+        },
+        {
+            "from": "JULIET",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-04T06:52:06.883502",
+            "duration": 142
+        },
+        {
+            "from": "JULIET",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-04T23:49:06.883505",
+            "duration": 290
+        },
+        {
+            "from": "JULIET",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-08T06:54:06.883507",
+            "duration": 69
+        },
+        {
+            "from": "JULIET",
+            "to": "LUCIO",
+            "timestamp": "2025-03-04T00:44:06.883509",
+            "duration": 151
+        },
+        {
+            "from": "JULIET",
+            "to": "LUCIO",
+            "timestamp": "2025-03-06T04:30:06.883512",
+            "duration": 245
+        },
+        {
+            "from": "ESCALUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T13:47:06.883514",
+            "duration": 148
+        },
+        {
+            "from": "ESCALUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T16:45:06.883517",
+            "duration": 91
+        },
+        {
+            "from": "ESCALUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T11:59:06.883519",
+            "duration": 278
+        },
+        {
+            "from": "ESCALUS",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T17:52:06.883521",
+            "duration": 205
+        },
+        {
+            "from": "ESCALUS",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-04T16:54:06.883524",
+            "duration": 167
+        },
+        {
+            "from": "ESCALUS",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-04T20:40:06.883526",
+            "duration": 136
+        },
+        {
+            "from": "ESCALUS",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-05T06:46:06.883528",
+            "duration": 115
+        },
+        {
+            "from": "ESCALUS",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-10T06:19:06.883531",
+            "duration": 271
+        },
+        {
+            "from": "ESCALUS",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T10:38:06.883533",
+            "duration": 153
+        },
+        {
+            "from": "ESCALUS",
+            "to": "LUCIO",
+            "timestamp": "2025-03-09T19:12:06.883535",
+            "duration": 293
+        },
+        {
+            "from": "Messenger",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T23:32:06.883538",
+            "duration": 155
+        },
+        {
+            "from": "Messenger",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-06T05:34:06.883540",
+            "duration": 277
+        },
+        {
+            "from": "Messenger",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-06T02:59:06.883542",
+            "duration": 170
+        },
+        {
+            "from": "Messenger",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-03T19:17:06.883545",
+            "duration": 295
+        },
+        {
+            "from": "Messenger",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-09T10:06:06.883547",
+            "duration": 267
+        },
+        {
+            "from": "Messenger",
+            "to": "LUCIO",
+            "timestamp": "2025-03-06T10:42:06.883550",
+            "duration": 219
+        },
+        {
+            "from": "MARIANA",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-05T14:50:06.883552",
+            "duration": 94
+        },
+        {
+            "from": "MARIANA",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-05T00:07:06.883554",
+            "duration": 241
+        },
+        {
+            "from": "MARIANA",
+            "to": "FRANCISCA",
+            "timestamp": "2025-03-05T08:09:06.883556",
+            "duration": 197
+        },
+        {
+            "from": "MARIANA",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-07T13:50:06.883559",
+            "duration": 163
+        },
+        {
+            "from": "MARIANA",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-05T04:09:06.883561",
+            "duration": 94
+        },
+        {
+            "from": "MARIANA",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-03T21:07:06.883563",
+            "duration": 74
+        },
+        {
+            "from": "MARIANA",
+            "to": "LUCIO",
+            "timestamp": "2025-03-04T18:45:06.883566",
+            "duration": 112
+        },
+        {
+            "from": "MARIANA",
+            "to": "LUCIO",
+            "timestamp": "2025-03-06T11:53:06.883568",
+            "duration": 87
+        },
+        {
+            "from": "MARIANA",
+            "to": "LUCIO",
+            "timestamp": "2025-03-09T21:10:06.883570",
+            "duration": 225
+        },
+        {
+            "from": "FRANCISCA",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-09T21:55:06.883573",
+            "duration": 66
+        },
+        {
+            "from": "FRANCISCA",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-02T19:01:06.883575",
+            "duration": 293
+        },
+        {
+            "from": "FRANCISCA",
+            "to": "ISABELLA",
+            "timestamp": "2025-03-03T20:06:06.883577",
+            "duration": 166
+        },
+        {
+            "from": "FRANCISCA",
+            "to": "LUCIO",
+            "timestamp": "2025-03-05T02:33:06.883580",
+            "duration": 159
+        },
+        {
+            "from": "ISABELLA",
+            "to": "LUCIO",
+            "timestamp": "2025-03-08T16:50:06.883582",
+            "duration": 263
+        }
+    ],
+    "contact_data": {
+        "DUKE": {
+            "phone": "832-725-4109",
+            "email": "duke@monarchcap.com",
+            "title": "Global President",
+            "company": "Monarch Capital Group",
+            "industry": "Royal"
+        },
+        "As long as you or I": {
+            "phone": "281-328-8245",
+            "email": "as.long.as.you.or.i@commercelink.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "FROTH": {
+            "phone": "281-626-7571",
+            "email": "froth@tradewinds.com",
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "ABHORSON": {
+            "phone": "281-769-8832",
+            "email": "abhorson@globaltradepart.com",
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "CLAUDIO": {
+            "phone": "713-488-3455",
+            "email": "claudio@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "FRIAR PETER": {
+            "phone": "713-534-9125",
+            "email": "friar.peter@faithheritage.org",
+            "title": "Guidance Counselor",
+            "company": "Faith Heritage Foundation",
+            "industry": "Religious"
+        },
+        "POMPHEY": {
+            "phone": "713-444-4601",
+            "email": "pomphey@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Provost": {
+            "phone": "281-618-4794",
+            "email": "provost@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "ELBOW": {
+            "phone": "832-282-5513",
+            "email": "elbow@merchantsexchange.com",
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "POMPEY": {
+            "phone": "713-870-1291",
+            "email": "pompey@merchantsexchange.com",
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "ANGELO": {
+            "phone": "832-497-7875",
+            "email": "angelo@commercelink.com",
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "FRIAR THOMAS": {
+            "phone": "713-242-9430",
+            "email": "friar.thomas@faithheritage.org",
+            "title": "Program Director",
+            "company": "Faith Heritage Foundation",
+            "industry": "Religious"
+        },
+        "BARNARDINE": {
+            "phone": "832-490-6951",
+            "email": "barnardine@globaltradepart.com",
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "DUKE VINCENTIO": {
+            "phone": "281-769-8904",
+            "email": "duke.vincentio@imperialventures.com",
+            "title": "Chief Executive Officer",
+            "company": "Imperial Ventures",
+            "industry": "Royal"
+        },
+        "MISTRESS OVERDONE": {
+            "phone": "832-337-6593",
+            "email": "mistress.overdone@tradewinds.com",
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Justice": {
+            "phone": "281-556-5207",
+            "email": "justice@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Servant": {
+            "phone": "281-921-3054",
+            "email": "servant@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "JULIET": {
+            "phone": "713-247-7179",
+            "email": "juliet@commercetrade.com",
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "ESCALUS": {
+            "phone": "832-780-6235",
+            "email": "escalus@commercetrade.com",
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Messenger": {
+            "phone": "281-994-9277",
+            "email": "messenger@allianceintl.com",
+            "title": "International Development Director",
+            "company": "Alliance International",
+            "industry": "Diplomatic"
+        },
+        "MARIANA": {
+            "phone": "713-697-5120",
+            "email": "mariana@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "FRANCISCA": {
+            "phone": "832-442-3566",
+            "email": "francisca@marketdyn.com",
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "ISABELLA": {
+            "phone": "713-995-7636",
+            "email": "isabella@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "LUCIO": {
+            "phone": "713-912-8957",
+            "email": "lucio@commercelink.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        }
+    }
+}

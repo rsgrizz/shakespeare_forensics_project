@@ -1,0 +1,3164 @@
+{
+    "characters": {
+        "SIMPLE": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-753-4386",
+            "email": "simple@tradewinds.com"
+        },
+        "& C": {
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-880-3004",
+            "email": ".c@commercelink.com"
+        },
+        "FENTON": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-548-7934",
+            "email": "fenton@commercetrade.com"
+        },
+        "WILLIAM PAGE": {
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-267-4898",
+            "email": "william.page@marketdyn.com"
+        },
+        "DOCTOR CAIUS": {
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-286-2508",
+            "email": "doctor.caius@commercetrade.com"
+        },
+        "MISTRESS QUICKLY": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-944-1345",
+            "email": "mistress.quickly@marketdyn.com"
+        },
+        "RUGBY": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-206-2923",
+            "email": "rugby@globaltradepart.com"
+        },
+        "SHALLOW": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-751-1982",
+            "email": "shallow@commercelink.com"
+        },
+        "MISTRESS PAGE": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-144-4678",
+            "email": "mistress.page@merchantsexchange.com"
+        },
+        "MISTRESS FORD": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-701-4814",
+            "email": "mistress.ford@commercelink.com"
+        },
+        "NYM": {
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-755-5206",
+            "email": "nym@marketdyn.com"
+        },
+        "FORD": {
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-662-9880",
+            "email": "ford@commercetrade.com"
+        },
+        "ANNE PAGE": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-471-1696",
+            "email": "anne.page@commercetrade.com"
+        },
+        "PAGE": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-153-9821",
+            "email": "page@commercetrade.com"
+        },
+        "ROBIN": {
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-992-7738",
+            "email": "robin@commercetrade.com"
+        },
+        "SIR HUGH EVANS": {
+            "title": "Chief Investment Officer",
+            "company": "Heritage Private Equity",
+            "industry": "Noble",
+            "location": "Los Angeles",
+            "phone": "310-452-1764",
+            "email": "sir.hugh.evans@heritagepe.com"
+        },
+        "SLENDER": {
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-947-2463",
+            "email": "slender@tradewinds.com"
+        },
+        "Servant": {
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-486-7965",
+            "email": "servant@merchantsexchange.com"
+        },
+        "FALSTAFF": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-843-7922",
+            "email": "falstaff@commercetrade.com"
+        },
+        "Host": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-911-4685",
+            "email": "host@commercelink.com"
+        },
+        "BARDOLPH": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-319-7529",
+            "email": "bardolph@merchantsexchange.com"
+        },
+        "PISTOL": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-458-8228",
+            "email": "pistol@merchantsexchange.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "SIMPLE",
+            "to": "& C",
+            "timestamp": "2025-03-07T08:38:08.296841",
+            "duration": 167
+        },
+        {
+            "from": "SIMPLE",
+            "to": "FENTON",
+            "timestamp": "2025-03-05T11:39:08.296853",
+            "duration": 69
+        },
+        {
+            "from": "SIMPLE",
+            "to": "FENTON",
+            "timestamp": "2025-03-04T12:16:08.296856",
+            "duration": 236
+        },
+        {
+            "from": "SIMPLE",
+            "to": "FENTON",
+            "timestamp": "2025-03-08T07:53:08.296858",
+            "duration": 295
+        },
+        {
+            "from": "SIMPLE",
+            "to": "WILLIAM PAGE",
+            "timestamp": "2025-03-08T15:40:08.296861",
+            "duration": 176
+        },
+        {
+            "from": "SIMPLE",
+            "to": "DOCTOR CAIUS",
+            "timestamp": "2025-03-10T13:17:08.296863",
+            "duration": 94
+        },
+        {
+            "from": "SIMPLE",
+            "to": "DOCTOR CAIUS",
+            "timestamp": "2025-03-09T10:38:08.296866",
+            "duration": 295
+        },
+        {
+            "from": "SIMPLE",
+            "to": "MISTRESS QUICKLY",
+            "timestamp": "2025-03-09T06:41:08.296868",
+            "duration": 158
+        },
+        {
+            "from": "SIMPLE",
+            "to": "RUGBY",
+            "timestamp": "2025-03-03T16:16:08.296871",
+            "duration": 81
+        },
+        {
+            "from": "SIMPLE",
+            "to": "RUGBY",
+            "timestamp": "2025-03-10T10:58:08.296873",
+            "duration": 259
+        },
+        {
+            "from": "SIMPLE",
+            "to": "RUGBY",
+            "timestamp": "2025-03-06T23:36:08.296875",
+            "duration": 118
+        },
+        {
+            "from": "SIMPLE",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-08T06:54:08.296877",
+            "duration": 73
+        },
+        {
+            "from": "SIMPLE",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-07T02:13:08.296880",
+            "duration": 179
+        },
+        {
+            "from": "SIMPLE",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-10T02:32:08.296882",
+            "duration": 182
+        },
+        {
+            "from": "SIMPLE",
+            "to": "NYM",
+            "timestamp": "2025-03-04T17:05:08.296884",
+            "duration": 256
+        },
+        {
+            "from": "SIMPLE",
+            "to": "NYM",
+            "timestamp": "2025-03-07T00:33:08.296886",
+            "duration": 273
+        },
+        {
+            "from": "SIMPLE",
+            "to": "NYM",
+            "timestamp": "2025-03-04T08:36:08.296888",
+            "duration": 170
+        },
+        {
+            "from": "SIMPLE",
+            "to": "FORD",
+            "timestamp": "2025-03-09T23:37:08.296891",
+            "duration": 206
+        },
+        {
+            "from": "SIMPLE",
+            "to": "FORD",
+            "timestamp": "2025-03-07T22:53:08.296893",
+            "duration": 164
+        },
+        {
+            "from": "SIMPLE",
+            "to": "FORD",
+            "timestamp": "2025-03-05T11:45:08.296895",
+            "duration": 182
+        },
+        {
+            "from": "SIMPLE",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-06T23:33:08.296897",
+            "duration": 122
+        },
+        {
+            "from": "SIMPLE",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-08T21:49:08.296899",
+            "duration": 225
+        },
+        {
+            "from": "SIMPLE",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-05T03:12:08.296901",
+            "duration": 271
+        },
+        {
+            "from": "SIMPLE",
+            "to": "PAGE",
+            "timestamp": "2025-03-03T11:19:08.296903",
+            "duration": 246
+        },
+        {
+            "from": "SIMPLE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-06T09:19:08.296905",
+            "duration": 166
+        },
+        {
+            "from": "SIMPLE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-06T12:59:08.296907",
+            "duration": 272
+        },
+        {
+            "from": "SIMPLE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-03T21:18:08.296910",
+            "duration": 216
+        },
+        {
+            "from": "SIMPLE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-10T03:57:08.296912",
+            "duration": 183
+        },
+        {
+            "from": "SIMPLE",
+            "to": "SLENDER",
+            "timestamp": "2025-03-08T17:46:08.296914",
+            "duration": 94
+        },
+        {
+            "from": "SIMPLE",
+            "to": "Servant",
+            "timestamp": "2025-03-04T11:19:08.296916",
+            "duration": 183
+        },
+        {
+            "from": "SIMPLE",
+            "to": "Servant",
+            "timestamp": "2025-03-04T23:17:08.296918",
+            "duration": 96
+        },
+        {
+            "from": "SIMPLE",
+            "to": "Servant",
+            "timestamp": "2025-03-09T19:15:08.296920",
+            "duration": 293
+        },
+        {
+            "from": "SIMPLE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-05T04:59:08.296922",
+            "duration": 218
+        },
+        {
+            "from": "SIMPLE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-07T22:59:08.296924",
+            "duration": 292
+        },
+        {
+            "from": "SIMPLE",
+            "to": "Host",
+            "timestamp": "2025-03-09T19:48:08.296927",
+            "duration": 271
+        },
+        {
+            "from": "SIMPLE",
+            "to": "Host",
+            "timestamp": "2025-03-10T06:19:08.296929",
+            "duration": 128
+        },
+        {
+            "from": "SIMPLE",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-09T06:01:08.296931",
+            "duration": 216
+        },
+        {
+            "from": "SIMPLE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-09T04:03:08.296933",
+            "duration": 276
+        },
+        {
+            "from": "SIMPLE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-09T18:00:08.296935",
+            "duration": 179
+        },
+        {
+            "from": "& C",
+            "to": "FENTON",
+            "timestamp": "2025-03-03T15:15:08.296938",
+            "duration": 71
+        },
+        {
+            "from": "& C",
+            "to": "WILLIAM PAGE",
+            "timestamp": "2025-03-03T07:28:08.296940",
+            "duration": 286
+        },
+        {
+            "from": "& C",
+            "to": "WILLIAM PAGE",
+            "timestamp": "2025-03-04T23:49:08.296942",
+            "duration": 198
+        },
+        {
+            "from": "& C",
+            "to": "DOCTOR CAIUS",
+            "timestamp": "2025-03-09T00:47:08.296944",
+            "duration": 85
+        },
+        {
+            "from": "& C",
+            "to": "DOCTOR CAIUS",
+            "timestamp": "2025-03-05T01:30:08.296946",
+            "duration": 203
+        },
+        {
+            "from": "& C",
+            "to": "MISTRESS QUICKLY",
+            "timestamp": "2025-03-07T23:51:08.296949",
+            "duration": 98
+        },
+        {
+            "from": "& C",
+            "to": "RUGBY",
+            "timestamp": "2025-03-04T14:01:08.296951",
+            "duration": 268
+        },
+        {
+            "from": "& C",
+            "to": "RUGBY",
+            "timestamp": "2025-03-05T17:39:08.296953",
+            "duration": 90
+        },
+        {
+            "from": "& C",
+            "to": "RUGBY",
+            "timestamp": "2025-03-07T03:47:08.296955",
+            "duration": 178
+        },
+        {
+            "from": "& C",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-04T02:51:08.296957",
+            "duration": 274
+        },
+        {
+            "from": "& C",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-09T23:46:08.296959",
+            "duration": 165
+        },
+        {
+            "from": "& C",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-06T08:01:08.296962",
+            "duration": 99
+        },
+        {
+            "from": "& C",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-03T03:59:08.296964",
+            "duration": 186
+        },
+        {
+            "from": "& C",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-09T08:33:08.296966",
+            "duration": 239
+        },
+        {
+            "from": "& C",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-02T19:54:08.296968",
+            "duration": 198
+        },
+        {
+            "from": "& C",
+            "to": "NYM",
+            "timestamp": "2025-03-04T13:06:08.296970",
+            "duration": 175
+        },
+        {
+            "from": "& C",
+            "to": "FORD",
+            "timestamp": "2025-03-10T08:31:08.296972",
+            "duration": 189
+        },
+        {
+            "from": "& C",
+            "to": "FORD",
+            "timestamp": "2025-03-07T16:22:08.296974",
+            "duration": 252
+        },
+        {
+            "from": "& C",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-05T11:34:08.296977",
+            "duration": 219
+        },
+        {
+            "from": "& C",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-06T16:07:08.296979",
+            "duration": 135
+        },
+        {
+            "from": "& C",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-09T04:32:08.296981",
+            "duration": 93
+        },
+        {
+            "from": "& C",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T12:51:08.296983",
+            "duration": 180
+        },
+        {
+            "from": "& C",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T18:02:08.296985",
+            "duration": 110
+        },
+        {
+            "from": "& C",
+            "to": "PAGE",
+            "timestamp": "2025-03-09T12:58:08.296987",
+            "duration": 150
+        },
+        {
+            "from": "& C",
+            "to": "ROBIN",
+            "timestamp": "2025-03-09T20:03:08.296989",
+            "duration": 203
+        },
+        {
+            "from": "& C",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-05T06:20:08.296991",
+            "duration": 291
+        },
+        {
+            "from": "& C",
+            "to": "SLENDER",
+            "timestamp": "2025-03-04T22:27:08.296994",
+            "duration": 270
+        },
+        {
+            "from": "& C",
+            "to": "SLENDER",
+            "timestamp": "2025-03-05T12:26:08.296996",
+            "duration": 238
+        },
+        {
+            "from": "& C",
+            "to": "SLENDER",
+            "timestamp": "2025-03-06T03:01:08.296998",
+            "duration": 295
+        },
+        {
+            "from": "& C",
+            "to": "Servant",
+            "timestamp": "2025-03-06T13:09:08.297000",
+            "duration": 66
+        },
+        {
+            "from": "& C",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-09T02:07:08.297002",
+            "duration": 223
+        },
+        {
+            "from": "& C",
+            "to": "Host",
+            "timestamp": "2025-03-05T20:52:08.297010",
+            "duration": 148
+        },
+        {
+            "from": "& C",
+            "to": "Host",
+            "timestamp": "2025-03-06T03:19:08.297012",
+            "duration": 71
+        },
+        {
+            "from": "& C",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-07T15:11:08.297016",
+            "duration": 216
+        },
+        {
+            "from": "& C",
+            "to": "PISTOL",
+            "timestamp": "2025-03-08T08:36:08.297019",
+            "duration": 118
+        },
+        {
+            "from": "& C",
+            "to": "PISTOL",
+            "timestamp": "2025-03-08T07:45:08.297021",
+            "duration": 108
+        },
+        {
+            "from": "& C",
+            "to": "PISTOL",
+            "timestamp": "2025-03-04T09:56:08.297023",
+            "duration": 102
+        },
+        {
+            "from": "FENTON",
+            "to": "WILLIAM PAGE",
+            "timestamp": "2025-03-04T18:14:08.297025",
+            "duration": 73
+        },
+        {
+            "from": "FENTON",
+            "to": "DOCTOR CAIUS",
+            "timestamp": "2025-03-02T21:32:08.297028",
+            "duration": 93
+        },
+        {
+            "from": "FENTON",
+            "to": "DOCTOR CAIUS",
+            "timestamp": "2025-03-10T12:17:08.297030",
+            "duration": 237
+        },
+        {
+            "from": "FENTON",
+            "to": "MISTRESS QUICKLY",
+            "timestamp": "2025-03-03T07:17:08.297032",
+            "duration": 175
+        },
+        {
+            "from": "FENTON",
+            "to": "MISTRESS QUICKLY",
+            "timestamp": "2025-03-04T06:23:08.297036",
+            "duration": 249
+        },
+        {
+            "from": "FENTON",
+            "to": "MISTRESS QUICKLY",
+            "timestamp": "2025-03-02T22:15:08.297038",
+            "duration": 90
+        },
+        {
+            "from": "FENTON",
+            "to": "RUGBY",
+            "timestamp": "2025-03-02T23:23:08.297040",
+            "duration": 201
+        },
+        {
+            "from": "FENTON",
+            "to": "RUGBY",
+            "timestamp": "2025-03-05T11:10:08.297042",
+            "duration": 69
+        },
+        {
+            "from": "FENTON",
+            "to": "RUGBY",
+            "timestamp": "2025-03-07T13:42:08.297044",
+            "duration": 203
+        },
+        {
+            "from": "FENTON",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-08T22:41:08.297046",
+            "duration": 194
+        },
+        {
+            "from": "FENTON",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-03T11:26:08.297048",
+            "duration": 125
+        },
+        {
+            "from": "FENTON",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-04T02:23:08.297051",
+            "duration": 226
+        },
+        {
+            "from": "FENTON",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-03T11:33:08.297053",
+            "duration": 70
+        },
+        {
+            "from": "FENTON",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-07T09:59:08.297055",
+            "duration": 213
+        },
+        {
+            "from": "FENTON",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-03T06:11:08.297057",
+            "duration": 192
+        },
+        {
+            "from": "FENTON",
+            "to": "NYM",
+            "timestamp": "2025-03-04T09:04:08.297059",
+            "duration": 123
+        },
+        {
+            "from": "FENTON",
+            "to": "FORD",
+            "timestamp": "2025-03-08T19:28:08.297062",
+            "duration": 60
+        },
+        {
+            "from": "FENTON",
+            "to": "FORD",
+            "timestamp": "2025-03-06T04:18:08.297064",
+            "duration": 261
+        },
+        {
+            "from": "FENTON",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-03T11:12:08.297066",
+            "duration": 178
+        },
+        {
+            "from": "FENTON",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-02T15:22:08.297068",
+            "duration": 88
+        },
+        {
+            "from": "FENTON",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-09T07:22:08.297070",
+            "duration": 291
+        },
+        {
+            "from": "FENTON",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T22:21:08.297073",
+            "duration": 173
+        },
+        {
+            "from": "FENTON",
+            "to": "PAGE",
+            "timestamp": "2025-03-10T13:18:08.297075",
+            "duration": 238
+        },
+        {
+            "from": "FENTON",
+            "to": "ROBIN",
+            "timestamp": "2025-03-03T08:57:08.297077",
+            "duration": 94
+        },
+        {
+            "from": "FENTON",
+            "to": "ROBIN",
+            "timestamp": "2025-03-07T13:04:08.297079",
+            "duration": 252
+        },
+        {
+            "from": "FENTON",
+            "to": "ROBIN",
+            "timestamp": "2025-03-04T21:01:08.297081",
+            "duration": 133
+        },
+        {
+            "from": "FENTON",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-10T10:09:08.297084",
+            "duration": 69
+        },
+        {
+            "from": "FENTON",
+            "to": "SLENDER",
+            "timestamp": "2025-03-03T23:30:08.297086",
+            "duration": 137
+        },
+        {
+            "from": "FENTON",
+            "to": "SLENDER",
+            "timestamp": "2025-03-02T18:27:08.297088",
+            "duration": 201
+        },
+        {
+            "from": "FENTON",
+            "to": "Servant",
+            "timestamp": "2025-03-03T23:22:08.297090",
+            "duration": 205
+        },
+        {
+            "from": "FENTON",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-04T18:14:08.297093",
+            "duration": 94
+        },
+        {
+            "from": "FENTON",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-04T04:35:08.297095",
+            "duration": 67
+        },
+        {
+            "from": "FENTON",
+            "to": "Host",
+            "timestamp": "2025-03-07T08:52:08.297097",
+            "duration": 90
+        },
+        {
+            "from": "FENTON",
+            "to": "Host",
+            "timestamp": "2025-03-09T19:47:08.297099",
+            "duration": 148
+        },
+        {
+            "from": "FENTON",
+            "to": "Host",
+            "timestamp": "2025-03-05T13:00:08.297101",
+            "duration": 193
+        },
+        {
+            "from": "FENTON",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-09T02:23:08.297104",
+            "duration": 261
+        },
+        {
+            "from": "FENTON",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-04T09:43:08.297106",
+            "duration": 214
+        },
+        {
+            "from": "FENTON",
+            "to": "PISTOL",
+            "timestamp": "2025-03-05T08:04:08.297108",
+            "duration": 134
+        },
+        {
+            "from": "FENTON",
+            "to": "PISTOL",
+            "timestamp": "2025-03-08T10:04:08.297110",
+            "duration": 213
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "DOCTOR CAIUS",
+            "timestamp": "2025-03-08T12:33:08.297113",
+            "duration": 286
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "MISTRESS QUICKLY",
+            "timestamp": "2025-03-05T17:08:08.297115",
+            "duration": 66
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "RUGBY",
+            "timestamp": "2025-03-03T02:13:08.297117",
+            "duration": 109
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "RUGBY",
+            "timestamp": "2025-03-09T06:52:08.297119",
+            "duration": 183
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-04T22:20:08.297122",
+            "duration": 146
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-06T04:08:08.297126",
+            "duration": 267
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-09T21:13:08.297130",
+            "duration": 239
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-08T13:30:08.297132",
+            "duration": 299
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-02T14:44:08.297140",
+            "duration": 215
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "NYM",
+            "timestamp": "2025-03-07T03:43:08.297142",
+            "duration": 101
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "FORD",
+            "timestamp": "2025-03-06T05:11:08.297144",
+            "duration": 191
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "FORD",
+            "timestamp": "2025-03-02T16:24:08.297146",
+            "duration": 286
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "FORD",
+            "timestamp": "2025-03-07T21:20:08.297148",
+            "duration": 148
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-03T14:03:08.297151",
+            "duration": 173
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-07T11:03:08.297153",
+            "duration": 147
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-03T05:14:08.297155",
+            "duration": 90
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "PAGE",
+            "timestamp": "2025-03-04T22:11:08.297157",
+            "duration": 109
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "PAGE",
+            "timestamp": "2025-03-03T14:07:08.297160",
+            "duration": 196
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-08T14:01:08.297162",
+            "duration": 228
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-04T01:08:08.297164",
+            "duration": 165
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-03T12:37:08.297167",
+            "duration": 123
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-04T18:24:08.297183",
+            "duration": 154
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-04T21:33:08.297193",
+            "duration": 83
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "SLENDER",
+            "timestamp": "2025-03-07T12:32:08.297197",
+            "duration": 187
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "SLENDER",
+            "timestamp": "2025-03-08T15:22:08.297199",
+            "duration": 178
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "SLENDER",
+            "timestamp": "2025-03-07T15:37:08.297201",
+            "duration": 150
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "Servant",
+            "timestamp": "2025-03-08T10:09:08.297208",
+            "duration": 292
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "Servant",
+            "timestamp": "2025-03-08T07:50:08.297212",
+            "duration": 200
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "Servant",
+            "timestamp": "2025-03-06T14:20:08.297215",
+            "duration": 202
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-05T06:57:08.297219",
+            "duration": 128
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-08T22:23:08.297222",
+            "duration": 142
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-06T23:03:08.297224",
+            "duration": 248
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "Host",
+            "timestamp": "2025-03-10T10:48:08.297226",
+            "duration": 185
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "Host",
+            "timestamp": "2025-03-07T20:58:08.297228",
+            "duration": 296
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "Host",
+            "timestamp": "2025-03-08T10:56:08.297232",
+            "duration": 223
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-06T02:23:08.297235",
+            "duration": 104
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-03T20:14:08.297237",
+            "duration": 156
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-03T10:16:08.297239",
+            "duration": 265
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-09T09:29:08.297310",
+            "duration": 151
+        },
+        {
+            "from": "WILLIAM PAGE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-06T01:42:08.297313",
+            "duration": 140
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "MISTRESS QUICKLY",
+            "timestamp": "2025-03-09T22:17:08.297315",
+            "duration": 157
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "MISTRESS QUICKLY",
+            "timestamp": "2025-03-03T15:16:08.297318",
+            "duration": 293
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "MISTRESS QUICKLY",
+            "timestamp": "2025-03-04T17:17:08.297320",
+            "duration": 257
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "RUGBY",
+            "timestamp": "2025-03-05T21:54:08.297322",
+            "duration": 270
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "RUGBY",
+            "timestamp": "2025-03-09T07:21:08.297324",
+            "duration": 284
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "RUGBY",
+            "timestamp": "2025-03-08T03:47:08.297327",
+            "duration": 213
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-10T05:59:08.297329",
+            "duration": 123
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-08T08:15:08.297331",
+            "duration": 107
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-02T22:12:08.297334",
+            "duration": 65
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-07T22:28:08.297336",
+            "duration": 143
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-02T17:52:08.297338",
+            "duration": 202
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-09T11:22:08.297340",
+            "duration": 64
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "NYM",
+            "timestamp": "2025-03-04T19:30:08.297343",
+            "duration": 182
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "FORD",
+            "timestamp": "2025-03-09T03:14:08.297345",
+            "duration": 177
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "FORD",
+            "timestamp": "2025-03-04T04:58:08.297347",
+            "duration": 109
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "FORD",
+            "timestamp": "2025-03-10T10:14:08.297349",
+            "duration": 69
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-05T15:36:08.297352",
+            "duration": 72
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-07T00:34:08.297354",
+            "duration": 171
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "PAGE",
+            "timestamp": "2025-03-08T09:52:08.297357",
+            "duration": 169
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "ROBIN",
+            "timestamp": "2025-03-03T09:08:08.297359",
+            "duration": 270
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "ROBIN",
+            "timestamp": "2025-03-07T12:03:08.297361",
+            "duration": 205
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-06T17:52:08.297364",
+            "duration": 76
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-06T07:35:08.297366",
+            "duration": 250
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "SLENDER",
+            "timestamp": "2025-03-02T22:11:08.297368",
+            "duration": 211
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "SLENDER",
+            "timestamp": "2025-03-08T17:29:08.297370",
+            "duration": 104
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "SLENDER",
+            "timestamp": "2025-03-06T08:06:08.297372",
+            "duration": 146
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "Servant",
+            "timestamp": "2025-03-04T10:34:08.297375",
+            "duration": 92
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-03T05:24:08.297377",
+            "duration": 289
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "Host",
+            "timestamp": "2025-03-09T21:12:08.297380",
+            "duration": 157
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-10T03:02:08.297382",
+            "duration": 290
+        },
+        {
+            "from": "DOCTOR CAIUS",
+            "to": "PISTOL",
+            "timestamp": "2025-03-08T18:44:08.297385",
+            "duration": 170
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "RUGBY",
+            "timestamp": "2025-03-06T16:01:08.297387",
+            "duration": 184
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "RUGBY",
+            "timestamp": "2025-03-08T20:42:08.297389",
+            "duration": 156
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-04T01:02:08.297391",
+            "duration": 181
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-07T11:09:08.297394",
+            "duration": 84
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-03T08:15:08.297396",
+            "duration": 71
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-07T21:38:08.297398",
+            "duration": 237
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-04T07:35:08.297400",
+            "duration": 205
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-05T10:42:08.297403",
+            "duration": 174
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-04T10:47:08.297405",
+            "duration": 215
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "NYM",
+            "timestamp": "2025-03-05T14:58:08.297407",
+            "duration": 123
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "NYM",
+            "timestamp": "2025-03-04T06:31:08.297410",
+            "duration": 243
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "NYM",
+            "timestamp": "2025-03-08T14:51:08.297412",
+            "duration": 96
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "FORD",
+            "timestamp": "2025-03-03T16:06:08.297414",
+            "duration": 204
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "FORD",
+            "timestamp": "2025-03-06T02:25:08.297416",
+            "duration": 290
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-05T06:59:08.297418",
+            "duration": 188
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T01:25:08.297421",
+            "duration": 240
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "PAGE",
+            "timestamp": "2025-03-09T02:41:08.297423",
+            "duration": 87
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T15:58:08.297425",
+            "duration": 98
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "ROBIN",
+            "timestamp": "2025-03-10T10:07:08.297428",
+            "duration": 125
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-04T22:25:08.297431",
+            "duration": 209
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-10T13:01:08.297433",
+            "duration": 151
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "SLENDER",
+            "timestamp": "2025-03-04T07:05:08.297435",
+            "duration": 222
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "SLENDER",
+            "timestamp": "2025-03-06T13:28:08.297437",
+            "duration": 144
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "SLENDER",
+            "timestamp": "2025-03-04T21:55:08.297440",
+            "duration": 86
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "Servant",
+            "timestamp": "2025-03-07T22:47:08.297442",
+            "duration": 102
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-09T08:14:08.297444",
+            "duration": 245
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-05T06:31:08.297446",
+            "duration": 185
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-08T09:19:08.297506",
+            "duration": 68
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "Host",
+            "timestamp": "2025-03-08T01:03:08.297509",
+            "duration": 246
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "Host",
+            "timestamp": "2025-03-06T19:54:08.297511",
+            "duration": 211
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-04T22:00:08.297513",
+            "duration": 205
+        },
+        {
+            "from": "MISTRESS QUICKLY",
+            "to": "PISTOL",
+            "timestamp": "2025-03-10T04:32:08.297516",
+            "duration": 84
+        },
+        {
+            "from": "RUGBY",
+            "to": "SHALLOW",
+            "timestamp": "2025-03-07T00:52:08.297518",
+            "duration": 182
+        },
+        {
+            "from": "RUGBY",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-07T15:28:08.297521",
+            "duration": 251
+        },
+        {
+            "from": "RUGBY",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-07T04:41:08.297523",
+            "duration": 276
+        },
+        {
+            "from": "RUGBY",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-10T12:11:08.297525",
+            "duration": 114
+        },
+        {
+            "from": "RUGBY",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-03T01:26:08.297527",
+            "duration": 193
+        },
+        {
+            "from": "RUGBY",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-04T09:56:08.297529",
+            "duration": 260
+        },
+        {
+            "from": "RUGBY",
+            "to": "NYM",
+            "timestamp": "2025-03-08T13:42:08.297532",
+            "duration": 236
+        },
+        {
+            "from": "RUGBY",
+            "to": "FORD",
+            "timestamp": "2025-03-08T03:22:08.297534",
+            "duration": 233
+        },
+        {
+            "from": "RUGBY",
+            "to": "FORD",
+            "timestamp": "2025-03-03T05:54:08.297536",
+            "duration": 219
+        },
+        {
+            "from": "RUGBY",
+            "to": "FORD",
+            "timestamp": "2025-03-07T13:44:08.297538",
+            "duration": 101
+        },
+        {
+            "from": "RUGBY",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-08T14:54:08.297540",
+            "duration": 139
+        },
+        {
+            "from": "RUGBY",
+            "to": "PAGE",
+            "timestamp": "2025-03-03T14:14:08.297543",
+            "duration": 220
+        },
+        {
+            "from": "RUGBY",
+            "to": "PAGE",
+            "timestamp": "2025-03-02T20:10:08.297545",
+            "duration": 201
+        },
+        {
+            "from": "RUGBY",
+            "to": "PAGE",
+            "timestamp": "2025-03-05T17:18:08.297547",
+            "duration": 274
+        },
+        {
+            "from": "RUGBY",
+            "to": "ROBIN",
+            "timestamp": "2025-03-07T03:33:08.297549",
+            "duration": 96
+        },
+        {
+            "from": "RUGBY",
+            "to": "ROBIN",
+            "timestamp": "2025-03-04T12:35:08.297552",
+            "duration": 298
+        },
+        {
+            "from": "RUGBY",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-09T00:28:08.297554",
+            "duration": 166
+        },
+        {
+            "from": "RUGBY",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-10T06:49:08.297556",
+            "duration": 298
+        },
+        {
+            "from": "RUGBY",
+            "to": "SLENDER",
+            "timestamp": "2025-03-04T17:47:08.297559",
+            "duration": 150
+        },
+        {
+            "from": "RUGBY",
+            "to": "SLENDER",
+            "timestamp": "2025-03-02T20:07:08.297561",
+            "duration": 261
+        },
+        {
+            "from": "RUGBY",
+            "to": "Servant",
+            "timestamp": "2025-03-10T01:13:08.297563",
+            "duration": 295
+        },
+        {
+            "from": "RUGBY",
+            "to": "Servant",
+            "timestamp": "2025-03-09T15:14:08.297565",
+            "duration": 184
+        },
+        {
+            "from": "RUGBY",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-04T09:46:08.297568",
+            "duration": 187
+        },
+        {
+            "from": "RUGBY",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-05T11:25:08.297570",
+            "duration": 203
+        },
+        {
+            "from": "RUGBY",
+            "to": "Host",
+            "timestamp": "2025-03-04T06:59:08.297572",
+            "duration": 209
+        },
+        {
+            "from": "RUGBY",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-02T20:42:08.297574",
+            "duration": 161
+        },
+        {
+            "from": "RUGBY",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-04T05:36:08.297576",
+            "duration": 128
+        },
+        {
+            "from": "RUGBY",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-03T08:32:08.297578",
+            "duration": 270
+        },
+        {
+            "from": "RUGBY",
+            "to": "PISTOL",
+            "timestamp": "2025-03-05T02:27:08.297581",
+            "duration": 152
+        },
+        {
+            "from": "SHALLOW",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-04T21:02:08.297583",
+            "duration": 144
+        },
+        {
+            "from": "SHALLOW",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-07T14:09:08.297585",
+            "duration": 199
+        },
+        {
+            "from": "SHALLOW",
+            "to": "MISTRESS PAGE",
+            "timestamp": "2025-03-09T11:39:08.297587",
+            "duration": 62
+        },
+        {
+            "from": "SHALLOW",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-08T15:09:08.297590",
+            "duration": 167
+        },
+        {
+            "from": "SHALLOW",
+            "to": "NYM",
+            "timestamp": "2025-03-05T10:00:08.297592",
+            "duration": 222
+        },
+        {
+            "from": "SHALLOW",
+            "to": "FORD",
+            "timestamp": "2025-03-04T08:43:08.297594",
+            "duration": 262
+        },
+        {
+            "from": "SHALLOW",
+            "to": "FORD",
+            "timestamp": "2025-03-09T16:39:08.297596",
+            "duration": 132
+        },
+        {
+            "from": "SHALLOW",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-06T02:40:08.297599",
+            "duration": 273
+        },
+        {
+            "from": "SHALLOW",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-10T10:26:08.297601",
+            "duration": 115
+        },
+        {
+            "from": "SHALLOW",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-05T17:17:08.297603",
+            "duration": 244
+        },
+        {
+            "from": "SHALLOW",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T15:57:08.297605",
+            "duration": 248
+        },
+        {
+            "from": "SHALLOW",
+            "to": "PAGE",
+            "timestamp": "2025-03-03T00:10:08.297608",
+            "duration": 209
+        },
+        {
+            "from": "SHALLOW",
+            "to": "ROBIN",
+            "timestamp": "2025-03-06T03:14:08.297610",
+            "duration": 208
+        },
+        {
+            "from": "SHALLOW",
+            "to": "ROBIN",
+            "timestamp": "2025-03-09T10:36:08.297612",
+            "duration": 114
+        },
+        {
+            "from": "SHALLOW",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-08T12:17:08.297614",
+            "duration": 181
+        },
+        {
+            "from": "SHALLOW",
+            "to": "SLENDER",
+            "timestamp": "2025-03-04T23:21:08.297616",
+            "duration": 220
+        },
+        {
+            "from": "SHALLOW",
+            "to": "SLENDER",
+            "timestamp": "2025-03-03T03:18:08.297618",
+            "duration": 61
+        },
+        {
+            "from": "SHALLOW",
+            "to": "Servant",
+            "timestamp": "2025-03-04T02:13:08.297621",
+            "duration": 198
+        },
+        {
+            "from": "SHALLOW",
+            "to": "Servant",
+            "timestamp": "2025-03-03T15:35:08.297623",
+            "duration": 235
+        },
+        {
+            "from": "SHALLOW",
+            "to": "Servant",
+            "timestamp": "2025-03-05T06:32:08.297625",
+            "duration": 194
+        },
+        {
+            "from": "SHALLOW",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-07T03:48:08.297627",
+            "duration": 292
+        },
+        {
+            "from": "SHALLOW",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-03T15:12:08.297629",
+            "duration": 189
+        },
+        {
+            "from": "SHALLOW",
+            "to": "Host",
+            "timestamp": "2025-03-08T08:28:08.297632",
+            "duration": 210
+        },
+        {
+            "from": "SHALLOW",
+            "to": "Host",
+            "timestamp": "2025-03-10T06:16:08.297634",
+            "duration": 276
+        },
+        {
+            "from": "SHALLOW",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-09T06:32:08.297636",
+            "duration": 293
+        },
+        {
+            "from": "SHALLOW",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-09T12:10:08.297638",
+            "duration": 144
+        },
+        {
+            "from": "SHALLOW",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-03T06:28:08.297640",
+            "duration": 293
+        },
+        {
+            "from": "SHALLOW",
+            "to": "PISTOL",
+            "timestamp": "2025-03-09T06:49:08.297643",
+            "duration": 164
+        },
+        {
+            "from": "SHALLOW",
+            "to": "PISTOL",
+            "timestamp": "2025-03-06T23:51:08.297645",
+            "duration": 175
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-10T02:09:08.297647",
+            "duration": 255
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-06T09:42:08.297649",
+            "duration": 160
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "MISTRESS FORD",
+            "timestamp": "2025-03-02T22:19:08.297651",
+            "duration": 196
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "NYM",
+            "timestamp": "2025-03-08T01:38:08.297654",
+            "duration": 270
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "NYM",
+            "timestamp": "2025-03-05T08:20:08.297656",
+            "duration": 286
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "NYM",
+            "timestamp": "2025-03-04T00:39:08.297658",
+            "duration": 136
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "FORD",
+            "timestamp": "2025-03-06T17:59:08.297660",
+            "duration": 149
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "FORD",
+            "timestamp": "2025-03-08T18:13:08.297662",
+            "duration": 85
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-09T10:34:08.297664",
+            "duration": 74
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-04T15:13:08.297670",
+            "duration": 192
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-09T17:59:08.297672",
+            "duration": 99
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T09:36:08.297675",
+            "duration": 145
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-10T04:47:08.297677",
+            "duration": 227
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-04T11:33:08.297679",
+            "duration": 225
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-02T16:01:08.297681",
+            "duration": 254
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-10T12:19:08.297684",
+            "duration": 233
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-06T06:39:08.297686",
+            "duration": 227
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-03T00:33:08.297687",
+            "duration": 260
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "SLENDER",
+            "timestamp": "2025-03-03T02:16:08.297690",
+            "duration": 221
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "SLENDER",
+            "timestamp": "2025-03-08T06:56:08.297692",
+            "duration": 77
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "SLENDER",
+            "timestamp": "2025-03-03T09:18:08.297694",
+            "duration": 255
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "Servant",
+            "timestamp": "2025-03-04T17:45:08.297696",
+            "duration": 288
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "Servant",
+            "timestamp": "2025-03-06T22:08:08.297698",
+            "duration": 184
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-05T10:07:08.297700",
+            "duration": 287
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-04T21:43:08.297702",
+            "duration": 111
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-09T17:31:08.297704",
+            "duration": 124
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "Host",
+            "timestamp": "2025-03-09T11:29:08.297707",
+            "duration": 103
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-04T11:16:08.297709",
+            "duration": 241
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-08T13:35:08.297711",
+            "duration": 181
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-09T11:24:08.297714",
+            "duration": 113
+        },
+        {
+            "from": "MISTRESS PAGE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-10T05:12:08.297716",
+            "duration": 167
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "NYM",
+            "timestamp": "2025-03-09T15:58:08.297718",
+            "duration": 260
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "NYM",
+            "timestamp": "2025-03-04T03:53:08.297720",
+            "duration": 193
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "NYM",
+            "timestamp": "2025-03-08T09:50:08.297723",
+            "duration": 84
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "FORD",
+            "timestamp": "2025-03-08T09:33:08.297725",
+            "duration": 253
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-05T10:11:08.297727",
+            "duration": 216
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-04T15:44:08.297729",
+            "duration": 125
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-07T05:40:08.297731",
+            "duration": 200
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T00:59:08.297734",
+            "duration": 197
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T10:58:08.297736",
+            "duration": 192
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T14:00:08.297738",
+            "duration": 145
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "ROBIN",
+            "timestamp": "2025-03-07T09:36:08.297740",
+            "duration": 101
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "ROBIN",
+            "timestamp": "2025-03-09T11:20:08.297742",
+            "duration": 270
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-10T00:05:08.297744",
+            "duration": 245
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-07T07:51:08.297746",
+            "duration": 85
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-09T02:29:08.297748",
+            "duration": 193
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "SLENDER",
+            "timestamp": "2025-03-09T21:49:08.297751",
+            "duration": 202
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "Servant",
+            "timestamp": "2025-03-03T07:18:08.297753",
+            "duration": 281
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "Servant",
+            "timestamp": "2025-03-04T09:58:08.297755",
+            "duration": 196
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "Servant",
+            "timestamp": "2025-03-03T13:18:08.297757",
+            "duration": 272
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-05T04:58:08.297759",
+            "duration": 113
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-06T09:23:08.297761",
+            "duration": 110
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "Host",
+            "timestamp": "2025-03-09T10:08:08.297764",
+            "duration": 127
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "Host",
+            "timestamp": "2025-03-08T21:10:08.297766",
+            "duration": 280
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-05T12:54:08.297768",
+            "duration": 252
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "PISTOL",
+            "timestamp": "2025-03-05T02:43:08.297770",
+            "duration": 228
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "PISTOL",
+            "timestamp": "2025-03-05T02:10:08.297772",
+            "duration": 153
+        },
+        {
+            "from": "MISTRESS FORD",
+            "to": "PISTOL",
+            "timestamp": "2025-03-08T11:39:08.297774",
+            "duration": 247
+        },
+        {
+            "from": "NYM",
+            "to": "FORD",
+            "timestamp": "2025-03-03T23:41:08.297777",
+            "duration": 60
+        },
+        {
+            "from": "NYM",
+            "to": "FORD",
+            "timestamp": "2025-03-05T07:21:08.297779",
+            "duration": 204
+        },
+        {
+            "from": "NYM",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-04T00:45:08.297781",
+            "duration": 172
+        },
+        {
+            "from": "NYM",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-10T08:14:08.297783",
+            "duration": 99
+        },
+        {
+            "from": "NYM",
+            "to": "PAGE",
+            "timestamp": "2025-03-05T18:16:08.297785",
+            "duration": 82
+        },
+        {
+            "from": "NYM",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T17:42:08.297787",
+            "duration": 255
+        },
+        {
+            "from": "NYM",
+            "to": "PAGE",
+            "timestamp": "2025-03-04T02:46:08.297789",
+            "duration": 293
+        },
+        {
+            "from": "NYM",
+            "to": "ROBIN",
+            "timestamp": "2025-03-09T12:48:08.297791",
+            "duration": 256
+        },
+        {
+            "from": "NYM",
+            "to": "ROBIN",
+            "timestamp": "2025-03-10T05:51:08.297794",
+            "duration": 202
+        },
+        {
+            "from": "NYM",
+            "to": "ROBIN",
+            "timestamp": "2025-03-05T19:56:08.297795",
+            "duration": 148
+        },
+        {
+            "from": "NYM",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-06T16:26:08.297798",
+            "duration": 132
+        },
+        {
+            "from": "NYM",
+            "to": "SLENDER",
+            "timestamp": "2025-03-03T19:10:08.297800",
+            "duration": 251
+        },
+        {
+            "from": "NYM",
+            "to": "Servant",
+            "timestamp": "2025-03-07T21:44:08.297802",
+            "duration": 123
+        },
+        {
+            "from": "NYM",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-05T18:46:08.297805",
+            "duration": 150
+        },
+        {
+            "from": "NYM",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-08T11:10:08.297807",
+            "duration": 164
+        },
+        {
+            "from": "NYM",
+            "to": "Host",
+            "timestamp": "2025-03-08T14:17:08.297809",
+            "duration": 275
+        },
+        {
+            "from": "NYM",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-10T04:15:08.297811",
+            "duration": 196
+        },
+        {
+            "from": "NYM",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-09T21:25:08.297813",
+            "duration": 140
+        },
+        {
+            "from": "NYM",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-03T22:01:08.297835",
+            "duration": 111
+        },
+        {
+            "from": "NYM",
+            "to": "PISTOL",
+            "timestamp": "2025-03-10T07:43:08.297838",
+            "duration": 189
+        },
+        {
+            "from": "NYM",
+            "to": "PISTOL",
+            "timestamp": "2025-03-06T04:50:08.297840",
+            "duration": 250
+        },
+        {
+            "from": "FORD",
+            "to": "ANNE PAGE",
+            "timestamp": "2025-03-04T05:31:08.297843",
+            "duration": 236
+        },
+        {
+            "from": "FORD",
+            "to": "PAGE",
+            "timestamp": "2025-03-08T04:30:08.297845",
+            "duration": 214
+        },
+        {
+            "from": "FORD",
+            "to": "PAGE",
+            "timestamp": "2025-03-10T06:23:08.297847",
+            "duration": 200
+        },
+        {
+            "from": "FORD",
+            "to": "ROBIN",
+            "timestamp": "2025-03-04T23:14:08.297850",
+            "duration": 175
+        },
+        {
+            "from": "FORD",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-09T15:58:08.297852",
+            "duration": 171
+        },
+        {
+            "from": "FORD",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-09T20:26:08.297854",
+            "duration": 62
+        },
+        {
+            "from": "FORD",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-06T18:09:08.297856",
+            "duration": 197
+        },
+        {
+            "from": "FORD",
+            "to": "SLENDER",
+            "timestamp": "2025-03-02T15:25:08.297859",
+            "duration": 94
+        },
+        {
+            "from": "FORD",
+            "to": "Servant",
+            "timestamp": "2025-03-04T10:03:08.297861",
+            "duration": 195
+        },
+        {
+            "from": "FORD",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-09T23:38:08.297863",
+            "duration": 236
+        },
+        {
+            "from": "FORD",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-04T17:06:08.297865",
+            "duration": 241
+        },
+        {
+            "from": "FORD",
+            "to": "Host",
+            "timestamp": "2025-03-07T07:50:08.297868",
+            "duration": 132
+        },
+        {
+            "from": "FORD",
+            "to": "Host",
+            "timestamp": "2025-03-09T09:01:08.297870",
+            "duration": 151
+        },
+        {
+            "from": "FORD",
+            "to": "Host",
+            "timestamp": "2025-03-04T23:25:08.297872",
+            "duration": 145
+        },
+        {
+            "from": "FORD",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-07T14:35:08.297874",
+            "duration": 290
+        },
+        {
+            "from": "FORD",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-08T13:49:08.297876",
+            "duration": 224
+        },
+        {
+            "from": "FORD",
+            "to": "PISTOL",
+            "timestamp": "2025-03-04T06:54:08.297879",
+            "duration": 108
+        },
+        {
+            "from": "FORD",
+            "to": "PISTOL",
+            "timestamp": "2025-03-07T15:07:08.297881",
+            "duration": 178
+        },
+        {
+            "from": "FORD",
+            "to": "PISTOL",
+            "timestamp": "2025-03-04T23:43:08.297883",
+            "duration": 60
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "PAGE",
+            "timestamp": "2025-03-10T09:20:08.297885",
+            "duration": 108
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T01:50:08.297887",
+            "duration": 60
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T10:20:08.297889",
+            "duration": 201
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-04T20:45:08.297892",
+            "duration": 283
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-06T00:02:08.297894",
+            "duration": 270
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-03T03:09:08.297896",
+            "duration": 62
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "SLENDER",
+            "timestamp": "2025-03-04T13:47:08.297899",
+            "duration": 175
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "SLENDER",
+            "timestamp": "2025-03-03T13:19:08.297901",
+            "duration": 136
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "Servant",
+            "timestamp": "2025-03-02T19:21:08.297903",
+            "duration": 83
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-02T15:59:08.297906",
+            "duration": 254
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-03T20:31:08.297908",
+            "duration": 265
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-08T01:35:08.297910",
+            "duration": 208
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "Host",
+            "timestamp": "2025-03-10T00:57:08.297913",
+            "duration": 71
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "Host",
+            "timestamp": "2025-03-03T09:30:08.297915",
+            "duration": 132
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "Host",
+            "timestamp": "2025-03-06T16:46:08.297917",
+            "duration": 159
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-03T10:42:08.297919",
+            "duration": 183
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-03T00:51:08.297921",
+            "duration": 130
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-06T17:24:08.297923",
+            "duration": 190
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-09T01:20:08.297925",
+            "duration": 205
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-05T05:24:08.297928",
+            "duration": 109
+        },
+        {
+            "from": "ANNE PAGE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-04T18:52:08.297930",
+            "duration": 148
+        },
+        {
+            "from": "PAGE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-04T03:51:08.297932",
+            "duration": 178
+        },
+        {
+            "from": "PAGE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-05T00:16:08.297935",
+            "duration": 133
+        },
+        {
+            "from": "PAGE",
+            "to": "ROBIN",
+            "timestamp": "2025-03-09T01:34:08.297937",
+            "duration": 94
+        },
+        {
+            "from": "PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-08T12:39:08.297939",
+            "duration": 63
+        },
+        {
+            "from": "PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-10T10:07:08.297941",
+            "duration": 132
+        },
+        {
+            "from": "PAGE",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-03T10:49:08.297943",
+            "duration": 148
+        },
+        {
+            "from": "PAGE",
+            "to": "SLENDER",
+            "timestamp": "2025-03-03T20:12:08.297946",
+            "duration": 92
+        },
+        {
+            "from": "PAGE",
+            "to": "Servant",
+            "timestamp": "2025-03-10T11:13:08.297949",
+            "duration": 176
+        },
+        {
+            "from": "PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-04T20:19:08.297951",
+            "duration": 79
+        },
+        {
+            "from": "PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-09T15:51:08.297953",
+            "duration": 159
+        },
+        {
+            "from": "PAGE",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-10T02:38:08.297955",
+            "duration": 146
+        },
+        {
+            "from": "PAGE",
+            "to": "Host",
+            "timestamp": "2025-03-10T04:33:08.297957",
+            "duration": 214
+        },
+        {
+            "from": "PAGE",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-08T18:31:08.297960",
+            "duration": 238
+        },
+        {
+            "from": "PAGE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-04T03:43:08.297962",
+            "duration": 80
+        },
+        {
+            "from": "PAGE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-04T08:03:08.297964",
+            "duration": 100
+        },
+        {
+            "from": "PAGE",
+            "to": "PISTOL",
+            "timestamp": "2025-03-10T09:04:08.297967",
+            "duration": 177
+        },
+        {
+            "from": "ROBIN",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-09T11:04:08.297969",
+            "duration": 223
+        },
+        {
+            "from": "ROBIN",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-07T02:19:08.297971",
+            "duration": 209
+        },
+        {
+            "from": "ROBIN",
+            "to": "SIR HUGH EVANS",
+            "timestamp": "2025-03-04T00:43:08.297973",
+            "duration": 114
+        },
+        {
+            "from": "ROBIN",
+            "to": "SLENDER",
+            "timestamp": "2025-03-06T16:31:08.297976",
+            "duration": 168
+        },
+        {
+            "from": "ROBIN",
+            "to": "Servant",
+            "timestamp": "2025-03-03T04:56:08.297978",
+            "duration": 295
+        },
+        {
+            "from": "ROBIN",
+            "to": "Servant",
+            "timestamp": "2025-03-04T21:24:08.297980",
+            "duration": 278
+        },
+        {
+            "from": "ROBIN",
+            "to": "Servant",
+            "timestamp": "2025-03-10T12:49:08.297982",
+            "duration": 73
+        },
+        {
+            "from": "ROBIN",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-10T07:10:08.297985",
+            "duration": 266
+        },
+        {
+            "from": "ROBIN",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-08T15:24:08.297987",
+            "duration": 234
+        },
+        {
+            "from": "ROBIN",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-10T06:15:08.297989",
+            "duration": 110
+        },
+        {
+            "from": "ROBIN",
+            "to": "Host",
+            "timestamp": "2025-03-05T15:20:08.297991",
+            "duration": 275
+        },
+        {
+            "from": "ROBIN",
+            "to": "Host",
+            "timestamp": "2025-03-10T02:35:08.297993",
+            "duration": 140
+        },
+        {
+            "from": "ROBIN",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-07T13:34:08.297996",
+            "duration": 214
+        },
+        {
+            "from": "ROBIN",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-07T02:03:08.297998",
+            "duration": 250
+        },
+        {
+            "from": "ROBIN",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-05T08:00:08.298000",
+            "duration": 210
+        },
+        {
+            "from": "ROBIN",
+            "to": "PISTOL",
+            "timestamp": "2025-03-05T07:28:08.298002",
+            "duration": 209
+        },
+        {
+            "from": "ROBIN",
+            "to": "PISTOL",
+            "timestamp": "2025-03-04T00:36:08.298004",
+            "duration": 100
+        },
+        {
+            "from": "ROBIN",
+            "to": "PISTOL",
+            "timestamp": "2025-03-08T03:07:08.298006",
+            "duration": 283
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "SLENDER",
+            "timestamp": "2025-03-06T06:38:08.298009",
+            "duration": 233
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "SLENDER",
+            "timestamp": "2025-03-06T23:10:08.298014",
+            "duration": 247
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "SLENDER",
+            "timestamp": "2025-03-10T14:18:08.298016",
+            "duration": 201
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "Servant",
+            "timestamp": "2025-03-07T12:07:08.298019",
+            "duration": 112
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-09T00:32:08.298021",
+            "duration": 84
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-08T19:27:08.298023",
+            "duration": 92
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-07T11:47:08.298025",
+            "duration": 235
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "Host",
+            "timestamp": "2025-03-07T21:10:08.298027",
+            "duration": 71
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "Host",
+            "timestamp": "2025-03-07T00:42:08.298030",
+            "duration": 165
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "Host",
+            "timestamp": "2025-03-06T03:15:08.298032",
+            "duration": 252
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-09T07:17:08.298034",
+            "duration": 175
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-09T00:32:08.298036",
+            "duration": 152
+        },
+        {
+            "from": "SIR HUGH EVANS",
+            "to": "PISTOL",
+            "timestamp": "2025-03-06T16:16:08.298038",
+            "duration": 236
+        },
+        {
+            "from": "SLENDER",
+            "to": "Servant",
+            "timestamp": "2025-03-09T05:53:08.298041",
+            "duration": 108
+        },
+        {
+            "from": "SLENDER",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-07T13:39:08.298043",
+            "duration": 254
+        },
+        {
+            "from": "SLENDER",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-04T07:16:08.298045",
+            "duration": 285
+        },
+        {
+            "from": "SLENDER",
+            "to": "Host",
+            "timestamp": "2025-03-06T03:42:08.298047",
+            "duration": 61
+        },
+        {
+            "from": "SLENDER",
+            "to": "Host",
+            "timestamp": "2025-03-07T03:23:08.298049",
+            "duration": 254
+        },
+        {
+            "from": "SLENDER",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-03T07:19:08.298051",
+            "duration": 210
+        },
+        {
+            "from": "SLENDER",
+            "to": "PISTOL",
+            "timestamp": "2025-03-02T22:58:08.298054",
+            "duration": 134
+        },
+        {
+            "from": "SLENDER",
+            "to": "PISTOL",
+            "timestamp": "2025-03-06T01:29:08.298056",
+            "duration": 223
+        },
+        {
+            "from": "SLENDER",
+            "to": "PISTOL",
+            "timestamp": "2025-03-04T02:00:08.298058",
+            "duration": 259
+        },
+        {
+            "from": "Servant",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-08T06:06:08.298060",
+            "duration": 111
+        },
+        {
+            "from": "Servant",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-07T16:16:08.298063",
+            "duration": 250
+        },
+        {
+            "from": "Servant",
+            "to": "FALSTAFF",
+            "timestamp": "2025-03-10T10:47:08.298065",
+            "duration": 107
+        },
+        {
+            "from": "Servant",
+            "to": "Host",
+            "timestamp": "2025-03-10T03:10:08.298067",
+            "duration": 195
+        },
+        {
+            "from": "Servant",
+            "to": "Host",
+            "timestamp": "2025-03-10T08:44:08.298069",
+            "duration": 291
+        },
+        {
+            "from": "Servant",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-06T06:30:08.298071",
+            "duration": 201
+        },
+        {
+            "from": "Servant",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-08T00:58:08.298074",
+            "duration": 116
+        },
+        {
+            "from": "Servant",
+            "to": "PISTOL",
+            "timestamp": "2025-03-10T00:13:08.298076",
+            "duration": 166
+        },
+        {
+            "from": "FALSTAFF",
+            "to": "Host",
+            "timestamp": "2025-03-06T00:41:08.298079",
+            "duration": 262
+        },
+        {
+            "from": "FALSTAFF",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-02T19:31:08.298081",
+            "duration": 255
+        },
+        {
+            "from": "FALSTAFF",
+            "to": "PISTOL",
+            "timestamp": "2025-03-05T15:41:08.298083",
+            "duration": 114
+        },
+        {
+            "from": "FALSTAFF",
+            "to": "PISTOL",
+            "timestamp": "2025-03-10T10:28:08.298085",
+            "duration": 250
+        },
+        {
+            "from": "FALSTAFF",
+            "to": "PISTOL",
+            "timestamp": "2025-03-03T05:53:08.298087",
+            "duration": 132
+        },
+        {
+            "from": "Host",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-03T20:49:08.298090",
+            "duration": 193
+        },
+        {
+            "from": "Host",
+            "to": "BARDOLPH",
+            "timestamp": "2025-03-07T15:22:08.298092",
+            "duration": 111
+        },
+        {
+            "from": "Host",
+            "to": "PISTOL",
+            "timestamp": "2025-03-04T02:24:08.298094",
+            "duration": 108
+        },
+        {
+            "from": "Host",
+            "to": "PISTOL",
+            "timestamp": "2025-03-07T14:18:08.298096",
+            "duration": 181
+        },
+        {
+            "from": "BARDOLPH",
+            "to": "PISTOL",
+            "timestamp": "2025-03-04T23:03:08.298098",
+            "duration": 85
+        },
+        {
+            "from": "BARDOLPH",
+            "to": "PISTOL",
+            "timestamp": "2025-03-03T18:18:08.298100",
+            "duration": 174
+        },
+        {
+            "from": "BARDOLPH",
+            "to": "PISTOL",
+            "timestamp": "2025-03-09T20:05:08.298102",
+            "duration": 226
+        }
+    ],
+    "contact_data": {
+        "SIMPLE": {
+            "phone": "773-774-6249",
+            "email": "simple@marketdyn.com",
+            "title": "Market Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "& C": {
+            "phone": "872-878-8621",
+            "email": ".c@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "FENTON": {
+            "phone": "312-219-7670",
+            "email": "fenton@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "WILLIAM PAGE": {
+            "phone": "312-612-7086",
+            "email": "william.page@marketdyn.com",
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "DOCTOR CAIUS": {
+            "phone": "773-517-9035",
+            "email": "doctor.caius@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "MISTRESS QUICKLY": {
+            "phone": "312-210-5264",
+            "email": "mistress.quickly@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "RUGBY": {
+            "phone": "773-595-6112",
+            "email": "rugby@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "SHALLOW": {
+            "phone": "872-968-4819",
+            "email": "shallow@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "MISTRESS PAGE": {
+            "phone": "312-427-1598",
+            "email": "mistress.page@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "MISTRESS FORD": {
+            "phone": "312-611-5633",
+            "email": "mistress.ford@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "NYM": {
+            "phone": "773-898-9118",
+            "email": "nym@commercelink.com",
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "FORD": {
+            "phone": "773-748-8535",
+            "email": "ford@globaltradepart.com",
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "ANNE PAGE": {
+            "phone": "773-308-9763",
+            "email": "anne.page@commercetrade.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "PAGE": {
+            "phone": "312-838-2639",
+            "email": "page@commercetrade.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "ROBIN": {
+            "phone": "312-950-3009",
+            "email": "robin@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "SIR HUGH EVANS": {
+            "phone": "773-761-3556",
+            "email": "sir.hugh.evans@legacycap.com",
+            "title": "Chief Investment Officer",
+            "company": "Legacy Capital Partners",
+            "industry": "Noble"
+        },
+        "SLENDER": {
+            "phone": "773-354-4505",
+            "email": "slender@merchantsexchange.com",
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Servant": {
+            "phone": "312-817-5976",
+            "email": "servant@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "FALSTAFF": {
+            "phone": "872-932-4246",
+            "email": "falstaff@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Host": {
+            "phone": "773-400-3172",
+            "email": "host@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "BARDOLPH": {
+            "phone": "773-420-3451",
+            "email": "bardolph@commercetrade.com",
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "PISTOL": {
+            "phone": "872-514-3477",
+            "email": "pistol@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        }
+    }
+}

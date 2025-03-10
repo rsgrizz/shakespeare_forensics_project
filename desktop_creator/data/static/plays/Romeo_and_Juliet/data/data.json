@@ -1,0 +1,4970 @@
+{
+    "characters": {
+        "FRIAR LAURENCE": {
+            "title": "Community Relations Director",
+            "company": "Spirit & Soul Wellness",
+            "industry": "Religious",
+            "location": "Chicago",
+            "phone": "872-909-5086",
+            "email": "friar.laurence@spiritsoul.org"
+        },
+        "BALTHASAR": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-941-3197",
+            "email": "balthasar@merchantsexchange.com"
+        },
+        "PARIS": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-308-5105",
+            "email": "paris@marketdyn.com"
+        },
+        "CAPULET": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-344-2771",
+            "email": "capulet@commercelink.com"
+        },
+        "Third Watchman": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-203-8898",
+            "email": "third.watchman@globaltradepart.com"
+        },
+        "MERCUTIO": {
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-119-3317",
+            "email": "mercutio@globaltradepart.com"
+        },
+        "MONTAGUE": {
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-311-5882",
+            "email": "montague@merchantsexchange.com"
+        },
+        "ABRAHAM": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-673-7762",
+            "email": "abraham@marketdyn.com"
+        },
+        "SAMPSON": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-880-4388",
+            "email": "sampson@commercetrade.com"
+        },
+        "LADY MONTAGUE": {
+            "title": "Senior Vice President",
+            "company": "Noble & Sterling Partners",
+            "industry": "Noble",
+            "location": "Houston",
+            "phone": "281-796-7642",
+            "email": "lady.montague@noblesterling.com"
+        },
+        "Chorus": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-627-2513",
+            "email": "chorus@marketdyn.com"
+        },
+        "PRINCE": {
+            "title": "Chief Executive Officer",
+            "company": "Regency Financial",
+            "industry": "Royal",
+            "location": "New York",
+            "phone": "212-631-4996",
+            "email": "prince@regencyfinancial.com"
+        },
+        "PAGE": {
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-936-7780",
+            "email": "page@globaltradepart.com"
+        },
+        "Third Musician": {
+            "title": "Arts Program Manager",
+            "company": "Dramatic Works Productions",
+            "industry": "Artistic",
+            "location": "Houston",
+            "phone": "281-215-3899",
+            "email": "third.musician@dramaticworks.com"
+        },
+        "Nurse": {
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-669-3745",
+            "email": "nurse@merchantsexchange.com"
+        },
+        "TYBALT": {
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-734-7939",
+            "email": "tybalt@merchantsexchange.com"
+        },
+        "BENVOLIO": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-957-2128",
+            "email": "benvolio@merchantsexchange.com"
+        },
+        "LADY  CAPULET": {
+            "title": "Portfolio Director",
+            "company": "Pinnacle Investment Group",
+            "industry": "Noble",
+            "location": "New York",
+            "phone": "917-158-4436",
+            "email": "lady..capulet@pinnacleinv.com"
+        },
+        "LADY CAPULET": {
+            "title": "Portfolio Director",
+            "company": "Pinnacle Investment Group",
+            "industry": "Noble",
+            "location": "New York",
+            "phone": "212-827-7843",
+            "email": "lady.capulet@pinnacleinv.com"
+        },
+        "Servant": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-779-6379",
+            "email": "servant@tradewinds.com"
+        },
+        "FRIAR JOHN": {
+            "title": "Spiritual Advisor",
+            "company": "Spiritual Wellness Institute",
+            "industry": "Religious",
+            "location": "San Francisco",
+            "phone": "628-469-3726",
+            "email": "friar.john@spiritualwellness.org"
+        },
+        "GREGORY": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-278-6598",
+            "email": "gregory@merchantsexchange.com"
+        },
+        "JULIET": {
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-168-1193",
+            "email": "juliet@marketdyn.com"
+        },
+        "Apothecary": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-981-9814",
+            "email": "apothecary@globaltradepart.com"
+        },
+        "Musician": {
+            "title": "Artistic Director",
+            "company": "Dramatic Works Productions",
+            "industry": "Artistic",
+            "location": "Los Angeles",
+            "phone": "310-969-9699",
+            "email": "musician@dramaticworks.com"
+        },
+        "PETER": {
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-947-7638",
+            "email": "peter@commercetrade.com"
+        },
+        "ROMEO": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-820-9830",
+            "email": "romeo@globaltradepart.com"
+        },
+        "NURSE": {
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-893-6723",
+            "email": "nurse@tradewinds.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "BALTHASAR",
+            "timestamp": "2025-03-09T06:21:07.923235",
+            "duration": 68
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "BALTHASAR",
+            "timestamp": "2025-03-06T19:29:07.923246",
+            "duration": 183
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "PARIS",
+            "timestamp": "2025-03-07T09:43:07.923250",
+            "duration": 158
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "CAPULET",
+            "timestamp": "2025-03-10T05:11:07.923252",
+            "duration": 295
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Third Watchman",
+            "timestamp": "2025-03-03T12:28:07.923273",
+            "duration": 269
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Third Watchman",
+            "timestamp": "2025-03-08T11:01:07.923281",
+            "duration": 134
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Third Watchman",
+            "timestamp": "2025-03-04T22:52:07.923284",
+            "duration": 61
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "MERCUTIO",
+            "timestamp": "2025-03-09T18:51:07.923287",
+            "duration": 224
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "MERCUTIO",
+            "timestamp": "2025-03-03T00:56:07.923289",
+            "duration": 126
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "MERCUTIO",
+            "timestamp": "2025-03-04T11:19:07.923291",
+            "duration": 110
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-03T17:05:07.923294",
+            "duration": 293
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-07T01:37:07.923296",
+            "duration": 114
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-06T16:23:07.923299",
+            "duration": 177
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-07T01:59:07.923301",
+            "duration": 167
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-03T09:29:07.923304",
+            "duration": 93
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-06T21:25:07.923306",
+            "duration": 178
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-06T19:57:07.923308",
+            "duration": 269
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-02T20:50:07.923310",
+            "duration": 84
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-05T04:32:07.923312",
+            "duration": 95
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Chorus",
+            "timestamp": "2025-03-04T20:52:07.923315",
+            "duration": 101
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Chorus",
+            "timestamp": "2025-03-02T20:23:07.923317",
+            "duration": 287
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Chorus",
+            "timestamp": "2025-03-05T20:57:07.923319",
+            "duration": 125
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "PRINCE",
+            "timestamp": "2025-03-10T10:43:07.923322",
+            "duration": 63
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "PAGE",
+            "timestamp": "2025-03-05T10:10:07.923324",
+            "duration": 277
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "PAGE",
+            "timestamp": "2025-03-10T08:11:07.923326",
+            "duration": 289
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-07T18:03:07.923329",
+            "duration": 300
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-03T02:16:07.923331",
+            "duration": 293
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-09T14:11:07.923333",
+            "duration": 142
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Nurse",
+            "timestamp": "2025-03-06T16:41:07.923335",
+            "duration": 161
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Nurse",
+            "timestamp": "2025-03-03T17:54:07.923338",
+            "duration": 103
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Nurse",
+            "timestamp": "2025-03-06T13:51:07.923340",
+            "duration": 263
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-05T13:54:07.923342",
+            "duration": 210
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-04T21:01:07.923344",
+            "duration": 158
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-08T21:54:07.923347",
+            "duration": 221
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-04T20:46:07.923349",
+            "duration": 145
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-07T00:23:07.923351",
+            "duration": 235
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-03T01:36:07.923353",
+            "duration": 267
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-10T05:21:07.923356",
+            "duration": 107
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-07T14:53:07.923359",
+            "duration": 184
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-04T02:27:07.923361",
+            "duration": 185
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-08T20:45:07.923363",
+            "duration": 296
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Servant",
+            "timestamp": "2025-03-06T21:25:07.923365",
+            "duration": 265
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Servant",
+            "timestamp": "2025-03-06T10:40:07.923368",
+            "duration": 106
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-03T14:02:07.923370",
+            "duration": 217
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-03T17:11:07.923372",
+            "duration": 279
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-05T09:50:07.923374",
+            "duration": 147
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-03T22:56:07.923377",
+            "duration": 293
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-04T23:24:07.923379",
+            "duration": 176
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "JULIET",
+            "timestamp": "2025-03-05T10:16:07.923381",
+            "duration": 68
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "JULIET",
+            "timestamp": "2025-03-05T17:26:07.923383",
+            "duration": 225
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "JULIET",
+            "timestamp": "2025-03-05T02:10:07.923385",
+            "duration": 96
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Apothecary",
+            "timestamp": "2025-03-09T03:31:07.923388",
+            "duration": 245
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Musician",
+            "timestamp": "2025-03-05T07:14:07.923390",
+            "duration": 60
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "Musician",
+            "timestamp": "2025-03-08T19:32:07.923392",
+            "duration": 201
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "PETER",
+            "timestamp": "2025-03-08T06:15:07.923395",
+            "duration": 273
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "PETER",
+            "timestamp": "2025-03-10T01:45:07.923397",
+            "duration": 288
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-10T06:12:07.923399",
+            "duration": 108
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "NURSE",
+            "timestamp": "2025-03-10T05:25:07.923401",
+            "duration": 277
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "NURSE",
+            "timestamp": "2025-03-04T20:21:07.923403",
+            "duration": 288
+        },
+        {
+            "from": "FRIAR LAURENCE",
+            "to": "NURSE",
+            "timestamp": "2025-03-10T09:05:07.923405",
+            "duration": 147
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "PARIS",
+            "timestamp": "2025-03-05T12:58:07.923408",
+            "duration": 120
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "PARIS",
+            "timestamp": "2025-03-06T01:53:07.923410",
+            "duration": 233
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "PARIS",
+            "timestamp": "2025-03-03T02:18:07.923412",
+            "duration": 257
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "CAPULET",
+            "timestamp": "2025-03-09T19:09:07.923415",
+            "duration": 83
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "CAPULET",
+            "timestamp": "2025-03-03T15:26:07.923417",
+            "duration": 105
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Third Watchman",
+            "timestamp": "2025-03-03T06:32:07.923420",
+            "duration": 195
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Third Watchman",
+            "timestamp": "2025-03-09T08:16:07.923422",
+            "duration": 244
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Third Watchman",
+            "timestamp": "2025-03-10T12:51:07.923424",
+            "duration": 147
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "MERCUTIO",
+            "timestamp": "2025-03-09T02:18:07.923426",
+            "duration": 100
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-06T00:59:07.923429",
+            "duration": 211
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-07T02:07:07.923431",
+            "duration": 153
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-04T14:36:07.923433",
+            "duration": 120
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-04T05:14:07.923435",
+            "duration": 134
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-10T11:05:07.923437",
+            "duration": 263
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-08T15:46:07.923439",
+            "duration": 148
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-06T08:25:07.923442",
+            "duration": 207
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-06T18:40:07.923444",
+            "duration": 299
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-06T17:17:07.923446",
+            "duration": 147
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-08T00:21:07.923449",
+            "duration": 219
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Chorus",
+            "timestamp": "2025-03-03T08:11:07.923451",
+            "duration": 105
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "PRINCE",
+            "timestamp": "2025-03-03T18:10:07.923458",
+            "duration": 280
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "PAGE",
+            "timestamp": "2025-03-04T02:50:07.923460",
+            "duration": 178
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T03:44:07.923462",
+            "duration": 269
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Third Musician",
+            "timestamp": "2025-03-09T12:29:07.923464",
+            "duration": 187
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Third Musician",
+            "timestamp": "2025-03-03T23:02:07.923466",
+            "duration": 119
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Nurse",
+            "timestamp": "2025-03-06T02:33:07.923469",
+            "duration": 161
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Nurse",
+            "timestamp": "2025-03-06T12:36:07.923471",
+            "duration": 174
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "TYBALT",
+            "timestamp": "2025-03-07T12:24:07.923473",
+            "duration": 91
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "TYBALT",
+            "timestamp": "2025-03-07T13:25:07.923475",
+            "duration": 215
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-03T22:18:07.923478",
+            "duration": 145
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-07T04:00:07.923480",
+            "duration": 133
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-08T23:19:07.923482",
+            "duration": 176
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-07T19:08:07.923484",
+            "duration": 173
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-09T16:33:07.923487",
+            "duration": 246
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-04T13:32:07.923489",
+            "duration": 161
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-10T01:22:07.923491",
+            "duration": 114
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Servant",
+            "timestamp": "2025-03-06T16:28:07.923493",
+            "duration": 126
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-06T12:59:07.923496",
+            "duration": 160
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T11:42:07.923498",
+            "duration": 235
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T11:30:07.923500",
+            "duration": 297
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "GREGORY",
+            "timestamp": "2025-03-04T22:19:07.923503",
+            "duration": 63
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T08:25:07.923505",
+            "duration": 103
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T10:15:07.923507",
+            "duration": 282
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T00:13:07.923509",
+            "duration": 88
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Apothecary",
+            "timestamp": "2025-03-04T07:10:07.923512",
+            "duration": 108
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Musician",
+            "timestamp": "2025-03-06T04:28:07.923514",
+            "duration": 218
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "PETER",
+            "timestamp": "2025-03-05T02:15:07.923517",
+            "duration": 226
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "PETER",
+            "timestamp": "2025-03-03T22:26:07.923519",
+            "duration": 96
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ROMEO",
+            "timestamp": "2025-03-03T15:39:07.923521",
+            "duration": 176
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ROMEO",
+            "timestamp": "2025-03-05T22:56:07.923524",
+            "duration": 86
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T19:12:07.923526",
+            "duration": 113
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "NURSE",
+            "timestamp": "2025-03-08T20:23:07.923528",
+            "duration": 250
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "NURSE",
+            "timestamp": "2025-03-08T18:02:07.923530",
+            "duration": 241
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "NURSE",
+            "timestamp": "2025-03-09T09:03:07.923533",
+            "duration": 100
+        },
+        {
+            "from": "PARIS",
+            "to": "CAPULET",
+            "timestamp": "2025-03-09T10:47:07.923535",
+            "duration": 174
+        },
+        {
+            "from": "PARIS",
+            "to": "CAPULET",
+            "timestamp": "2025-03-10T10:04:07.923537",
+            "duration": 64
+        },
+        {
+            "from": "PARIS",
+            "to": "CAPULET",
+            "timestamp": "2025-03-03T14:39:07.923539",
+            "duration": 231
+        },
+        {
+            "from": "PARIS",
+            "to": "Third Watchman",
+            "timestamp": "2025-03-06T17:56:07.923542",
+            "duration": 82
+        },
+        {
+            "from": "PARIS",
+            "to": "MERCUTIO",
+            "timestamp": "2025-03-07T05:40:07.923544",
+            "duration": 271
+        },
+        {
+            "from": "PARIS",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-04T11:14:07.923546",
+            "duration": 144
+        },
+        {
+            "from": "PARIS",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-07T14:58:07.923548",
+            "duration": 146
+        },
+        {
+            "from": "PARIS",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-06T09:28:07.923551",
+            "duration": 189
+        },
+        {
+            "from": "PARIS",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-06T11:09:07.923553",
+            "duration": 193
+        },
+        {
+            "from": "PARIS",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-06T09:00:07.923555",
+            "duration": 262
+        },
+        {
+            "from": "PARIS",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-02T23:45:07.923558",
+            "duration": 279
+        },
+        {
+            "from": "PARIS",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-06T04:31:07.923560",
+            "duration": 241
+        },
+        {
+            "from": "PARIS",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-08T02:05:07.923562",
+            "duration": 272
+        },
+        {
+            "from": "PARIS",
+            "to": "Chorus",
+            "timestamp": "2025-03-10T10:42:07.923564",
+            "duration": 159
+        },
+        {
+            "from": "PARIS",
+            "to": "PRINCE",
+            "timestamp": "2025-03-05T01:28:07.923567",
+            "duration": 213
+        },
+        {
+            "from": "PARIS",
+            "to": "PRINCE",
+            "timestamp": "2025-03-02T18:03:07.923569",
+            "duration": 118
+        },
+        {
+            "from": "PARIS",
+            "to": "PAGE",
+            "timestamp": "2025-03-05T11:45:07.923571",
+            "duration": 175
+        },
+        {
+            "from": "PARIS",
+            "to": "PAGE",
+            "timestamp": "2025-03-10T08:43:07.923573",
+            "duration": 175
+        },
+        {
+            "from": "PARIS",
+            "to": "Third Musician",
+            "timestamp": "2025-03-04T11:00:07.923576",
+            "duration": 161
+        },
+        {
+            "from": "PARIS",
+            "to": "Third Musician",
+            "timestamp": "2025-03-06T02:14:07.923578",
+            "duration": 129
+        },
+        {
+            "from": "PARIS",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T23:22:07.923580",
+            "duration": 165
+        },
+        {
+            "from": "PARIS",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T23:20:07.923582",
+            "duration": 290
+        },
+        {
+            "from": "PARIS",
+            "to": "Nurse",
+            "timestamp": "2025-03-05T21:55:07.923584",
+            "duration": 172
+        },
+        {
+            "from": "PARIS",
+            "to": "TYBALT",
+            "timestamp": "2025-03-08T19:15:07.923590",
+            "duration": 142
+        },
+        {
+            "from": "PARIS",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-06T03:20:07.923593",
+            "duration": 125
+        },
+        {
+            "from": "PARIS",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-07T17:24:07.923595",
+            "duration": 141
+        },
+        {
+            "from": "PARIS",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-05T15:10:07.923597",
+            "duration": 91
+        },
+        {
+            "from": "PARIS",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-02T21:07:07.923599",
+            "duration": 264
+        },
+        {
+            "from": "PARIS",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-05T19:29:07.923601",
+            "duration": 176
+        },
+        {
+            "from": "PARIS",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-06T14:02:07.923603",
+            "duration": 88
+        },
+        {
+            "from": "PARIS",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-07T19:43:07.923606",
+            "duration": 68
+        },
+        {
+            "from": "PARIS",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-10T13:42:07.923608",
+            "duration": 69
+        },
+        {
+            "from": "PARIS",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-08T04:15:07.923610",
+            "duration": 98
+        },
+        {
+            "from": "PARIS",
+            "to": "Servant",
+            "timestamp": "2025-03-04T09:03:07.923612",
+            "duration": 180
+        },
+        {
+            "from": "PARIS",
+            "to": "Servant",
+            "timestamp": "2025-03-07T12:56:07.923614",
+            "duration": 139
+        },
+        {
+            "from": "PARIS",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-08T09:00:07.923617",
+            "duration": 147
+        },
+        {
+            "from": "PARIS",
+            "to": "GREGORY",
+            "timestamp": "2025-03-05T01:59:07.923619",
+            "duration": 164
+        },
+        {
+            "from": "PARIS",
+            "to": "GREGORY",
+            "timestamp": "2025-03-09T09:12:07.923621",
+            "duration": 111
+        },
+        {
+            "from": "PARIS",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T17:29:07.923623",
+            "duration": 259
+        },
+        {
+            "from": "PARIS",
+            "to": "JULIET",
+            "timestamp": "2025-03-04T02:33:07.923625",
+            "duration": 270
+        },
+        {
+            "from": "PARIS",
+            "to": "Apothecary",
+            "timestamp": "2025-03-10T13:39:07.923628",
+            "duration": 202
+        },
+        {
+            "from": "PARIS",
+            "to": "Apothecary",
+            "timestamp": "2025-03-04T21:10:07.923630",
+            "duration": 132
+        },
+        {
+            "from": "PARIS",
+            "to": "Musician",
+            "timestamp": "2025-03-03T17:58:07.923632",
+            "duration": 166
+        },
+        {
+            "from": "PARIS",
+            "to": "PETER",
+            "timestamp": "2025-03-05T03:49:07.923634",
+            "duration": 158
+        },
+        {
+            "from": "PARIS",
+            "to": "PETER",
+            "timestamp": "2025-03-10T08:26:07.923636",
+            "duration": 115
+        },
+        {
+            "from": "PARIS",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T14:36:07.923638",
+            "duration": 173
+        },
+        {
+            "from": "PARIS",
+            "to": "ROMEO",
+            "timestamp": "2025-03-04T16:08:07.923641",
+            "duration": 290
+        },
+        {
+            "from": "PARIS",
+            "to": "ROMEO",
+            "timestamp": "2025-03-09T13:41:07.923643",
+            "duration": 76
+        },
+        {
+            "from": "PARIS",
+            "to": "NURSE",
+            "timestamp": "2025-03-09T06:43:07.923645",
+            "duration": 129
+        },
+        {
+            "from": "PARIS",
+            "to": "NURSE",
+            "timestamp": "2025-03-04T04:04:07.923647",
+            "duration": 103
+        },
+        {
+            "from": "CAPULET",
+            "to": "Third Watchman",
+            "timestamp": "2025-03-06T20:55:07.923650",
+            "duration": 229
+        },
+        {
+            "from": "CAPULET",
+            "to": "Third Watchman",
+            "timestamp": "2025-03-07T01:17:07.923652",
+            "duration": 246
+        },
+        {
+            "from": "CAPULET",
+            "to": "Third Watchman",
+            "timestamp": "2025-03-06T20:04:07.923654",
+            "duration": 236
+        },
+        {
+            "from": "CAPULET",
+            "to": "MERCUTIO",
+            "timestamp": "2025-03-07T11:31:07.923656",
+            "duration": 101
+        },
+        {
+            "from": "CAPULET",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-04T21:51:07.923658",
+            "duration": 194
+        },
+        {
+            "from": "CAPULET",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-06T11:08:07.923660",
+            "duration": 126
+        },
+        {
+            "from": "CAPULET",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-03T21:13:07.923662",
+            "duration": 191
+        },
+        {
+            "from": "CAPULET",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-08T00:06:07.923665",
+            "duration": 122
+        },
+        {
+            "from": "CAPULET",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-09T11:10:07.923667",
+            "duration": 168
+        },
+        {
+            "from": "CAPULET",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-05T19:29:07.923669",
+            "duration": 274
+        },
+        {
+            "from": "CAPULET",
+            "to": "Chorus",
+            "timestamp": "2025-03-03T14:25:07.923672",
+            "duration": 149
+        },
+        {
+            "from": "CAPULET",
+            "to": "Chorus",
+            "timestamp": "2025-03-06T23:07:07.923674",
+            "duration": 182
+        },
+        {
+            "from": "CAPULET",
+            "to": "PRINCE",
+            "timestamp": "2025-03-04T08:54:07.923676",
+            "duration": 278
+        },
+        {
+            "from": "CAPULET",
+            "to": "PRINCE",
+            "timestamp": "2025-03-05T05:50:07.923678",
+            "duration": 199
+        },
+        {
+            "from": "CAPULET",
+            "to": "PAGE",
+            "timestamp": "2025-03-04T10:30:07.923680",
+            "duration": 97
+        },
+        {
+            "from": "CAPULET",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T06:30:07.923683",
+            "duration": 76
+        },
+        {
+            "from": "CAPULET",
+            "to": "PAGE",
+            "timestamp": "2025-03-04T12:50:07.923685",
+            "duration": 139
+        },
+        {
+            "from": "CAPULET",
+            "to": "Third Musician",
+            "timestamp": "2025-03-09T02:08:07.923687",
+            "duration": 114
+        },
+        {
+            "from": "CAPULET",
+            "to": "Third Musician",
+            "timestamp": "2025-03-09T11:09:07.923689",
+            "duration": 219
+        },
+        {
+            "from": "CAPULET",
+            "to": "Nurse",
+            "timestamp": "2025-03-03T02:31:07.923691",
+            "duration": 247
+        },
+        {
+            "from": "CAPULET",
+            "to": "TYBALT",
+            "timestamp": "2025-03-04T12:01:07.923693",
+            "duration": 180
+        },
+        {
+            "from": "CAPULET",
+            "to": "TYBALT",
+            "timestamp": "2025-03-07T18:52:07.923695",
+            "duration": 199
+        },
+        {
+            "from": "CAPULET",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-07T19:46:07.923698",
+            "duration": 100
+        },
+        {
+            "from": "CAPULET",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-02T23:33:07.923700",
+            "duration": 166
+        },
+        {
+            "from": "CAPULET",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-09T14:02:07.923702",
+            "duration": 299
+        },
+        {
+            "from": "CAPULET",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-06T13:45:07.923704",
+            "duration": 115
+        },
+        {
+            "from": "CAPULET",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-03T01:40:07.923706",
+            "duration": 213
+        },
+        {
+            "from": "CAPULET",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-04T16:01:07.923708",
+            "duration": 146
+        },
+        {
+            "from": "CAPULET",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-05T20:11:07.923710",
+            "duration": 128
+        },
+        {
+            "from": "CAPULET",
+            "to": "Servant",
+            "timestamp": "2025-03-02T21:34:07.923713",
+            "duration": 185
+        },
+        {
+            "from": "CAPULET",
+            "to": "Servant",
+            "timestamp": "2025-03-04T12:10:07.923715",
+            "duration": 116
+        },
+        {
+            "from": "CAPULET",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-02T20:11:07.923717",
+            "duration": 80
+        },
+        {
+            "from": "CAPULET",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-08T15:27:07.923719",
+            "duration": 134
+        },
+        {
+            "from": "CAPULET",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T04:33:07.923721",
+            "duration": 155
+        },
+        {
+            "from": "CAPULET",
+            "to": "GREGORY",
+            "timestamp": "2025-03-03T15:55:07.923723",
+            "duration": 73
+        },
+        {
+            "from": "CAPULET",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T07:53:07.923725",
+            "duration": 226
+        },
+        {
+            "from": "CAPULET",
+            "to": "JULIET",
+            "timestamp": "2025-03-04T12:52:07.923728",
+            "duration": 294
+        },
+        {
+            "from": "CAPULET",
+            "to": "Apothecary",
+            "timestamp": "2025-03-07T01:49:07.923730",
+            "duration": 117
+        },
+        {
+            "from": "CAPULET",
+            "to": "Musician",
+            "timestamp": "2025-03-10T03:19:07.923733",
+            "duration": 275
+        },
+        {
+            "from": "CAPULET",
+            "to": "Musician",
+            "timestamp": "2025-03-06T10:50:07.923735",
+            "duration": 93
+        },
+        {
+            "from": "CAPULET",
+            "to": "Musician",
+            "timestamp": "2025-03-10T10:36:07.923737",
+            "duration": 165
+        },
+        {
+            "from": "CAPULET",
+            "to": "PETER",
+            "timestamp": "2025-03-06T00:54:07.923739",
+            "duration": 202
+        },
+        {
+            "from": "CAPULET",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T15:34:07.923741",
+            "duration": 146
+        },
+        {
+            "from": "CAPULET",
+            "to": "NURSE",
+            "timestamp": "2025-03-10T01:25:07.923744",
+            "duration": 220
+        },
+        {
+            "from": "Third Watchman",
+            "to": "MERCUTIO",
+            "timestamp": "2025-03-04T16:51:07.923746",
+            "duration": 166
+        },
+        {
+            "from": "Third Watchman",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-10T06:45:07.923748",
+            "duration": 161
+        },
+        {
+            "from": "Third Watchman",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-06T10:31:07.923750",
+            "duration": 290
+        },
+        {
+            "from": "Third Watchman",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-04T11:37:07.923753",
+            "duration": 253
+        },
+        {
+            "from": "Third Watchman",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-04T21:13:07.923755",
+            "duration": 216
+        },
+        {
+            "from": "Third Watchman",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-07T23:59:07.923757",
+            "duration": 67
+        },
+        {
+            "from": "Third Watchman",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-10T08:32:07.923759",
+            "duration": 142
+        },
+        {
+            "from": "Third Watchman",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-09T03:16:07.923761",
+            "duration": 272
+        },
+        {
+            "from": "Third Watchman",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-05T07:40:07.923763",
+            "duration": 119
+        },
+        {
+            "from": "Third Watchman",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-05T07:10:07.923765",
+            "duration": 255
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Chorus",
+            "timestamp": "2025-03-05T05:14:07.923768",
+            "duration": 158
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Chorus",
+            "timestamp": "2025-03-07T03:24:07.923770",
+            "duration": 234
+        },
+        {
+            "from": "Third Watchman",
+            "to": "PRINCE",
+            "timestamp": "2025-03-06T13:36:07.923772",
+            "duration": 114
+        },
+        {
+            "from": "Third Watchman",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T15:30:07.923774",
+            "duration": 204
+        },
+        {
+            "from": "Third Watchman",
+            "to": "PAGE",
+            "timestamp": "2025-03-08T01:30:07.923776",
+            "duration": 292
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Third Musician",
+            "timestamp": "2025-03-10T07:43:07.923779",
+            "duration": 135
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Third Musician",
+            "timestamp": "2025-03-06T06:41:07.923781",
+            "duration": 256
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Nurse",
+            "timestamp": "2025-03-09T20:59:07.923783",
+            "duration": 100
+        },
+        {
+            "from": "Third Watchman",
+            "to": "TYBALT",
+            "timestamp": "2025-03-08T08:16:07.923786",
+            "duration": 201
+        },
+        {
+            "from": "Third Watchman",
+            "to": "TYBALT",
+            "timestamp": "2025-03-04T18:06:07.923788",
+            "duration": 207
+        },
+        {
+            "from": "Third Watchman",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-07T08:49:07.923790",
+            "duration": 234
+        },
+        {
+            "from": "Third Watchman",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-06T15:20:07.923792",
+            "duration": 253
+        },
+        {
+            "from": "Third Watchman",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-07T08:06:07.923795",
+            "duration": 220
+        },
+        {
+            "from": "Third Watchman",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-08T04:43:07.923797",
+            "duration": 281
+        },
+        {
+            "from": "Third Watchman",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-03T19:56:07.923799",
+            "duration": 229
+        },
+        {
+            "from": "Third Watchman",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-08T06:11:07.923801",
+            "duration": 82
+        },
+        {
+            "from": "Third Watchman",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-09T19:26:07.923804",
+            "duration": 221
+        },
+        {
+            "from": "Third Watchman",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-09T01:46:07.923806",
+            "duration": 168
+        },
+        {
+            "from": "Third Watchman",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-03T20:14:07.923809",
+            "duration": 246
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Servant",
+            "timestamp": "2025-03-10T06:01:07.923811",
+            "duration": 298
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Servant",
+            "timestamp": "2025-03-06T22:57:07.923813",
+            "duration": 241
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Servant",
+            "timestamp": "2025-03-06T21:32:07.923815",
+            "duration": 136
+        },
+        {
+            "from": "Third Watchman",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-08T18:46:07.923818",
+            "duration": 112
+        },
+        {
+            "from": "Third Watchman",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-10T13:36:07.923820",
+            "duration": 209
+        },
+        {
+            "from": "Third Watchman",
+            "to": "GREGORY",
+            "timestamp": "2025-03-07T14:43:07.923822",
+            "duration": 161
+        },
+        {
+            "from": "Third Watchman",
+            "to": "JULIET",
+            "timestamp": "2025-03-10T05:46:07.923824",
+            "duration": 298
+        },
+        {
+            "from": "Third Watchman",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T23:11:07.923826",
+            "duration": 111
+        },
+        {
+            "from": "Third Watchman",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T14:44:07.923829",
+            "duration": 238
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Apothecary",
+            "timestamp": "2025-03-05T23:59:07.923831",
+            "duration": 239
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Musician",
+            "timestamp": "2025-03-09T08:28:07.923833",
+            "duration": 113
+        },
+        {
+            "from": "Third Watchman",
+            "to": "Musician",
+            "timestamp": "2025-03-05T16:51:07.923835",
+            "duration": 263
+        },
+        {
+            "from": "Third Watchman",
+            "to": "PETER",
+            "timestamp": "2025-03-03T00:10:07.923838",
+            "duration": 241
+        },
+        {
+            "from": "Third Watchman",
+            "to": "ROMEO",
+            "timestamp": "2025-03-05T05:42:07.923840",
+            "duration": 80
+        },
+        {
+            "from": "Third Watchman",
+            "to": "NURSE",
+            "timestamp": "2025-03-05T07:03:07.923842",
+            "duration": 148
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "MONTAGUE",
+            "timestamp": "2025-03-07T02:59:07.923845",
+            "duration": 165
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-07T18:40:07.923847",
+            "duration": 79
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-09T12:14:07.923849",
+            "duration": 149
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-09T23:04:07.923851",
+            "duration": 116
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-08T06:48:07.923854",
+            "duration": 144
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-05T16:07:07.923856",
+            "duration": 118
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-05T23:05:07.923858",
+            "duration": 271
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "Chorus",
+            "timestamp": "2025-03-06T06:34:07.923860",
+            "duration": 64
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "PRINCE",
+            "timestamp": "2025-03-02T21:36:07.923862",
+            "duration": 283
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "PRINCE",
+            "timestamp": "2025-03-06T22:12:07.923864",
+            "duration": 95
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "PRINCE",
+            "timestamp": "2025-03-10T05:50:07.923866",
+            "duration": 190
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T15:56:07.923869",
+            "duration": 194
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "PAGE",
+            "timestamp": "2025-03-04T13:16:07.923871",
+            "duration": 165
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "PAGE",
+            "timestamp": "2025-03-09T23:57:07.923873",
+            "duration": 220
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "Third Musician",
+            "timestamp": "2025-03-07T14:10:07.923875",
+            "duration": 247
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "Third Musician",
+            "timestamp": "2025-03-06T22:18:07.923878",
+            "duration": 271
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "Third Musician",
+            "timestamp": "2025-03-04T13:53:07.923880",
+            "duration": 137
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T16:05:07.923882",
+            "duration": 220
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "Nurse",
+            "timestamp": "2025-03-02T19:33:07.923884",
+            "duration": 153
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "TYBALT",
+            "timestamp": "2025-03-10T06:34:07.923887",
+            "duration": 110
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-06T15:43:07.923889",
+            "duration": 141
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-04T04:37:07.923891",
+            "duration": 113
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-10T05:05:07.923893",
+            "duration": 204
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-09T00:03:07.923895",
+            "duration": 203
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-03T22:55:07.923898",
+            "duration": 86
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-06T00:40:07.923900",
+            "duration": 233
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-05T02:13:07.923902",
+            "duration": 246
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "Servant",
+            "timestamp": "2025-03-09T21:56:07.923904",
+            "duration": 151
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T05:13:07.923906",
+            "duration": 84
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-03T17:32:07.923947",
+            "duration": 125
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "GREGORY",
+            "timestamp": "2025-03-02T20:57:07.923957",
+            "duration": 144
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "GREGORY",
+            "timestamp": "2025-03-03T15:03:07.923960",
+            "duration": 74
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T23:10:07.923962",
+            "duration": 260
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "JULIET",
+            "timestamp": "2025-03-04T17:42:07.923964",
+            "duration": 284
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "Apothecary",
+            "timestamp": "2025-03-06T22:24:07.923967",
+            "duration": 82
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "Musician",
+            "timestamp": "2025-03-07T14:15:07.923969",
+            "duration": 237
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "PETER",
+            "timestamp": "2025-03-09T20:21:07.923972",
+            "duration": 201
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "ROMEO",
+            "timestamp": "2025-03-05T02:15:07.923974",
+            "duration": 108
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T23:47:07.923976",
+            "duration": 266
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "ROMEO",
+            "timestamp": "2025-03-08T03:33:07.923978",
+            "duration": 271
+        },
+        {
+            "from": "MERCUTIO",
+            "to": "NURSE",
+            "timestamp": "2025-03-04T13:23:07.923981",
+            "duration": 81
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-05T20:09:07.923983",
+            "duration": 80
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "ABRAHAM",
+            "timestamp": "2025-03-06T22:58:07.923985",
+            "duration": 187
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-06T20:44:07.923987",
+            "duration": 185
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-05T06:07:07.923989",
+            "duration": 145
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-04T14:52:07.923991",
+            "duration": 190
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-05T13:44:07.923994",
+            "duration": 118
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-08T20:55:07.923996",
+            "duration": 87
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-04T15:04:07.923998",
+            "duration": 193
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Chorus",
+            "timestamp": "2025-03-08T02:37:07.924001",
+            "duration": 188
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Chorus",
+            "timestamp": "2025-03-08T03:34:07.924003",
+            "duration": 119
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "PRINCE",
+            "timestamp": "2025-03-10T05:24:07.924005",
+            "duration": 88
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "PRINCE",
+            "timestamp": "2025-03-06T02:29:07.924007",
+            "duration": 125
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "PRINCE",
+            "timestamp": "2025-03-10T00:25:07.924009",
+            "duration": 198
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "PAGE",
+            "timestamp": "2025-03-08T23:12:07.924012",
+            "duration": 291
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T05:33:07.924014",
+            "duration": 100
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-09T00:28:07.924016",
+            "duration": 112
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-05T14:21:07.924019",
+            "duration": 81
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-09T01:26:07.924022",
+            "duration": 204
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T12:23:07.924088",
+            "duration": 247
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Nurse",
+            "timestamp": "2025-03-02T21:48:07.924097",
+            "duration": 293
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-07T13:55:07.924101",
+            "duration": 181
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-04T09:32:07.924103",
+            "duration": 137
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-08T19:06:07.924106",
+            "duration": 196
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-06T20:38:07.924108",
+            "duration": 164
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-05T13:20:07.924110",
+            "duration": 241
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-10T09:25:07.924113",
+            "duration": 187
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-07T09:06:07.924115",
+            "duration": 222
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-06T19:17:07.924118",
+            "duration": 161
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-04T21:58:07.924120",
+            "duration": 110
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-05T06:30:07.924122",
+            "duration": 216
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Servant",
+            "timestamp": "2025-03-03T18:15:07.924143",
+            "duration": 156
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Servant",
+            "timestamp": "2025-03-10T07:47:07.924150",
+            "duration": 138
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Servant",
+            "timestamp": "2025-03-09T05:10:07.924153",
+            "duration": 182
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-07T23:37:07.924156",
+            "duration": 135
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T10:40:07.924158",
+            "duration": 206
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-10T07:41:07.924160",
+            "duration": 260
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-04T15:57:07.924162",
+            "duration": 60
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "JULIET",
+            "timestamp": "2025-03-07T01:31:07.924165",
+            "duration": 83
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Apothecary",
+            "timestamp": "2025-03-06T11:48:07.924167",
+            "duration": 174
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Apothecary",
+            "timestamp": "2025-03-04T14:38:07.924169",
+            "duration": 95
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Musician",
+            "timestamp": "2025-03-03T00:03:07.924172",
+            "duration": 176
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Musician",
+            "timestamp": "2025-03-05T11:54:07.924174",
+            "duration": 85
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "Musician",
+            "timestamp": "2025-03-05T15:13:07.924176",
+            "duration": 93
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "PETER",
+            "timestamp": "2025-03-08T09:43:07.924178",
+            "duration": 171
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T19:49:07.924180",
+            "duration": 275
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-09T19:59:07.924182",
+            "duration": 166
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-10T13:57:07.924184",
+            "duration": 153
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "NURSE",
+            "timestamp": "2025-03-08T03:48:07.924187",
+            "duration": 146
+        },
+        {
+            "from": "MONTAGUE",
+            "to": "NURSE",
+            "timestamp": "2025-03-05T09:36:07.924189",
+            "duration": 148
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-02T19:18:07.924191",
+            "duration": 98
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-08T03:33:07.924193",
+            "duration": 136
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "SAMPSON",
+            "timestamp": "2025-03-04T13:43:07.924195",
+            "duration": 241
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-09T20:26:07.924198",
+            "duration": 103
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-07T15:07:07.924200",
+            "duration": 263
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-10T03:07:07.924202",
+            "duration": 199
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Chorus",
+            "timestamp": "2025-03-07T11:03:07.924204",
+            "duration": 82
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Chorus",
+            "timestamp": "2025-03-08T23:12:07.924206",
+            "duration": 198
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Chorus",
+            "timestamp": "2025-03-04T19:28:07.924208",
+            "duration": 248
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "PRINCE",
+            "timestamp": "2025-03-04T14:57:07.924211",
+            "duration": 63
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "PRINCE",
+            "timestamp": "2025-03-03T22:41:07.924213",
+            "duration": 205
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T08:24:07.924216",
+            "duration": 229
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Third Musician",
+            "timestamp": "2025-03-05T05:26:07.924218",
+            "duration": 164
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Third Musician",
+            "timestamp": "2025-03-05T00:35:07.924221",
+            "duration": 252
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Third Musician",
+            "timestamp": "2025-03-10T05:38:07.924223",
+            "duration": 291
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Nurse",
+            "timestamp": "2025-03-03T21:58:07.924225",
+            "duration": 160
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Nurse",
+            "timestamp": "2025-03-10T06:07:07.924227",
+            "duration": 295
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "TYBALT",
+            "timestamp": "2025-03-03T17:02:07.924229",
+            "duration": 220
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-09T04:22:07.924231",
+            "duration": 237
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-06T12:07:07.924234",
+            "duration": 99
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-05T07:03:07.924236",
+            "duration": 235
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Servant",
+            "timestamp": "2025-03-04T07:23:07.924238",
+            "duration": 238
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Servant",
+            "timestamp": "2025-03-05T03:20:07.924240",
+            "duration": 255
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-07T00:43:07.924243",
+            "duration": 139
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "GREGORY",
+            "timestamp": "2025-03-04T22:25:07.924245",
+            "duration": 183
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "JULIET",
+            "timestamp": "2025-03-05T04:00:07.924247",
+            "duration": 69
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "JULIET",
+            "timestamp": "2025-03-05T08:37:07.924249",
+            "duration": 124
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Apothecary",
+            "timestamp": "2025-03-03T19:50:07.924252",
+            "duration": 203
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Apothecary",
+            "timestamp": "2025-03-02T21:57:07.924254",
+            "duration": 145
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Musician",
+            "timestamp": "2025-03-09T05:16:07.924256",
+            "duration": 222
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "Musician",
+            "timestamp": "2025-03-10T04:09:07.924258",
+            "duration": 113
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "PETER",
+            "timestamp": "2025-03-10T00:42:07.924260",
+            "duration": 178
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "PETER",
+            "timestamp": "2025-03-09T11:19:07.924262",
+            "duration": 169
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "PETER",
+            "timestamp": "2025-03-05T01:22:07.924265",
+            "duration": 165
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "ROMEO",
+            "timestamp": "2025-03-02T20:09:07.924267",
+            "duration": 155
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T17:21:07.924269",
+            "duration": 90
+        },
+        {
+            "from": "ABRAHAM",
+            "to": "NURSE",
+            "timestamp": "2025-03-03T14:45:07.924271",
+            "duration": 181
+        },
+        {
+            "from": "SAMPSON",
+            "to": "LADY MONTAGUE",
+            "timestamp": "2025-03-06T18:26:07.924274",
+            "duration": 292
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Chorus",
+            "timestamp": "2025-03-03T19:51:07.924276",
+            "duration": 239
+        },
+        {
+            "from": "SAMPSON",
+            "to": "PRINCE",
+            "timestamp": "2025-03-03T02:18:07.924278",
+            "duration": 61
+        },
+        {
+            "from": "SAMPSON",
+            "to": "PRINCE",
+            "timestamp": "2025-03-04T09:24:07.924280",
+            "duration": 64
+        },
+        {
+            "from": "SAMPSON",
+            "to": "PAGE",
+            "timestamp": "2025-03-07T02:35:07.924282",
+            "duration": 194
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Third Musician",
+            "timestamp": "2025-03-09T04:30:07.924285",
+            "duration": 239
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Third Musician",
+            "timestamp": "2025-03-09T14:10:07.924287",
+            "duration": 168
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Third Musician",
+            "timestamp": "2025-03-03T08:20:07.924289",
+            "duration": 107
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Nurse",
+            "timestamp": "2025-03-03T09:08:07.924291",
+            "duration": 203
+        },
+        {
+            "from": "SAMPSON",
+            "to": "TYBALT",
+            "timestamp": "2025-03-10T13:34:07.924294",
+            "duration": 284
+        },
+        {
+            "from": "SAMPSON",
+            "to": "TYBALT",
+            "timestamp": "2025-03-10T00:33:07.924296",
+            "duration": 255
+        },
+        {
+            "from": "SAMPSON",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-07T08:28:07.924298",
+            "duration": 299
+        },
+        {
+            "from": "SAMPSON",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-10T04:17:07.924300",
+            "duration": 210
+        },
+        {
+            "from": "SAMPSON",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-08T01:01:07.924302",
+            "duration": 294
+        },
+        {
+            "from": "SAMPSON",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-09T02:25:07.924304",
+            "duration": 152
+        },
+        {
+            "from": "SAMPSON",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-07T08:55:07.924306",
+            "duration": 234
+        },
+        {
+            "from": "SAMPSON",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-04T05:03:07.924308",
+            "duration": 218
+        },
+        {
+            "from": "SAMPSON",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-03T11:20:07.924311",
+            "duration": 250
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Servant",
+            "timestamp": "2025-03-07T02:49:07.924313",
+            "duration": 248
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Servant",
+            "timestamp": "2025-03-05T20:06:07.924315",
+            "duration": 289
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Servant",
+            "timestamp": "2025-03-08T02:18:07.924317",
+            "duration": 262
+        },
+        {
+            "from": "SAMPSON",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T19:51:07.924319",
+            "duration": 62
+        },
+        {
+            "from": "SAMPSON",
+            "to": "GREGORY",
+            "timestamp": "2025-03-06T21:24:07.924322",
+            "duration": 300
+        },
+        {
+            "from": "SAMPSON",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T05:03:07.924325",
+            "duration": 89
+        },
+        {
+            "from": "SAMPSON",
+            "to": "JULIET",
+            "timestamp": "2025-03-05T12:25:07.924327",
+            "duration": 183
+        },
+        {
+            "from": "SAMPSON",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T21:00:07.924329",
+            "duration": 124
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Apothecary",
+            "timestamp": "2025-03-10T09:32:07.924331",
+            "duration": 74
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Apothecary",
+            "timestamp": "2025-03-03T08:36:07.924333",
+            "duration": 213
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Musician",
+            "timestamp": "2025-03-10T09:57:07.924336",
+            "duration": 60
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Musician",
+            "timestamp": "2025-03-04T13:38:07.924338",
+            "duration": 264
+        },
+        {
+            "from": "SAMPSON",
+            "to": "Musician",
+            "timestamp": "2025-03-09T04:50:07.924340",
+            "duration": 104
+        },
+        {
+            "from": "SAMPSON",
+            "to": "PETER",
+            "timestamp": "2025-03-04T15:53:07.924342",
+            "duration": 192
+        },
+        {
+            "from": "SAMPSON",
+            "to": "PETER",
+            "timestamp": "2025-03-05T00:43:07.924344",
+            "duration": 163
+        },
+        {
+            "from": "SAMPSON",
+            "to": "ROMEO",
+            "timestamp": "2025-03-07T17:37:07.924346",
+            "duration": 273
+        },
+        {
+            "from": "SAMPSON",
+            "to": "ROMEO",
+            "timestamp": "2025-03-09T18:24:07.924348",
+            "duration": 299
+        },
+        {
+            "from": "SAMPSON",
+            "to": "NURSE",
+            "timestamp": "2025-03-05T23:01:07.924351",
+            "duration": 129
+        },
+        {
+            "from": "SAMPSON",
+            "to": "NURSE",
+            "timestamp": "2025-03-08T13:04:07.924357",
+            "duration": 253
+        },
+        {
+            "from": "SAMPSON",
+            "to": "NURSE",
+            "timestamp": "2025-03-05T22:59:07.924359",
+            "duration": 149
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Chorus",
+            "timestamp": "2025-03-03T21:30:07.924362",
+            "duration": 153
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Chorus",
+            "timestamp": "2025-03-03T06:47:07.924364",
+            "duration": 287
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Chorus",
+            "timestamp": "2025-03-06T14:29:07.924366",
+            "duration": 295
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "PRINCE",
+            "timestamp": "2025-03-04T08:32:07.924368",
+            "duration": 258
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T12:32:07.924370",
+            "duration": 209
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "PAGE",
+            "timestamp": "2025-03-02T21:33:07.924372",
+            "duration": 149
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "PAGE",
+            "timestamp": "2025-03-05T05:12:07.924374",
+            "duration": 268
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-08T00:09:07.924377",
+            "duration": 274
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-06T17:48:07.924379",
+            "duration": 67
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-03T03:16:07.924381",
+            "duration": 116
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Nurse",
+            "timestamp": "2025-03-05T13:32:07.924383",
+            "duration": 218
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-08T08:15:07.924386",
+            "duration": 66
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-02T21:32:07.924388",
+            "duration": 278
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-05T16:12:07.924390",
+            "duration": 148
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-07T06:13:07.924392",
+            "duration": 220
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-03T17:33:07.924394",
+            "duration": 113
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-05T14:49:07.924397",
+            "duration": 157
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-09T12:38:07.924399",
+            "duration": 225
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Servant",
+            "timestamp": "2025-03-06T18:58:07.924401",
+            "duration": 269
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T10:02:07.924403",
+            "duration": 74
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T23:50:07.924405",
+            "duration": 251
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-07T14:22:07.924408",
+            "duration": 182
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-04T14:25:07.924410",
+            "duration": 171
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-03T11:06:07.924412",
+            "duration": 221
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "JULIET",
+            "timestamp": "2025-03-10T09:06:07.924414",
+            "duration": 224
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T20:50:07.924416",
+            "duration": 106
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Apothecary",
+            "timestamp": "2025-03-09T19:10:07.924418",
+            "duration": 188
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Musician",
+            "timestamp": "2025-03-08T19:37:07.924421",
+            "duration": 83
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Musician",
+            "timestamp": "2025-03-09T17:18:07.924423",
+            "duration": 116
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "Musician",
+            "timestamp": "2025-03-09T00:55:07.924425",
+            "duration": 241
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "PETER",
+            "timestamp": "2025-03-09T11:20:07.924427",
+            "duration": 222
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "PETER",
+            "timestamp": "2025-03-08T04:37:07.924429",
+            "duration": 66
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "PETER",
+            "timestamp": "2025-03-05T01:23:07.924431",
+            "duration": 249
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-02T18:47:07.924433",
+            "duration": 242
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-04T05:43:07.924435",
+            "duration": 233
+        },
+        {
+            "from": "LADY MONTAGUE",
+            "to": "NURSE",
+            "timestamp": "2025-03-09T12:24:07.924437",
+            "duration": 143
+        },
+        {
+            "from": "Chorus",
+            "to": "PRINCE",
+            "timestamp": "2025-03-07T17:38:07.924440",
+            "duration": 234
+        },
+        {
+            "from": "Chorus",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T09:12:07.924442",
+            "duration": 205
+        },
+        {
+            "from": "Chorus",
+            "to": "Third Musician",
+            "timestamp": "2025-03-07T20:01:07.924444",
+            "duration": 236
+        },
+        {
+            "from": "Chorus",
+            "to": "Third Musician",
+            "timestamp": "2025-03-07T23:19:07.924450",
+            "duration": 286
+        },
+        {
+            "from": "Chorus",
+            "to": "Nurse",
+            "timestamp": "2025-03-03T06:36:07.924454",
+            "duration": 70
+        },
+        {
+            "from": "Chorus",
+            "to": "TYBALT",
+            "timestamp": "2025-03-08T09:38:07.924456",
+            "duration": 67
+        },
+        {
+            "from": "Chorus",
+            "to": "TYBALT",
+            "timestamp": "2025-03-07T18:23:07.924458",
+            "duration": 244
+        },
+        {
+            "from": "Chorus",
+            "to": "TYBALT",
+            "timestamp": "2025-03-10T10:59:07.924460",
+            "duration": 117
+        },
+        {
+            "from": "Chorus",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-04T00:49:07.924462",
+            "duration": 166
+        },
+        {
+            "from": "Chorus",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-03T23:37:07.924465",
+            "duration": 126
+        },
+        {
+            "from": "Chorus",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-07T10:13:07.924467",
+            "duration": 143
+        },
+        {
+            "from": "Chorus",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-07T14:53:07.924469",
+            "duration": 102
+        },
+        {
+            "from": "Chorus",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-09T18:16:07.924471",
+            "duration": 273
+        },
+        {
+            "from": "Chorus",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-02T17:04:07.924473",
+            "duration": 286
+        },
+        {
+            "from": "Chorus",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-07T13:33:07.924475",
+            "duration": 225
+        },
+        {
+            "from": "Chorus",
+            "to": "Servant",
+            "timestamp": "2025-03-02T15:01:07.924477",
+            "duration": 135
+        },
+        {
+            "from": "Chorus",
+            "to": "Servant",
+            "timestamp": "2025-03-09T10:56:07.924479",
+            "duration": 176
+        },
+        {
+            "from": "Chorus",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-05T04:39:07.924482",
+            "duration": 159
+        },
+        {
+            "from": "Chorus",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-03T18:25:07.924484",
+            "duration": 235
+        },
+        {
+            "from": "Chorus",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-08T10:21:07.924486",
+            "duration": 165
+        },
+        {
+            "from": "Chorus",
+            "to": "GREGORY",
+            "timestamp": "2025-03-08T05:11:07.924488",
+            "duration": 243
+        },
+        {
+            "from": "Chorus",
+            "to": "JULIET",
+            "timestamp": "2025-03-07T06:20:07.924491",
+            "duration": 212
+        },
+        {
+            "from": "Chorus",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T01:04:07.924493",
+            "duration": 90
+        },
+        {
+            "from": "Chorus",
+            "to": "Apothecary",
+            "timestamp": "2025-03-07T05:05:07.924495",
+            "duration": 294
+        },
+        {
+            "from": "Chorus",
+            "to": "Apothecary",
+            "timestamp": "2025-03-08T17:12:07.924497",
+            "duration": 93
+        },
+        {
+            "from": "Chorus",
+            "to": "Apothecary",
+            "timestamp": "2025-03-07T17:25:07.924500",
+            "duration": 220
+        },
+        {
+            "from": "Chorus",
+            "to": "Musician",
+            "timestamp": "2025-03-08T10:55:07.924502",
+            "duration": 241
+        },
+        {
+            "from": "Chorus",
+            "to": "PETER",
+            "timestamp": "2025-03-04T00:24:07.924504",
+            "duration": 166
+        },
+        {
+            "from": "Chorus",
+            "to": "ROMEO",
+            "timestamp": "2025-03-09T00:02:07.924507",
+            "duration": 137
+        },
+        {
+            "from": "Chorus",
+            "to": "ROMEO",
+            "timestamp": "2025-03-08T03:14:07.924509",
+            "duration": 247
+        },
+        {
+            "from": "Chorus",
+            "to": "ROMEO",
+            "timestamp": "2025-03-05T05:30:07.924511",
+            "duration": 256
+        },
+        {
+            "from": "Chorus",
+            "to": "NURSE",
+            "timestamp": "2025-03-09T20:43:07.924513",
+            "duration": 119
+        },
+        {
+            "from": "Chorus",
+            "to": "NURSE",
+            "timestamp": "2025-03-04T02:20:07.924516",
+            "duration": 111
+        },
+        {
+            "from": "PRINCE",
+            "to": "PAGE",
+            "timestamp": "2025-03-06T23:39:07.924518",
+            "duration": 149
+        },
+        {
+            "from": "PRINCE",
+            "to": "PAGE",
+            "timestamp": "2025-03-05T10:31:07.924520",
+            "duration": 222
+        },
+        {
+            "from": "PRINCE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-04T13:30:07.924523",
+            "duration": 127
+        },
+        {
+            "from": "PRINCE",
+            "to": "Nurse",
+            "timestamp": "2025-03-09T01:20:07.924525",
+            "duration": 212
+        },
+        {
+            "from": "PRINCE",
+            "to": "Nurse",
+            "timestamp": "2025-03-03T17:09:07.924527",
+            "duration": 189
+        },
+        {
+            "from": "PRINCE",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T03:59:07.924529",
+            "duration": 172
+        },
+        {
+            "from": "PRINCE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-04T21:39:07.924532",
+            "duration": 212
+        },
+        {
+            "from": "PRINCE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-08T04:45:07.924534",
+            "duration": 298
+        },
+        {
+            "from": "PRINCE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-05T16:28:07.924536",
+            "duration": 270
+        },
+        {
+            "from": "PRINCE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-04T19:01:07.924538",
+            "duration": 188
+        },
+        {
+            "from": "PRINCE",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-08T15:56:07.924541",
+            "duration": 273
+        },
+        {
+            "from": "PRINCE",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-03T11:37:07.924543",
+            "duration": 196
+        },
+        {
+            "from": "PRINCE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-08T19:13:07.924545",
+            "duration": 217
+        },
+        {
+            "from": "PRINCE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-09T14:34:07.924548",
+            "duration": 196
+        },
+        {
+            "from": "PRINCE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-05T19:37:07.924550",
+            "duration": 111
+        },
+        {
+            "from": "PRINCE",
+            "to": "Servant",
+            "timestamp": "2025-03-06T08:27:07.924552",
+            "duration": 163
+        },
+        {
+            "from": "PRINCE",
+            "to": "Servant",
+            "timestamp": "2025-03-04T17:42:07.924554",
+            "duration": 86
+        },
+        {
+            "from": "PRINCE",
+            "to": "Servant",
+            "timestamp": "2025-03-02T19:34:07.924557",
+            "duration": 297
+        },
+        {
+            "from": "PRINCE",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-06T16:46:07.924559",
+            "duration": 101
+        },
+        {
+            "from": "PRINCE",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-10T05:36:07.924561",
+            "duration": 265
+        },
+        {
+            "from": "PRINCE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-05T00:47:07.924563",
+            "duration": 81
+        },
+        {
+            "from": "PRINCE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-05T09:02:07.924565",
+            "duration": 94
+        },
+        {
+            "from": "PRINCE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-07T09:20:07.924568",
+            "duration": 226
+        },
+        {
+            "from": "PRINCE",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T07:36:07.924570",
+            "duration": 243
+        },
+        {
+            "from": "PRINCE",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T20:35:07.924572",
+            "duration": 84
+        },
+        {
+            "from": "PRINCE",
+            "to": "Apothecary",
+            "timestamp": "2025-03-03T03:04:07.924574",
+            "duration": 63
+        },
+        {
+            "from": "PRINCE",
+            "to": "Apothecary",
+            "timestamp": "2025-03-10T06:31:07.924576",
+            "duration": 159
+        },
+        {
+            "from": "PRINCE",
+            "to": "Musician",
+            "timestamp": "2025-03-03T22:20:07.924579",
+            "duration": 107
+        },
+        {
+            "from": "PRINCE",
+            "to": "PETER",
+            "timestamp": "2025-03-04T06:29:07.924582",
+            "duration": 110
+        },
+        {
+            "from": "PRINCE",
+            "to": "PETER",
+            "timestamp": "2025-03-07T18:14:07.924584",
+            "duration": 118
+        },
+        {
+            "from": "PRINCE",
+            "to": "PETER",
+            "timestamp": "2025-03-08T03:10:07.924586",
+            "duration": 289
+        },
+        {
+            "from": "PRINCE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T14:27:07.924588",
+            "duration": 296
+        },
+        {
+            "from": "PRINCE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-03T01:40:07.924590",
+            "duration": 93
+        },
+        {
+            "from": "PRINCE",
+            "to": "NURSE",
+            "timestamp": "2025-03-06T02:54:07.924593",
+            "duration": 140
+        },
+        {
+            "from": "PRINCE",
+            "to": "NURSE",
+            "timestamp": "2025-03-06T05:09:07.924595",
+            "duration": 254
+        },
+        {
+            "from": "PRINCE",
+            "to": "NURSE",
+            "timestamp": "2025-03-03T21:20:07.924598",
+            "duration": 186
+        },
+        {
+            "from": "PAGE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-10T13:52:07.924600",
+            "duration": 177
+        },
+        {
+            "from": "PAGE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-03T18:22:07.924602",
+            "duration": 211
+        },
+        {
+            "from": "PAGE",
+            "to": "Third Musician",
+            "timestamp": "2025-03-06T02:09:07.924605",
+            "duration": 145
+        },
+        {
+            "from": "PAGE",
+            "to": "Nurse",
+            "timestamp": "2025-03-05T23:10:07.924607",
+            "duration": 194
+        },
+        {
+            "from": "PAGE",
+            "to": "Nurse",
+            "timestamp": "2025-03-10T02:38:07.924609",
+            "duration": 121
+        },
+        {
+            "from": "PAGE",
+            "to": "Nurse",
+            "timestamp": "2025-03-04T23:46:07.924611",
+            "duration": 260
+        },
+        {
+            "from": "PAGE",
+            "to": "TYBALT",
+            "timestamp": "2025-03-05T06:56:07.924613",
+            "duration": 149
+        },
+        {
+            "from": "PAGE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-05T15:34:07.924616",
+            "duration": 230
+        },
+        {
+            "from": "PAGE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-06T09:59:07.924618",
+            "duration": 226
+        },
+        {
+            "from": "PAGE",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-06T08:49:07.924620",
+            "duration": 228
+        },
+        {
+            "from": "PAGE",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-03T13:10:07.924622",
+            "duration": 183
+        },
+        {
+            "from": "PAGE",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-09T11:37:07.924624",
+            "duration": 170
+        },
+        {
+            "from": "PAGE",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-09T04:16:07.924627",
+            "duration": 260
+        },
+        {
+            "from": "PAGE",
+            "to": "Servant",
+            "timestamp": "2025-03-08T17:12:07.924629",
+            "duration": 227
+        },
+        {
+            "from": "PAGE",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-07T01:16:07.924631",
+            "duration": 289
+        },
+        {
+            "from": "PAGE",
+            "to": "GREGORY",
+            "timestamp": "2025-03-09T07:19:07.924634",
+            "duration": 255
+        },
+        {
+            "from": "PAGE",
+            "to": "JULIET",
+            "timestamp": "2025-03-07T05:34:07.924636",
+            "duration": 176
+        },
+        {
+            "from": "PAGE",
+            "to": "Apothecary",
+            "timestamp": "2025-03-04T01:51:07.924638",
+            "duration": 167
+        },
+        {
+            "from": "PAGE",
+            "to": "Musician",
+            "timestamp": "2025-03-03T01:31:07.924641",
+            "duration": 282
+        },
+        {
+            "from": "PAGE",
+            "to": "PETER",
+            "timestamp": "2025-03-06T14:42:07.924643",
+            "duration": 72
+        },
+        {
+            "from": "PAGE",
+            "to": "PETER",
+            "timestamp": "2025-03-06T16:49:07.924645",
+            "duration": 255
+        },
+        {
+            "from": "PAGE",
+            "to": "PETER",
+            "timestamp": "2025-03-05T22:17:07.924647",
+            "duration": 279
+        },
+        {
+            "from": "PAGE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-09T21:08:07.924650",
+            "duration": 102
+        },
+        {
+            "from": "PAGE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T03:13:07.924652",
+            "duration": 176
+        },
+        {
+            "from": "PAGE",
+            "to": "ROMEO",
+            "timestamp": "2025-03-02T21:50:07.924654",
+            "duration": 158
+        },
+        {
+            "from": "PAGE",
+            "to": "NURSE",
+            "timestamp": "2025-03-03T19:03:07.924656",
+            "duration": 69
+        },
+        {
+            "from": "Third Musician",
+            "to": "Nurse",
+            "timestamp": "2025-03-08T06:15:07.924659",
+            "duration": 292
+        },
+        {
+            "from": "Third Musician",
+            "to": "Nurse",
+            "timestamp": "2025-03-07T00:11:07.924661",
+            "duration": 206
+        },
+        {
+            "from": "Third Musician",
+            "to": "TYBALT",
+            "timestamp": "2025-03-09T07:54:07.924663",
+            "duration": 64
+        },
+        {
+            "from": "Third Musician",
+            "to": "TYBALT",
+            "timestamp": "2025-03-07T22:57:07.924665",
+            "duration": 290
+        },
+        {
+            "from": "Third Musician",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-10T01:26:07.924667",
+            "duration": 138
+        },
+        {
+            "from": "Third Musician",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-05T13:42:07.924670",
+            "duration": 131
+        },
+        {
+            "from": "Third Musician",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-08T00:07:07.924672",
+            "duration": 242
+        },
+        {
+            "from": "Third Musician",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-09T02:15:07.924674",
+            "duration": 270
+        },
+        {
+            "from": "Third Musician",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-05T17:14:07.924676",
+            "duration": 100
+        },
+        {
+            "from": "Third Musician",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-04T06:30:07.924678",
+            "duration": 248
+        },
+        {
+            "from": "Third Musician",
+            "to": "Servant",
+            "timestamp": "2025-03-10T08:14:07.924681",
+            "duration": 270
+        },
+        {
+            "from": "Third Musician",
+            "to": "Servant",
+            "timestamp": "2025-03-05T00:31:07.924683",
+            "duration": 246
+        },
+        {
+            "from": "Third Musician",
+            "to": "Servant",
+            "timestamp": "2025-03-05T20:28:07.924685",
+            "duration": 250
+        },
+        {
+            "from": "Third Musician",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-08T01:01:07.924687",
+            "duration": 238
+        },
+        {
+            "from": "Third Musician",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T05:01:07.924689",
+            "duration": 196
+        },
+        {
+            "from": "Third Musician",
+            "to": "GREGORY",
+            "timestamp": "2025-03-07T16:39:07.924692",
+            "duration": 245
+        },
+        {
+            "from": "Third Musician",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T21:05:07.924694",
+            "duration": 179
+        },
+        {
+            "from": "Third Musician",
+            "to": "Apothecary",
+            "timestamp": "2025-03-07T13:15:07.924696",
+            "duration": 237
+        },
+        {
+            "from": "Third Musician",
+            "to": "Apothecary",
+            "timestamp": "2025-03-04T12:14:07.924698",
+            "duration": 203
+        },
+        {
+            "from": "Third Musician",
+            "to": "Musician",
+            "timestamp": "2025-03-03T22:07:07.924701",
+            "duration": 68
+        },
+        {
+            "from": "Third Musician",
+            "to": "Musician",
+            "timestamp": "2025-03-06T03:37:07.924703",
+            "duration": 170
+        },
+        {
+            "from": "Third Musician",
+            "to": "PETER",
+            "timestamp": "2025-03-08T20:17:07.924705",
+            "duration": 273
+        },
+        {
+            "from": "Third Musician",
+            "to": "PETER",
+            "timestamp": "2025-03-07T21:53:07.924707",
+            "duration": 69
+        },
+        {
+            "from": "Third Musician",
+            "to": "PETER",
+            "timestamp": "2025-03-04T13:53:07.924710",
+            "duration": 226
+        },
+        {
+            "from": "Third Musician",
+            "to": "ROMEO",
+            "timestamp": "2025-03-10T12:40:07.924712",
+            "duration": 295
+        },
+        {
+            "from": "Third Musician",
+            "to": "ROMEO",
+            "timestamp": "2025-03-02T15:34:07.924714",
+            "duration": 288
+        },
+        {
+            "from": "Third Musician",
+            "to": "ROMEO",
+            "timestamp": "2025-03-10T04:24:07.924716",
+            "duration": 197
+        },
+        {
+            "from": "Third Musician",
+            "to": "NURSE",
+            "timestamp": "2025-03-03T12:09:07.924719",
+            "duration": 122
+        },
+        {
+            "from": "Nurse",
+            "to": "TYBALT",
+            "timestamp": "2025-03-10T10:38:07.924721",
+            "duration": 130
+        },
+        {
+            "from": "Nurse",
+            "to": "TYBALT",
+            "timestamp": "2025-03-03T11:51:07.924723",
+            "duration": 214
+        },
+        {
+            "from": "Nurse",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-06T00:53:07.924726",
+            "duration": 66
+        },
+        {
+            "from": "Nurse",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-06T11:43:07.924728",
+            "duration": 215
+        },
+        {
+            "from": "Nurse",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-09T14:49:07.924730",
+            "duration": 196
+        },
+        {
+            "from": "Nurse",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-07T08:36:07.924732",
+            "duration": 60
+        },
+        {
+            "from": "Nurse",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-03T02:53:07.924734",
+            "duration": 282
+        },
+        {
+            "from": "Nurse",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-02T21:42:07.924736",
+            "duration": 268
+        },
+        {
+            "from": "Nurse",
+            "to": "Servant",
+            "timestamp": "2025-03-04T16:53:07.924739",
+            "duration": 240
+        },
+        {
+            "from": "Nurse",
+            "to": "Servant",
+            "timestamp": "2025-03-06T17:03:07.924741",
+            "duration": 168
+        },
+        {
+            "from": "Nurse",
+            "to": "Servant",
+            "timestamp": "2025-03-08T19:17:07.924743",
+            "duration": 175
+        },
+        {
+            "from": "Nurse",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-06T13:51:07.924745",
+            "duration": 92
+        },
+        {
+            "from": "Nurse",
+            "to": "GREGORY",
+            "timestamp": "2025-03-07T01:20:07.924748",
+            "duration": 290
+        },
+        {
+            "from": "Nurse",
+            "to": "GREGORY",
+            "timestamp": "2025-03-03T08:32:07.924750",
+            "duration": 205
+        },
+        {
+            "from": "Nurse",
+            "to": "GREGORY",
+            "timestamp": "2025-03-06T06:17:07.924752",
+            "duration": 174
+        },
+        {
+            "from": "Nurse",
+            "to": "JULIET",
+            "timestamp": "2025-03-07T19:10:07.924754",
+            "duration": 276
+        },
+        {
+            "from": "Nurse",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T00:39:07.924756",
+            "duration": 145
+        },
+        {
+            "from": "Nurse",
+            "to": "JULIET",
+            "timestamp": "2025-03-07T03:29:07.924759",
+            "duration": 297
+        },
+        {
+            "from": "Nurse",
+            "to": "Apothecary",
+            "timestamp": "2025-03-06T08:19:07.924762",
+            "duration": 79
+        },
+        {
+            "from": "Nurse",
+            "to": "Apothecary",
+            "timestamp": "2025-03-06T03:01:07.924764",
+            "duration": 160
+        },
+        {
+            "from": "Nurse",
+            "to": "Musician",
+            "timestamp": "2025-03-03T14:37:07.924766",
+            "duration": 97
+        },
+        {
+            "from": "Nurse",
+            "to": "Musician",
+            "timestamp": "2025-03-03T03:15:07.924768",
+            "duration": 207
+        },
+        {
+            "from": "Nurse",
+            "to": "PETER",
+            "timestamp": "2025-03-08T17:04:07.924771",
+            "duration": 257
+        },
+        {
+            "from": "Nurse",
+            "to": "ROMEO",
+            "timestamp": "2025-03-04T02:20:07.924773",
+            "duration": 243
+        },
+        {
+            "from": "Nurse",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T10:40:07.924775",
+            "duration": 100
+        },
+        {
+            "from": "Nurse",
+            "to": "NURSE",
+            "timestamp": "2025-03-03T10:42:07.924780",
+            "duration": 288
+        },
+        {
+            "from": "Nurse",
+            "to": "NURSE",
+            "timestamp": "2025-03-03T10:03:07.924783",
+            "duration": 243
+        },
+        {
+            "from": "TYBALT",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-08T14:21:07.924785",
+            "duration": 169
+        },
+        {
+            "from": "TYBALT",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-05T20:28:07.924787",
+            "duration": 245
+        },
+        {
+            "from": "TYBALT",
+            "to": "BENVOLIO",
+            "timestamp": "2025-03-07T04:26:07.924789",
+            "duration": 173
+        },
+        {
+            "from": "TYBALT",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-03T04:50:07.924792",
+            "duration": 241
+        },
+        {
+            "from": "TYBALT",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-08T10:36:07.924794",
+            "duration": 158
+        },
+        {
+            "from": "TYBALT",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-05T03:58:07.924796",
+            "duration": 86
+        },
+        {
+            "from": "TYBALT",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-09T01:13:07.924798",
+            "duration": 242
+        },
+        {
+            "from": "TYBALT",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-08T21:07:07.924800",
+            "duration": 235
+        },
+        {
+            "from": "TYBALT",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-08T06:34:07.924803",
+            "duration": 230
+        },
+        {
+            "from": "TYBALT",
+            "to": "Servant",
+            "timestamp": "2025-03-03T05:19:07.924805",
+            "duration": 168
+        },
+        {
+            "from": "TYBALT",
+            "to": "Servant",
+            "timestamp": "2025-03-09T09:00:07.924807",
+            "duration": 142
+        },
+        {
+            "from": "TYBALT",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T16:10:07.924810",
+            "duration": 190
+        },
+        {
+            "from": "TYBALT",
+            "to": "GREGORY",
+            "timestamp": "2025-03-06T09:40:07.924812",
+            "duration": 145
+        },
+        {
+            "from": "TYBALT",
+            "to": "GREGORY",
+            "timestamp": "2025-03-03T12:09:07.924814",
+            "duration": 226
+        },
+        {
+            "from": "TYBALT",
+            "to": "GREGORY",
+            "timestamp": "2025-03-03T14:15:07.924816",
+            "duration": 283
+        },
+        {
+            "from": "TYBALT",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T00:20:07.924818",
+            "duration": 267
+        },
+        {
+            "from": "TYBALT",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T10:46:07.924821",
+            "duration": 286
+        },
+        {
+            "from": "TYBALT",
+            "to": "JULIET",
+            "timestamp": "2025-03-10T01:33:07.924823",
+            "duration": 105
+        },
+        {
+            "from": "TYBALT",
+            "to": "Apothecary",
+            "timestamp": "2025-03-05T18:18:07.924825",
+            "duration": 283
+        },
+        {
+            "from": "TYBALT",
+            "to": "Apothecary",
+            "timestamp": "2025-03-09T22:00:07.924827",
+            "duration": 204
+        },
+        {
+            "from": "TYBALT",
+            "to": "Apothecary",
+            "timestamp": "2025-03-09T10:06:07.924829",
+            "duration": 206
+        },
+        {
+            "from": "TYBALT",
+            "to": "Musician",
+            "timestamp": "2025-03-02T19:50:07.924832",
+            "duration": 149
+        },
+        {
+            "from": "TYBALT",
+            "to": "Musician",
+            "timestamp": "2025-03-10T11:17:07.924834",
+            "duration": 118
+        },
+        {
+            "from": "TYBALT",
+            "to": "PETER",
+            "timestamp": "2025-03-02T15:30:07.924836",
+            "duration": 71
+        },
+        {
+            "from": "TYBALT",
+            "to": "ROMEO",
+            "timestamp": "2025-03-03T19:22:07.924839",
+            "duration": 130
+        },
+        {
+            "from": "TYBALT",
+            "to": "NURSE",
+            "timestamp": "2025-03-03T02:40:07.924841",
+            "duration": 104
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "LADY  CAPULET",
+            "timestamp": "2025-03-03T07:28:07.924843",
+            "duration": 75
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-08T18:54:07.924846",
+            "duration": 194
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "Servant",
+            "timestamp": "2025-03-08T05:23:07.924848",
+            "duration": 236
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "Servant",
+            "timestamp": "2025-03-03T21:49:07.924850",
+            "duration": 262
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-06T05:25:07.924853",
+            "duration": 254
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "GREGORY",
+            "timestamp": "2025-03-07T01:04:07.924855",
+            "duration": 241
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "GREGORY",
+            "timestamp": "2025-03-05T18:58:07.924857",
+            "duration": 253
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T04:04:07.924860",
+            "duration": 96
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T20:13:07.924862",
+            "duration": 265
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "Apothecary",
+            "timestamp": "2025-03-05T11:25:07.924864",
+            "duration": 116
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "Apothecary",
+            "timestamp": "2025-03-10T03:48:07.924866",
+            "duration": 152
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "Apothecary",
+            "timestamp": "2025-03-08T02:48:07.924868",
+            "duration": 248
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "Musician",
+            "timestamp": "2025-03-05T10:16:07.924874",
+            "duration": 239
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "Musician",
+            "timestamp": "2025-03-09T23:50:07.924877",
+            "duration": 297
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "Musician",
+            "timestamp": "2025-03-03T18:08:07.924879",
+            "duration": 296
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "PETER",
+            "timestamp": "2025-03-03T19:51:07.924881",
+            "duration": 137
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "PETER",
+            "timestamp": "2025-03-04T11:06:07.924883",
+            "duration": 261
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "PETER",
+            "timestamp": "2025-03-08T22:49:07.924885",
+            "duration": 202
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "ROMEO",
+            "timestamp": "2025-03-08T05:48:07.924888",
+            "duration": 260
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "NURSE",
+            "timestamp": "2025-03-03T10:18:07.924890",
+            "duration": 94
+        },
+        {
+            "from": "BENVOLIO",
+            "to": "NURSE",
+            "timestamp": "2025-03-04T00:44:07.924892",
+            "duration": 291
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "LADY CAPULET",
+            "timestamp": "2025-03-02T19:42:07.924895",
+            "duration": 151
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "Servant",
+            "timestamp": "2025-03-07T09:49:07.924897",
+            "duration": 143
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "Servant",
+            "timestamp": "2025-03-06T23:51:07.924899",
+            "duration": 117
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T09:10:07.924901",
+            "duration": 281
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-10T08:40:07.924904",
+            "duration": 270
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-07T15:28:07.924906",
+            "duration": 272
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "GREGORY",
+            "timestamp": "2025-03-07T02:21:07.924908",
+            "duration": 177
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "GREGORY",
+            "timestamp": "2025-03-09T16:15:07.924911",
+            "duration": 77
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T07:46:07.924913",
+            "duration": 203
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T11:14:07.924915",
+            "duration": 259
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "JULIET",
+            "timestamp": "2025-03-02T16:28:07.924917",
+            "duration": 86
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "Apothecary",
+            "timestamp": "2025-03-07T13:38:07.924919",
+            "duration": 76
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "Apothecary",
+            "timestamp": "2025-03-10T06:56:07.924921",
+            "duration": 76
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "Apothecary",
+            "timestamp": "2025-03-05T23:55:07.924924",
+            "duration": 254
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "Musician",
+            "timestamp": "2025-03-07T15:43:07.924926",
+            "duration": 202
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "PETER",
+            "timestamp": "2025-03-08T06:30:07.924928",
+            "duration": 97
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "PETER",
+            "timestamp": "2025-03-09T19:11:07.924931",
+            "duration": 137
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "PETER",
+            "timestamp": "2025-03-09T03:12:07.924933",
+            "duration": 173
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "ROMEO",
+            "timestamp": "2025-03-02T21:22:07.924935",
+            "duration": 213
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "ROMEO",
+            "timestamp": "2025-03-10T06:29:07.924937",
+            "duration": 279
+        },
+        {
+            "from": "LADY  CAPULET",
+            "to": "NURSE",
+            "timestamp": "2025-03-03T05:40:07.924940",
+            "duration": 286
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "Servant",
+            "timestamp": "2025-03-07T14:33:07.924942",
+            "duration": 132
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-09T12:28:07.924944",
+            "duration": 151
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "GREGORY",
+            "timestamp": "2025-03-05T17:02:07.924947",
+            "duration": 215
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "GREGORY",
+            "timestamp": "2025-03-10T09:03:07.924950",
+            "duration": 168
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "GREGORY",
+            "timestamp": "2025-03-06T21:05:07.924952",
+            "duration": 247
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T10:41:07.924954",
+            "duration": 279
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "JULIET",
+            "timestamp": "2025-03-04T04:00:07.924956",
+            "duration": 201
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T11:23:07.924958",
+            "duration": 69
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "Apothecary",
+            "timestamp": "2025-03-09T07:45:07.924961",
+            "duration": 235
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "Apothecary",
+            "timestamp": "2025-03-05T13:33:07.924963",
+            "duration": 297
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "Apothecary",
+            "timestamp": "2025-03-06T20:10:07.924965",
+            "duration": 216
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "Musician",
+            "timestamp": "2025-03-06T13:40:07.924967",
+            "duration": 148
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "PETER",
+            "timestamp": "2025-03-08T07:43:07.924970",
+            "duration": 286
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "PETER",
+            "timestamp": "2025-03-08T02:36:07.924972",
+            "duration": 60
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "ROMEO",
+            "timestamp": "2025-03-02T20:39:07.924974",
+            "duration": 76
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "ROMEO",
+            "timestamp": "2025-03-09T07:42:07.924976",
+            "duration": 233
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "ROMEO",
+            "timestamp": "2025-03-10T07:50:07.924978",
+            "duration": 87
+        },
+        {
+            "from": "LADY CAPULET",
+            "to": "NURSE",
+            "timestamp": "2025-03-03T17:40:07.924980",
+            "duration": 228
+        },
+        {
+            "from": "Servant",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-06T11:40:07.924983",
+            "duration": 239
+        },
+        {
+            "from": "Servant",
+            "to": "FRIAR JOHN",
+            "timestamp": "2025-03-08T17:49:07.924985",
+            "duration": 226
+        },
+        {
+            "from": "Servant",
+            "to": "GREGORY",
+            "timestamp": "2025-03-09T17:26:07.924987",
+            "duration": 284
+        },
+        {
+            "from": "Servant",
+            "to": "GREGORY",
+            "timestamp": "2025-03-02T20:06:07.924989",
+            "duration": 127
+        },
+        {
+            "from": "Servant",
+            "to": "GREGORY",
+            "timestamp": "2025-03-10T12:26:07.924992",
+            "duration": 282
+        },
+        {
+            "from": "Servant",
+            "to": "JULIET",
+            "timestamp": "2025-03-06T12:02:07.924994",
+            "duration": 161
+        },
+        {
+            "from": "Servant",
+            "to": "JULIET",
+            "timestamp": "2025-03-09T04:45:07.924996",
+            "duration": 60
+        },
+        {
+            "from": "Servant",
+            "to": "JULIET",
+            "timestamp": "2025-03-08T05:49:07.924998",
+            "duration": 168
+        },
+        {
+            "from": "Servant",
+            "to": "Apothecary",
+            "timestamp": "2025-03-03T07:33:07.925000",
+            "duration": 227
+        },
+        {
+            "from": "Servant",
+            "to": "Musician",
+            "timestamp": "2025-03-04T11:44:07.925003",
+            "duration": 258
+        },
+        {
+            "from": "Servant",
+            "to": "PETER",
+            "timestamp": "2025-03-04T08:15:07.925005",
+            "duration": 193
+        },
+        {
+            "from": "Servant",
+            "to": "ROMEO",
+            "timestamp": "2025-03-10T10:57:07.925007",
+            "duration": 68
+        },
+        {
+            "from": "Servant",
+            "to": "NURSE",
+            "timestamp": "2025-03-04T21:55:07.925010",
+            "duration": 66
+        },
+        {
+            "from": "Servant",
+            "to": "NURSE",
+            "timestamp": "2025-03-08T20:02:07.925012",
+            "duration": 257
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "GREGORY",
+            "timestamp": "2025-03-10T01:18:07.925014",
+            "duration": 299
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "GREGORY",
+            "timestamp": "2025-03-06T15:10:07.925016",
+            "duration": 229
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "GREGORY",
+            "timestamp": "2025-03-04T22:10:07.925018",
+            "duration": 167
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "JULIET",
+            "timestamp": "2025-03-03T20:25:07.925021",
+            "duration": 101
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "JULIET",
+            "timestamp": "2025-03-07T15:31:07.925023",
+            "duration": 160
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "Apothecary",
+            "timestamp": "2025-03-06T19:45:07.925025",
+            "duration": 150
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "Musician",
+            "timestamp": "2025-03-09T08:00:07.925027",
+            "duration": 103
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "Musician",
+            "timestamp": "2025-03-10T09:34:07.925030",
+            "duration": 199
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "PETER",
+            "timestamp": "2025-03-10T10:11:07.925032",
+            "duration": 160
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "PETER",
+            "timestamp": "2025-03-04T19:13:07.925034",
+            "duration": 291
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T22:32:07.925036",
+            "duration": 232
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "ROMEO",
+            "timestamp": "2025-03-03T18:23:07.925038",
+            "duration": 285
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "NURSE",
+            "timestamp": "2025-03-10T11:41:07.925041",
+            "duration": 124
+        },
+        {
+            "from": "FRIAR JOHN",
+            "to": "NURSE",
+            "timestamp": "2025-03-06T21:30:07.925043",
+            "duration": 113
+        },
+        {
+            "from": "GREGORY",
+            "to": "JULIET",
+            "timestamp": "2025-03-07T12:46:07.925046",
+            "duration": 97
+        },
+        {
+            "from": "GREGORY",
+            "to": "Apothecary",
+            "timestamp": "2025-03-04T11:01:07.925048",
+            "duration": 272
+        },
+        {
+            "from": "GREGORY",
+            "to": "Apothecary",
+            "timestamp": "2025-03-06T17:38:07.925050",
+            "duration": 259
+        },
+        {
+            "from": "GREGORY",
+            "to": "Apothecary",
+            "timestamp": "2025-03-10T09:39:07.925053",
+            "duration": 177
+        },
+        {
+            "from": "GREGORY",
+            "to": "Musician",
+            "timestamp": "2025-03-09T14:07:07.925055",
+            "duration": 198
+        },
+        {
+            "from": "GREGORY",
+            "to": "PETER",
+            "timestamp": "2025-03-10T03:03:07.925057",
+            "duration": 73
+        },
+        {
+            "from": "GREGORY",
+            "to": "PETER",
+            "timestamp": "2025-03-09T05:18:07.925060",
+            "duration": 68
+        },
+        {
+            "from": "GREGORY",
+            "to": "PETER",
+            "timestamp": "2025-03-03T01:29:07.925062",
+            "duration": 199
+        },
+        {
+            "from": "GREGORY",
+            "to": "ROMEO",
+            "timestamp": "2025-03-04T10:33:07.925064",
+            "duration": 143
+        },
+        {
+            "from": "GREGORY",
+            "to": "NURSE",
+            "timestamp": "2025-03-04T23:48:07.925066",
+            "duration": 160
+        },
+        {
+            "from": "GREGORY",
+            "to": "NURSE",
+            "timestamp": "2025-03-07T21:15:07.925068",
+            "duration": 116
+        },
+        {
+            "from": "GREGORY",
+            "to": "NURSE",
+            "timestamp": "2025-03-09T07:02:07.925071",
+            "duration": 103
+        },
+        {
+            "from": "JULIET",
+            "to": "Apothecary",
+            "timestamp": "2025-03-05T21:34:07.925073",
+            "duration": 60
+        },
+        {
+            "from": "JULIET",
+            "to": "Apothecary",
+            "timestamp": "2025-03-03T19:05:07.925075",
+            "duration": 287
+        },
+        {
+            "from": "JULIET",
+            "to": "Musician",
+            "timestamp": "2025-03-08T13:10:07.925078",
+            "duration": 252
+        },
+        {
+            "from": "JULIET",
+            "to": "PETER",
+            "timestamp": "2025-03-03T00:46:07.925080",
+            "duration": 72
+        },
+        {
+            "from": "JULIET",
+            "to": "PETER",
+            "timestamp": "2025-03-07T08:58:07.925082",
+            "duration": 175
+        },
+        {
+            "from": "JULIET",
+            "to": "ROMEO",
+            "timestamp": "2025-03-05T23:57:07.925085",
+            "duration": 135
+        },
+        {
+            "from": "JULIET",
+            "to": "NURSE",
+            "timestamp": "2025-03-08T12:18:07.925087",
+            "duration": 222
+        },
+        {
+            "from": "JULIET",
+            "to": "NURSE",
+            "timestamp": "2025-03-09T14:05:07.925089",
+            "duration": 265
+        },
+        {
+            "from": "JULIET",
+            "to": "NURSE",
+            "timestamp": "2025-03-07T17:11:07.925091",
+            "duration": 156
+        },
+        {
+            "from": "Apothecary",
+            "to": "Musician",
+            "timestamp": "2025-03-03T08:24:07.925094",
+            "duration": 179
+        },
+        {
+            "from": "Apothecary",
+            "to": "Musician",
+            "timestamp": "2025-03-07T14:50:07.925096",
+            "duration": 178
+        },
+        {
+            "from": "Apothecary",
+            "to": "PETER",
+            "timestamp": "2025-03-02T15:44:07.925099",
+            "duration": 161
+        },
+        {
+            "from": "Apothecary",
+            "to": "ROMEO",
+            "timestamp": "2025-03-08T11:23:07.925101",
+            "duration": 211
+        },
+        {
+            "from": "Apothecary",
+            "to": "NURSE",
+            "timestamp": "2025-03-05T23:44:07.925103",
+            "duration": 144
+        },
+        {
+            "from": "Apothecary",
+            "to": "NURSE",
+            "timestamp": "2025-03-10T08:28:07.925105",
+            "duration": 83
+        },
+        {
+            "from": "Musician",
+            "to": "PETER",
+            "timestamp": "2025-03-05T23:09:07.925108",
+            "duration": 207
+        },
+        {
+            "from": "Musician",
+            "to": "PETER",
+            "timestamp": "2025-03-10T12:15:07.925110",
+            "duration": 96
+        },
+        {
+            "from": "Musician",
+            "to": "ROMEO",
+            "timestamp": "2025-03-08T08:51:07.925116",
+            "duration": 183
+        },
+        {
+            "from": "Musician",
+            "to": "ROMEO",
+            "timestamp": "2025-03-04T22:09:07.925118",
+            "duration": 159
+        },
+        {
+            "from": "Musician",
+            "to": "NURSE",
+            "timestamp": "2025-03-09T18:27:07.925121",
+            "duration": 202
+        },
+        {
+            "from": "Musician",
+            "to": "NURSE",
+            "timestamp": "2025-03-02T21:56:07.925123",
+            "duration": 176
+        },
+        {
+            "from": "Musician",
+            "to": "NURSE",
+            "timestamp": "2025-03-04T01:02:07.925125",
+            "duration": 197
+        },
+        {
+            "from": "PETER",
+            "to": "ROMEO",
+            "timestamp": "2025-03-06T02:29:07.925128",
+            "duration": 167
+        },
+        {
+            "from": "PETER",
+            "to": "NURSE",
+            "timestamp": "2025-03-06T22:59:07.925130",
+            "duration": 262
+        },
+        {
+            "from": "PETER",
+            "to": "NURSE",
+            "timestamp": "2025-03-06T19:20:07.925133",
+            "duration": 248
+        },
+        {
+            "from": "ROMEO",
+            "to": "NURSE",
+            "timestamp": "2025-03-10T09:52:07.925135",
+            "duration": 222
+        },
+        {
+            "from": "ROMEO",
+            "to": "NURSE",
+            "timestamp": "2025-03-02T19:23:07.925137",
+            "duration": 113
+        },
+        {
+            "from": "ROMEO",
+            "to": "NURSE",
+            "timestamp": "2025-03-05T15:56:07.925139",
+            "duration": 130
+        }
+    ],
+    "contact_data": {
+        "FRIAR LAURENCE": {
+            "phone": "628-622-4703",
+            "email": "friar.laurence@spiritualwellness.org",
+            "title": "Guidance Counselor",
+            "company": "Spiritual Wellness Institute",
+            "industry": "Religious"
+        },
+        "BALTHASAR": {
+            "phone": "628-655-4182",
+            "email": "balthasar@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "PARIS": {
+            "phone": "628-236-7617",
+            "email": "paris@marketdyn.com",
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "CAPULET": {
+            "phone": "628-624-1769",
+            "email": "capulet@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Third Watchman": {
+            "phone": "628-318-6176",
+            "email": "third.watchman@commercetrade.com",
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "MERCUTIO": {
+            "phone": "628-538-9976",
+            "email": "mercutio@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "MONTAGUE": {
+            "phone": "628-772-3043",
+            "email": "montague@tradewinds.com",
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "ABRAHAM": {
+            "phone": "415-240-9951",
+            "email": "abraham@marketdyn.com",
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "SAMPSON": {
+            "phone": "415-594-8049",
+            "email": "sampson@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "LADY MONTAGUE": {
+            "phone": "628-300-2968",
+            "email": "lady.montague@legacycap.com",
+            "title": "Managing Partner",
+            "company": "Legacy Capital Partners",
+            "industry": "Noble"
+        },
+        "Chorus": {
+            "phone": "415-984-7439",
+            "email": "chorus@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "PRINCE": {
+            "phone": "628-718-1611",
+            "email": "prince@crownholdings.com",
+            "title": "Global President",
+            "company": "Crown Holdings International",
+            "industry": "Royal"
+        },
+        "PAGE": {
+            "phone": "628-243-5546",
+            "email": "page@commercetrade.com",
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Third Musician": {
+            "phone": "415-485-3577",
+            "email": "third.musician@artsglobal.com",
+            "title": "Arts Program Manager",
+            "company": "Arts & Entertainment Global",
+            "industry": "Artistic"
+        },
+        "Nurse": {
+            "phone": "628-409-6653",
+            "email": "nurse@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "TYBALT": {
+            "phone": "628-310-5978",
+            "email": "tybalt@marketdyn.com",
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "BENVOLIO": {
+            "phone": "628-776-8982",
+            "email": "benvolio@merchantsexchange.com",
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "LADY  CAPULET": {
+            "phone": "628-538-4572",
+            "email": "lady..capulet@prestigeholdings.com",
+            "title": "Senior Vice President",
+            "company": "Prestige Holdings",
+            "industry": "Noble"
+        },
+        "LADY CAPULET": {
+            "phone": "628-724-4143",
+            "email": "lady.capulet@noblesterling.com",
+            "title": "Chief Investment Officer",
+            "company": "Noble & Sterling Partners",
+            "industry": "Noble"
+        },
+        "Servant": {
+            "phone": "415-317-9015",
+            "email": "servant@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "FRIAR JOHN": {
+            "phone": "628-847-8108",
+            "email": "friar.john@divineguidance.org",
+            "title": "Guidance Counselor",
+            "company": "Divine Guidance Counsel",
+            "industry": "Religious"
+        },
+        "GREGORY": {
+            "phone": "415-386-2659",
+            "email": "gregory@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "JULIET": {
+            "phone": "415-251-6487",
+            "email": "juliet@marketdyn.com",
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "Apothecary": {
+            "phone": "415-368-9212",
+            "email": "apothecary@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Musician": {
+            "phone": "415-896-6971",
+            "email": "musician@performarts.com",
+            "title": "Performance Director",
+            "company": "Performance Arts Collective",
+            "industry": "Artistic"
+        },
+        "PETER": {
+            "phone": "415-336-4331",
+            "email": "peter@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "ROMEO": {
+            "phone": "415-848-6880",
+            "email": "romeo@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "NURSE": {
+            "phone": "415-201-8656",
+            "email": "nurse@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        }
+    }
+}

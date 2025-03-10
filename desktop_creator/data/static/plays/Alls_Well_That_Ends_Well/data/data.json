@@ -1,0 +1,1865 @@
+{
+    "characters": {
+        "Servant": {
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-712-6312",
+            "email": "servant@globaltradepart.com"
+        },
+        "DUKE": {
+            "title": "President",
+            "company": "Regency Financial",
+            "industry": "Royal",
+            "location": "Chicago",
+            "phone": "312-502-6752",
+            "email": "duke@regencyfinancial.com"
+        },
+        "Fourth Lord": {
+            "title": "Senior Partner",
+            "company": "Heritage Private Equity",
+            "industry": "Noble",
+            "location": "Chicago",
+            "phone": "312-418-4479",
+            "email": "fourth.lord@heritagepe.com"
+        },
+        "PAROLLES": {
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-973-6695",
+            "email": "parolles@commercelink.com"
+        },
+        "LAFEU": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-745-9903",
+            "email": "lafeu@marketdyn.com"
+        },
+        "DIANA": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-747-9960",
+            "email": "diana@marketdyn.com"
+        },
+        "KING": {
+            "title": "Chairman of the Board",
+            "company": "Regency Financial",
+            "industry": "Royal",
+            "location": "San Francisco",
+            "phone": "628-857-9010",
+            "email": "king@regencyfinancial.com"
+        },
+        "Widow": {
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-270-4843",
+            "email": "widow@merchantsexchange.com"
+        },
+        "MARIANA": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-371-1407",
+            "email": "mariana@commercelink.com"
+        },
+        "Clown": {
+            "title": "Performance Director",
+            "company": "Creative Minds Studio",
+            "industry": "Artistic",
+            "location": "San Francisco",
+            "phone": "415-696-4100",
+            "email": "clown@creativeminds.art"
+        },
+        "Gentleman": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-219-9480",
+            "email": "gentleman@marketdyn.com"
+        },
+        "Steward": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-987-6377",
+            "email": "steward@commercetrade.com"
+        },
+        "BERTRAM": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-890-3989",
+            "email": "bertram@commercelink.com"
+        },
+        "COUNTESS": {
+            "title": "Executive Director",
+            "company": "Elite Management Associates",
+            "industry": "Noble",
+            "location": "San Francisco",
+            "phone": "628-783-9329",
+            "email": "countess@elitema.com"
+        },
+        "HELENA": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-570-6464",
+            "email": "helena@commercetrade.com"
+        },
+        "Page": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-979-7214",
+            "email": "page@merchantsexchange.com"
+        },
+        "BOTH": {
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-354-4727",
+            "email": "both@tradewinds.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "Servant",
+            "to": "DUKE",
+            "timestamp": "2025-03-08T08:57:09.684061",
+            "duration": 253
+        },
+        {
+            "from": "Servant",
+            "to": "Fourth Lord",
+            "timestamp": "2025-03-06T08:19:09.684073",
+            "duration": 122
+        },
+        {
+            "from": "Servant",
+            "to": "Fourth Lord",
+            "timestamp": "2025-03-04T19:46:09.684076",
+            "duration": 272
+        },
+        {
+            "from": "Servant",
+            "to": "Fourth Lord",
+            "timestamp": "2025-03-07T06:03:09.684078",
+            "duration": 75
+        },
+        {
+            "from": "Servant",
+            "to": "PAROLLES",
+            "timestamp": "2025-03-07T23:02:09.684081",
+            "duration": 202
+        },
+        {
+            "from": "Servant",
+            "to": "PAROLLES",
+            "timestamp": "2025-03-06T10:42:09.684084",
+            "duration": 184
+        },
+        {
+            "from": "Servant",
+            "to": "PAROLLES",
+            "timestamp": "2025-03-05T03:38:09.684086",
+            "duration": 245
+        },
+        {
+            "from": "Servant",
+            "to": "LAFEU",
+            "timestamp": "2025-03-06T21:52:09.684088",
+            "duration": 225
+        },
+        {
+            "from": "Servant",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T21:55:09.684091",
+            "duration": 214
+        },
+        {
+            "from": "Servant",
+            "to": "DIANA",
+            "timestamp": "2025-03-04T11:22:09.684093",
+            "duration": 171
+        },
+        {
+            "from": "Servant",
+            "to": "KING",
+            "timestamp": "2025-03-04T02:49:09.684095",
+            "duration": 101
+        },
+        {
+            "from": "Servant",
+            "to": "Widow",
+            "timestamp": "2025-03-09T02:14:09.684097",
+            "duration": 149
+        },
+        {
+            "from": "Servant",
+            "to": "MARIANA",
+            "timestamp": "2025-03-06T14:25:09.684100",
+            "duration": 147
+        },
+        {
+            "from": "Servant",
+            "to": "Clown",
+            "timestamp": "2025-03-08T05:29:09.684102",
+            "duration": 157
+        },
+        {
+            "from": "Servant",
+            "to": "Clown",
+            "timestamp": "2025-03-04T03:08:09.684106",
+            "duration": 220
+        },
+        {
+            "from": "Servant",
+            "to": "Gentleman",
+            "timestamp": "2025-03-02T16:52:09.684116",
+            "duration": 193
+        },
+        {
+            "from": "Servant",
+            "to": "Steward",
+            "timestamp": "2025-03-07T19:15:09.684119",
+            "duration": 295
+        },
+        {
+            "from": "Servant",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-05T02:03:09.684121",
+            "duration": 252
+        },
+        {
+            "from": "Servant",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-08T17:53:09.684123",
+            "duration": 290
+        },
+        {
+            "from": "Servant",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-09T10:35:09.684125",
+            "duration": 117
+        },
+        {
+            "from": "Servant",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-06T20:49:09.684127",
+            "duration": 208
+        },
+        {
+            "from": "Servant",
+            "to": "HELENA",
+            "timestamp": "2025-03-08T12:16:09.684130",
+            "duration": 124
+        },
+        {
+            "from": "Servant",
+            "to": "HELENA",
+            "timestamp": "2025-03-08T18:10:09.684132",
+            "duration": 217
+        },
+        {
+            "from": "Servant",
+            "to": "HELENA",
+            "timestamp": "2025-03-08T19:31:09.684134",
+            "duration": 142
+        },
+        {
+            "from": "Servant",
+            "to": "Page",
+            "timestamp": "2025-03-08T00:16:09.684136",
+            "duration": 81
+        },
+        {
+            "from": "Servant",
+            "to": "Page",
+            "timestamp": "2025-03-09T18:34:09.684138",
+            "duration": 241
+        },
+        {
+            "from": "Servant",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T23:32:09.684140",
+            "duration": 161
+        },
+        {
+            "from": "Servant",
+            "to": "BOTH",
+            "timestamp": "2025-03-06T02:10:09.684143",
+            "duration": 73
+        },
+        {
+            "from": "DUKE",
+            "to": "Fourth Lord",
+            "timestamp": "2025-03-10T09:54:09.684146",
+            "duration": 246
+        },
+        {
+            "from": "DUKE",
+            "to": "PAROLLES",
+            "timestamp": "2025-03-05T00:43:09.684148",
+            "duration": 61
+        },
+        {
+            "from": "DUKE",
+            "to": "LAFEU",
+            "timestamp": "2025-03-09T20:57:09.684150",
+            "duration": 241
+        },
+        {
+            "from": "DUKE",
+            "to": "DIANA",
+            "timestamp": "2025-03-08T19:21:09.684153",
+            "duration": 105
+        },
+        {
+            "from": "DUKE",
+            "to": "DIANA",
+            "timestamp": "2025-03-05T13:48:09.684155",
+            "duration": 188
+        },
+        {
+            "from": "DUKE",
+            "to": "KING",
+            "timestamp": "2025-03-09T20:57:09.684157",
+            "duration": 284
+        },
+        {
+            "from": "DUKE",
+            "to": "KING",
+            "timestamp": "2025-03-08T21:31:09.684159",
+            "duration": 148
+        },
+        {
+            "from": "DUKE",
+            "to": "KING",
+            "timestamp": "2025-03-08T08:33:09.684161",
+            "duration": 136
+        },
+        {
+            "from": "DUKE",
+            "to": "Widow",
+            "timestamp": "2025-03-02T14:49:09.684164",
+            "duration": 123
+        },
+        {
+            "from": "DUKE",
+            "to": "Widow",
+            "timestamp": "2025-03-03T11:52:09.684166",
+            "duration": 256
+        },
+        {
+            "from": "DUKE",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T06:12:09.684168",
+            "duration": 115
+        },
+        {
+            "from": "DUKE",
+            "to": "MARIANA",
+            "timestamp": "2025-03-09T16:53:09.684170",
+            "duration": 253
+        },
+        {
+            "from": "DUKE",
+            "to": "MARIANA",
+            "timestamp": "2025-03-07T14:51:09.684172",
+            "duration": 162
+        },
+        {
+            "from": "DUKE",
+            "to": "Clown",
+            "timestamp": "2025-03-08T22:59:09.684174",
+            "duration": 294
+        },
+        {
+            "from": "DUKE",
+            "to": "Clown",
+            "timestamp": "2025-03-09T12:14:09.684176",
+            "duration": 147
+        },
+        {
+            "from": "DUKE",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T04:27:09.684178",
+            "duration": 242
+        },
+        {
+            "from": "DUKE",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T20:57:09.684180",
+            "duration": 284
+        },
+        {
+            "from": "DUKE",
+            "to": "Steward",
+            "timestamp": "2025-03-06T22:05:09.684183",
+            "duration": 222
+        },
+        {
+            "from": "DUKE",
+            "to": "Steward",
+            "timestamp": "2025-03-08T17:34:09.684185",
+            "duration": 149
+        },
+        {
+            "from": "DUKE",
+            "to": "Steward",
+            "timestamp": "2025-03-04T14:42:09.684187",
+            "duration": 115
+        },
+        {
+            "from": "DUKE",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-03T10:30:09.684190",
+            "duration": 153
+        },
+        {
+            "from": "DUKE",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-04T16:44:09.684192",
+            "duration": 244
+        },
+        {
+            "from": "DUKE",
+            "to": "HELENA",
+            "timestamp": "2025-03-03T19:55:09.684194",
+            "duration": 193
+        },
+        {
+            "from": "DUKE",
+            "to": "Page",
+            "timestamp": "2025-03-10T11:09:09.684197",
+            "duration": 262
+        },
+        {
+            "from": "DUKE",
+            "to": "Page",
+            "timestamp": "2025-03-06T18:13:09.684199",
+            "duration": 162
+        },
+        {
+            "from": "DUKE",
+            "to": "BOTH",
+            "timestamp": "2025-03-06T13:02:09.684204",
+            "duration": 80
+        },
+        {
+            "from": "DUKE",
+            "to": "BOTH",
+            "timestamp": "2025-03-08T16:04:09.684207",
+            "duration": 114
+        },
+        {
+            "from": "DUKE",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T13:24:09.684209",
+            "duration": 232
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "PAROLLES",
+            "timestamp": "2025-03-10T14:16:09.684212",
+            "duration": 147
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "PAROLLES",
+            "timestamp": "2025-03-03T07:48:09.684214",
+            "duration": 96
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "LAFEU",
+            "timestamp": "2025-03-05T02:38:09.684254",
+            "duration": 267
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "LAFEU",
+            "timestamp": "2025-03-10T12:28:09.684260",
+            "duration": 91
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "DIANA",
+            "timestamp": "2025-03-03T23:20:09.684263",
+            "duration": 149
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "KING",
+            "timestamp": "2025-03-05T04:33:09.684266",
+            "duration": 234
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "KING",
+            "timestamp": "2025-03-06T06:48:09.684269",
+            "duration": 210
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Widow",
+            "timestamp": "2025-03-08T18:55:09.684271",
+            "duration": 186
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Widow",
+            "timestamp": "2025-03-06T19:47:09.684273",
+            "duration": 296
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Widow",
+            "timestamp": "2025-03-10T13:09:09.684277",
+            "duration": 242
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "MARIANA",
+            "timestamp": "2025-03-08T00:01:09.684279",
+            "duration": 186
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "MARIANA",
+            "timestamp": "2025-03-08T20:54:09.684282",
+            "duration": 235
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "MARIANA",
+            "timestamp": "2025-03-06T16:32:09.684284",
+            "duration": 145
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Clown",
+            "timestamp": "2025-03-07T00:39:09.684286",
+            "duration": 188
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Clown",
+            "timestamp": "2025-03-10T04:16:09.684290",
+            "duration": 109
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Clown",
+            "timestamp": "2025-03-09T16:57:09.684292",
+            "duration": 268
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T15:42:09.684295",
+            "duration": 278
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Gentleman",
+            "timestamp": "2025-03-10T12:31:09.684300",
+            "duration": 179
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Steward",
+            "timestamp": "2025-03-09T23:40:09.684303",
+            "duration": 166
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Steward",
+            "timestamp": "2025-03-05T12:37:09.684305",
+            "duration": 134
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-07T18:13:09.684307",
+            "duration": 66
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-04T03:05:09.684310",
+            "duration": 212
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-08T19:42:09.684312",
+            "duration": 165
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-03T05:37:09.684314",
+            "duration": 238
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "HELENA",
+            "timestamp": "2025-03-04T05:03:09.684317",
+            "duration": 262
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Page",
+            "timestamp": "2025-03-08T13:46:09.684319",
+            "duration": 296
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Page",
+            "timestamp": "2025-03-05T01:31:09.684321",
+            "duration": 139
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "Page",
+            "timestamp": "2025-03-08T17:20:09.684324",
+            "duration": 133
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "BOTH",
+            "timestamp": "2025-03-07T08:54:09.684326",
+            "duration": 116
+        },
+        {
+            "from": "Fourth Lord",
+            "to": "BOTH",
+            "timestamp": "2025-03-10T05:38:09.684328",
+            "duration": 163
+        },
+        {
+            "from": "PAROLLES",
+            "to": "LAFEU",
+            "timestamp": "2025-03-07T10:14:09.684331",
+            "duration": 239
+        },
+        {
+            "from": "PAROLLES",
+            "to": "DIANA",
+            "timestamp": "2025-03-05T03:24:09.684333",
+            "duration": 162
+        },
+        {
+            "from": "PAROLLES",
+            "to": "DIANA",
+            "timestamp": "2025-03-10T07:08:09.684335",
+            "duration": 169
+        },
+        {
+            "from": "PAROLLES",
+            "to": "KING",
+            "timestamp": "2025-03-05T20:20:09.684338",
+            "duration": 284
+        },
+        {
+            "from": "PAROLLES",
+            "to": "Widow",
+            "timestamp": "2025-03-05T13:02:09.684340",
+            "duration": 233
+        },
+        {
+            "from": "PAROLLES",
+            "to": "Widow",
+            "timestamp": "2025-03-05T10:22:09.684342",
+            "duration": 191
+        },
+        {
+            "from": "PAROLLES",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T20:55:09.684345",
+            "duration": 174
+        },
+        {
+            "from": "PAROLLES",
+            "to": "MARIANA",
+            "timestamp": "2025-03-04T12:56:09.684347",
+            "duration": 240
+        },
+        {
+            "from": "PAROLLES",
+            "to": "MARIANA",
+            "timestamp": "2025-03-06T19:40:09.684349",
+            "duration": 167
+        },
+        {
+            "from": "PAROLLES",
+            "to": "Clown",
+            "timestamp": "2025-03-09T01:53:09.684352",
+            "duration": 233
+        },
+        {
+            "from": "PAROLLES",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T17:16:09.684354",
+            "duration": 101
+        },
+        {
+            "from": "PAROLLES",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T06:53:09.684356",
+            "duration": 183
+        },
+        {
+            "from": "PAROLLES",
+            "to": "Steward",
+            "timestamp": "2025-03-07T17:26:09.684359",
+            "duration": 152
+        },
+        {
+            "from": "PAROLLES",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-07T20:29:09.684361",
+            "duration": 207
+        },
+        {
+            "from": "PAROLLES",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-03T00:06:09.684363",
+            "duration": 93
+        },
+        {
+            "from": "PAROLLES",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-09T18:53:09.684365",
+            "duration": 222
+        },
+        {
+            "from": "PAROLLES",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-05T14:44:09.684367",
+            "duration": 285
+        },
+        {
+            "from": "PAROLLES",
+            "to": "HELENA",
+            "timestamp": "2025-03-07T21:43:09.684370",
+            "duration": 101
+        },
+        {
+            "from": "PAROLLES",
+            "to": "Page",
+            "timestamp": "2025-03-09T05:01:09.684372",
+            "duration": 259
+        },
+        {
+            "from": "PAROLLES",
+            "to": "Page",
+            "timestamp": "2025-03-04T19:13:09.684374",
+            "duration": 229
+        },
+        {
+            "from": "PAROLLES",
+            "to": "Page",
+            "timestamp": "2025-03-08T04:42:09.684376",
+            "duration": 297
+        },
+        {
+            "from": "PAROLLES",
+            "to": "BOTH",
+            "timestamp": "2025-03-06T03:11:09.684379",
+            "duration": 267
+        },
+        {
+            "from": "PAROLLES",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T01:20:09.684381",
+            "duration": 148
+        },
+        {
+            "from": "LAFEU",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T05:30:09.684384",
+            "duration": 186
+        },
+        {
+            "from": "LAFEU",
+            "to": "DIANA",
+            "timestamp": "2025-03-05T17:15:09.684386",
+            "duration": 285
+        },
+        {
+            "from": "LAFEU",
+            "to": "DIANA",
+            "timestamp": "2025-03-06T08:13:09.684388",
+            "duration": 129
+        },
+        {
+            "from": "LAFEU",
+            "to": "KING",
+            "timestamp": "2025-03-09T04:34:09.684390",
+            "duration": 131
+        },
+        {
+            "from": "LAFEU",
+            "to": "KING",
+            "timestamp": "2025-03-09T12:14:09.684392",
+            "duration": 189
+        },
+        {
+            "from": "LAFEU",
+            "to": "KING",
+            "timestamp": "2025-03-07T01:56:09.684395",
+            "duration": 165
+        },
+        {
+            "from": "LAFEU",
+            "to": "Widow",
+            "timestamp": "2025-03-08T16:35:09.684397",
+            "duration": 190
+        },
+        {
+            "from": "LAFEU",
+            "to": "MARIANA",
+            "timestamp": "2025-03-08T00:35:09.684400",
+            "duration": 179
+        },
+        {
+            "from": "LAFEU",
+            "to": "MARIANA",
+            "timestamp": "2025-03-05T10:56:09.684402",
+            "duration": 270
+        },
+        {
+            "from": "LAFEU",
+            "to": "MARIANA",
+            "timestamp": "2025-03-06T08:17:09.684404",
+            "duration": 268
+        },
+        {
+            "from": "LAFEU",
+            "to": "Clown",
+            "timestamp": "2025-03-04T20:35:09.684407",
+            "duration": 101
+        },
+        {
+            "from": "LAFEU",
+            "to": "Clown",
+            "timestamp": "2025-03-09T12:59:09.684409",
+            "duration": 195
+        },
+        {
+            "from": "LAFEU",
+            "to": "Clown",
+            "timestamp": "2025-03-04T10:05:09.684411",
+            "duration": 138
+        },
+        {
+            "from": "LAFEU",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T09:31:09.684413",
+            "duration": 286
+        },
+        {
+            "from": "LAFEU",
+            "to": "Steward",
+            "timestamp": "2025-03-05T17:19:09.684415",
+            "duration": 145
+        },
+        {
+            "from": "LAFEU",
+            "to": "Steward",
+            "timestamp": "2025-03-05T03:03:09.684417",
+            "duration": 285
+        },
+        {
+            "from": "LAFEU",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-03T12:00:09.684419",
+            "duration": 95
+        },
+        {
+            "from": "LAFEU",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-05T04:02:09.684422",
+            "duration": 175
+        },
+        {
+            "from": "LAFEU",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-08T22:58:09.684424",
+            "duration": 277
+        },
+        {
+            "from": "LAFEU",
+            "to": "HELENA",
+            "timestamp": "2025-03-06T01:04:09.684426",
+            "duration": 249
+        },
+        {
+            "from": "LAFEU",
+            "to": "HELENA",
+            "timestamp": "2025-03-06T04:45:09.684429",
+            "duration": 107
+        },
+        {
+            "from": "LAFEU",
+            "to": "Page",
+            "timestamp": "2025-03-06T22:40:09.684431",
+            "duration": 165
+        },
+        {
+            "from": "LAFEU",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T17:59:09.684433",
+            "duration": 267
+        },
+        {
+            "from": "LAFEU",
+            "to": "BOTH",
+            "timestamp": "2025-03-02T21:14:09.684436",
+            "duration": 61
+        },
+        {
+            "from": "LAFEU",
+            "to": "BOTH",
+            "timestamp": "2025-03-06T05:05:09.684438",
+            "duration": 108
+        },
+        {
+            "from": "DIANA",
+            "to": "KING",
+            "timestamp": "2025-03-04T13:15:09.684440",
+            "duration": 152
+        },
+        {
+            "from": "DIANA",
+            "to": "KING",
+            "timestamp": "2025-03-06T12:50:09.684443",
+            "duration": 233
+        },
+        {
+            "from": "DIANA",
+            "to": "Widow",
+            "timestamp": "2025-03-09T06:40:09.684445",
+            "duration": 119
+        },
+        {
+            "from": "DIANA",
+            "to": "MARIANA",
+            "timestamp": "2025-03-06T02:12:09.684447",
+            "duration": 251
+        },
+        {
+            "from": "DIANA",
+            "to": "Clown",
+            "timestamp": "2025-03-09T03:08:09.684449",
+            "duration": 186
+        },
+        {
+            "from": "DIANA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T11:54:09.684452",
+            "duration": 141
+        },
+        {
+            "from": "DIANA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T09:55:09.684454",
+            "duration": 248
+        },
+        {
+            "from": "DIANA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T02:02:09.684456",
+            "duration": 297
+        },
+        {
+            "from": "DIANA",
+            "to": "Steward",
+            "timestamp": "2025-03-10T05:48:09.684458",
+            "duration": 235
+        },
+        {
+            "from": "DIANA",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-06T03:15:09.684461",
+            "duration": 93
+        },
+        {
+            "from": "DIANA",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-10T12:56:09.684463",
+            "duration": 108
+        },
+        {
+            "from": "DIANA",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-08T17:58:09.684465",
+            "duration": 135
+        },
+        {
+            "from": "DIANA",
+            "to": "HELENA",
+            "timestamp": "2025-03-09T04:54:09.684468",
+            "duration": 142
+        },
+        {
+            "from": "DIANA",
+            "to": "HELENA",
+            "timestamp": "2025-03-10T14:06:09.684470",
+            "duration": 87
+        },
+        {
+            "from": "DIANA",
+            "to": "HELENA",
+            "timestamp": "2025-03-07T14:39:09.684472",
+            "duration": 165
+        },
+        {
+            "from": "DIANA",
+            "to": "Page",
+            "timestamp": "2025-03-03T12:38:09.684474",
+            "duration": 226
+        },
+        {
+            "from": "DIANA",
+            "to": "Page",
+            "timestamp": "2025-03-02T14:53:09.684477",
+            "duration": 283
+        },
+        {
+            "from": "DIANA",
+            "to": "Page",
+            "timestamp": "2025-03-03T16:59:09.684480",
+            "duration": 264
+        },
+        {
+            "from": "DIANA",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T09:09:09.684482",
+            "duration": 159
+        },
+        {
+            "from": "KING",
+            "to": "Widow",
+            "timestamp": "2025-03-08T22:50:09.684485",
+            "duration": 153
+        },
+        {
+            "from": "KING",
+            "to": "Widow",
+            "timestamp": "2025-03-03T22:08:09.684487",
+            "duration": 135
+        },
+        {
+            "from": "KING",
+            "to": "Widow",
+            "timestamp": "2025-03-04T22:26:09.684489",
+            "duration": 124
+        },
+        {
+            "from": "KING",
+            "to": "MARIANA",
+            "timestamp": "2025-03-02T17:48:09.684491",
+            "duration": 292
+        },
+        {
+            "from": "KING",
+            "to": "Clown",
+            "timestamp": "2025-03-03T22:35:09.684494",
+            "duration": 279
+        },
+        {
+            "from": "KING",
+            "to": "Clown",
+            "timestamp": "2025-03-10T03:10:09.684496",
+            "duration": 168
+        },
+        {
+            "from": "KING",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T13:23:09.684498",
+            "duration": 266
+        },
+        {
+            "from": "KING",
+            "to": "Steward",
+            "timestamp": "2025-03-07T00:29:09.684500",
+            "duration": 94
+        },
+        {
+            "from": "KING",
+            "to": "Steward",
+            "timestamp": "2025-03-07T11:50:09.684502",
+            "duration": 257
+        },
+        {
+            "from": "KING",
+            "to": "Steward",
+            "timestamp": "2025-03-09T08:13:09.684505",
+            "duration": 189
+        },
+        {
+            "from": "KING",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-09T12:07:09.684507",
+            "duration": 120
+        },
+        {
+            "from": "KING",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-08T21:16:09.684509",
+            "duration": 74
+        },
+        {
+            "from": "KING",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-04T01:08:09.684511",
+            "duration": 138
+        },
+        {
+            "from": "KING",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-09T12:40:09.684513",
+            "duration": 218
+        },
+        {
+            "from": "KING",
+            "to": "HELENA",
+            "timestamp": "2025-03-09T22:06:09.684520",
+            "duration": 206
+        },
+        {
+            "from": "KING",
+            "to": "HELENA",
+            "timestamp": "2025-03-03T17:21:09.684523",
+            "duration": 254
+        },
+        {
+            "from": "KING",
+            "to": "HELENA",
+            "timestamp": "2025-03-03T14:47:09.684525",
+            "duration": 239
+        },
+        {
+            "from": "KING",
+            "to": "Page",
+            "timestamp": "2025-03-04T23:34:09.684527",
+            "duration": 216
+        },
+        {
+            "from": "KING",
+            "to": "BOTH",
+            "timestamp": "2025-03-03T17:38:09.684529",
+            "duration": 300
+        },
+        {
+            "from": "KING",
+            "to": "BOTH",
+            "timestamp": "2025-03-03T23:10:09.684532",
+            "duration": 250
+        },
+        {
+            "from": "Widow",
+            "to": "MARIANA",
+            "timestamp": "2025-03-03T07:56:09.684534",
+            "duration": 167
+        },
+        {
+            "from": "Widow",
+            "to": "Clown",
+            "timestamp": "2025-03-04T08:21:09.684537",
+            "duration": 266
+        },
+        {
+            "from": "Widow",
+            "to": "Clown",
+            "timestamp": "2025-03-05T04:35:09.684539",
+            "duration": 226
+        },
+        {
+            "from": "Widow",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T04:37:09.684541",
+            "duration": 267
+        },
+        {
+            "from": "Widow",
+            "to": "Steward",
+            "timestamp": "2025-03-09T04:59:09.684544",
+            "duration": 193
+        },
+        {
+            "from": "Widow",
+            "to": "Steward",
+            "timestamp": "2025-03-07T13:28:09.684546",
+            "duration": 117
+        },
+        {
+            "from": "Widow",
+            "to": "Steward",
+            "timestamp": "2025-03-08T15:02:09.684548",
+            "duration": 80
+        },
+        {
+            "from": "Widow",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-06T12:29:09.684550",
+            "duration": 260
+        },
+        {
+            "from": "Widow",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-09T10:44:09.684552",
+            "duration": 74
+        },
+        {
+            "from": "Widow",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-05T02:16:09.684554",
+            "duration": 219
+        },
+        {
+            "from": "Widow",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-06T11:35:09.684557",
+            "duration": 125
+        },
+        {
+            "from": "Widow",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-06T01:27:09.684559",
+            "duration": 198
+        },
+        {
+            "from": "Widow",
+            "to": "HELENA",
+            "timestamp": "2025-03-07T06:15:09.684561",
+            "duration": 282
+        },
+        {
+            "from": "Widow",
+            "to": "HELENA",
+            "timestamp": "2025-03-08T00:09:09.684563",
+            "duration": 284
+        },
+        {
+            "from": "Widow",
+            "to": "HELENA",
+            "timestamp": "2025-03-09T02:25:09.684565",
+            "duration": 132
+        },
+        {
+            "from": "Widow",
+            "to": "Page",
+            "timestamp": "2025-03-09T13:11:09.684567",
+            "duration": 185
+        },
+        {
+            "from": "Widow",
+            "to": "BOTH",
+            "timestamp": "2025-03-08T22:35:09.684570",
+            "duration": 184
+        },
+        {
+            "from": "MARIANA",
+            "to": "Clown",
+            "timestamp": "2025-03-10T02:43:09.684572",
+            "duration": 60
+        },
+        {
+            "from": "MARIANA",
+            "to": "Clown",
+            "timestamp": "2025-03-10T07:02:09.684579",
+            "duration": 211
+        },
+        {
+            "from": "MARIANA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T18:25:09.684581",
+            "duration": 149
+        },
+        {
+            "from": "MARIANA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T12:40:09.684583",
+            "duration": 283
+        },
+        {
+            "from": "MARIANA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T17:50:09.684585",
+            "duration": 147
+        },
+        {
+            "from": "MARIANA",
+            "to": "Steward",
+            "timestamp": "2025-03-09T07:22:09.684587",
+            "duration": 131
+        },
+        {
+            "from": "MARIANA",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-03T11:06:09.684590",
+            "duration": 242
+        },
+        {
+            "from": "MARIANA",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-07T21:18:09.684592",
+            "duration": 249
+        },
+        {
+            "from": "MARIANA",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-09T07:46:09.684594",
+            "duration": 235
+        },
+        {
+            "from": "MARIANA",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-03T10:43:09.684596",
+            "duration": 115
+        },
+        {
+            "from": "MARIANA",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-10T07:00:09.684598",
+            "duration": 176
+        },
+        {
+            "from": "MARIANA",
+            "to": "HELENA",
+            "timestamp": "2025-03-04T03:27:09.684601",
+            "duration": 169
+        },
+        {
+            "from": "MARIANA",
+            "to": "HELENA",
+            "timestamp": "2025-03-04T21:37:09.684603",
+            "duration": 128
+        },
+        {
+            "from": "MARIANA",
+            "to": "HELENA",
+            "timestamp": "2025-03-05T03:14:09.684605",
+            "duration": 106
+        },
+        {
+            "from": "MARIANA",
+            "to": "Page",
+            "timestamp": "2025-03-10T09:32:09.684607",
+            "duration": 273
+        },
+        {
+            "from": "MARIANA",
+            "to": "Page",
+            "timestamp": "2025-03-07T06:08:09.684609",
+            "duration": 188
+        },
+        {
+            "from": "MARIANA",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T05:02:09.684612",
+            "duration": 157
+        },
+        {
+            "from": "MARIANA",
+            "to": "BOTH",
+            "timestamp": "2025-03-03T00:15:09.684614",
+            "duration": 255
+        },
+        {
+            "from": "MARIANA",
+            "to": "BOTH",
+            "timestamp": "2025-03-07T06:36:09.684616",
+            "duration": 209
+        },
+        {
+            "from": "Clown",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T01:51:09.684618",
+            "duration": 134
+        },
+        {
+            "from": "Clown",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T03:57:09.684620",
+            "duration": 111
+        },
+        {
+            "from": "Clown",
+            "to": "Steward",
+            "timestamp": "2025-03-07T03:36:09.684623",
+            "duration": 269
+        },
+        {
+            "from": "Clown",
+            "to": "Steward",
+            "timestamp": "2025-03-03T13:09:09.684625",
+            "duration": 73
+        },
+        {
+            "from": "Clown",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-05T10:56:09.684627",
+            "duration": 72
+        },
+        {
+            "from": "Clown",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-06T05:29:09.684629",
+            "duration": 176
+        },
+        {
+            "from": "Clown",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-03T10:32:09.684631",
+            "duration": 279
+        },
+        {
+            "from": "Clown",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-06T03:17:09.684634",
+            "duration": 150
+        },
+        {
+            "from": "Clown",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-05T05:23:09.684636",
+            "duration": 170
+        },
+        {
+            "from": "Clown",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-06T23:25:09.684638",
+            "duration": 289
+        },
+        {
+            "from": "Clown",
+            "to": "HELENA",
+            "timestamp": "2025-03-07T13:17:09.684640",
+            "duration": 111
+        },
+        {
+            "from": "Clown",
+            "to": "HELENA",
+            "timestamp": "2025-03-06T12:43:09.684642",
+            "duration": 129
+        },
+        {
+            "from": "Clown",
+            "to": "HELENA",
+            "timestamp": "2025-03-04T03:26:09.684644",
+            "duration": 242
+        },
+        {
+            "from": "Clown",
+            "to": "Page",
+            "timestamp": "2025-03-03T08:00:09.684647",
+            "duration": 88
+        },
+        {
+            "from": "Clown",
+            "to": "Page",
+            "timestamp": "2025-03-09T20:48:09.684649",
+            "duration": 281
+        },
+        {
+            "from": "Clown",
+            "to": "Page",
+            "timestamp": "2025-03-04T00:20:09.684651",
+            "duration": 260
+        },
+        {
+            "from": "Clown",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T12:23:09.684653",
+            "duration": 146
+        },
+        {
+            "from": "Clown",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T22:30:09.684655",
+            "duration": 286
+        },
+        {
+            "from": "Gentleman",
+            "to": "Steward",
+            "timestamp": "2025-03-04T08:55:09.684658",
+            "duration": 98
+        },
+        {
+            "from": "Gentleman",
+            "to": "Steward",
+            "timestamp": "2025-03-06T14:18:09.684660",
+            "duration": 222
+        },
+        {
+            "from": "Gentleman",
+            "to": "Steward",
+            "timestamp": "2025-03-03T09:36:09.684662",
+            "duration": 203
+        },
+        {
+            "from": "Gentleman",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-03T01:19:09.684664",
+            "duration": 251
+        },
+        {
+            "from": "Gentleman",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-07T16:41:09.684666",
+            "duration": 164
+        },
+        {
+            "from": "Gentleman",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-09T16:21:09.684669",
+            "duration": 148
+        },
+        {
+            "from": "Gentleman",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-06T10:34:09.684671",
+            "duration": 103
+        },
+        {
+            "from": "Gentleman",
+            "to": "HELENA",
+            "timestamp": "2025-03-06T17:35:09.684673",
+            "duration": 220
+        },
+        {
+            "from": "Gentleman",
+            "to": "Page",
+            "timestamp": "2025-03-04T22:51:09.684676",
+            "duration": 126
+        },
+        {
+            "from": "Gentleman",
+            "to": "Page",
+            "timestamp": "2025-03-06T04:42:09.684678",
+            "duration": 253
+        },
+        {
+            "from": "Gentleman",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T14:42:09.684680",
+            "duration": 203
+        },
+        {
+            "from": "Gentleman",
+            "to": "BOTH",
+            "timestamp": "2025-03-08T01:51:09.684682",
+            "duration": 152
+        },
+        {
+            "from": "Gentleman",
+            "to": "BOTH",
+            "timestamp": "2025-03-06T21:02:09.684684",
+            "duration": 168
+        },
+        {
+            "from": "Steward",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-03T12:01:09.684687",
+            "duration": 257
+        },
+        {
+            "from": "Steward",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-06T11:37:09.684689",
+            "duration": 90
+        },
+        {
+            "from": "Steward",
+            "to": "BERTRAM",
+            "timestamp": "2025-03-10T07:58:09.684691",
+            "duration": 157
+        },
+        {
+            "from": "Steward",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-04T13:02:09.684693",
+            "duration": 191
+        },
+        {
+            "from": "Steward",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-10T00:13:09.684695",
+            "duration": 207
+        },
+        {
+            "from": "Steward",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-08T14:16:09.684697",
+            "duration": 92
+        },
+        {
+            "from": "Steward",
+            "to": "HELENA",
+            "timestamp": "2025-03-04T22:55:09.684700",
+            "duration": 162
+        },
+        {
+            "from": "Steward",
+            "to": "Page",
+            "timestamp": "2025-03-08T10:57:09.684702",
+            "duration": 268
+        },
+        {
+            "from": "Steward",
+            "to": "BOTH",
+            "timestamp": "2025-03-02T17:02:09.684704",
+            "duration": 115
+        },
+        {
+            "from": "BERTRAM",
+            "to": "COUNTESS",
+            "timestamp": "2025-03-03T20:17:09.684707",
+            "duration": 130
+        },
+        {
+            "from": "BERTRAM",
+            "to": "HELENA",
+            "timestamp": "2025-03-10T02:27:09.684709",
+            "duration": 204
+        },
+        {
+            "from": "BERTRAM",
+            "to": "HELENA",
+            "timestamp": "2025-03-04T02:20:09.684712",
+            "duration": 80
+        },
+        {
+            "from": "BERTRAM",
+            "to": "Page",
+            "timestamp": "2025-03-10T10:28:09.684714",
+            "duration": 163
+        },
+        {
+            "from": "BERTRAM",
+            "to": "Page",
+            "timestamp": "2025-03-06T01:02:09.684716",
+            "duration": 202
+        },
+        {
+            "from": "BERTRAM",
+            "to": "Page",
+            "timestamp": "2025-03-08T00:49:09.684718",
+            "duration": 270
+        },
+        {
+            "from": "BERTRAM",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T06:37:09.684721",
+            "duration": 184
+        },
+        {
+            "from": "BERTRAM",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T09:28:09.684723",
+            "duration": 152
+        },
+        {
+            "from": "BERTRAM",
+            "to": "BOTH",
+            "timestamp": "2025-03-08T13:10:09.684725",
+            "duration": 130
+        },
+        {
+            "from": "COUNTESS",
+            "to": "HELENA",
+            "timestamp": "2025-03-06T11:27:09.684727",
+            "duration": 71
+        },
+        {
+            "from": "COUNTESS",
+            "to": "HELENA",
+            "timestamp": "2025-03-03T21:08:09.684729",
+            "duration": 178
+        },
+        {
+            "from": "COUNTESS",
+            "to": "HELENA",
+            "timestamp": "2025-03-08T20:37:09.684731",
+            "duration": 253
+        },
+        {
+            "from": "COUNTESS",
+            "to": "Page",
+            "timestamp": "2025-03-08T03:45:09.684733",
+            "duration": 222
+        },
+        {
+            "from": "COUNTESS",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T17:17:09.684736",
+            "duration": 196
+        },
+        {
+            "from": "HELENA",
+            "to": "Page",
+            "timestamp": "2025-03-08T00:28:09.684738",
+            "duration": 150
+        },
+        {
+            "from": "HELENA",
+            "to": "BOTH",
+            "timestamp": "2025-03-07T11:50:09.684740",
+            "duration": 206
+        },
+        {
+            "from": "Page",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T03:04:09.684743",
+            "duration": 123
+        },
+        {
+            "from": "Page",
+            "to": "BOTH",
+            "timestamp": "2025-03-08T19:25:09.684745",
+            "duration": 266
+        }
+    ],
+    "contact_data": {
+        "Servant": {
+            "phone": "323-610-3660",
+            "email": "servant@commercetrade.com",
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "DUKE": {
+            "phone": "323-251-6125",
+            "email": "duke@crownholdings.com",
+            "title": "Managing Director",
+            "company": "Crown Holdings International",
+            "industry": "Royal"
+        },
+        "Fourth Lord": {
+            "phone": "323-984-1727",
+            "email": "fourth.lord@noblesterling.com",
+            "title": "Portfolio Director",
+            "company": "Noble & Sterling Partners",
+            "industry": "Noble"
+        },
+        "PAROLLES": {
+            "phone": "323-480-3739",
+            "email": "parolles@marketdyn.com",
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "LAFEU": {
+            "phone": "213-551-4113",
+            "email": "lafeu@commercetrade.com",
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "DIANA": {
+            "phone": "310-737-5062",
+            "email": "diana@tradewinds.com",
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "KING": {
+            "phone": "323-399-8630",
+            "email": "king@crownholdings.com",
+            "title": "Executive Chairman",
+            "company": "Crown Holdings International",
+            "industry": "Royal"
+        },
+        "Widow": {
+            "phone": "310-373-6113",
+            "email": "widow@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "MARIANA": {
+            "phone": "213-924-4466",
+            "email": "mariana@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Clown": {
+            "phone": "310-566-7465",
+            "email": "clown@artisticvision.com",
+            "title": "Performance Director",
+            "company": "Artistic Vision Group",
+            "industry": "Artistic"
+        },
+        "Gentleman": {
+            "phone": "310-466-7182",
+            "email": "gentleman@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Steward": {
+            "phone": "323-641-3943",
+            "email": "steward@commercelink.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "BERTRAM": {
+            "phone": "323-937-3184",
+            "email": "bertram@tradewinds.com",
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "COUNTESS": {
+            "phone": "310-733-1722",
+            "email": "countess@prestigeholdings.com",
+            "title": "Chief Investment Officer",
+            "company": "Prestige Holdings",
+            "industry": "Noble"
+        },
+        "HELENA": {
+            "phone": "213-616-8791",
+            "email": "helena@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Page": {
+            "phone": "310-663-4365",
+            "email": "page@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "BOTH": {
+            "phone": "323-274-5291",
+            "email": "both@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        }
+    }
+}

@@ -1,0 +1,5144 @@
+{
+    "characters": {
+        "POLIXENES": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-806-8416",
+            "email": "polixenes@commercetrade.com"
+        },
+        "EMILIA": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-685-9038",
+            "email": "emilia@marketdyn.com"
+        },
+        "CLEOMENES": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-488-1677",
+            "email": "cleomenes@commercelink.com"
+        },
+        "PERDITA": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-344-8635",
+            "email": "perdita@marketdyn.com"
+        },
+        "Clown": {
+            "title": "Arts Program Manager",
+            "company": "Dramatic Works Productions",
+            "industry": "Artistic",
+            "location": "Los Angeles",
+            "phone": "310-847-5497",
+            "email": "clown@dramaticworks.com"
+        },
+        "Mariner": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-603-1084",
+            "email": "mariner@commercelink.com"
+        },
+        "Gaoler": {
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-298-1721",
+            "email": "gaoler@tradewinds.com"
+        },
+        "MOPSA": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-354-4869",
+            "email": "mopsa@globaltradepart.com"
+        },
+        "CAMILLO": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-928-1475",
+            "email": "camillo@merchantsexchange.com"
+        },
+        "Time": {
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-529-1663",
+            "email": "time@globaltradepart.com"
+        },
+        "LEONTES": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-494-2374",
+            "email": "leontes@merchantsexchange.com"
+        },
+        "MAMILLIUS": {
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-631-7002",
+            "email": "mamillius@marketdyn.com"
+        },
+        "ARCHIDAMUS": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-959-6576",
+            "email": "archidamus@globaltradepart.com"
+        },
+        "Third Gentleman": {
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-755-6323",
+            "email": "third.gentleman@commercetrade.com"
+        },
+        "HERMIONE": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-884-1935",
+            "email": "hermione@commercelink.com"
+        },
+        "Shepard": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-131-6200",
+            "email": "shepard@merchantsexchange.com"
+        },
+        "Gentleman": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-410-8048",
+            "email": "gentleman@commercetrade.com"
+        },
+        "Servant": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-418-2410",
+            "email": "servant@commercetrade.com"
+        },
+        "FLORIZEL": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-672-8509",
+            "email": "florizel@merchantsexchange.com"
+        },
+        "Lords": {
+            "title": "Senior Partner",
+            "company": "Prestige Holdings",
+            "industry": "Noble",
+            "location": "New York",
+            "phone": "917-815-8863",
+            "email": "lords@prestigeholdings.com"
+        },
+        "Shepherd": {
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-531-7172",
+            "email": "shepherd@tradewinds.com"
+        },
+        "Lord": {
+            "title": "Senior Vice President",
+            "company": "Noble & Sterling Partners",
+            "industry": "Noble",
+            "location": "Houston",
+            "phone": "832-967-8994",
+            "email": "lord@noblesterling.com"
+        },
+        "Officer": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-102-1632",
+            "email": "officer@merchantsexchange.com"
+        },
+        "AUTOLYCUS": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-875-9575",
+            "email": "autolycus@tradewinds.com"
+        },
+        "DION": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-349-8984",
+            "email": "dion@commercetrade.com"
+        },
+        "DORCAS": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-157-7091",
+            "email": "dorcas@commercelink.com"
+        },
+        "ANTIGONUS": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-815-3122",
+            "email": "antigonus@marketdyn.com"
+        },
+        "PAULINA": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-755-2452",
+            "email": "paulina@merchantsexchange.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "POLIXENES",
+            "to": "EMILIA",
+            "timestamp": "2025-03-09T09:18:08.769743",
+            "duration": 185
+        },
+        {
+            "from": "POLIXENES",
+            "to": "EMILIA",
+            "timestamp": "2025-03-08T19:50:08.769754",
+            "duration": 273
+        },
+        {
+            "from": "POLIXENES",
+            "to": "CLEOMENES",
+            "timestamp": "2025-03-07T17:24:08.769757",
+            "duration": 140
+        },
+        {
+            "from": "POLIXENES",
+            "to": "CLEOMENES",
+            "timestamp": "2025-03-07T15:04:08.769760",
+            "duration": 201
+        },
+        {
+            "from": "POLIXENES",
+            "to": "PERDITA",
+            "timestamp": "2025-03-05T20:13:08.769762",
+            "duration": 243
+        },
+        {
+            "from": "POLIXENES",
+            "to": "PERDITA",
+            "timestamp": "2025-03-04T22:55:08.769765",
+            "duration": 188
+        },
+        {
+            "from": "POLIXENES",
+            "to": "PERDITA",
+            "timestamp": "2025-03-07T01:23:08.769767",
+            "duration": 220
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Clown",
+            "timestamp": "2025-03-06T23:28:08.769769",
+            "duration": 100
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Clown",
+            "timestamp": "2025-03-04T15:50:08.769772",
+            "duration": 167
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Mariner",
+            "timestamp": "2025-03-07T01:00:08.769774",
+            "duration": 156
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Mariner",
+            "timestamp": "2025-03-06T18:27:08.769776",
+            "duration": 191
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Gaoler",
+            "timestamp": "2025-03-04T02:30:08.769779",
+            "duration": 251
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Gaoler",
+            "timestamp": "2025-03-07T23:10:08.769781",
+            "duration": 174
+        },
+        {
+            "from": "POLIXENES",
+            "to": "MOPSA",
+            "timestamp": "2025-03-08T04:29:08.769784",
+            "duration": 164
+        },
+        {
+            "from": "POLIXENES",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-06T07:29:08.769786",
+            "duration": 160
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Time",
+            "timestamp": "2025-03-06T00:54:08.769789",
+            "duration": 122
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Time",
+            "timestamp": "2025-03-05T07:37:08.769791",
+            "duration": 189
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Time",
+            "timestamp": "2025-03-09T07:30:08.769793",
+            "duration": 124
+        },
+        {
+            "from": "POLIXENES",
+            "to": "LEONTES",
+            "timestamp": "2025-03-07T05:36:08.769799",
+            "duration": 123
+        },
+        {
+            "from": "POLIXENES",
+            "to": "LEONTES",
+            "timestamp": "2025-03-10T09:46:08.769801",
+            "duration": 185
+        },
+        {
+            "from": "POLIXENES",
+            "to": "LEONTES",
+            "timestamp": "2025-03-10T02:32:08.769804",
+            "duration": 124
+        },
+        {
+            "from": "POLIXENES",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-06T08:06:08.769806",
+            "duration": 226
+        },
+        {
+            "from": "POLIXENES",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-04T05:45:08.769808",
+            "duration": 76
+        },
+        {
+            "from": "POLIXENES",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-08T07:49:08.769811",
+            "duration": 195
+        },
+        {
+            "from": "POLIXENES",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-05T09:30:08.769813",
+            "duration": 162
+        },
+        {
+            "from": "POLIXENES",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-04T10:34:08.769815",
+            "duration": 275
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-10T01:02:08.769817",
+            "duration": 108
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-06T01:42:08.769820",
+            "duration": 192
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T09:47:08.769822",
+            "duration": 163
+        },
+        {
+            "from": "POLIXENES",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-09T14:29:08.769824",
+            "duration": 137
+        },
+        {
+            "from": "POLIXENES",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-03T08:28:08.769826",
+            "duration": 207
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Shepard",
+            "timestamp": "2025-03-03T20:44:08.769829",
+            "duration": 264
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T06:27:08.769831",
+            "duration": 132
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T11:34:08.769833",
+            "duration": 217
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Servant",
+            "timestamp": "2025-03-04T02:54:08.769835",
+            "duration": 122
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Servant",
+            "timestamp": "2025-03-10T12:09:08.769838",
+            "duration": 210
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Servant",
+            "timestamp": "2025-03-09T01:18:08.769840",
+            "duration": 143
+        },
+        {
+            "from": "POLIXENES",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-10T03:18:08.769842",
+            "duration": 117
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Lords",
+            "timestamp": "2025-03-03T00:22:08.769844",
+            "duration": 168
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Shepherd",
+            "timestamp": "2025-03-03T07:35:08.769847",
+            "duration": 133
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Shepherd",
+            "timestamp": "2025-03-08T10:56:08.769849",
+            "duration": 218
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Lord",
+            "timestamp": "2025-03-06T02:18:08.769851",
+            "duration": 188
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Officer",
+            "timestamp": "2025-03-07T22:59:08.769854",
+            "duration": 61
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Officer",
+            "timestamp": "2025-03-07T06:54:08.769856",
+            "duration": 224
+        },
+        {
+            "from": "POLIXENES",
+            "to": "Officer",
+            "timestamp": "2025-03-07T12:23:08.769858",
+            "duration": 185
+        },
+        {
+            "from": "POLIXENES",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-07T08:26:08.769860",
+            "duration": 173
+        },
+        {
+            "from": "POLIXENES",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-04T18:46:08.769862",
+            "duration": 181
+        },
+        {
+            "from": "POLIXENES",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-08T05:21:08.769864",
+            "duration": 196
+        },
+        {
+            "from": "POLIXENES",
+            "to": "DION",
+            "timestamp": "2025-03-08T20:30:08.769867",
+            "duration": 291
+        },
+        {
+            "from": "POLIXENES",
+            "to": "DION",
+            "timestamp": "2025-03-07T10:51:08.769869",
+            "duration": 252
+        },
+        {
+            "from": "POLIXENES",
+            "to": "DION",
+            "timestamp": "2025-03-03T12:30:08.769871",
+            "duration": 159
+        },
+        {
+            "from": "POLIXENES",
+            "to": "DORCAS",
+            "timestamp": "2025-03-08T06:18:08.769873",
+            "duration": 203
+        },
+        {
+            "from": "POLIXENES",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-09T05:10:08.769876",
+            "duration": 273
+        },
+        {
+            "from": "POLIXENES",
+            "to": "PAULINA",
+            "timestamp": "2025-03-06T07:08:08.769878",
+            "duration": 299
+        },
+        {
+            "from": "POLIXENES",
+            "to": "PAULINA",
+            "timestamp": "2025-03-02T22:51:08.769880",
+            "duration": 273
+        },
+        {
+            "from": "EMILIA",
+            "to": "CLEOMENES",
+            "timestamp": "2025-03-07T13:28:08.769883",
+            "duration": 176
+        },
+        {
+            "from": "EMILIA",
+            "to": "CLEOMENES",
+            "timestamp": "2025-03-04T18:08:08.769885",
+            "duration": 130
+        },
+        {
+            "from": "EMILIA",
+            "to": "CLEOMENES",
+            "timestamp": "2025-03-04T14:12:08.769887",
+            "duration": 104
+        },
+        {
+            "from": "EMILIA",
+            "to": "PERDITA",
+            "timestamp": "2025-03-09T07:43:08.769889",
+            "duration": 122
+        },
+        {
+            "from": "EMILIA",
+            "to": "PERDITA",
+            "timestamp": "2025-03-05T23:30:08.769891",
+            "duration": 108
+        },
+        {
+            "from": "EMILIA",
+            "to": "Clown",
+            "timestamp": "2025-03-05T21:54:08.769894",
+            "duration": 117
+        },
+        {
+            "from": "EMILIA",
+            "to": "Clown",
+            "timestamp": "2025-03-05T20:37:08.770022",
+            "duration": 94
+        },
+        {
+            "from": "EMILIA",
+            "to": "Mariner",
+            "timestamp": "2025-03-08T18:54:08.770032",
+            "duration": 117
+        },
+        {
+            "from": "EMILIA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-03T20:57:08.770036",
+            "duration": 84
+        },
+        {
+            "from": "EMILIA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-07T12:52:08.770038",
+            "duration": 158
+        },
+        {
+            "from": "EMILIA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-10T06:51:08.770041",
+            "duration": 91
+        },
+        {
+            "from": "EMILIA",
+            "to": "MOPSA",
+            "timestamp": "2025-03-06T06:42:08.770044",
+            "duration": 214
+        },
+        {
+            "from": "EMILIA",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-07T01:46:08.770048",
+            "duration": 195
+        },
+        {
+            "from": "EMILIA",
+            "to": "Time",
+            "timestamp": "2025-03-06T06:44:08.770051",
+            "duration": 271
+        },
+        {
+            "from": "EMILIA",
+            "to": "Time",
+            "timestamp": "2025-03-09T14:59:08.770054",
+            "duration": 267
+        },
+        {
+            "from": "EMILIA",
+            "to": "LEONTES",
+            "timestamp": "2025-03-08T02:52:08.770056",
+            "duration": 193
+        },
+        {
+            "from": "EMILIA",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-02T17:32:08.770058",
+            "duration": 61
+        },
+        {
+            "from": "EMILIA",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-08T15:35:08.770061",
+            "duration": 221
+        },
+        {
+            "from": "EMILIA",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-03T01:25:08.770072",
+            "duration": 262
+        },
+        {
+            "from": "EMILIA",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-02T21:03:08.770075",
+            "duration": 199
+        },
+        {
+            "from": "EMILIA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-08T08:25:08.770077",
+            "duration": 134
+        },
+        {
+            "from": "EMILIA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-04T02:30:08.770079",
+            "duration": 110
+        },
+        {
+            "from": "EMILIA",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-10T14:14:08.770083",
+            "duration": 289
+        },
+        {
+            "from": "EMILIA",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-03T10:01:08.770085",
+            "duration": 105
+        },
+        {
+            "from": "EMILIA",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-08T17:07:08.770087",
+            "duration": 69
+        },
+        {
+            "from": "EMILIA",
+            "to": "Shepard",
+            "timestamp": "2025-03-04T07:56:08.770090",
+            "duration": 232
+        },
+        {
+            "from": "EMILIA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T04:55:08.770093",
+            "duration": 212
+        },
+        {
+            "from": "EMILIA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T10:11:08.770103",
+            "duration": 125
+        },
+        {
+            "from": "EMILIA",
+            "to": "Servant",
+            "timestamp": "2025-03-02T21:15:08.770106",
+            "duration": 290
+        },
+        {
+            "from": "EMILIA",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-04T21:28:08.770108",
+            "duration": 223
+        },
+        {
+            "from": "EMILIA",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-03T04:58:08.770111",
+            "duration": 279
+        },
+        {
+            "from": "EMILIA",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-10T09:53:08.770113",
+            "duration": 256
+        },
+        {
+            "from": "EMILIA",
+            "to": "Lords",
+            "timestamp": "2025-03-08T15:16:08.770115",
+            "duration": 103
+        },
+        {
+            "from": "EMILIA",
+            "to": "Shepherd",
+            "timestamp": "2025-03-03T17:26:08.770118",
+            "duration": 282
+        },
+        {
+            "from": "EMILIA",
+            "to": "Shepherd",
+            "timestamp": "2025-03-09T10:41:08.770120",
+            "duration": 160
+        },
+        {
+            "from": "EMILIA",
+            "to": "Lord",
+            "timestamp": "2025-03-10T03:44:08.770122",
+            "duration": 116
+        },
+        {
+            "from": "EMILIA",
+            "to": "Officer",
+            "timestamp": "2025-03-04T22:09:08.770124",
+            "duration": 82
+        },
+        {
+            "from": "EMILIA",
+            "to": "Officer",
+            "timestamp": "2025-03-07T19:17:08.770127",
+            "duration": 152
+        },
+        {
+            "from": "EMILIA",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-06T17:15:08.770129",
+            "duration": 115
+        },
+        {
+            "from": "EMILIA",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-09T06:40:08.770131",
+            "duration": 270
+        },
+        {
+            "from": "EMILIA",
+            "to": "DION",
+            "timestamp": "2025-03-06T07:44:08.770134",
+            "duration": 248
+        },
+        {
+            "from": "EMILIA",
+            "to": "DION",
+            "timestamp": "2025-03-08T16:54:08.770136",
+            "duration": 106
+        },
+        {
+            "from": "EMILIA",
+            "to": "DION",
+            "timestamp": "2025-03-04T10:14:08.770138",
+            "duration": 168
+        },
+        {
+            "from": "EMILIA",
+            "to": "DORCAS",
+            "timestamp": "2025-03-07T10:05:08.770141",
+            "duration": 222
+        },
+        {
+            "from": "EMILIA",
+            "to": "DORCAS",
+            "timestamp": "2025-03-09T21:30:08.770143",
+            "duration": 143
+        },
+        {
+            "from": "EMILIA",
+            "to": "DORCAS",
+            "timestamp": "2025-03-06T22:56:08.770145",
+            "duration": 257
+        },
+        {
+            "from": "EMILIA",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-02T17:21:08.770147",
+            "duration": 86
+        },
+        {
+            "from": "EMILIA",
+            "to": "PAULINA",
+            "timestamp": "2025-03-03T03:03:08.770150",
+            "duration": 275
+        },
+        {
+            "from": "EMILIA",
+            "to": "PAULINA",
+            "timestamp": "2025-03-04T11:12:08.770152",
+            "duration": 243
+        },
+        {
+            "from": "EMILIA",
+            "to": "PAULINA",
+            "timestamp": "2025-03-10T13:02:08.770154",
+            "duration": 145
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "PERDITA",
+            "timestamp": "2025-03-08T22:59:08.770156",
+            "duration": 239
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "PERDITA",
+            "timestamp": "2025-03-06T09:26:08.770159",
+            "duration": 115
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Clown",
+            "timestamp": "2025-03-05T05:31:08.770161",
+            "duration": 72
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Clown",
+            "timestamp": "2025-03-10T02:49:08.770163",
+            "duration": 193
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Clown",
+            "timestamp": "2025-03-05T17:24:08.770165",
+            "duration": 73
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Mariner",
+            "timestamp": "2025-03-02T22:50:08.770168",
+            "duration": 108
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Mariner",
+            "timestamp": "2025-03-05T01:12:08.770170",
+            "duration": 61
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Mariner",
+            "timestamp": "2025-03-07T15:57:08.770172",
+            "duration": 152
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Gaoler",
+            "timestamp": "2025-03-05T16:54:08.770174",
+            "duration": 186
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Gaoler",
+            "timestamp": "2025-03-08T02:54:08.770176",
+            "duration": 159
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "MOPSA",
+            "timestamp": "2025-03-07T16:34:08.770198",
+            "duration": 204
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "MOPSA",
+            "timestamp": "2025-03-10T02:31:08.770201",
+            "duration": 172
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-06T00:20:08.770209",
+            "duration": 227
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-03T07:03:08.770212",
+            "duration": 273
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Time",
+            "timestamp": "2025-03-07T23:25:08.770214",
+            "duration": 212
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Time",
+            "timestamp": "2025-03-05T16:36:08.770217",
+            "duration": 189
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "LEONTES",
+            "timestamp": "2025-03-08T07:14:08.770219",
+            "duration": 256
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "LEONTES",
+            "timestamp": "2025-03-09T03:06:08.770221",
+            "duration": 197
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "LEONTES",
+            "timestamp": "2025-03-07T17:04:08.770223",
+            "duration": 185
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-09T16:23:08.770240",
+            "duration": 179
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-06T03:45:08.770251",
+            "duration": 171
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-05T03:38:08.770255",
+            "duration": 183
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-05T08:13:08.770258",
+            "duration": 208
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-06T07:52:08.770260",
+            "duration": 70
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-09T09:31:08.770263",
+            "duration": 95
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-09T07:52:08.770266",
+            "duration": 186
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-06T03:54:08.770268",
+            "duration": 278
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Shepard",
+            "timestamp": "2025-03-02T16:13:08.770271",
+            "duration": 110
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T08:38:08.770273",
+            "duration": 245
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T18:32:08.770276",
+            "duration": 235
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Servant",
+            "timestamp": "2025-03-06T14:41:08.770278",
+            "duration": 223
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Servant",
+            "timestamp": "2025-03-06T17:49:08.770280",
+            "duration": 83
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-10T07:03:08.770282",
+            "duration": 137
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-03T22:33:08.770284",
+            "duration": 110
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-05T18:52:08.770287",
+            "duration": 247
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Lords",
+            "timestamp": "2025-03-08T17:31:08.770289",
+            "duration": 297
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Lords",
+            "timestamp": "2025-03-07T02:10:08.770291",
+            "duration": 236
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Lords",
+            "timestamp": "2025-03-06T23:13:08.770293",
+            "duration": 102
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Shepherd",
+            "timestamp": "2025-03-07T19:43:08.770295",
+            "duration": 290
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Shepherd",
+            "timestamp": "2025-03-02T16:29:08.770298",
+            "duration": 172
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Lord",
+            "timestamp": "2025-03-06T17:34:08.770300",
+            "duration": 237
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Officer",
+            "timestamp": "2025-03-06T10:51:08.770302",
+            "duration": 273
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Officer",
+            "timestamp": "2025-03-08T19:02:08.770304",
+            "duration": 102
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "Officer",
+            "timestamp": "2025-03-06T11:36:08.770306",
+            "duration": 124
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-05T13:23:08.770309",
+            "duration": 287
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "DION",
+            "timestamp": "2025-03-09T04:37:08.770318",
+            "duration": 213
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "DORCAS",
+            "timestamp": "2025-03-08T08:25:08.770321",
+            "duration": 109
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "DORCAS",
+            "timestamp": "2025-03-08T02:20:08.770324",
+            "duration": 149
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T07:41:08.770326",
+            "duration": 209
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-05T12:44:08.770328",
+            "duration": 63
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-07T16:29:08.770331",
+            "duration": 106
+        },
+        {
+            "from": "CLEOMENES",
+            "to": "PAULINA",
+            "timestamp": "2025-03-03T20:04:08.770333",
+            "duration": 258
+        },
+        {
+            "from": "PERDITA",
+            "to": "Clown",
+            "timestamp": "2025-03-06T16:47:08.770336",
+            "duration": 66
+        },
+        {
+            "from": "PERDITA",
+            "to": "Clown",
+            "timestamp": "2025-03-08T06:01:08.770338",
+            "duration": 247
+        },
+        {
+            "from": "PERDITA",
+            "to": "Mariner",
+            "timestamp": "2025-03-06T11:13:08.770340",
+            "duration": 198
+        },
+        {
+            "from": "PERDITA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-09T12:24:08.770343",
+            "duration": 237
+        },
+        {
+            "from": "PERDITA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-10T00:12:08.770345",
+            "duration": 269
+        },
+        {
+            "from": "PERDITA",
+            "to": "MOPSA",
+            "timestamp": "2025-03-05T23:59:08.770347",
+            "duration": 236
+        },
+        {
+            "from": "PERDITA",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-06T00:00:08.770349",
+            "duration": 247
+        },
+        {
+            "from": "PERDITA",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-06T07:05:08.770352",
+            "duration": 209
+        },
+        {
+            "from": "PERDITA",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-09T15:36:08.770354",
+            "duration": 252
+        },
+        {
+            "from": "PERDITA",
+            "to": "Time",
+            "timestamp": "2025-03-07T08:13:08.770356",
+            "duration": 137
+        },
+        {
+            "from": "PERDITA",
+            "to": "Time",
+            "timestamp": "2025-03-06T02:56:08.770359",
+            "duration": 181
+        },
+        {
+            "from": "PERDITA",
+            "to": "Time",
+            "timestamp": "2025-03-08T23:52:08.770361",
+            "duration": 294
+        },
+        {
+            "from": "PERDITA",
+            "to": "LEONTES",
+            "timestamp": "2025-03-09T09:45:08.770363",
+            "duration": 89
+        },
+        {
+            "from": "PERDITA",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-02T17:50:08.770365",
+            "duration": 297
+        },
+        {
+            "from": "PERDITA",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-08T02:30:08.770368",
+            "duration": 180
+        },
+        {
+            "from": "PERDITA",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-08T19:04:08.770370",
+            "duration": 251
+        },
+        {
+            "from": "PERDITA",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-04T03:15:08.770373",
+            "duration": 92
+        },
+        {
+            "from": "PERDITA",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-10T14:32:08.770375",
+            "duration": 181
+        },
+        {
+            "from": "PERDITA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T03:34:08.770378",
+            "duration": 115
+        },
+        {
+            "from": "PERDITA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-03T19:22:08.770380",
+            "duration": 247
+        },
+        {
+            "from": "PERDITA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-09T00:23:08.770382",
+            "duration": 287
+        },
+        {
+            "from": "PERDITA",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-03T07:38:08.770384",
+            "duration": 84
+        },
+        {
+            "from": "PERDITA",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-07T19:44:08.770386",
+            "duration": 288
+        },
+        {
+            "from": "PERDITA",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-05T17:09:08.770389",
+            "duration": 296
+        },
+        {
+            "from": "PERDITA",
+            "to": "Shepard",
+            "timestamp": "2025-03-03T03:43:08.770391",
+            "duration": 74
+        },
+        {
+            "from": "PERDITA",
+            "to": "Shepard",
+            "timestamp": "2025-03-07T03:20:08.770393",
+            "duration": 223
+        },
+        {
+            "from": "PERDITA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T05:08:08.770396",
+            "duration": 283
+        },
+        {
+            "from": "PERDITA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T11:20:08.770398",
+            "duration": 276
+        },
+        {
+            "from": "PERDITA",
+            "to": "Servant",
+            "timestamp": "2025-03-08T04:31:08.770400",
+            "duration": 284
+        },
+        {
+            "from": "PERDITA",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-04T15:34:08.770403",
+            "duration": 118
+        },
+        {
+            "from": "PERDITA",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-07T08:45:08.770405",
+            "duration": 193
+        },
+        {
+            "from": "PERDITA",
+            "to": "Lords",
+            "timestamp": "2025-03-04T14:59:08.770407",
+            "duration": 196
+        },
+        {
+            "from": "PERDITA",
+            "to": "Shepherd",
+            "timestamp": "2025-03-06T22:42:08.770410",
+            "duration": 245
+        },
+        {
+            "from": "PERDITA",
+            "to": "Shepherd",
+            "timestamp": "2025-03-06T17:42:08.770412",
+            "duration": 163
+        },
+        {
+            "from": "PERDITA",
+            "to": "Shepherd",
+            "timestamp": "2025-03-06T08:42:08.770414",
+            "duration": 243
+        },
+        {
+            "from": "PERDITA",
+            "to": "Lord",
+            "timestamp": "2025-03-08T21:26:08.770417",
+            "duration": 212
+        },
+        {
+            "from": "PERDITA",
+            "to": "Lord",
+            "timestamp": "2025-03-09T12:44:08.770419",
+            "duration": 235
+        },
+        {
+            "from": "PERDITA",
+            "to": "Officer",
+            "timestamp": "2025-03-03T18:23:08.770421",
+            "duration": 76
+        },
+        {
+            "from": "PERDITA",
+            "to": "Officer",
+            "timestamp": "2025-03-04T11:44:08.770423",
+            "duration": 276
+        },
+        {
+            "from": "PERDITA",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-05T10:53:08.770426",
+            "duration": 247
+        },
+        {
+            "from": "PERDITA",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-05T14:40:08.770428",
+            "duration": 99
+        },
+        {
+            "from": "PERDITA",
+            "to": "DION",
+            "timestamp": "2025-03-10T03:36:08.770431",
+            "duration": 153
+        },
+        {
+            "from": "PERDITA",
+            "to": "DION",
+            "timestamp": "2025-03-03T23:20:08.770433",
+            "duration": 132
+        },
+        {
+            "from": "PERDITA",
+            "to": "DION",
+            "timestamp": "2025-03-03T04:09:08.770435",
+            "duration": 236
+        },
+        {
+            "from": "PERDITA",
+            "to": "DORCAS",
+            "timestamp": "2025-03-08T09:47:08.770438",
+            "duration": 148
+        },
+        {
+            "from": "PERDITA",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-09T01:44:08.770440",
+            "duration": 106
+        },
+        {
+            "from": "PERDITA",
+            "to": "PAULINA",
+            "timestamp": "2025-03-03T02:07:08.770442",
+            "duration": 241
+        },
+        {
+            "from": "PERDITA",
+            "to": "PAULINA",
+            "timestamp": "2025-03-06T01:39:08.770444",
+            "duration": 68
+        },
+        {
+            "from": "PERDITA",
+            "to": "PAULINA",
+            "timestamp": "2025-03-04T05:41:08.770447",
+            "duration": 163
+        },
+        {
+            "from": "Clown",
+            "to": "Mariner",
+            "timestamp": "2025-03-03T08:13:08.770449",
+            "duration": 114
+        },
+        {
+            "from": "Clown",
+            "to": "Gaoler",
+            "timestamp": "2025-03-04T10:59:08.770451",
+            "duration": 191
+        },
+        {
+            "from": "Clown",
+            "to": "Gaoler",
+            "timestamp": "2025-03-08T13:13:08.770453",
+            "duration": 269
+        },
+        {
+            "from": "Clown",
+            "to": "MOPSA",
+            "timestamp": "2025-03-04T20:39:08.770456",
+            "duration": 210
+        },
+        {
+            "from": "Clown",
+            "to": "MOPSA",
+            "timestamp": "2025-03-07T11:30:08.770458",
+            "duration": 170
+        },
+        {
+            "from": "Clown",
+            "to": "MOPSA",
+            "timestamp": "2025-03-10T05:59:08.770460",
+            "duration": 198
+        },
+        {
+            "from": "Clown",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-05T06:05:08.770462",
+            "duration": 145
+        },
+        {
+            "from": "Clown",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-08T01:46:08.770464",
+            "duration": 221
+        },
+        {
+            "from": "Clown",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-08T02:17:08.770466",
+            "duration": 271
+        },
+        {
+            "from": "Clown",
+            "to": "Time",
+            "timestamp": "2025-03-05T11:50:08.770469",
+            "duration": 121
+        },
+        {
+            "from": "Clown",
+            "to": "Time",
+            "timestamp": "2025-03-03T11:17:08.770471",
+            "duration": 137
+        },
+        {
+            "from": "Clown",
+            "to": "Time",
+            "timestamp": "2025-03-04T05:14:08.770473",
+            "duration": 263
+        },
+        {
+            "from": "Clown",
+            "to": "LEONTES",
+            "timestamp": "2025-03-08T15:34:08.770476",
+            "duration": 144
+        },
+        {
+            "from": "Clown",
+            "to": "LEONTES",
+            "timestamp": "2025-03-09T01:08:08.770478",
+            "duration": 292
+        },
+        {
+            "from": "Clown",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-06T09:46:08.770480",
+            "duration": 247
+        },
+        {
+            "from": "Clown",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-07T16:08:08.770482",
+            "duration": 157
+        },
+        {
+            "from": "Clown",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-08T14:56:08.770485",
+            "duration": 68
+        },
+        {
+            "from": "Clown",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-03T06:44:08.770487",
+            "duration": 282
+        },
+        {
+            "from": "Clown",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-08T01:25:08.770489",
+            "duration": 137
+        },
+        {
+            "from": "Clown",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-04T17:36:08.770491",
+            "duration": 196
+        },
+        {
+            "from": "Clown",
+            "to": "Shepard",
+            "timestamp": "2025-03-10T05:16:08.770494",
+            "duration": 272
+        },
+        {
+            "from": "Clown",
+            "to": "Shepard",
+            "timestamp": "2025-03-08T08:35:08.770496",
+            "duration": 282
+        },
+        {
+            "from": "Clown",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T08:53:08.770498",
+            "duration": 77
+        },
+        {
+            "from": "Clown",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T13:13:08.770500",
+            "duration": 67
+        },
+        {
+            "from": "Clown",
+            "to": "Servant",
+            "timestamp": "2025-03-07T17:04:08.770503",
+            "duration": 234
+        },
+        {
+            "from": "Clown",
+            "to": "Servant",
+            "timestamp": "2025-03-09T20:52:08.770505",
+            "duration": 79
+        },
+        {
+            "from": "Clown",
+            "to": "Servant",
+            "timestamp": "2025-03-03T19:40:08.770507",
+            "duration": 246
+        },
+        {
+            "from": "Clown",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-09T06:43:08.770509",
+            "duration": 148
+        },
+        {
+            "from": "Clown",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-05T01:30:08.770512",
+            "duration": 150
+        },
+        {
+            "from": "Clown",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-03T09:30:08.770514",
+            "duration": 113
+        },
+        {
+            "from": "Clown",
+            "to": "Lords",
+            "timestamp": "2025-03-04T00:46:08.770516",
+            "duration": 149
+        },
+        {
+            "from": "Clown",
+            "to": "Lords",
+            "timestamp": "2025-03-04T09:27:08.770518",
+            "duration": 197
+        },
+        {
+            "from": "Clown",
+            "to": "Lords",
+            "timestamp": "2025-03-08T06:36:08.770520",
+            "duration": 100
+        },
+        {
+            "from": "Clown",
+            "to": "Shepherd",
+            "timestamp": "2025-03-03T14:52:08.770523",
+            "duration": 152
+        },
+        {
+            "from": "Clown",
+            "to": "Lord",
+            "timestamp": "2025-03-07T15:07:08.770525",
+            "duration": 202
+        },
+        {
+            "from": "Clown",
+            "to": "Lord",
+            "timestamp": "2025-03-03T07:20:08.770527",
+            "duration": 189
+        },
+        {
+            "from": "Clown",
+            "to": "Lord",
+            "timestamp": "2025-03-10T06:42:08.770529",
+            "duration": 101
+        },
+        {
+            "from": "Clown",
+            "to": "Officer",
+            "timestamp": "2025-03-03T11:20:08.770532",
+            "duration": 111
+        },
+        {
+            "from": "Clown",
+            "to": "Officer",
+            "timestamp": "2025-03-02T19:26:08.770534",
+            "duration": 258
+        },
+        {
+            "from": "Clown",
+            "to": "Officer",
+            "timestamp": "2025-03-07T08:41:08.770536",
+            "duration": 236
+        },
+        {
+            "from": "Clown",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-05T12:13:08.770538",
+            "duration": 292
+        },
+        {
+            "from": "Clown",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-07T06:07:08.770540",
+            "duration": 209
+        },
+        {
+            "from": "Clown",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-03T00:37:08.770543",
+            "duration": 252
+        },
+        {
+            "from": "Clown",
+            "to": "DION",
+            "timestamp": "2025-03-03T04:05:08.770545",
+            "duration": 172
+        },
+        {
+            "from": "Clown",
+            "to": "DION",
+            "timestamp": "2025-03-05T00:29:08.770547",
+            "duration": 242
+        },
+        {
+            "from": "Clown",
+            "to": "DION",
+            "timestamp": "2025-03-07T00:50:08.770549",
+            "duration": 151
+        },
+        {
+            "from": "Clown",
+            "to": "DORCAS",
+            "timestamp": "2025-03-02T23:12:08.770551",
+            "duration": 160
+        },
+        {
+            "from": "Clown",
+            "to": "DORCAS",
+            "timestamp": "2025-03-08T20:34:08.770553",
+            "duration": 217
+        },
+        {
+            "from": "Clown",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T01:38:08.770556",
+            "duration": 225
+        },
+        {
+            "from": "Clown",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T01:49:08.770558",
+            "duration": 214
+        },
+        {
+            "from": "Clown",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T12:15:08.770583",
+            "duration": 196
+        },
+        {
+            "from": "Clown",
+            "to": "PAULINA",
+            "timestamp": "2025-03-04T23:40:08.770590",
+            "duration": 140
+        },
+        {
+            "from": "Clown",
+            "to": "PAULINA",
+            "timestamp": "2025-03-07T11:41:08.770593",
+            "duration": 233
+        },
+        {
+            "from": "Mariner",
+            "to": "Gaoler",
+            "timestamp": "2025-03-07T00:22:08.770602",
+            "duration": 175
+        },
+        {
+            "from": "Mariner",
+            "to": "MOPSA",
+            "timestamp": "2025-03-05T16:42:08.770605",
+            "duration": 128
+        },
+        {
+            "from": "Mariner",
+            "to": "MOPSA",
+            "timestamp": "2025-03-07T14:29:08.770607",
+            "duration": 106
+        },
+        {
+            "from": "Mariner",
+            "to": "MOPSA",
+            "timestamp": "2025-03-04T19:43:08.770611",
+            "duration": 92
+        },
+        {
+            "from": "Mariner",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-08T10:37:08.770621",
+            "duration": 214
+        },
+        {
+            "from": "Mariner",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-08T14:40:08.770623",
+            "duration": 138
+        },
+        {
+            "from": "Mariner",
+            "to": "Time",
+            "timestamp": "2025-03-03T20:22:08.770626",
+            "duration": 152
+        },
+        {
+            "from": "Mariner",
+            "to": "Time",
+            "timestamp": "2025-03-10T13:44:08.770628",
+            "duration": 102
+        },
+        {
+            "from": "Mariner",
+            "to": "Time",
+            "timestamp": "2025-03-07T07:53:08.770630",
+            "duration": 219
+        },
+        {
+            "from": "Mariner",
+            "to": "LEONTES",
+            "timestamp": "2025-03-08T02:49:08.770633",
+            "duration": 165
+        },
+        {
+            "from": "Mariner",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-09T15:43:08.770636",
+            "duration": 113
+        },
+        {
+            "from": "Mariner",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-09T17:31:08.770638",
+            "duration": 191
+        },
+        {
+            "from": "Mariner",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-04T17:24:08.770641",
+            "duration": 176
+        },
+        {
+            "from": "Mariner",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-09T14:30:08.770643",
+            "duration": 214
+        },
+        {
+            "from": "Mariner",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-07T05:17:08.770645",
+            "duration": 88
+        },
+        {
+            "from": "Mariner",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-09T12:33:08.770648",
+            "duration": 268
+        },
+        {
+            "from": "Mariner",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-05T10:17:08.770650",
+            "duration": 225
+        },
+        {
+            "from": "Mariner",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-08T16:51:08.770653",
+            "duration": 64
+        },
+        {
+            "from": "Mariner",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-08T08:07:08.770655",
+            "duration": 175
+        },
+        {
+            "from": "Mariner",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-02T20:37:08.770658",
+            "duration": 271
+        },
+        {
+            "from": "Mariner",
+            "to": "Shepard",
+            "timestamp": "2025-03-08T05:17:08.770660",
+            "duration": 151
+        },
+        {
+            "from": "Mariner",
+            "to": "Shepard",
+            "timestamp": "2025-03-09T08:58:08.770663",
+            "duration": 72
+        },
+        {
+            "from": "Mariner",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T10:41:08.770665",
+            "duration": 225
+        },
+        {
+            "from": "Mariner",
+            "to": "Gentleman",
+            "timestamp": "2025-03-10T07:34:08.770667",
+            "duration": 253
+        },
+        {
+            "from": "Mariner",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T05:40:08.770670",
+            "duration": 196
+        },
+        {
+            "from": "Mariner",
+            "to": "Servant",
+            "timestamp": "2025-03-06T00:30:08.770672",
+            "duration": 266
+        },
+        {
+            "from": "Mariner",
+            "to": "Servant",
+            "timestamp": "2025-03-04T14:04:08.770674",
+            "duration": 232
+        },
+        {
+            "from": "Mariner",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-09T13:41:08.770678",
+            "duration": 138
+        },
+        {
+            "from": "Mariner",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-08T03:00:08.770680",
+            "duration": 188
+        },
+        {
+            "from": "Mariner",
+            "to": "Lords",
+            "timestamp": "2025-03-04T17:49:08.770683",
+            "duration": 265
+        },
+        {
+            "from": "Mariner",
+            "to": "Lords",
+            "timestamp": "2025-03-08T05:24:08.770685",
+            "duration": 179
+        },
+        {
+            "from": "Mariner",
+            "to": "Lords",
+            "timestamp": "2025-03-10T00:19:08.770687",
+            "duration": 77
+        },
+        {
+            "from": "Mariner",
+            "to": "Shepherd",
+            "timestamp": "2025-03-03T16:33:08.770690",
+            "duration": 186
+        },
+        {
+            "from": "Mariner",
+            "to": "Shepherd",
+            "timestamp": "2025-03-10T13:11:08.770692",
+            "duration": 241
+        },
+        {
+            "from": "Mariner",
+            "to": "Shepherd",
+            "timestamp": "2025-03-05T08:33:08.770694",
+            "duration": 124
+        },
+        {
+            "from": "Mariner",
+            "to": "Lord",
+            "timestamp": "2025-03-07T06:40:08.770697",
+            "duration": 81
+        },
+        {
+            "from": "Mariner",
+            "to": "Lord",
+            "timestamp": "2025-03-08T02:25:08.770699",
+            "duration": 170
+        },
+        {
+            "from": "Mariner",
+            "to": "Lord",
+            "timestamp": "2025-03-07T18:17:08.770701",
+            "duration": 294
+        },
+        {
+            "from": "Mariner",
+            "to": "Officer",
+            "timestamp": "2025-03-05T10:15:08.770704",
+            "duration": 202
+        },
+        {
+            "from": "Mariner",
+            "to": "Officer",
+            "timestamp": "2025-03-02T21:39:08.770706",
+            "duration": 177
+        },
+        {
+            "from": "Mariner",
+            "to": "Officer",
+            "timestamp": "2025-03-05T05:41:08.770708",
+            "duration": 169
+        },
+        {
+            "from": "Mariner",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-09T21:05:08.770710",
+            "duration": 70
+        },
+        {
+            "from": "Mariner",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-05T09:09:08.770712",
+            "duration": 127
+        },
+        {
+            "from": "Mariner",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-04T16:20:08.770715",
+            "duration": 85
+        },
+        {
+            "from": "Mariner",
+            "to": "DION",
+            "timestamp": "2025-03-06T11:34:08.770717",
+            "duration": 222
+        },
+        {
+            "from": "Mariner",
+            "to": "DORCAS",
+            "timestamp": "2025-03-06T08:48:08.770720",
+            "duration": 60
+        },
+        {
+            "from": "Mariner",
+            "to": "DORCAS",
+            "timestamp": "2025-03-06T03:59:08.770727",
+            "duration": 152
+        },
+        {
+            "from": "Mariner",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-06T07:33:08.770730",
+            "duration": 192
+        },
+        {
+            "from": "Mariner",
+            "to": "PAULINA",
+            "timestamp": "2025-03-08T02:52:08.770733",
+            "duration": 70
+        },
+        {
+            "from": "Gaoler",
+            "to": "MOPSA",
+            "timestamp": "2025-03-08T06:18:08.770735",
+            "duration": 100
+        },
+        {
+            "from": "Gaoler",
+            "to": "MOPSA",
+            "timestamp": "2025-03-04T19:29:08.770738",
+            "duration": 168
+        },
+        {
+            "from": "Gaoler",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-09T21:51:08.770740",
+            "duration": 270
+        },
+        {
+            "from": "Gaoler",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-04T14:38:08.770742",
+            "duration": 193
+        },
+        {
+            "from": "Gaoler",
+            "to": "Time",
+            "timestamp": "2025-03-05T10:53:08.770745",
+            "duration": 244
+        },
+        {
+            "from": "Gaoler",
+            "to": "Time",
+            "timestamp": "2025-03-05T10:58:08.770747",
+            "duration": 249
+        },
+        {
+            "from": "Gaoler",
+            "to": "Time",
+            "timestamp": "2025-03-06T04:35:08.770749",
+            "duration": 296
+        },
+        {
+            "from": "Gaoler",
+            "to": "LEONTES",
+            "timestamp": "2025-03-06T21:12:08.770752",
+            "duration": 212
+        },
+        {
+            "from": "Gaoler",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-03T05:38:08.770754",
+            "duration": 298
+        },
+        {
+            "from": "Gaoler",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-10T03:09:08.770756",
+            "duration": 199
+        },
+        {
+            "from": "Gaoler",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-06T18:56:08.770759",
+            "duration": 227
+        },
+        {
+            "from": "Gaoler",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-06T17:13:08.770761",
+            "duration": 97
+        },
+        {
+            "from": "Gaoler",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-04T02:10:08.770763",
+            "duration": 211
+        },
+        {
+            "from": "Gaoler",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-10T01:37:08.770765",
+            "duration": 70
+        },
+        {
+            "from": "Gaoler",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-05T18:57:08.770768",
+            "duration": 160
+        },
+        {
+            "from": "Gaoler",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-08T00:27:08.770770",
+            "duration": 263
+        },
+        {
+            "from": "Gaoler",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-09T01:34:08.770772",
+            "duration": 70
+        },
+        {
+            "from": "Gaoler",
+            "to": "Shepard",
+            "timestamp": "2025-03-03T21:33:08.770775",
+            "duration": 294
+        },
+        {
+            "from": "Gaoler",
+            "to": "Shepard",
+            "timestamp": "2025-03-04T19:40:08.770777",
+            "duration": 87
+        },
+        {
+            "from": "Gaoler",
+            "to": "Shepard",
+            "timestamp": "2025-03-08T22:09:08.770779",
+            "duration": 218
+        },
+        {
+            "from": "Gaoler",
+            "to": "Gentleman",
+            "timestamp": "2025-03-02T23:10:08.770782",
+            "duration": 287
+        },
+        {
+            "from": "Gaoler",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T12:32:08.770784",
+            "duration": 228
+        },
+        {
+            "from": "Gaoler",
+            "to": "Servant",
+            "timestamp": "2025-03-05T23:59:08.770786",
+            "duration": 206
+        },
+        {
+            "from": "Gaoler",
+            "to": "Servant",
+            "timestamp": "2025-03-02T18:26:08.770789",
+            "duration": 103
+        },
+        {
+            "from": "Gaoler",
+            "to": "Servant",
+            "timestamp": "2025-03-07T10:21:08.770791",
+            "duration": 91
+        },
+        {
+            "from": "Gaoler",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-03T12:27:08.770793",
+            "duration": 298
+        },
+        {
+            "from": "Gaoler",
+            "to": "Lords",
+            "timestamp": "2025-03-06T03:17:08.770796",
+            "duration": 235
+        },
+        {
+            "from": "Gaoler",
+            "to": "Lords",
+            "timestamp": "2025-03-07T13:02:08.770798",
+            "duration": 277
+        },
+        {
+            "from": "Gaoler",
+            "to": "Lords",
+            "timestamp": "2025-03-05T01:35:08.770800",
+            "duration": 234
+        },
+        {
+            "from": "Gaoler",
+            "to": "Shepherd",
+            "timestamp": "2025-03-02T20:41:08.770802",
+            "duration": 214
+        },
+        {
+            "from": "Gaoler",
+            "to": "Shepherd",
+            "timestamp": "2025-03-05T01:47:08.770805",
+            "duration": 217
+        },
+        {
+            "from": "Gaoler",
+            "to": "Lord",
+            "timestamp": "2025-03-05T07:20:08.770807",
+            "duration": 276
+        },
+        {
+            "from": "Gaoler",
+            "to": "Lord",
+            "timestamp": "2025-03-09T17:04:08.770810",
+            "duration": 173
+        },
+        {
+            "from": "Gaoler",
+            "to": "Lord",
+            "timestamp": "2025-03-02T23:50:08.770812",
+            "duration": 112
+        },
+        {
+            "from": "Gaoler",
+            "to": "Officer",
+            "timestamp": "2025-03-05T22:10:08.770814",
+            "duration": 123
+        },
+        {
+            "from": "Gaoler",
+            "to": "Officer",
+            "timestamp": "2025-03-09T07:18:08.770816",
+            "duration": 123
+        },
+        {
+            "from": "Gaoler",
+            "to": "Officer",
+            "timestamp": "2025-03-08T21:36:08.770819",
+            "duration": 276
+        },
+        {
+            "from": "Gaoler",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-06T19:07:08.770821",
+            "duration": 83
+        },
+        {
+            "from": "Gaoler",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-04T03:58:08.770823",
+            "duration": 260
+        },
+        {
+            "from": "Gaoler",
+            "to": "DION",
+            "timestamp": "2025-03-03T11:07:08.770826",
+            "duration": 89
+        },
+        {
+            "from": "Gaoler",
+            "to": "DION",
+            "timestamp": "2025-03-07T06:10:08.770828",
+            "duration": 101
+        },
+        {
+            "from": "Gaoler",
+            "to": "DION",
+            "timestamp": "2025-03-04T01:11:08.770830",
+            "duration": 100
+        },
+        {
+            "from": "Gaoler",
+            "to": "DORCAS",
+            "timestamp": "2025-03-07T04:36:08.770832",
+            "duration": 126
+        },
+        {
+            "from": "Gaoler",
+            "to": "DORCAS",
+            "timestamp": "2025-03-09T16:40:08.770835",
+            "duration": 64
+        },
+        {
+            "from": "Gaoler",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T10:59:08.770841",
+            "duration": 106
+        },
+        {
+            "from": "Gaoler",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T00:08:08.770844",
+            "duration": 240
+        },
+        {
+            "from": "Gaoler",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-05T18:32:08.770847",
+            "duration": 205
+        },
+        {
+            "from": "Gaoler",
+            "to": "PAULINA",
+            "timestamp": "2025-03-07T10:25:08.770849",
+            "duration": 81
+        },
+        {
+            "from": "Gaoler",
+            "to": "PAULINA",
+            "timestamp": "2025-03-03T19:15:08.770851",
+            "duration": 268
+        },
+        {
+            "from": "Gaoler",
+            "to": "PAULINA",
+            "timestamp": "2025-03-07T17:42:08.770853",
+            "duration": 218
+        },
+        {
+            "from": "MOPSA",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-06T12:10:08.770856",
+            "duration": 154
+        },
+        {
+            "from": "MOPSA",
+            "to": "CAMILLO",
+            "timestamp": "2025-03-04T07:07:08.770858",
+            "duration": 96
+        },
+        {
+            "from": "MOPSA",
+            "to": "Time",
+            "timestamp": "2025-03-07T07:11:08.770860",
+            "duration": 169
+        },
+        {
+            "from": "MOPSA",
+            "to": "Time",
+            "timestamp": "2025-03-05T22:05:08.770862",
+            "duration": 149
+        },
+        {
+            "from": "MOPSA",
+            "to": "Time",
+            "timestamp": "2025-03-03T04:25:08.770865",
+            "duration": 176
+        },
+        {
+            "from": "MOPSA",
+            "to": "LEONTES",
+            "timestamp": "2025-03-06T15:27:08.770867",
+            "duration": 235
+        },
+        {
+            "from": "MOPSA",
+            "to": "LEONTES",
+            "timestamp": "2025-03-03T23:25:08.770878",
+            "duration": 181
+        },
+        {
+            "from": "MOPSA",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-03T10:57:08.770880",
+            "duration": 199
+        },
+        {
+            "from": "MOPSA",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-07T00:46:08.770883",
+            "duration": 167
+        },
+        {
+            "from": "MOPSA",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-07T18:25:08.770885",
+            "duration": 112
+        },
+        {
+            "from": "MOPSA",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-08T10:06:08.770887",
+            "duration": 128
+        },
+        {
+            "from": "MOPSA",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-09T15:38:08.770889",
+            "duration": 90
+        },
+        {
+            "from": "MOPSA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-08T10:17:08.770892",
+            "duration": 279
+        },
+        {
+            "from": "MOPSA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T04:47:08.770894",
+            "duration": 288
+        },
+        {
+            "from": "MOPSA",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-08T07:30:08.770896",
+            "duration": 237
+        },
+        {
+            "from": "MOPSA",
+            "to": "Shepard",
+            "timestamp": "2025-03-05T20:31:08.770899",
+            "duration": 221
+        },
+        {
+            "from": "MOPSA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T22:06:08.770901",
+            "duration": 270
+        },
+        {
+            "from": "MOPSA",
+            "to": "Servant",
+            "timestamp": "2025-03-06T13:45:08.770904",
+            "duration": 215
+        },
+        {
+            "from": "MOPSA",
+            "to": "Servant",
+            "timestamp": "2025-03-09T13:46:08.770906",
+            "duration": 132
+        },
+        {
+            "from": "MOPSA",
+            "to": "Servant",
+            "timestamp": "2025-03-09T14:30:08.770908",
+            "duration": 209
+        },
+        {
+            "from": "MOPSA",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-09T13:26:08.770910",
+            "duration": 243
+        },
+        {
+            "from": "MOPSA",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-08T09:16:08.770913",
+            "duration": 209
+        },
+        {
+            "from": "MOPSA",
+            "to": "Lords",
+            "timestamp": "2025-03-06T17:31:08.770915",
+            "duration": 221
+        },
+        {
+            "from": "MOPSA",
+            "to": "Lords",
+            "timestamp": "2025-03-05T04:06:08.770917",
+            "duration": 83
+        },
+        {
+            "from": "MOPSA",
+            "to": "Shepherd",
+            "timestamp": "2025-03-09T17:52:08.770920",
+            "duration": 261
+        },
+        {
+            "from": "MOPSA",
+            "to": "Shepherd",
+            "timestamp": "2025-03-02T18:06:08.770922",
+            "duration": 91
+        },
+        {
+            "from": "MOPSA",
+            "to": "Lord",
+            "timestamp": "2025-03-03T20:42:08.770924",
+            "duration": 217
+        },
+        {
+            "from": "MOPSA",
+            "to": "Lord",
+            "timestamp": "2025-03-06T16:28:08.770927",
+            "duration": 298
+        },
+        {
+            "from": "MOPSA",
+            "to": "Officer",
+            "timestamp": "2025-03-04T13:06:08.770929",
+            "duration": 232
+        },
+        {
+            "from": "MOPSA",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-02T23:50:08.770933",
+            "duration": 269
+        },
+        {
+            "from": "MOPSA",
+            "to": "DION",
+            "timestamp": "2025-03-05T04:24:08.770935",
+            "duration": 147
+        },
+        {
+            "from": "MOPSA",
+            "to": "DORCAS",
+            "timestamp": "2025-03-06T20:51:08.770938",
+            "duration": 200
+        },
+        {
+            "from": "MOPSA",
+            "to": "DORCAS",
+            "timestamp": "2025-03-06T07:12:08.770940",
+            "duration": 195
+        },
+        {
+            "from": "MOPSA",
+            "to": "DORCAS",
+            "timestamp": "2025-03-04T04:08:08.770942",
+            "duration": 206
+        },
+        {
+            "from": "MOPSA",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-07T06:25:08.770944",
+            "duration": 173
+        },
+        {
+            "from": "MOPSA",
+            "to": "PAULINA",
+            "timestamp": "2025-03-03T17:27:08.770947",
+            "duration": 240
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Time",
+            "timestamp": "2025-03-09T18:21:08.770949",
+            "duration": 198
+        },
+        {
+            "from": "CAMILLO",
+            "to": "LEONTES",
+            "timestamp": "2025-03-05T15:33:08.770951",
+            "duration": 142
+        },
+        {
+            "from": "CAMILLO",
+            "to": "LEONTES",
+            "timestamp": "2025-03-10T07:21:08.770954",
+            "duration": 238
+        },
+        {
+            "from": "CAMILLO",
+            "to": "LEONTES",
+            "timestamp": "2025-03-04T15:23:08.770956",
+            "duration": 261
+        },
+        {
+            "from": "CAMILLO",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-09T10:27:08.770958",
+            "duration": 238
+        },
+        {
+            "from": "CAMILLO",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-04T01:06:08.770960",
+            "duration": 95
+        },
+        {
+            "from": "CAMILLO",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-04T11:58:08.770962",
+            "duration": 160
+        },
+        {
+            "from": "CAMILLO",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-06T15:50:08.770966",
+            "duration": 257
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-02T14:56:08.770968",
+            "duration": 96
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-04T10:45:08.770971",
+            "duration": 157
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T19:37:08.770973",
+            "duration": 178
+        },
+        {
+            "from": "CAMILLO",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-06T09:26:08.770975",
+            "duration": 127
+        },
+        {
+            "from": "CAMILLO",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-06T05:55:08.770977",
+            "duration": 206
+        },
+        {
+            "from": "CAMILLO",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-10T04:34:08.770979",
+            "duration": 118
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Shepard",
+            "timestamp": "2025-03-04T07:48:08.770982",
+            "duration": 277
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T19:11:08.770984",
+            "duration": 132
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T15:40:08.770986",
+            "duration": 83
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Servant",
+            "timestamp": "2025-03-04T18:23:08.770989",
+            "duration": 163
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Servant",
+            "timestamp": "2025-03-06T18:21:08.770991",
+            "duration": 197
+        },
+        {
+            "from": "CAMILLO",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-04T23:23:08.770993",
+            "duration": 252
+        },
+        {
+            "from": "CAMILLO",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-05T06:03:08.770995",
+            "duration": 110
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Lords",
+            "timestamp": "2025-03-05T17:25:08.770998",
+            "duration": 125
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Shepherd",
+            "timestamp": "2025-03-09T22:05:08.771000",
+            "duration": 84
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Shepherd",
+            "timestamp": "2025-03-03T12:42:08.771003",
+            "duration": 170
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Shepherd",
+            "timestamp": "2025-03-07T20:08:08.771005",
+            "duration": 79
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Lord",
+            "timestamp": "2025-03-10T13:03:08.771008",
+            "duration": 218
+        },
+        {
+            "from": "CAMILLO",
+            "to": "Officer",
+            "timestamp": "2025-03-05T20:39:08.771011",
+            "duration": 105
+        },
+        {
+            "from": "CAMILLO",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-05T23:14:08.771013",
+            "duration": 208
+        },
+        {
+            "from": "CAMILLO",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-03T00:42:08.771015",
+            "duration": 110
+        },
+        {
+            "from": "CAMILLO",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-03T19:02:08.771017",
+            "duration": 91
+        },
+        {
+            "from": "CAMILLO",
+            "to": "DION",
+            "timestamp": "2025-03-08T11:08:08.771020",
+            "duration": 202
+        },
+        {
+            "from": "CAMILLO",
+            "to": "DION",
+            "timestamp": "2025-03-05T13:17:08.771022",
+            "duration": 63
+        },
+        {
+            "from": "CAMILLO",
+            "to": "DORCAS",
+            "timestamp": "2025-03-07T12:03:08.771024",
+            "duration": 293
+        },
+        {
+            "from": "CAMILLO",
+            "to": "DORCAS",
+            "timestamp": "2025-03-04T23:28:08.771026",
+            "duration": 156
+        },
+        {
+            "from": "CAMILLO",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-07T09:20:08.771029",
+            "duration": 280
+        },
+        {
+            "from": "CAMILLO",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-06T21:24:08.771031",
+            "duration": 207
+        },
+        {
+            "from": "CAMILLO",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-09T03:41:08.771033",
+            "duration": 168
+        },
+        {
+            "from": "CAMILLO",
+            "to": "PAULINA",
+            "timestamp": "2025-03-08T04:07:08.771035",
+            "duration": 267
+        },
+        {
+            "from": "CAMILLO",
+            "to": "PAULINA",
+            "timestamp": "2025-03-10T09:50:08.771037",
+            "duration": 212
+        },
+        {
+            "from": "CAMILLO",
+            "to": "PAULINA",
+            "timestamp": "2025-03-05T00:52:08.771040",
+            "duration": 108
+        },
+        {
+            "from": "Time",
+            "to": "LEONTES",
+            "timestamp": "2025-03-03T09:24:08.771042",
+            "duration": 277
+        },
+        {
+            "from": "Time",
+            "to": "LEONTES",
+            "timestamp": "2025-03-08T09:42:08.771044",
+            "duration": 227
+        },
+        {
+            "from": "Time",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-03T05:03:08.771047",
+            "duration": 242
+        },
+        {
+            "from": "Time",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-03T12:59:08.771049",
+            "duration": 265
+        },
+        {
+            "from": "Time",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-05T09:22:08.771051",
+            "duration": 174
+        },
+        {
+            "from": "Time",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-10T08:32:08.771054",
+            "duration": 221
+        },
+        {
+            "from": "Time",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-07T00:14:08.771056",
+            "duration": 235
+        },
+        {
+            "from": "Time",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-10T02:03:08.771059",
+            "duration": 236
+        },
+        {
+            "from": "Time",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-06T10:40:08.771069",
+            "duration": 248
+        },
+        {
+            "from": "Time",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-03T20:09:08.771071",
+            "duration": 253
+        },
+        {
+            "from": "Time",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-06T23:30:08.771074",
+            "duration": 127
+        },
+        {
+            "from": "Time",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-03T08:12:08.771076",
+            "duration": 216
+        },
+        {
+            "from": "Time",
+            "to": "Shepard",
+            "timestamp": "2025-03-06T11:39:08.771079",
+            "duration": 193
+        },
+        {
+            "from": "Time",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T05:01:08.771081",
+            "duration": 70
+        },
+        {
+            "from": "Time",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T02:39:08.771083",
+            "duration": 65
+        },
+        {
+            "from": "Time",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T18:28:08.771086",
+            "duration": 118
+        },
+        {
+            "from": "Time",
+            "to": "Servant",
+            "timestamp": "2025-03-10T07:00:08.771088",
+            "duration": 279
+        },
+        {
+            "from": "Time",
+            "to": "Servant",
+            "timestamp": "2025-03-03T06:12:08.771090",
+            "duration": 72
+        },
+        {
+            "from": "Time",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-09T09:39:08.771093",
+            "duration": 180
+        },
+        {
+            "from": "Time",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-05T21:11:08.771095",
+            "duration": 108
+        },
+        {
+            "from": "Time",
+            "to": "Lords",
+            "timestamp": "2025-03-05T19:24:08.771098",
+            "duration": 212
+        },
+        {
+            "from": "Time",
+            "to": "Lords",
+            "timestamp": "2025-03-04T15:36:08.771100",
+            "duration": 238
+        },
+        {
+            "from": "Time",
+            "to": "Shepherd",
+            "timestamp": "2025-03-04T09:33:08.771102",
+            "duration": 90
+        },
+        {
+            "from": "Time",
+            "to": "Lord",
+            "timestamp": "2025-03-04T12:34:08.771105",
+            "duration": 250
+        },
+        {
+            "from": "Time",
+            "to": "Lord",
+            "timestamp": "2025-03-05T09:37:08.771108",
+            "duration": 276
+        },
+        {
+            "from": "Time",
+            "to": "Officer",
+            "timestamp": "2025-03-08T15:05:08.771110",
+            "duration": 101
+        },
+        {
+            "from": "Time",
+            "to": "Officer",
+            "timestamp": "2025-03-07T00:54:08.771112",
+            "duration": 135
+        },
+        {
+            "from": "Time",
+            "to": "Officer",
+            "timestamp": "2025-03-04T18:42:08.771114",
+            "duration": 299
+        },
+        {
+            "from": "Time",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-06T05:42:08.771117",
+            "duration": 152
+        },
+        {
+            "from": "Time",
+            "to": "DION",
+            "timestamp": "2025-03-08T08:58:08.771119",
+            "duration": 143
+        },
+        {
+            "from": "Time",
+            "to": "DION",
+            "timestamp": "2025-03-06T03:49:08.771121",
+            "duration": 136
+        },
+        {
+            "from": "Time",
+            "to": "DORCAS",
+            "timestamp": "2025-03-09T19:37:08.771124",
+            "duration": 137
+        },
+        {
+            "from": "Time",
+            "to": "DORCAS",
+            "timestamp": "2025-03-06T05:24:08.771126",
+            "duration": 115
+        },
+        {
+            "from": "Time",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T12:46:08.771128",
+            "duration": 202
+        },
+        {
+            "from": "Time",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-07T14:58:08.771131",
+            "duration": 266
+        },
+        {
+            "from": "Time",
+            "to": "PAULINA",
+            "timestamp": "2025-03-04T22:37:08.771133",
+            "duration": 271
+        },
+        {
+            "from": "Time",
+            "to": "PAULINA",
+            "timestamp": "2025-03-06T11:17:08.771135",
+            "duration": 203
+        },
+        {
+            "from": "LEONTES",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-05T13:13:08.771138",
+            "duration": 77
+        },
+        {
+            "from": "LEONTES",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-06T23:45:08.771140",
+            "duration": 131
+        },
+        {
+            "from": "LEONTES",
+            "to": "MAMILLIUS",
+            "timestamp": "2025-03-09T19:14:08.771142",
+            "duration": 260
+        },
+        {
+            "from": "LEONTES",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-08T20:14:08.771144",
+            "duration": 66
+        },
+        {
+            "from": "LEONTES",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-03T01:22:08.771147",
+            "duration": 257
+        },
+        {
+            "from": "LEONTES",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-04T02:22:08.771149",
+            "duration": 272
+        },
+        {
+            "from": "LEONTES",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-08T16:52:08.771152",
+            "duration": 191
+        },
+        {
+            "from": "LEONTES",
+            "to": "Shepard",
+            "timestamp": "2025-03-08T03:01:08.771154",
+            "duration": 259
+        },
+        {
+            "from": "LEONTES",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T16:28:08.771156",
+            "duration": 179
+        },
+        {
+            "from": "LEONTES",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T08:39:08.771159",
+            "duration": 267
+        },
+        {
+            "from": "LEONTES",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T19:01:08.771161",
+            "duration": 256
+        },
+        {
+            "from": "LEONTES",
+            "to": "Servant",
+            "timestamp": "2025-03-09T10:19:08.771164",
+            "duration": 61
+        },
+        {
+            "from": "LEONTES",
+            "to": "Servant",
+            "timestamp": "2025-03-07T20:22:08.771166",
+            "duration": 221
+        },
+        {
+            "from": "LEONTES",
+            "to": "Servant",
+            "timestamp": "2025-03-05T05:41:08.771168",
+            "duration": 77
+        },
+        {
+            "from": "LEONTES",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-08T20:43:08.771170",
+            "duration": 264
+        },
+        {
+            "from": "LEONTES",
+            "to": "Lords",
+            "timestamp": "2025-03-10T07:22:08.771173",
+            "duration": 231
+        },
+        {
+            "from": "LEONTES",
+            "to": "Lords",
+            "timestamp": "2025-03-04T18:50:08.771175",
+            "duration": 128
+        },
+        {
+            "from": "LEONTES",
+            "to": "Lords",
+            "timestamp": "2025-03-04T18:18:08.771177",
+            "duration": 162
+        },
+        {
+            "from": "LEONTES",
+            "to": "Shepherd",
+            "timestamp": "2025-03-03T21:45:08.771180",
+            "duration": 233
+        },
+        {
+            "from": "LEONTES",
+            "to": "Shepherd",
+            "timestamp": "2025-03-07T13:51:08.771182",
+            "duration": 211
+        },
+        {
+            "from": "LEONTES",
+            "to": "Lord",
+            "timestamp": "2025-03-06T12:15:08.771184",
+            "duration": 235
+        },
+        {
+            "from": "LEONTES",
+            "to": "Lord",
+            "timestamp": "2025-03-05T00:11:08.771186",
+            "duration": 178
+        },
+        {
+            "from": "LEONTES",
+            "to": "Lord",
+            "timestamp": "2025-03-03T03:18:08.771189",
+            "duration": 236
+        },
+        {
+            "from": "LEONTES",
+            "to": "Officer",
+            "timestamp": "2025-03-03T13:40:08.771191",
+            "duration": 237
+        },
+        {
+            "from": "LEONTES",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-02T17:29:08.771194",
+            "duration": 177
+        },
+        {
+            "from": "LEONTES",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-10T06:30:08.771196",
+            "duration": 132
+        },
+        {
+            "from": "LEONTES",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-07T14:01:08.771198",
+            "duration": 173
+        },
+        {
+            "from": "LEONTES",
+            "to": "DION",
+            "timestamp": "2025-03-08T05:32:08.771200",
+            "duration": 168
+        },
+        {
+            "from": "LEONTES",
+            "to": "DION",
+            "timestamp": "2025-03-06T17:27:08.771203",
+            "duration": 279
+        },
+        {
+            "from": "LEONTES",
+            "to": "DORCAS",
+            "timestamp": "2025-03-05T12:37:08.771205",
+            "duration": 292
+        },
+        {
+            "from": "LEONTES",
+            "to": "DORCAS",
+            "timestamp": "2025-03-05T05:30:08.771207",
+            "duration": 254
+        },
+        {
+            "from": "LEONTES",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-10T14:10:08.771210",
+            "duration": 202
+        },
+        {
+            "from": "LEONTES",
+            "to": "PAULINA",
+            "timestamp": "2025-03-04T19:55:08.771212",
+            "duration": 67
+        },
+        {
+            "from": "LEONTES",
+            "to": "PAULINA",
+            "timestamp": "2025-03-02T23:52:08.771214",
+            "duration": 168
+        },
+        {
+            "from": "LEONTES",
+            "to": "PAULINA",
+            "timestamp": "2025-03-05T00:14:08.771216",
+            "duration": 134
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-06T03:48:08.771219",
+            "duration": 258
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-10T08:19:08.771221",
+            "duration": 141
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "ARCHIDAMUS",
+            "timestamp": "2025-03-05T21:05:08.771223",
+            "duration": 261
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-04T21:49:08.771225",
+            "duration": 198
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-08T22:29:08.771228",
+            "duration": 178
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T06:18:08.771230",
+            "duration": 75
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-07T12:50:08.771232",
+            "duration": 124
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-06T14:46:08.771234",
+            "duration": 294
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Shepard",
+            "timestamp": "2025-03-07T22:01:08.771237",
+            "duration": 244
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Shepard",
+            "timestamp": "2025-03-09T18:07:08.771239",
+            "duration": 281
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Shepard",
+            "timestamp": "2025-03-09T04:58:08.771241",
+            "duration": 147
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T19:45:08.771243",
+            "duration": 62
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T23:37:08.771245",
+            "duration": 160
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T17:08:08.771248",
+            "duration": 296
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Servant",
+            "timestamp": "2025-03-05T09:24:08.771250",
+            "duration": 61
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-08T22:12:08.771253",
+            "duration": 77
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Lords",
+            "timestamp": "2025-03-03T12:05:08.771255",
+            "duration": 175
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Lords",
+            "timestamp": "2025-03-04T01:14:08.771258",
+            "duration": 132
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Lords",
+            "timestamp": "2025-03-07T04:49:08.771260",
+            "duration": 215
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Shepherd",
+            "timestamp": "2025-03-05T18:14:08.771262",
+            "duration": 116
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-07T17:20:08.771265",
+            "duration": 202
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "Officer",
+            "timestamp": "2025-03-04T05:51:08.771267",
+            "duration": 282
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-05T14:50:08.771270",
+            "duration": 121
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-09T01:35:08.771272",
+            "duration": 262
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-02T21:20:08.771274",
+            "duration": 154
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "DION",
+            "timestamp": "2025-03-03T21:18:08.771276",
+            "duration": 107
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "DION",
+            "timestamp": "2025-03-08T22:06:08.771279",
+            "duration": 176
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "DORCAS",
+            "timestamp": "2025-03-02T16:17:08.771281",
+            "duration": 133
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "DORCAS",
+            "timestamp": "2025-03-04T16:16:08.771283",
+            "duration": 158
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-05T01:54:08.771286",
+            "duration": 295
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "PAULINA",
+            "timestamp": "2025-03-05T04:48:08.771288",
+            "duration": 80
+        },
+        {
+            "from": "MAMILLIUS",
+            "to": "PAULINA",
+            "timestamp": "2025-03-06T10:58:08.771290",
+            "duration": 165
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T09:26:08.771293",
+            "duration": 158
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-05T13:35:08.771295",
+            "duration": 98
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-06T07:30:08.771298",
+            "duration": 269
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-07T07:44:08.771300",
+            "duration": 60
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Shepard",
+            "timestamp": "2025-03-04T20:53:08.771302",
+            "duration": 96
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Shepard",
+            "timestamp": "2025-03-08T13:51:08.771304",
+            "duration": 240
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Shepard",
+            "timestamp": "2025-03-03T09:01:08.771307",
+            "duration": 113
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T06:52:08.771309",
+            "duration": 224
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T14:39:08.771311",
+            "duration": 217
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Servant",
+            "timestamp": "2025-03-09T15:23:08.771314",
+            "duration": 88
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Servant",
+            "timestamp": "2025-03-08T17:21:08.771316",
+            "duration": 127
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Servant",
+            "timestamp": "2025-03-08T06:16:08.771318",
+            "duration": 91
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-04T05:04:08.771320",
+            "duration": 99
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-10T00:57:08.771323",
+            "duration": 248
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-06T13:23:08.771325",
+            "duration": 71
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Lords",
+            "timestamp": "2025-03-03T00:10:08.771327",
+            "duration": 211
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Lords",
+            "timestamp": "2025-03-06T21:02:08.771329",
+            "duration": 232
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Lords",
+            "timestamp": "2025-03-06T18:01:08.771331",
+            "duration": 145
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Shepherd",
+            "timestamp": "2025-03-08T02:04:08.771334",
+            "duration": 186
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Shepherd",
+            "timestamp": "2025-03-09T10:35:08.771336",
+            "duration": 95
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Lord",
+            "timestamp": "2025-03-10T10:20:08.771338",
+            "duration": 197
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Lord",
+            "timestamp": "2025-03-06T02:56:08.771341",
+            "duration": 277
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Officer",
+            "timestamp": "2025-03-08T19:16:08.771343",
+            "duration": 291
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "Officer",
+            "timestamp": "2025-03-08T08:09:08.771345",
+            "duration": 112
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-06T05:29:08.771348",
+            "duration": 149
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-05T20:32:08.771350",
+            "duration": 105
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-07T22:24:08.771352",
+            "duration": 87
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "DION",
+            "timestamp": "2025-03-04T22:57:08.771355",
+            "duration": 224
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "DION",
+            "timestamp": "2025-03-07T19:02:08.771357",
+            "duration": 254
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "DION",
+            "timestamp": "2025-03-02T16:31:08.771359",
+            "duration": 206
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "DORCAS",
+            "timestamp": "2025-03-09T07:59:08.771362",
+            "duration": 252
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-07T05:18:08.771364",
+            "duration": 154
+        },
+        {
+            "from": "ARCHIDAMUS",
+            "to": "PAULINA",
+            "timestamp": "2025-03-08T15:36:08.771367",
+            "duration": 116
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "HERMIONE",
+            "timestamp": "2025-03-05T08:12:08.771369",
+            "duration": 204
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Shepard",
+            "timestamp": "2025-03-09T00:32:08.771372",
+            "duration": 227
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Shepard",
+            "timestamp": "2025-03-09T07:56:08.771374",
+            "duration": 176
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T05:28:08.771376",
+            "duration": 86
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T20:02:08.771378",
+            "duration": 233
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T20:25:08.771381",
+            "duration": 182
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Servant",
+            "timestamp": "2025-03-08T17:59:08.771383",
+            "duration": 227
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-05T12:36:08.771386",
+            "duration": 275
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-07T13:00:08.771388",
+            "duration": 130
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-05T12:21:08.771390",
+            "duration": 227
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Lords",
+            "timestamp": "2025-03-03T08:46:08.771393",
+            "duration": 277
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Lords",
+            "timestamp": "2025-03-08T18:55:08.771395",
+            "duration": 203
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Shepherd",
+            "timestamp": "2025-03-08T16:56:08.771398",
+            "duration": 261
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Shepherd",
+            "timestamp": "2025-03-08T23:44:08.771400",
+            "duration": 259
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Lord",
+            "timestamp": "2025-03-09T19:10:08.771405",
+            "duration": 233
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Lord",
+            "timestamp": "2025-03-05T04:10:08.771408",
+            "duration": 148
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Officer",
+            "timestamp": "2025-03-09T15:22:08.771410",
+            "duration": 197
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-05T19:06:08.771413",
+            "duration": 289
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-08T14:02:08.771415",
+            "duration": 177
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "DION",
+            "timestamp": "2025-03-10T12:33:08.771417",
+            "duration": 220
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "DORCAS",
+            "timestamp": "2025-03-05T03:47:08.771420",
+            "duration": 136
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "DORCAS",
+            "timestamp": "2025-03-04T17:49:08.771422",
+            "duration": 160
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "DORCAS",
+            "timestamp": "2025-03-06T12:57:08.771425",
+            "duration": 120
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-05T03:44:08.771427",
+            "duration": 232
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T00:42:08.771436",
+            "duration": 175
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "PAULINA",
+            "timestamp": "2025-03-09T04:44:08.771445",
+            "duration": 104
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "PAULINA",
+            "timestamp": "2025-03-06T03:27:08.771449",
+            "duration": 69
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Shepard",
+            "timestamp": "2025-03-04T06:35:08.771452",
+            "duration": 181
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Shepard",
+            "timestamp": "2025-03-04T21:55:08.771454",
+            "duration": 198
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T08:24:08.771457",
+            "duration": 241
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T23:17:08.771459",
+            "duration": 227
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Servant",
+            "timestamp": "2025-03-09T17:06:08.771461",
+            "duration": 70
+        },
+        {
+            "from": "HERMIONE",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-04T12:09:08.771464",
+            "duration": 100
+        },
+        {
+            "from": "HERMIONE",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-07T17:40:08.771466",
+            "duration": 242
+        },
+        {
+            "from": "HERMIONE",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-06T10:49:08.771469",
+            "duration": 142
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Lords",
+            "timestamp": "2025-03-05T14:25:08.771471",
+            "duration": 297
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Lords",
+            "timestamp": "2025-03-08T19:59:08.771473",
+            "duration": 269
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Lords",
+            "timestamp": "2025-03-05T19:14:08.771476",
+            "duration": 88
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Shepherd",
+            "timestamp": "2025-03-04T10:31:08.771478",
+            "duration": 266
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Lord",
+            "timestamp": "2025-03-08T22:09:08.771480",
+            "duration": 249
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Lord",
+            "timestamp": "2025-03-04T12:59:08.771483",
+            "duration": 150
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Lord",
+            "timestamp": "2025-03-06T09:29:08.771485",
+            "duration": 283
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Officer",
+            "timestamp": "2025-03-08T01:24:08.771487",
+            "duration": 151
+        },
+        {
+            "from": "HERMIONE",
+            "to": "Officer",
+            "timestamp": "2025-03-06T00:21:08.771489",
+            "duration": 184
+        },
+        {
+            "from": "HERMIONE",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-07T02:45:08.771492",
+            "duration": 62
+        },
+        {
+            "from": "HERMIONE",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-04T04:26:08.771494",
+            "duration": 176
+        },
+        {
+            "from": "HERMIONE",
+            "to": "DION",
+            "timestamp": "2025-03-02T16:06:08.771496",
+            "duration": 89
+        },
+        {
+            "from": "HERMIONE",
+            "to": "DORCAS",
+            "timestamp": "2025-03-10T08:17:08.771498",
+            "duration": 150
+        },
+        {
+            "from": "HERMIONE",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T00:49:08.771501",
+            "duration": 218
+        },
+        {
+            "from": "HERMIONE",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-09T00:54:08.771503",
+            "duration": 225
+        },
+        {
+            "from": "HERMIONE",
+            "to": "PAULINA",
+            "timestamp": "2025-03-03T13:58:08.771505",
+            "duration": 211
+        },
+        {
+            "from": "HERMIONE",
+            "to": "PAULINA",
+            "timestamp": "2025-03-05T11:20:08.771507",
+            "duration": 276
+        },
+        {
+            "from": "Shepard",
+            "to": "Gentleman",
+            "timestamp": "2025-03-10T05:54:08.771510",
+            "duration": 231
+        },
+        {
+            "from": "Shepard",
+            "to": "Servant",
+            "timestamp": "2025-03-06T08:21:08.771513",
+            "duration": 119
+        },
+        {
+            "from": "Shepard",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-06T05:51:08.771515",
+            "duration": 202
+        },
+        {
+            "from": "Shepard",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-05T03:31:08.771518",
+            "duration": 100
+        },
+        {
+            "from": "Shepard",
+            "to": "Lords",
+            "timestamp": "2025-03-03T21:13:08.771520",
+            "duration": 61
+        },
+        {
+            "from": "Shepard",
+            "to": "Shepherd",
+            "timestamp": "2025-03-06T09:39:08.771522",
+            "duration": 195
+        },
+        {
+            "from": "Shepard",
+            "to": "Shepherd",
+            "timestamp": "2025-03-06T06:45:08.771524",
+            "duration": 263
+        },
+        {
+            "from": "Shepard",
+            "to": "Lord",
+            "timestamp": "2025-03-07T05:34:08.771527",
+            "duration": 242
+        },
+        {
+            "from": "Shepard",
+            "to": "Lord",
+            "timestamp": "2025-03-08T12:09:08.771529",
+            "duration": 176
+        },
+        {
+            "from": "Shepard",
+            "to": "Officer",
+            "timestamp": "2025-03-10T12:42:08.771531",
+            "duration": 90
+        },
+        {
+            "from": "Shepard",
+            "to": "Officer",
+            "timestamp": "2025-03-10T03:36:08.771533",
+            "duration": 287
+        },
+        {
+            "from": "Shepard",
+            "to": "Officer",
+            "timestamp": "2025-03-05T07:51:08.771535",
+            "duration": 199
+        },
+        {
+            "from": "Shepard",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-07T22:06:08.771537",
+            "duration": 170
+        },
+        {
+            "from": "Shepard",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-07T19:49:08.771540",
+            "duration": 93
+        },
+        {
+            "from": "Shepard",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-08T16:10:08.771542",
+            "duration": 277
+        },
+        {
+            "from": "Shepard",
+            "to": "DION",
+            "timestamp": "2025-03-03T15:46:08.771544",
+            "duration": 262
+        },
+        {
+            "from": "Shepard",
+            "to": "DION",
+            "timestamp": "2025-03-02T20:13:08.771546",
+            "duration": 81
+        },
+        {
+            "from": "Shepard",
+            "to": "DION",
+            "timestamp": "2025-03-05T08:13:08.771548",
+            "duration": 178
+        },
+        {
+            "from": "Shepard",
+            "to": "DORCAS",
+            "timestamp": "2025-03-04T20:54:08.771551",
+            "duration": 231
+        },
+        {
+            "from": "Shepard",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T02:52:08.771553",
+            "duration": 239
+        },
+        {
+            "from": "Shepard",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-09T19:50:08.771555",
+            "duration": 155
+        },
+        {
+            "from": "Shepard",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-08T15:59:08.771557",
+            "duration": 214
+        },
+        {
+            "from": "Shepard",
+            "to": "PAULINA",
+            "timestamp": "2025-03-07T13:28:08.771560",
+            "duration": 282
+        },
+        {
+            "from": "Gentleman",
+            "to": "Servant",
+            "timestamp": "2025-03-10T14:31:08.771562",
+            "duration": 161
+        },
+        {
+            "from": "Gentleman",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-06T10:31:08.771565",
+            "duration": 287
+        },
+        {
+            "from": "Gentleman",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-07T09:29:08.771567",
+            "duration": 129
+        },
+        {
+            "from": "Gentleman",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-04T17:25:08.771569",
+            "duration": 294
+        },
+        {
+            "from": "Gentleman",
+            "to": "Lords",
+            "timestamp": "2025-03-07T23:33:08.771571",
+            "duration": 212
+        },
+        {
+            "from": "Gentleman",
+            "to": "Lords",
+            "timestamp": "2025-03-10T07:06:08.771573",
+            "duration": 287
+        },
+        {
+            "from": "Gentleman",
+            "to": "Lords",
+            "timestamp": "2025-03-05T12:02:08.771575",
+            "duration": 207
+        },
+        {
+            "from": "Gentleman",
+            "to": "Shepherd",
+            "timestamp": "2025-03-08T06:18:08.771578",
+            "duration": 195
+        },
+        {
+            "from": "Gentleman",
+            "to": "Shepherd",
+            "timestamp": "2025-03-07T13:12:08.771580",
+            "duration": 169
+        },
+        {
+            "from": "Gentleman",
+            "to": "Lord",
+            "timestamp": "2025-03-10T05:10:08.771582",
+            "duration": 240
+        },
+        {
+            "from": "Gentleman",
+            "to": "Officer",
+            "timestamp": "2025-03-05T17:02:08.771584",
+            "duration": 185
+        },
+        {
+            "from": "Gentleman",
+            "to": "Officer",
+            "timestamp": "2025-03-04T18:08:08.771586",
+            "duration": 66
+        },
+        {
+            "from": "Gentleman",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-06T04:55:08.771589",
+            "duration": 298
+        },
+        {
+            "from": "Gentleman",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-10T07:39:08.771591",
+            "duration": 102
+        },
+        {
+            "from": "Gentleman",
+            "to": "DION",
+            "timestamp": "2025-03-04T23:02:08.771593",
+            "duration": 78
+        },
+        {
+            "from": "Gentleman",
+            "to": "DORCAS",
+            "timestamp": "2025-03-04T16:25:08.771596",
+            "duration": 197
+        },
+        {
+            "from": "Gentleman",
+            "to": "DORCAS",
+            "timestamp": "2025-03-05T16:03:08.771598",
+            "duration": 228
+        },
+        {
+            "from": "Gentleman",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-07T23:20:08.771600",
+            "duration": 173
+        },
+        {
+            "from": "Gentleman",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-05T09:52:08.771602",
+            "duration": 211
+        },
+        {
+            "from": "Gentleman",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T22:55:08.771604",
+            "duration": 137
+        },
+        {
+            "from": "Gentleman",
+            "to": "PAULINA",
+            "timestamp": "2025-03-04T02:37:08.771606",
+            "duration": 100
+        },
+        {
+            "from": "Gentleman",
+            "to": "PAULINA",
+            "timestamp": "2025-03-04T09:32:08.771608",
+            "duration": 83
+        },
+        {
+            "from": "Gentleman",
+            "to": "PAULINA",
+            "timestamp": "2025-03-07T22:02:08.771611",
+            "duration": 188
+        },
+        {
+            "from": "Servant",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-07T16:00:08.771613",
+            "duration": 124
+        },
+        {
+            "from": "Servant",
+            "to": "FLORIZEL",
+            "timestamp": "2025-03-07T03:41:08.771615",
+            "duration": 122
+        },
+        {
+            "from": "Servant",
+            "to": "Lords",
+            "timestamp": "2025-03-04T15:49:08.771618",
+            "duration": 183
+        },
+        {
+            "from": "Servant",
+            "to": "Lords",
+            "timestamp": "2025-03-06T02:27:08.771620",
+            "duration": 262
+        },
+        {
+            "from": "Servant",
+            "to": "Shepherd",
+            "timestamp": "2025-03-06T14:37:08.771624",
+            "duration": 98
+        },
+        {
+            "from": "Servant",
+            "to": "Shepherd",
+            "timestamp": "2025-03-04T13:06:08.771626",
+            "duration": 276
+        },
+        {
+            "from": "Servant",
+            "to": "Shepherd",
+            "timestamp": "2025-03-03T14:25:08.771628",
+            "duration": 105
+        },
+        {
+            "from": "Servant",
+            "to": "Lord",
+            "timestamp": "2025-03-10T01:10:08.771631",
+            "duration": 97
+        },
+        {
+            "from": "Servant",
+            "to": "Lord",
+            "timestamp": "2025-03-03T16:07:08.771633",
+            "duration": 60
+        },
+        {
+            "from": "Servant",
+            "to": "Officer",
+            "timestamp": "2025-03-08T20:05:08.771635",
+            "duration": 131
+        },
+        {
+            "from": "Servant",
+            "to": "Officer",
+            "timestamp": "2025-03-04T13:43:08.771637",
+            "duration": 148
+        },
+        {
+            "from": "Servant",
+            "to": "Officer",
+            "timestamp": "2025-03-03T18:56:08.771639",
+            "duration": 91
+        },
+        {
+            "from": "Servant",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-09T07:13:08.771641",
+            "duration": 215
+        },
+        {
+            "from": "Servant",
+            "to": "DION",
+            "timestamp": "2025-03-06T23:46:08.771644",
+            "duration": 152
+        },
+        {
+            "from": "Servant",
+            "to": "DION",
+            "timestamp": "2025-03-03T23:55:08.771646",
+            "duration": 170
+        },
+        {
+            "from": "Servant",
+            "to": "DION",
+            "timestamp": "2025-03-03T22:59:08.771648",
+            "duration": 213
+        },
+        {
+            "from": "Servant",
+            "to": "DORCAS",
+            "timestamp": "2025-03-04T17:44:08.771651",
+            "duration": 243
+        },
+        {
+            "from": "Servant",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T08:09:08.771653",
+            "duration": 275
+        },
+        {
+            "from": "Servant",
+            "to": "PAULINA",
+            "timestamp": "2025-03-04T11:29:08.771655",
+            "duration": 250
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "Lords",
+            "timestamp": "2025-03-07T21:10:08.771658",
+            "duration": 85
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "Lords",
+            "timestamp": "2025-03-04T09:21:08.771660",
+            "duration": 177
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "Lords",
+            "timestamp": "2025-03-06T00:11:08.771662",
+            "duration": 111
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "Shepherd",
+            "timestamp": "2025-03-08T10:26:08.771664",
+            "duration": 62
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "Shepherd",
+            "timestamp": "2025-03-07T10:08:08.771666",
+            "duration": 233
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "Shepherd",
+            "timestamp": "2025-03-10T14:15:08.771669",
+            "duration": 258
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "Lord",
+            "timestamp": "2025-03-08T09:33:08.771671",
+            "duration": 121
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "Lord",
+            "timestamp": "2025-03-06T01:59:08.771673",
+            "duration": 200
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "Officer",
+            "timestamp": "2025-03-04T00:31:08.771675",
+            "duration": 168
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "Officer",
+            "timestamp": "2025-03-03T00:42:08.771677",
+            "duration": 263
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-05T12:56:08.771680",
+            "duration": 132
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-09T08:43:08.771682",
+            "duration": 279
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-07T16:33:08.771684",
+            "duration": 90
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "DION",
+            "timestamp": "2025-03-04T09:16:08.771686",
+            "duration": 158
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "DION",
+            "timestamp": "2025-03-05T12:30:08.771688",
+            "duration": 146
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "DION",
+            "timestamp": "2025-03-07T08:26:08.771690",
+            "duration": 106
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "DORCAS",
+            "timestamp": "2025-03-08T04:19:08.771693",
+            "duration": 67
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "DORCAS",
+            "timestamp": "2025-03-07T17:22:08.771695",
+            "duration": 155
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "DORCAS",
+            "timestamp": "2025-03-06T10:53:08.771697",
+            "duration": 240
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-08T04:31:08.771699",
+            "duration": 276
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-05T08:43:08.771701",
+            "duration": 286
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-07T16:22:08.771704",
+            "duration": 102
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "PAULINA",
+            "timestamp": "2025-03-02T15:43:08.771706",
+            "duration": 88
+        },
+        {
+            "from": "FLORIZEL",
+            "to": "PAULINA",
+            "timestamp": "2025-03-04T00:33:08.771708",
+            "duration": 224
+        },
+        {
+            "from": "Lords",
+            "to": "Shepherd",
+            "timestamp": "2025-03-05T06:45:08.771710",
+            "duration": 121
+        },
+        {
+            "from": "Lords",
+            "to": "Shepherd",
+            "timestamp": "2025-03-09T07:45:08.771713",
+            "duration": 175
+        },
+        {
+            "from": "Lords",
+            "to": "Lord",
+            "timestamp": "2025-03-06T09:04:08.771715",
+            "duration": 76
+        },
+        {
+            "from": "Lords",
+            "to": "Lord",
+            "timestamp": "2025-03-02T15:03:08.771717",
+            "duration": 89
+        },
+        {
+            "from": "Lords",
+            "to": "Lord",
+            "timestamp": "2025-03-05T17:47:08.771719",
+            "duration": 249
+        },
+        {
+            "from": "Lords",
+            "to": "Officer",
+            "timestamp": "2025-03-03T09:19:08.771722",
+            "duration": 107
+        },
+        {
+            "from": "Lords",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-06T12:31:08.771724",
+            "duration": 141
+        },
+        {
+            "from": "Lords",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-09T20:21:08.771726",
+            "duration": 167
+        },
+        {
+            "from": "Lords",
+            "to": "DION",
+            "timestamp": "2025-03-09T07:41:08.771728",
+            "duration": 293
+        },
+        {
+            "from": "Lords",
+            "to": "DORCAS",
+            "timestamp": "2025-03-06T05:54:08.771731",
+            "duration": 275
+        },
+        {
+            "from": "Lords",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-06T01:12:08.771733",
+            "duration": 291
+        },
+        {
+            "from": "Lords",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T01:07:08.771735",
+            "duration": 195
+        },
+        {
+            "from": "Lords",
+            "to": "PAULINA",
+            "timestamp": "2025-03-05T09:57:08.771737",
+            "duration": 194
+        },
+        {
+            "from": "Shepherd",
+            "to": "Lord",
+            "timestamp": "2025-03-02T21:20:08.771740",
+            "duration": 103
+        },
+        {
+            "from": "Shepherd",
+            "to": "Lord",
+            "timestamp": "2025-03-07T13:20:08.771742",
+            "duration": 291
+        },
+        {
+            "from": "Shepherd",
+            "to": "Officer",
+            "timestamp": "2025-03-09T13:29:08.771744",
+            "duration": 172
+        },
+        {
+            "from": "Shepherd",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-04T18:06:08.771747",
+            "duration": 271
+        },
+        {
+            "from": "Shepherd",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-06T07:32:08.771749",
+            "duration": 122
+        },
+        {
+            "from": "Shepherd",
+            "to": "DION",
+            "timestamp": "2025-03-09T10:16:08.771751",
+            "duration": 177
+        },
+        {
+            "from": "Shepherd",
+            "to": "DION",
+            "timestamp": "2025-03-08T12:36:08.771753",
+            "duration": 210
+        },
+        {
+            "from": "Shepherd",
+            "to": "DORCAS",
+            "timestamp": "2025-03-04T11:28:08.771755",
+            "duration": 117
+        },
+        {
+            "from": "Shepherd",
+            "to": "DORCAS",
+            "timestamp": "2025-03-03T23:34:08.771757",
+            "duration": 202
+        },
+        {
+            "from": "Shepherd",
+            "to": "DORCAS",
+            "timestamp": "2025-03-10T14:19:08.771759",
+            "duration": 156
+        },
+        {
+            "from": "Shepherd",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T21:14:08.771762",
+            "duration": 269
+        },
+        {
+            "from": "Shepherd",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-05T01:37:08.771764",
+            "duration": 232
+        },
+        {
+            "from": "Shepherd",
+            "to": "PAULINA",
+            "timestamp": "2025-03-06T23:03:08.771766",
+            "duration": 248
+        },
+        {
+            "from": "Shepherd",
+            "to": "PAULINA",
+            "timestamp": "2025-03-09T01:16:08.771768",
+            "duration": 134
+        },
+        {
+            "from": "Shepherd",
+            "to": "PAULINA",
+            "timestamp": "2025-03-08T12:01:08.771770",
+            "duration": 181
+        },
+        {
+            "from": "Lord",
+            "to": "Officer",
+            "timestamp": "2025-03-08T20:12:08.771773",
+            "duration": 289
+        },
+        {
+            "from": "Lord",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-07T14:59:08.771775",
+            "duration": 171
+        },
+        {
+            "from": "Lord",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-08T04:17:08.771777",
+            "duration": 109
+        },
+        {
+            "from": "Lord",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-08T11:00:08.771779",
+            "duration": 158
+        },
+        {
+            "from": "Lord",
+            "to": "DION",
+            "timestamp": "2025-03-09T19:11:08.771782",
+            "duration": 158
+        },
+        {
+            "from": "Lord",
+            "to": "DORCAS",
+            "timestamp": "2025-03-09T14:55:08.771784",
+            "duration": 285
+        },
+        {
+            "from": "Lord",
+            "to": "DORCAS",
+            "timestamp": "2025-03-05T10:21:08.771786",
+            "duration": 135
+        },
+        {
+            "from": "Lord",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T19:14:08.771788",
+            "duration": 63
+        },
+        {
+            "from": "Lord",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T07:21:08.771790",
+            "duration": 247
+        },
+        {
+            "from": "Lord",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T10:31:08.771792",
+            "duration": 90
+        },
+        {
+            "from": "Lord",
+            "to": "PAULINA",
+            "timestamp": "2025-03-05T13:20:08.771795",
+            "duration": 175
+        },
+        {
+            "from": "Lord",
+            "to": "PAULINA",
+            "timestamp": "2025-03-05T16:12:08.771797",
+            "duration": 258
+        },
+        {
+            "from": "Officer",
+            "to": "AUTOLYCUS",
+            "timestamp": "2025-03-10T11:29:08.771799",
+            "duration": 286
+        },
+        {
+            "from": "Officer",
+            "to": "DION",
+            "timestamp": "2025-03-07T01:41:08.771801",
+            "duration": 294
+        },
+        {
+            "from": "Officer",
+            "to": "DION",
+            "timestamp": "2025-03-04T13:29:08.771803",
+            "duration": 222
+        },
+        {
+            "from": "Officer",
+            "to": "DION",
+            "timestamp": "2025-03-05T16:38:08.771805",
+            "duration": 103
+        },
+        {
+            "from": "Officer",
+            "to": "DORCAS",
+            "timestamp": "2025-03-05T08:54:08.771808",
+            "duration": 122
+        },
+        {
+            "from": "Officer",
+            "to": "DORCAS",
+            "timestamp": "2025-03-04T02:26:08.771810",
+            "duration": 193
+        },
+        {
+            "from": "Officer",
+            "to": "DORCAS",
+            "timestamp": "2025-03-02T22:34:08.771812",
+            "duration": 60
+        },
+        {
+            "from": "Officer",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-05T18:53:08.771814",
+            "duration": 178
+        },
+        {
+            "from": "Officer",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-10T13:13:08.771816",
+            "duration": 251
+        },
+        {
+            "from": "Officer",
+            "to": "PAULINA",
+            "timestamp": "2025-03-08T05:27:08.771819",
+            "duration": 71
+        },
+        {
+            "from": "Officer",
+            "to": "PAULINA",
+            "timestamp": "2025-03-03T09:00:08.771821",
+            "duration": 134
+        },
+        {
+            "from": "Officer",
+            "to": "PAULINA",
+            "timestamp": "2025-03-06T04:17:08.771823",
+            "duration": 215
+        },
+        {
+            "from": "AUTOLYCUS",
+            "to": "DION",
+            "timestamp": "2025-03-06T12:26:08.771826",
+            "duration": 71
+        },
+        {
+            "from": "AUTOLYCUS",
+            "to": "DION",
+            "timestamp": "2025-03-03T22:21:08.771828",
+            "duration": 232
+        },
+        {
+            "from": "AUTOLYCUS",
+            "to": "DORCAS",
+            "timestamp": "2025-03-03T17:50:08.771830",
+            "duration": 153
+        },
+        {
+            "from": "AUTOLYCUS",
+            "to": "DORCAS",
+            "timestamp": "2025-03-08T12:30:08.771832",
+            "duration": 176
+        },
+        {
+            "from": "AUTOLYCUS",
+            "to": "DORCAS",
+            "timestamp": "2025-03-03T10:20:08.771834",
+            "duration": 268
+        },
+        {
+            "from": "AUTOLYCUS",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T09:54:08.771836",
+            "duration": 180
+        },
+        {
+            "from": "AUTOLYCUS",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T14:51:08.771838",
+            "duration": 223
+        },
+        {
+            "from": "AUTOLYCUS",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-10T07:05:08.771840",
+            "duration": 64
+        },
+        {
+            "from": "AUTOLYCUS",
+            "to": "PAULINA",
+            "timestamp": "2025-03-04T12:41:08.771843",
+            "duration": 238
+        },
+        {
+            "from": "DION",
+            "to": "DORCAS",
+            "timestamp": "2025-03-03T18:06:08.771845",
+            "duration": 77
+        },
+        {
+            "from": "DION",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T01:20:08.771847",
+            "duration": 123
+        },
+        {
+            "from": "DION",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-04T08:41:08.771849",
+            "duration": 217
+        },
+        {
+            "from": "DION",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-09T20:53:08.771852",
+            "duration": 225
+        },
+        {
+            "from": "DION",
+            "to": "PAULINA",
+            "timestamp": "2025-03-07T08:38:08.771854",
+            "duration": 88
+        },
+        {
+            "from": "DION",
+            "to": "PAULINA",
+            "timestamp": "2025-03-05T13:39:08.771856",
+            "duration": 110
+        },
+        {
+            "from": "DION",
+            "to": "PAULINA",
+            "timestamp": "2025-03-05T17:54:08.771858",
+            "duration": 69
+        },
+        {
+            "from": "DORCAS",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T18:06:08.771860",
+            "duration": 92
+        },
+        {
+            "from": "DORCAS",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-03T17:58:08.771862",
+            "duration": 256
+        },
+        {
+            "from": "DORCAS",
+            "to": "ANTIGONUS",
+            "timestamp": "2025-03-06T08:29:08.771864",
+            "duration": 108
+        },
+        {
+            "from": "DORCAS",
+            "to": "PAULINA",
+            "timestamp": "2025-03-10T07:36:08.771867",
+            "duration": 100
+        },
+        {
+            "from": "DORCAS",
+            "to": "PAULINA",
+            "timestamp": "2025-03-10T05:48:08.771869",
+            "duration": 255
+        },
+        {
+            "from": "ANTIGONUS",
+            "to": "PAULINA",
+            "timestamp": "2025-03-05T14:41:08.771871",
+            "duration": 152
+        }
+    ],
+    "contact_data": {
+        "POLIXENES": {
+            "phone": "646-821-5592",
+            "email": "polixenes@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "EMILIA": {
+            "phone": "646-359-9980",
+            "email": "emilia@commercelink.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "CLEOMENES": {
+            "phone": "646-808-7535",
+            "email": "cleomenes@commercelink.com",
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "PERDITA": {
+            "phone": "917-968-3082",
+            "email": "perdita@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Clown": {
+            "phone": "917-400-7088",
+            "email": "clown@artisticvision.com",
+            "title": "Creative Director",
+            "company": "Artistic Vision Group",
+            "industry": "Artistic"
+        },
+        "Mariner": {
+            "phone": "917-738-9950",
+            "email": "mariner@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Gaoler": {
+            "phone": "212-970-5217",
+            "email": "gaoler@commercetrade.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "MOPSA": {
+            "phone": "212-337-1033",
+            "email": "mopsa@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "CAMILLO": {
+            "phone": "917-714-8357",
+            "email": "camillo@commercetrade.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Time": {
+            "phone": "646-352-1462",
+            "email": "time@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "LEONTES": {
+            "phone": "646-463-2475",
+            "email": "leontes@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "MAMILLIUS": {
+            "phone": "646-724-2441",
+            "email": "mamillius@globaltradepart.com",
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "ARCHIDAMUS": {
+            "phone": "212-676-6173",
+            "email": "archidamus@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Third Gentleman": {
+            "phone": "917-634-4995",
+            "email": "third.gentleman@marketdyn.com",
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "HERMIONE": {
+            "phone": "646-593-1401",
+            "email": "hermione@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Shepard": {
+            "phone": "212-615-5739",
+            "email": "shepard@tradewinds.com",
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Gentleman": {
+            "phone": "917-922-8729",
+            "email": "gentleman@globaltradepart.com",
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Servant": {
+            "phone": "212-656-9064",
+            "email": "servant@commercetrade.com",
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "FLORIZEL": {
+            "phone": "646-222-2327",
+            "email": "florizel@globaltradepart.com",
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Lords": {
+            "phone": "646-604-7642",
+            "email": "lords@noblesterling.com",
+            "title": "Managing Partner",
+            "company": "Noble & Sterling Partners",
+            "industry": "Noble"
+        },
+        "Shepherd": {
+            "phone": "646-958-3095",
+            "email": "shepherd@globaltradepart.com",
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Lord": {
+            "phone": "917-360-3039",
+            "email": "lord@legacycap.com",
+            "title": "Senior Vice President",
+            "company": "Legacy Capital Partners",
+            "industry": "Noble"
+        },
+        "Officer": {
+            "phone": "212-828-2359",
+            "email": "officer@commercetrade.com",
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "AUTOLYCUS": {
+            "phone": "646-334-1088",
+            "email": "autolycus@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "DION": {
+            "phone": "646-416-7368",
+            "email": "dion@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "DORCAS": {
+            "phone": "917-271-9415",
+            "email": "dorcas@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "ANTIGONUS": {
+            "phone": "917-932-3605",
+            "email": "antigonus@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "PAULINA": {
+            "phone": "917-396-4973",
+            "email": "paulina@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        }
+    }
+}

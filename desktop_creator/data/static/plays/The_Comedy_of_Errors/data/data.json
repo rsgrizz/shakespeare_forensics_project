@@ -1,0 +1,2132 @@
+{
+    "characters": {
+        "Servant": {
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-387-3344",
+            "email": "servant@marketdyn.com"
+        },
+        "OF EPHESUS": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-766-2935",
+            "email": "of.ephesus@globaltradepart.com"
+        },
+        "DROMIO OF SYRACUSE": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-488-8581",
+            "email": "dromio.of.syracuse@globaltradepart.com"
+        },
+        "LUCE": {
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-665-6681",
+            "email": "luce@globaltradepart.com"
+        },
+        "AEMELIA": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-181-7137",
+            "email": "aemelia@globaltradepart.com"
+        },
+        "AEGEON": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-126-1170",
+            "email": "aegeon@globaltradepart.com"
+        },
+        "DUKE SOLINUS": {
+            "title": "Managing Director",
+            "company": "Regency Financial",
+            "industry": "Royal",
+            "location": "New York",
+            "phone": "646-977-3838",
+            "email": "duke.solinus@regencyfinancial.com"
+        },
+        "PINCH": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-139-8354",
+            "email": "pinch@globaltradepart.com"
+        },
+        "ADRIANA": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-563-6568",
+            "email": "adriana@globaltradepart.com"
+        },
+        "DROMIO OF EPHESUS": {
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-373-2570",
+            "email": "dromio.of.ephesus@globaltradepart.com"
+        },
+        "ANTIPHOLUS": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-104-5118",
+            "email": "antipholus@tradewinds.com"
+        },
+        "LUCIANA": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-695-6899",
+            "email": "luciana@tradewinds.com"
+        },
+        "Officer": {
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-435-6933",
+            "email": "officer@tradewinds.com"
+        },
+        "Courtezan": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-753-9321",
+            "email": "courtezan@commercetrade.com"
+        },
+        "BALTHAZAR": {
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-172-4766",
+            "email": "balthazar@marketdyn.com"
+        },
+        "ANGELO": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-572-1689",
+            "email": "angelo@commercetrade.com"
+        },
+        "OF SYRACUSE": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-256-4374",
+            "email": "of.syracuse@marketdyn.com"
+        },
+        "Gaoler": {
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-410-4609",
+            "email": "gaoler@merchantsexchange.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "Servant",
+            "to": "OF EPHESUS",
+            "timestamp": "2025-03-03T05:37:08.023580",
+            "duration": 195
+        },
+        {
+            "from": "Servant",
+            "to": "DROMIO OF SYRACUSE",
+            "timestamp": "2025-03-08T19:48:08.023591",
+            "duration": 115
+        },
+        {
+            "from": "Servant",
+            "to": "DROMIO OF SYRACUSE",
+            "timestamp": "2025-03-02T19:04:08.023594",
+            "duration": 239
+        },
+        {
+            "from": "Servant",
+            "to": "DROMIO OF SYRACUSE",
+            "timestamp": "2025-03-08T03:36:08.023597",
+            "duration": 287
+        },
+        {
+            "from": "Servant",
+            "to": "LUCE",
+            "timestamp": "2025-03-04T15:01:08.023599",
+            "duration": 62
+        },
+        {
+            "from": "Servant",
+            "to": "LUCE",
+            "timestamp": "2025-03-05T19:45:08.023602",
+            "duration": 256
+        },
+        {
+            "from": "Servant",
+            "to": "LUCE",
+            "timestamp": "2025-03-09T11:55:08.023604",
+            "duration": 94
+        },
+        {
+            "from": "Servant",
+            "to": "AEMELIA",
+            "timestamp": "2025-03-08T05:43:08.023606",
+            "duration": 123
+        },
+        {
+            "from": "Servant",
+            "to": "AEMELIA",
+            "timestamp": "2025-03-04T05:24:08.023608",
+            "duration": 193
+        },
+        {
+            "from": "Servant",
+            "to": "AEGEON",
+            "timestamp": "2025-03-02T20:08:08.023611",
+            "duration": 299
+        },
+        {
+            "from": "Servant",
+            "to": "AEGEON",
+            "timestamp": "2025-03-05T06:11:08.023613",
+            "duration": 286
+        },
+        {
+            "from": "Servant",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-08T16:21:08.023616",
+            "duration": 77
+        },
+        {
+            "from": "Servant",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-06T02:08:08.023618",
+            "duration": 277
+        },
+        {
+            "from": "Servant",
+            "to": "PINCH",
+            "timestamp": "2025-03-06T01:43:08.023621",
+            "duration": 108
+        },
+        {
+            "from": "Servant",
+            "to": "PINCH",
+            "timestamp": "2025-03-04T02:49:08.023623",
+            "duration": 129
+        },
+        {
+            "from": "Servant",
+            "to": "PINCH",
+            "timestamp": "2025-03-08T11:40:08.023625",
+            "duration": 68
+        },
+        {
+            "from": "Servant",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-06T11:58:08.023627",
+            "duration": 96
+        },
+        {
+            "from": "Servant",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-03T06:23:08.023629",
+            "duration": 128
+        },
+        {
+            "from": "Servant",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-09T04:43:08.023632",
+            "duration": 139
+        },
+        {
+            "from": "Servant",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-10T02:59:08.023634",
+            "duration": 269
+        },
+        {
+            "from": "Servant",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-05T06:10:08.023636",
+            "duration": 92
+        },
+        {
+            "from": "Servant",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-08T17:29:08.023639",
+            "duration": 119
+        },
+        {
+            "from": "Servant",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-05T07:55:08.023641",
+            "duration": 219
+        },
+        {
+            "from": "Servant",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-04T17:28:08.023644",
+            "duration": 135
+        },
+        {
+            "from": "Servant",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-03T23:11:08.023646",
+            "duration": 147
+        },
+        {
+            "from": "Servant",
+            "to": "Officer",
+            "timestamp": "2025-03-07T18:11:08.023648",
+            "duration": 120
+        },
+        {
+            "from": "Servant",
+            "to": "Courtezan",
+            "timestamp": "2025-03-07T20:15:08.023651",
+            "duration": 61
+        },
+        {
+            "from": "Servant",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-06T09:13:08.023653",
+            "duration": 191
+        },
+        {
+            "from": "Servant",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-06T01:07:08.023655",
+            "duration": 129
+        },
+        {
+            "from": "Servant",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-06T10:50:08.023657",
+            "duration": 215
+        },
+        {
+            "from": "Servant",
+            "to": "ANGELO",
+            "timestamp": "2025-03-04T17:56:08.023660",
+            "duration": 259
+        },
+        {
+            "from": "Servant",
+            "to": "ANGELO",
+            "timestamp": "2025-03-07T13:48:08.023662",
+            "duration": 252
+        },
+        {
+            "from": "Servant",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-07T15:24:08.023664",
+            "duration": 273
+        },
+        {
+            "from": "Servant",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-07T20:41:08.023666",
+            "duration": 160
+        },
+        {
+            "from": "Servant",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-04T18:17:08.023669",
+            "duration": 278
+        },
+        {
+            "from": "Servant",
+            "to": "Gaoler",
+            "timestamp": "2025-03-09T20:08:08.023671",
+            "duration": 197
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "DROMIO OF SYRACUSE",
+            "timestamp": "2025-03-09T06:26:08.023674",
+            "duration": 232
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "DROMIO OF SYRACUSE",
+            "timestamp": "2025-03-05T20:05:08.023676",
+            "duration": 106
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "LUCE",
+            "timestamp": "2025-03-03T20:33:08.023679",
+            "duration": 194
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "LUCE",
+            "timestamp": "2025-03-02T18:49:08.023681",
+            "duration": 264
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "AEMELIA",
+            "timestamp": "2025-03-10T01:19:08.023683",
+            "duration": 101
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "AEMELIA",
+            "timestamp": "2025-03-06T21:40:08.023685",
+            "duration": 283
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "AEGEON",
+            "timestamp": "2025-03-09T03:03:08.023688",
+            "duration": 125
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "AEGEON",
+            "timestamp": "2025-03-03T17:21:08.023690",
+            "duration": 147
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-04T14:26:08.023693",
+            "duration": 238
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-06T17:43:08.023695",
+            "duration": 174
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "PINCH",
+            "timestamp": "2025-03-07T13:05:08.023697",
+            "duration": 269
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-08T08:50:08.023700",
+            "duration": 178
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-04T02:01:08.023702",
+            "duration": 244
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-08T14:24:08.023704",
+            "duration": 229
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-08T19:14:08.023707",
+            "duration": 249
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-09T02:05:08.023709",
+            "duration": 276
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-03T21:09:08.023711",
+            "duration": 213
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-10T08:55:08.023713",
+            "duration": 222
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-09T22:25:08.023716",
+            "duration": 163
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-03T16:07:08.023718",
+            "duration": 237
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "Officer",
+            "timestamp": "2025-03-04T12:26:08.023720",
+            "duration": 266
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "Officer",
+            "timestamp": "2025-03-09T11:23:08.023723",
+            "duration": 277
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "Officer",
+            "timestamp": "2025-03-02T21:11:08.023725",
+            "duration": 131
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "Courtezan",
+            "timestamp": "2025-03-03T02:43:08.023727",
+            "duration": 235
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "Courtezan",
+            "timestamp": "2025-03-09T09:55:08.023729",
+            "duration": 76
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-08T22:52:08.023732",
+            "duration": 95
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "ANGELO",
+            "timestamp": "2025-03-07T01:26:08.023734",
+            "duration": 140
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-05T23:25:08.023736",
+            "duration": 90
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-09T10:49:08.023738",
+            "duration": 155
+        },
+        {
+            "from": "OF EPHESUS",
+            "to": "Gaoler",
+            "timestamp": "2025-03-09T07:00:08.023741",
+            "duration": 230
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "LUCE",
+            "timestamp": "2025-03-05T14:11:08.023744",
+            "duration": 69
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "LUCE",
+            "timestamp": "2025-03-03T01:56:08.023746",
+            "duration": 250
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "LUCE",
+            "timestamp": "2025-03-08T11:15:08.023748",
+            "duration": 185
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "AEMELIA",
+            "timestamp": "2025-03-07T10:14:08.023750",
+            "duration": 265
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "AEMELIA",
+            "timestamp": "2025-03-06T19:11:08.023752",
+            "duration": 146
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "AEMELIA",
+            "timestamp": "2025-03-04T15:35:08.023755",
+            "duration": 133
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "AEGEON",
+            "timestamp": "2025-03-09T05:59:08.023757",
+            "duration": 229
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "AEGEON",
+            "timestamp": "2025-03-07T10:43:08.023759",
+            "duration": 84
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "AEGEON",
+            "timestamp": "2025-03-06T11:50:08.023761",
+            "duration": 253
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-04T17:21:08.023764",
+            "duration": 192
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "PINCH",
+            "timestamp": "2025-03-05T21:13:08.023767",
+            "duration": 194
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "PINCH",
+            "timestamp": "2025-03-06T00:47:08.023770",
+            "duration": 168
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "PINCH",
+            "timestamp": "2025-03-04T22:21:08.023772",
+            "duration": 246
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-06T07:47:08.023774",
+            "duration": 133
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-03T07:51:08.023777",
+            "duration": 107
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-02T17:36:08.023779",
+            "duration": 197
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-05T00:48:08.023781",
+            "duration": 127
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-03T01:48:08.023784",
+            "duration": 232
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-07T12:22:08.023786",
+            "duration": 162
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "Officer",
+            "timestamp": "2025-03-06T13:35:08.023789",
+            "duration": 200
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "Officer",
+            "timestamp": "2025-03-03T11:50:08.023791",
+            "duration": 83
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "Officer",
+            "timestamp": "2025-03-10T02:25:08.023793",
+            "duration": 271
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "Courtezan",
+            "timestamp": "2025-03-07T04:09:08.023795",
+            "duration": 176
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "Courtezan",
+            "timestamp": "2025-03-04T10:18:08.023798",
+            "duration": 218
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "Courtezan",
+            "timestamp": "2025-03-04T17:04:08.023800",
+            "duration": 177
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-09T20:17:08.023802",
+            "duration": 163
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "ANGELO",
+            "timestamp": "2025-03-06T02:51:08.023804",
+            "duration": 131
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-07T03:56:08.023807",
+            "duration": 297
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-02T16:35:08.023810",
+            "duration": 190
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "Gaoler",
+            "timestamp": "2025-03-03T05:37:08.023812",
+            "duration": 61
+        },
+        {
+            "from": "DROMIO OF SYRACUSE",
+            "to": "Gaoler",
+            "timestamp": "2025-03-07T11:52:08.023814",
+            "duration": 61
+        },
+        {
+            "from": "LUCE",
+            "to": "AEMELIA",
+            "timestamp": "2025-03-08T16:42:08.023817",
+            "duration": 268
+        },
+        {
+            "from": "LUCE",
+            "to": "AEMELIA",
+            "timestamp": "2025-03-06T01:59:08.023819",
+            "duration": 71
+        },
+        {
+            "from": "LUCE",
+            "to": "AEMELIA",
+            "timestamp": "2025-03-10T13:47:08.023821",
+            "duration": 204
+        },
+        {
+            "from": "LUCE",
+            "to": "AEGEON",
+            "timestamp": "2025-03-05T12:04:08.023823",
+            "duration": 81
+        },
+        {
+            "from": "LUCE",
+            "to": "AEGEON",
+            "timestamp": "2025-03-09T22:12:08.023826",
+            "duration": 197
+        },
+        {
+            "from": "LUCE",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-06T22:14:08.023828",
+            "duration": 271
+        },
+        {
+            "from": "LUCE",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-04T02:07:08.023831",
+            "duration": 227
+        },
+        {
+            "from": "LUCE",
+            "to": "PINCH",
+            "timestamp": "2025-03-03T16:28:08.023833",
+            "duration": 144
+        },
+        {
+            "from": "LUCE",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-07T11:40:08.023835",
+            "duration": 162
+        },
+        {
+            "from": "LUCE",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-03T02:45:08.023837",
+            "duration": 254
+        },
+        {
+            "from": "LUCE",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-10T13:34:08.023840",
+            "duration": 210
+        },
+        {
+            "from": "LUCE",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-03T18:57:08.023842",
+            "duration": 209
+        },
+        {
+            "from": "LUCE",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-09T10:04:08.023844",
+            "duration": 291
+        },
+        {
+            "from": "LUCE",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-09T01:39:08.023847",
+            "duration": 102
+        },
+        {
+            "from": "LUCE",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-09T02:54:08.023849",
+            "duration": 273
+        },
+        {
+            "from": "LUCE",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-06T01:51:08.023851",
+            "duration": 219
+        },
+        {
+            "from": "LUCE",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-06T15:32:08.023854",
+            "duration": 285
+        },
+        {
+            "from": "LUCE",
+            "to": "Officer",
+            "timestamp": "2025-03-06T19:28:08.023856",
+            "duration": 178
+        },
+        {
+            "from": "LUCE",
+            "to": "Courtezan",
+            "timestamp": "2025-03-10T14:24:08.023858",
+            "duration": 93
+        },
+        {
+            "from": "LUCE",
+            "to": "Courtezan",
+            "timestamp": "2025-03-07T19:28:08.023861",
+            "duration": 222
+        },
+        {
+            "from": "LUCE",
+            "to": "Courtezan",
+            "timestamp": "2025-03-09T08:49:08.023863",
+            "duration": 187
+        },
+        {
+            "from": "LUCE",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-04T15:42:08.023865",
+            "duration": 267
+        },
+        {
+            "from": "LUCE",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-10T00:22:08.023867",
+            "duration": 270
+        },
+        {
+            "from": "LUCE",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-05T11:10:08.023870",
+            "duration": 113
+        },
+        {
+            "from": "LUCE",
+            "to": "ANGELO",
+            "timestamp": "2025-03-05T19:00:08.023872",
+            "duration": 282
+        },
+        {
+            "from": "LUCE",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-09T22:04:08.023874",
+            "duration": 228
+        },
+        {
+            "from": "LUCE",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-04T12:38:08.023877",
+            "duration": 66
+        },
+        {
+            "from": "LUCE",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-02T23:39:08.023879",
+            "duration": 61
+        },
+        {
+            "from": "LUCE",
+            "to": "Gaoler",
+            "timestamp": "2025-03-08T03:25:08.023881",
+            "duration": 271
+        },
+        {
+            "from": "AEMELIA",
+            "to": "AEGEON",
+            "timestamp": "2025-03-08T18:18:08.023883",
+            "duration": 189
+        },
+        {
+            "from": "AEMELIA",
+            "to": "AEGEON",
+            "timestamp": "2025-03-06T09:42:08.023886",
+            "duration": 273
+        },
+        {
+            "from": "AEMELIA",
+            "to": "AEGEON",
+            "timestamp": "2025-03-08T03:49:08.023888",
+            "duration": 255
+        },
+        {
+            "from": "AEMELIA",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-10T00:42:08.023890",
+            "duration": 279
+        },
+        {
+            "from": "AEMELIA",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-06T22:15:08.023893",
+            "duration": 172
+        },
+        {
+            "from": "AEMELIA",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-09T08:11:08.023895",
+            "duration": 250
+        },
+        {
+            "from": "AEMELIA",
+            "to": "PINCH",
+            "timestamp": "2025-03-05T00:01:08.023897",
+            "duration": 71
+        },
+        {
+            "from": "AEMELIA",
+            "to": "PINCH",
+            "timestamp": "2025-03-05T02:20:08.023899",
+            "duration": 215
+        },
+        {
+            "from": "AEMELIA",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-07T13:44:08.023902",
+            "duration": 128
+        },
+        {
+            "from": "AEMELIA",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-09T06:44:08.023904",
+            "duration": 230
+        },
+        {
+            "from": "AEMELIA",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-03T02:01:08.023906",
+            "duration": 60
+        },
+        {
+            "from": "AEMELIA",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-05T17:22:08.023908",
+            "duration": 277
+        },
+        {
+            "from": "AEMELIA",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-09T08:25:08.023910",
+            "duration": 183
+        },
+        {
+            "from": "AEMELIA",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-10T00:04:08.023913",
+            "duration": 237
+        },
+        {
+            "from": "AEMELIA",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-10T06:07:08.023915",
+            "duration": 230
+        },
+        {
+            "from": "AEMELIA",
+            "to": "Officer",
+            "timestamp": "2025-03-07T05:44:08.023917",
+            "duration": 118
+        },
+        {
+            "from": "AEMELIA",
+            "to": "Officer",
+            "timestamp": "2025-03-09T01:06:08.023920",
+            "duration": 205
+        },
+        {
+            "from": "AEMELIA",
+            "to": "Courtezan",
+            "timestamp": "2025-03-05T21:32:08.023922",
+            "duration": 137
+        },
+        {
+            "from": "AEMELIA",
+            "to": "Courtezan",
+            "timestamp": "2025-03-09T06:13:08.023924",
+            "duration": 100
+        },
+        {
+            "from": "AEMELIA",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-06T14:10:08.023926",
+            "duration": 125
+        },
+        {
+            "from": "AEMELIA",
+            "to": "ANGELO",
+            "timestamp": "2025-03-05T18:23:08.023929",
+            "duration": 176
+        },
+        {
+            "from": "AEMELIA",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-08T04:26:08.023931",
+            "duration": 298
+        },
+        {
+            "from": "AEMELIA",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-03T17:44:08.023933",
+            "duration": 209
+        },
+        {
+            "from": "AEMELIA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-07T06:29:08.023936",
+            "duration": 294
+        },
+        {
+            "from": "AEMELIA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-02T17:20:08.023938",
+            "duration": 232
+        },
+        {
+            "from": "AEGEON",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-05T02:56:08.023941",
+            "duration": 88
+        },
+        {
+            "from": "AEGEON",
+            "to": "DUKE SOLINUS",
+            "timestamp": "2025-03-03T08:24:08.023943",
+            "duration": 73
+        },
+        {
+            "from": "AEGEON",
+            "to": "PINCH",
+            "timestamp": "2025-03-07T03:32:08.023945",
+            "duration": 196
+        },
+        {
+            "from": "AEGEON",
+            "to": "PINCH",
+            "timestamp": "2025-03-02T20:40:08.023947",
+            "duration": 211
+        },
+        {
+            "from": "AEGEON",
+            "to": "PINCH",
+            "timestamp": "2025-03-06T11:07:08.023949",
+            "duration": 121
+        },
+        {
+            "from": "AEGEON",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-09T22:10:08.023952",
+            "duration": 235
+        },
+        {
+            "from": "AEGEON",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-06T09:29:08.023954",
+            "duration": 154
+        },
+        {
+            "from": "AEGEON",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-10T07:57:08.023956",
+            "duration": 250
+        },
+        {
+            "from": "AEGEON",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-02T20:44:08.023963",
+            "duration": 277
+        },
+        {
+            "from": "AEGEON",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-02T17:01:08.023965",
+            "duration": 284
+        },
+        {
+            "from": "AEGEON",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-03T13:19:08.023967",
+            "duration": 131
+        },
+        {
+            "from": "AEGEON",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-04T00:38:08.023970",
+            "duration": 176
+        },
+        {
+            "from": "AEGEON",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-10T01:34:08.023972",
+            "duration": 136
+        },
+        {
+            "from": "AEGEON",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-03T05:55:08.023974",
+            "duration": 239
+        },
+        {
+            "from": "AEGEON",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-08T22:14:08.023976",
+            "duration": 205
+        },
+        {
+            "from": "AEGEON",
+            "to": "Officer",
+            "timestamp": "2025-03-07T19:50:08.023979",
+            "duration": 287
+        },
+        {
+            "from": "AEGEON",
+            "to": "Courtezan",
+            "timestamp": "2025-03-05T12:23:08.023981",
+            "duration": 126
+        },
+        {
+            "from": "AEGEON",
+            "to": "Courtezan",
+            "timestamp": "2025-03-05T08:19:08.023983",
+            "duration": 99
+        },
+        {
+            "from": "AEGEON",
+            "to": "Courtezan",
+            "timestamp": "2025-03-06T16:25:08.023985",
+            "duration": 187
+        },
+        {
+            "from": "AEGEON",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-03T06:09:08.023988",
+            "duration": 253
+        },
+        {
+            "from": "AEGEON",
+            "to": "ANGELO",
+            "timestamp": "2025-03-06T12:21:08.023990",
+            "duration": 286
+        },
+        {
+            "from": "AEGEON",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-09T22:56:08.023992",
+            "duration": 224
+        },
+        {
+            "from": "AEGEON",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-09T02:37:08.023995",
+            "duration": 152
+        },
+        {
+            "from": "AEGEON",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-06T08:33:08.023997",
+            "duration": 222
+        },
+        {
+            "from": "AEGEON",
+            "to": "Gaoler",
+            "timestamp": "2025-03-09T05:11:08.023999",
+            "duration": 130
+        },
+        {
+            "from": "AEGEON",
+            "to": "Gaoler",
+            "timestamp": "2025-03-10T06:00:08.024001",
+            "duration": 155
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "PINCH",
+            "timestamp": "2025-03-08T04:33:08.024004",
+            "duration": 292
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "PINCH",
+            "timestamp": "2025-03-07T14:26:08.024006",
+            "duration": 64
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-04T22:21:08.024008",
+            "duration": 105
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-05T02:19:08.024011",
+            "duration": 169
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-08T20:13:08.024013",
+            "duration": 132
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-07T17:33:08.024015",
+            "duration": 253
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-04T17:44:08.024017",
+            "duration": 104
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-07T22:32:08.024020",
+            "duration": 142
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-09T07:15:08.024022",
+            "duration": 171
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-03T12:47:08.024024",
+            "duration": 136
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "Officer",
+            "timestamp": "2025-03-06T04:05:08.024026",
+            "duration": 177
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "Officer",
+            "timestamp": "2025-03-09T01:42:08.024028",
+            "duration": 186
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "Courtezan",
+            "timestamp": "2025-03-08T15:45:08.024031",
+            "duration": 236
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "Courtezan",
+            "timestamp": "2025-03-05T20:50:08.024033",
+            "duration": 256
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-08T09:59:08.024035",
+            "duration": 75
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "ANGELO",
+            "timestamp": "2025-03-06T16:26:08.024038",
+            "duration": 275
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "ANGELO",
+            "timestamp": "2025-03-09T00:30:08.024040",
+            "duration": 174
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-09T09:05:08.024042",
+            "duration": 170
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-09T22:06:08.024044",
+            "duration": 108
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "Gaoler",
+            "timestamp": "2025-03-07T11:37:08.024047",
+            "duration": 113
+        },
+        {
+            "from": "DUKE SOLINUS",
+            "to": "Gaoler",
+            "timestamp": "2025-03-04T06:26:08.024049",
+            "duration": 277
+        },
+        {
+            "from": "PINCH",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-03T10:33:08.024051",
+            "duration": 138
+        },
+        {
+            "from": "PINCH",
+            "to": "ADRIANA",
+            "timestamp": "2025-03-10T05:28:08.024053",
+            "duration": 277
+        },
+        {
+            "from": "PINCH",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-09T05:37:08.024056",
+            "duration": 96
+        },
+        {
+            "from": "PINCH",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-04T09:19:08.024058",
+            "duration": 100
+        },
+        {
+            "from": "PINCH",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-10T02:42:08.024061",
+            "duration": 158
+        },
+        {
+            "from": "PINCH",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-09T07:20:08.024063",
+            "duration": 121
+        },
+        {
+            "from": "PINCH",
+            "to": "Officer",
+            "timestamp": "2025-03-05T18:12:08.024066",
+            "duration": 137
+        },
+        {
+            "from": "PINCH",
+            "to": "Officer",
+            "timestamp": "2025-03-06T03:25:08.024068",
+            "duration": 154
+        },
+        {
+            "from": "PINCH",
+            "to": "Courtezan",
+            "timestamp": "2025-03-07T16:49:08.024070",
+            "duration": 198
+        },
+        {
+            "from": "PINCH",
+            "to": "Courtezan",
+            "timestamp": "2025-03-06T22:42:08.024072",
+            "duration": 249
+        },
+        {
+            "from": "PINCH",
+            "to": "Courtezan",
+            "timestamp": "2025-03-05T01:44:08.024074",
+            "duration": 103
+        },
+        {
+            "from": "PINCH",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-07T13:22:08.024077",
+            "duration": 122
+        },
+        {
+            "from": "PINCH",
+            "to": "ANGELO",
+            "timestamp": "2025-03-09T14:32:08.024079",
+            "duration": 159
+        },
+        {
+            "from": "PINCH",
+            "to": "ANGELO",
+            "timestamp": "2025-03-09T11:27:08.024081",
+            "duration": 125
+        },
+        {
+            "from": "PINCH",
+            "to": "ANGELO",
+            "timestamp": "2025-03-04T08:53:08.024083",
+            "duration": 169
+        },
+        {
+            "from": "PINCH",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-07T20:57:08.024086",
+            "duration": 113
+        },
+        {
+            "from": "PINCH",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-04T00:55:08.024088",
+            "duration": 146
+        },
+        {
+            "from": "PINCH",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-09T06:45:08.024090",
+            "duration": 198
+        },
+        {
+            "from": "PINCH",
+            "to": "Gaoler",
+            "timestamp": "2025-03-02T20:00:08.024092",
+            "duration": 95
+        },
+        {
+            "from": "PINCH",
+            "to": "Gaoler",
+            "timestamp": "2025-03-03T00:20:08.024094",
+            "duration": 97
+        },
+        {
+            "from": "PINCH",
+            "to": "Gaoler",
+            "timestamp": "2025-03-06T12:47:08.024096",
+            "duration": 291
+        },
+        {
+            "from": "ADRIANA",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-07T10:37:08.024099",
+            "duration": 68
+        },
+        {
+            "from": "ADRIANA",
+            "to": "DROMIO OF EPHESUS",
+            "timestamp": "2025-03-09T17:51:08.024101",
+            "duration": 223
+        },
+        {
+            "from": "ADRIANA",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-07T21:29:08.024103",
+            "duration": 284
+        },
+        {
+            "from": "ADRIANA",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-08T09:33:08.024106",
+            "duration": 237
+        },
+        {
+            "from": "ADRIANA",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-10T03:37:08.024108",
+            "duration": 270
+        },
+        {
+            "from": "ADRIANA",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-06T14:02:08.024110",
+            "duration": 231
+        },
+        {
+            "from": "ADRIANA",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-10T13:32:08.024112",
+            "duration": 234
+        },
+        {
+            "from": "ADRIANA",
+            "to": "Officer",
+            "timestamp": "2025-03-04T18:47:08.024115",
+            "duration": 154
+        },
+        {
+            "from": "ADRIANA",
+            "to": "Courtezan",
+            "timestamp": "2025-03-09T05:05:08.024117",
+            "duration": 92
+        },
+        {
+            "from": "ADRIANA",
+            "to": "Courtezan",
+            "timestamp": "2025-03-05T14:01:08.024119",
+            "duration": 185
+        },
+        {
+            "from": "ADRIANA",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-09T08:57:08.024122",
+            "duration": 240
+        },
+        {
+            "from": "ADRIANA",
+            "to": "ANGELO",
+            "timestamp": "2025-03-03T19:04:08.024124",
+            "duration": 126
+        },
+        {
+            "from": "ADRIANA",
+            "to": "ANGELO",
+            "timestamp": "2025-03-09T00:34:08.024126",
+            "duration": 223
+        },
+        {
+            "from": "ADRIANA",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-10T06:42:08.024129",
+            "duration": 162
+        },
+        {
+            "from": "ADRIANA",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-09T22:45:08.024131",
+            "duration": 111
+        },
+        {
+            "from": "ADRIANA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-08T17:03:08.024134",
+            "duration": 132
+        },
+        {
+            "from": "ADRIANA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-08T09:52:08.024136",
+            "duration": 233
+        },
+        {
+            "from": "ADRIANA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-09T16:50:08.024138",
+            "duration": 192
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-04T11:10:08.024140",
+            "duration": 271
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "ANTIPHOLUS",
+            "timestamp": "2025-03-08T07:29:08.024142",
+            "duration": 121
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-06T11:57:08.024145",
+            "duration": 232
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "Officer",
+            "timestamp": "2025-03-08T14:08:08.024147",
+            "duration": 251
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "Courtezan",
+            "timestamp": "2025-03-06T15:15:08.024150",
+            "duration": 228
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-09T03:52:08.024152",
+            "duration": 233
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-02T23:55:08.024154",
+            "duration": 269
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "ANGELO",
+            "timestamp": "2025-03-03T23:46:08.024156",
+            "duration": 144
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "ANGELO",
+            "timestamp": "2025-03-07T16:14:08.024159",
+            "duration": 121
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-08T09:29:08.024161",
+            "duration": 90
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-05T16:15:08.024163",
+            "duration": 61
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-04T03:42:08.024165",
+            "duration": 254
+        },
+        {
+            "from": "DROMIO OF EPHESUS",
+            "to": "Gaoler",
+            "timestamp": "2025-03-10T03:47:08.024167",
+            "duration": 95
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-07T18:08:08.024170",
+            "duration": 258
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "LUCIANA",
+            "timestamp": "2025-03-04T07:44:08.024172",
+            "duration": 232
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "Officer",
+            "timestamp": "2025-03-06T08:56:08.024175",
+            "duration": 156
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "Officer",
+            "timestamp": "2025-03-03T15:47:08.024177",
+            "duration": 67
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "Officer",
+            "timestamp": "2025-03-08T20:09:08.024179",
+            "duration": 226
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "Courtezan",
+            "timestamp": "2025-03-07T23:04:08.024181",
+            "duration": 226
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "Courtezan",
+            "timestamp": "2025-03-04T09:27:08.024183",
+            "duration": 241
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-10T11:45:08.024185",
+            "duration": 132
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "ANGELO",
+            "timestamp": "2025-03-10T10:05:08.024188",
+            "duration": 158
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "ANGELO",
+            "timestamp": "2025-03-03T21:00:08.024190",
+            "duration": 235
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-04T23:47:08.024193",
+            "duration": 199
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-04T09:48:08.024195",
+            "duration": 253
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "Gaoler",
+            "timestamp": "2025-03-03T09:46:08.024197",
+            "duration": 281
+        },
+        {
+            "from": "ANTIPHOLUS",
+            "to": "Gaoler",
+            "timestamp": "2025-03-07T15:08:08.024199",
+            "duration": 106
+        },
+        {
+            "from": "LUCIANA",
+            "to": "Officer",
+            "timestamp": "2025-03-04T02:23:08.024202",
+            "duration": 192
+        },
+        {
+            "from": "LUCIANA",
+            "to": "Officer",
+            "timestamp": "2025-03-07T10:43:08.024204",
+            "duration": 144
+        },
+        {
+            "from": "LUCIANA",
+            "to": "Officer",
+            "timestamp": "2025-03-03T18:57:08.024206",
+            "duration": 154
+        },
+        {
+            "from": "LUCIANA",
+            "to": "Courtezan",
+            "timestamp": "2025-03-07T09:07:08.024208",
+            "duration": 269
+        },
+        {
+            "from": "LUCIANA",
+            "to": "Courtezan",
+            "timestamp": "2025-03-06T06:52:08.024210",
+            "duration": 120
+        },
+        {
+            "from": "LUCIANA",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-08T10:12:08.024213",
+            "duration": 206
+        },
+        {
+            "from": "LUCIANA",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-02T16:04:08.024215",
+            "duration": 164
+        },
+        {
+            "from": "LUCIANA",
+            "to": "ANGELO",
+            "timestamp": "2025-03-06T05:00:08.024218",
+            "duration": 245
+        },
+        {
+            "from": "LUCIANA",
+            "to": "ANGELO",
+            "timestamp": "2025-03-03T10:40:08.024220",
+            "duration": 175
+        },
+        {
+            "from": "LUCIANA",
+            "to": "ANGELO",
+            "timestamp": "2025-03-07T18:09:08.024222",
+            "duration": 278
+        },
+        {
+            "from": "LUCIANA",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-06T13:12:08.024224",
+            "duration": 121
+        },
+        {
+            "from": "LUCIANA",
+            "to": "Gaoler",
+            "timestamp": "2025-03-03T10:07:08.024226",
+            "duration": 102
+        },
+        {
+            "from": "Officer",
+            "to": "Courtezan",
+            "timestamp": "2025-03-05T19:36:08.024229",
+            "duration": 282
+        },
+        {
+            "from": "Officer",
+            "to": "Courtezan",
+            "timestamp": "2025-03-10T13:52:08.024231",
+            "duration": 141
+        },
+        {
+            "from": "Officer",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-03T04:18:08.024233",
+            "duration": 100
+        },
+        {
+            "from": "Officer",
+            "to": "ANGELO",
+            "timestamp": "2025-03-05T20:22:08.024236",
+            "duration": 133
+        },
+        {
+            "from": "Officer",
+            "to": "ANGELO",
+            "timestamp": "2025-03-05T20:53:08.024238",
+            "duration": 219
+        },
+        {
+            "from": "Officer",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-05T17:09:08.024241",
+            "duration": 196
+        },
+        {
+            "from": "Officer",
+            "to": "Gaoler",
+            "timestamp": "2025-03-07T12:52:08.024243",
+            "duration": 151
+        },
+        {
+            "from": "Officer",
+            "to": "Gaoler",
+            "timestamp": "2025-03-08T14:57:08.024245",
+            "duration": 207
+        },
+        {
+            "from": "Courtezan",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-05T22:56:08.024248",
+            "duration": 299
+        },
+        {
+            "from": "Courtezan",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-04T18:03:08.024250",
+            "duration": 267
+        },
+        {
+            "from": "Courtezan",
+            "to": "BALTHAZAR",
+            "timestamp": "2025-03-02T20:24:08.024252",
+            "duration": 177
+        },
+        {
+            "from": "Courtezan",
+            "to": "ANGELO",
+            "timestamp": "2025-03-10T00:13:08.024255",
+            "duration": 205
+        },
+        {
+            "from": "Courtezan",
+            "to": "ANGELO",
+            "timestamp": "2025-03-02T15:59:08.024257",
+            "duration": 61
+        },
+        {
+            "from": "Courtezan",
+            "to": "ANGELO",
+            "timestamp": "2025-03-07T23:40:08.024259",
+            "duration": 283
+        },
+        {
+            "from": "Courtezan",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-10T14:01:08.024261",
+            "duration": 121
+        },
+        {
+            "from": "Courtezan",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-08T19:40:08.024263",
+            "duration": 163
+        },
+        {
+            "from": "Courtezan",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-09T10:25:08.024265",
+            "duration": 245
+        },
+        {
+            "from": "Courtezan",
+            "to": "Gaoler",
+            "timestamp": "2025-03-05T03:59:08.024268",
+            "duration": 237
+        },
+        {
+            "from": "Courtezan",
+            "to": "Gaoler",
+            "timestamp": "2025-03-05T01:12:08.024270",
+            "duration": 193
+        },
+        {
+            "from": "Courtezan",
+            "to": "Gaoler",
+            "timestamp": "2025-03-07T00:53:08.024272",
+            "duration": 264
+        },
+        {
+            "from": "BALTHAZAR",
+            "to": "ANGELO",
+            "timestamp": "2025-03-05T21:29:08.024274",
+            "duration": 84
+        },
+        {
+            "from": "BALTHAZAR",
+            "to": "ANGELO",
+            "timestamp": "2025-03-02T23:40:08.024277",
+            "duration": 234
+        },
+        {
+            "from": "BALTHAZAR",
+            "to": "ANGELO",
+            "timestamp": "2025-03-09T09:16:08.024279",
+            "duration": 100
+        },
+        {
+            "from": "BALTHAZAR",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-10T00:53:08.024281",
+            "duration": 209
+        },
+        {
+            "from": "BALTHAZAR",
+            "to": "Gaoler",
+            "timestamp": "2025-03-03T21:28:08.024283",
+            "duration": 274
+        },
+        {
+            "from": "BALTHAZAR",
+            "to": "Gaoler",
+            "timestamp": "2025-03-03T05:38:08.024286",
+            "duration": 229
+        },
+        {
+            "from": "BALTHAZAR",
+            "to": "Gaoler",
+            "timestamp": "2025-03-07T20:13:08.024288",
+            "duration": 89
+        },
+        {
+            "from": "ANGELO",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-07T11:02:08.024290",
+            "duration": 206
+        },
+        {
+            "from": "ANGELO",
+            "to": "OF SYRACUSE",
+            "timestamp": "2025-03-08T21:23:08.024292",
+            "duration": 278
+        },
+        {
+            "from": "ANGELO",
+            "to": "Gaoler",
+            "timestamp": "2025-03-08T01:44:08.024295",
+            "duration": 280
+        },
+        {
+            "from": "ANGELO",
+            "to": "Gaoler",
+            "timestamp": "2025-03-05T07:33:08.024297",
+            "duration": 166
+        },
+        {
+            "from": "ANGELO",
+            "to": "Gaoler",
+            "timestamp": "2025-03-03T05:15:08.024299",
+            "duration": 250
+        },
+        {
+            "from": "OF SYRACUSE",
+            "to": "Gaoler",
+            "timestamp": "2025-03-09T06:32:08.024302",
+            "duration": 175
+        }
+    ],
+    "contact_data": {
+        "Servant": {
+            "phone": "213-354-4421",
+            "email": "servant@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "OF EPHESUS": {
+            "phone": "213-334-4938",
+            "email": "of.ephesus@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "DROMIO OF SYRACUSE": {
+            "phone": "323-691-7098",
+            "email": "dromio.of.syracuse@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "LUCE": {
+            "phone": "310-629-7585",
+            "email": "luce@commercetrade.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "AEMELIA": {
+            "phone": "310-819-1274",
+            "email": "aemelia@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "AEGEON": {
+            "phone": "310-237-2920",
+            "email": "aegeon@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "DUKE SOLINUS": {
+            "phone": "323-223-2937",
+            "email": "duke.solinus@crownholdings.com",
+            "title": "Managing Director",
+            "company": "Crown Holdings International",
+            "industry": "Royal"
+        },
+        "PINCH": {
+            "phone": "323-491-4723",
+            "email": "pinch@commercelink.com",
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "ADRIANA": {
+            "phone": "310-210-4573",
+            "email": "adriana@tradewinds.com",
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "DROMIO OF EPHESUS": {
+            "phone": "310-281-7944",
+            "email": "dromio.of.ephesus@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "ANTIPHOLUS": {
+            "phone": "213-756-7589",
+            "email": "antipholus@commercetrade.com",
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "LUCIANA": {
+            "phone": "310-808-1700",
+            "email": "luciana@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Officer": {
+            "phone": "213-456-7018",
+            "email": "officer@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Courtezan": {
+            "phone": "213-432-5581",
+            "email": "courtezan@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "BALTHAZAR": {
+            "phone": "310-877-3607",
+            "email": "balthazar@commercelink.com",
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "ANGELO": {
+            "phone": "323-843-3241",
+            "email": "angelo@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "OF SYRACUSE": {
+            "phone": "213-369-3141",
+            "email": "of.syracuse@tradewinds.com",
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Gaoler": {
+            "phone": "323-647-5297",
+            "email": "gaoler@globaltradepart.com",
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        }
+    }
+}

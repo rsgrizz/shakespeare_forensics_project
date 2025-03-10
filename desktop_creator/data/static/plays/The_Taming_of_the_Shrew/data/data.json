@@ -1,0 +1,6749 @@
+{
+    "characters": {
+        "SLY": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-409-5313",
+            "email": "sly@tradewinds.com"
+        },
+        "HORTENSIO": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-309-7176",
+            "email": "hortensio@commercelink.com"
+        },
+        "NICHOLAS": {
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-575-9128",
+            "email": "nicholas@tradewinds.com"
+        },
+        "Hostess": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-585-4389",
+            "email": "hostess@commercelink.com"
+        },
+        "Widow": {
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-877-5660",
+            "email": "widow@commercelink.com"
+        },
+        "ALL": {
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-429-8656",
+            "email": "all@tradewinds.com"
+        },
+        "GREMIO": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-386-5945",
+            "email": "gremio@commercelink.com"
+        },
+        "Pedant": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-324-9266",
+            "email": "pedant@commercelink.com"
+        },
+        "GRUMIO": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-714-3976",
+            "email": "grumio@marketdyn.com"
+        },
+        "CURTIS": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-515-4880",
+            "email": "curtis@commercetrade.com"
+        },
+        "TRANIO": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-131-6048",
+            "email": "tranio@commercelink.com"
+        },
+        "KATHARINA": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-374-5658",
+            "email": "katharina@commercelink.com"
+        },
+        "LUCENTIO": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-117-4531",
+            "email": "lucentio@tradewinds.com"
+        },
+        "A Player": {
+            "title": "Production Manager",
+            "company": "Dramatic Works Productions",
+            "industry": "Artistic",
+            "location": "Los Angeles",
+            "phone": "323-873-5023",
+            "email": "a.player@dramaticworks.com"
+        },
+        "HORTENSIA": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-253-6872",
+            "email": "hortensia@commercetrade.com"
+        },
+        "JOSEPH": {
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-977-4126",
+            "email": "joseph@commercelink.com"
+        },
+        "VINCENTIO": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-585-6964",
+            "email": "vincentio@merchantsexchange.com"
+        },
+        "BIONDELLO": {
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-854-4847",
+            "email": "biondello@tradewinds.com"
+        },
+        "KATARINA": {
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-962-1956",
+            "email": "katarina@globaltradepart.com"
+        },
+        "Page": {
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-124-5057",
+            "email": "page@globaltradepart.com"
+        },
+        "NATHANIEL": {
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-954-3312",
+            "email": "nathaniel@commercetrade.com"
+        },
+        "BAPTISTA": {
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-334-9116",
+            "email": "baptista@globaltradepart.com"
+        },
+        "Servant": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-837-5312",
+            "email": "servant@globaltradepart.com"
+        },
+        "PHILIP": {
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-783-2583",
+            "email": "philip@merchantsexchange.com"
+        },
+        "BIANCA": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-592-4337",
+            "email": "bianca@commercelink.com"
+        },
+        "Messenger": {
+            "title": "International Development Director",
+            "company": "Bridge Builders Associates",
+            "industry": "Diplomatic",
+            "location": "Houston",
+            "phone": "713-984-7549",
+            "email": "messenger@bridgebuilders.com"
+        },
+        "Haberdasher": {
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-929-8935",
+            "email": "haberdasher@commercetrade.com"
+        },
+        "PETRUCHIO": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-671-5225",
+            "email": "petruchio@merchantsexchange.com"
+        },
+        "Third Servant": {
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-950-5480",
+            "email": "third.servant@marketdyn.com"
+        },
+        "Lord": {
+            "title": "Senior Vice President",
+            "company": "Elite Management Associates",
+            "industry": "Noble",
+            "location": "San Francisco",
+            "phone": "628-239-5418",
+            "email": "lord@elitema.com"
+        },
+        "Players": {
+            "title": "Performance Director",
+            "company": "Artistic Vision Group",
+            "industry": "Artistic",
+            "location": "New York",
+            "phone": "646-434-9105",
+            "email": "players@artisticvision.com"
+        },
+        "Tailor": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-995-1298",
+            "email": "tailor@globaltradepart.com"
+        },
+        "PETER": {
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-119-4746",
+            "email": "peter@merchantsexchange.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "SLY",
+            "to": "HORTENSIO",
+            "timestamp": "2025-03-03T16:57:08.441202",
+            "duration": 108
+        },
+        {
+            "from": "SLY",
+            "to": "HORTENSIO",
+            "timestamp": "2025-03-02T18:15:08.441218",
+            "duration": 200
+        },
+        {
+            "from": "SLY",
+            "to": "HORTENSIO",
+            "timestamp": "2025-03-09T12:24:08.441221",
+            "duration": 66
+        },
+        {
+            "from": "SLY",
+            "to": "NICHOLAS",
+            "timestamp": "2025-03-06T22:45:08.441227",
+            "duration": 283
+        },
+        {
+            "from": "SLY",
+            "to": "NICHOLAS",
+            "timestamp": "2025-03-04T01:10:08.441230",
+            "duration": 74
+        },
+        {
+            "from": "SLY",
+            "to": "NICHOLAS",
+            "timestamp": "2025-03-08T00:47:08.441232",
+            "duration": 279
+        },
+        {
+            "from": "SLY",
+            "to": "Hostess",
+            "timestamp": "2025-03-07T18:07:08.441235",
+            "duration": 65
+        },
+        {
+            "from": "SLY",
+            "to": "Hostess",
+            "timestamp": "2025-03-07T01:11:08.441237",
+            "duration": 299
+        },
+        {
+            "from": "SLY",
+            "to": "Widow",
+            "timestamp": "2025-03-03T18:07:08.441240",
+            "duration": 275
+        },
+        {
+            "from": "SLY",
+            "to": "ALL",
+            "timestamp": "2025-03-10T09:25:08.441242",
+            "duration": 278
+        },
+        {
+            "from": "SLY",
+            "to": "ALL",
+            "timestamp": "2025-03-08T11:52:08.441245",
+            "duration": 123
+        },
+        {
+            "from": "SLY",
+            "to": "GREMIO",
+            "timestamp": "2025-03-06T21:38:08.441247",
+            "duration": 215
+        },
+        {
+            "from": "SLY",
+            "to": "GREMIO",
+            "timestamp": "2025-03-03T05:41:08.441250",
+            "duration": 86
+        },
+        {
+            "from": "SLY",
+            "to": "Pedant",
+            "timestamp": "2025-03-05T20:14:08.441252",
+            "duration": 257
+        },
+        {
+            "from": "SLY",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-06T22:15:08.441255",
+            "duration": 287
+        },
+        {
+            "from": "SLY",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-10T03:58:08.441257",
+            "duration": 113
+        },
+        {
+            "from": "SLY",
+            "to": "CURTIS",
+            "timestamp": "2025-03-10T10:33:08.441259",
+            "duration": 278
+        },
+        {
+            "from": "SLY",
+            "to": "TRANIO",
+            "timestamp": "2025-03-09T12:51:08.441262",
+            "duration": 256
+        },
+        {
+            "from": "SLY",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-08T03:12:08.441265",
+            "duration": 199
+        },
+        {
+            "from": "SLY",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-09T08:19:08.441267",
+            "duration": 282
+        },
+        {
+            "from": "SLY",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-05T04:20:08.441269",
+            "duration": 217
+        },
+        {
+            "from": "SLY",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-07T14:11:08.441272",
+            "duration": 138
+        },
+        {
+            "from": "SLY",
+            "to": "A Player",
+            "timestamp": "2025-03-04T05:24:08.441274",
+            "duration": 102
+        },
+        {
+            "from": "SLY",
+            "to": "A Player",
+            "timestamp": "2025-03-02T17:32:08.441276",
+            "duration": 216
+        },
+        {
+            "from": "SLY",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-08T20:33:08.441279",
+            "duration": 142
+        },
+        {
+            "from": "SLY",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-05T02:23:08.441281",
+            "duration": 249
+        },
+        {
+            "from": "SLY",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-05T21:13:08.441283",
+            "duration": 131
+        },
+        {
+            "from": "SLY",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-02T22:44:08.441286",
+            "duration": 236
+        },
+        {
+            "from": "SLY",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-08T06:47:08.441288",
+            "duration": 138
+        },
+        {
+            "from": "SLY",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-08T19:54:08.441290",
+            "duration": 78
+        },
+        {
+            "from": "SLY",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-03T22:03:08.441292",
+            "duration": 94
+        },
+        {
+            "from": "SLY",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-04T17:33:08.441295",
+            "duration": 213
+        },
+        {
+            "from": "SLY",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-07T03:34:08.441297",
+            "duration": 126
+        },
+        {
+            "from": "SLY",
+            "to": "KATARINA",
+            "timestamp": "2025-03-03T21:00:08.441299",
+            "duration": 273
+        },
+        {
+            "from": "SLY",
+            "to": "KATARINA",
+            "timestamp": "2025-03-06T01:49:08.441302",
+            "duration": 197
+        },
+        {
+            "from": "SLY",
+            "to": "KATARINA",
+            "timestamp": "2025-03-04T00:02:08.441304",
+            "duration": 193
+        },
+        {
+            "from": "SLY",
+            "to": "Page",
+            "timestamp": "2025-03-03T21:02:08.441306",
+            "duration": 163
+        },
+        {
+            "from": "SLY",
+            "to": "Page",
+            "timestamp": "2025-03-02T15:47:08.441308",
+            "duration": 99
+        },
+        {
+            "from": "SLY",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-03T07:53:08.441311",
+            "duration": 281
+        },
+        {
+            "from": "SLY",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-09T14:44:08.441313",
+            "duration": 89
+        },
+        {
+            "from": "SLY",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-05T03:15:08.441315",
+            "duration": 112
+        },
+        {
+            "from": "SLY",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-07T12:57:08.441318",
+            "duration": 226
+        },
+        {
+            "from": "SLY",
+            "to": "Servant",
+            "timestamp": "2025-03-06T02:51:08.441320",
+            "duration": 60
+        },
+        {
+            "from": "SLY",
+            "to": "PHILIP",
+            "timestamp": "2025-03-04T23:07:08.441323",
+            "duration": 193
+        },
+        {
+            "from": "SLY",
+            "to": "PHILIP",
+            "timestamp": "2025-03-03T09:32:08.441325",
+            "duration": 298
+        },
+        {
+            "from": "SLY",
+            "to": "PHILIP",
+            "timestamp": "2025-03-07T10:42:08.441327",
+            "duration": 244
+        },
+        {
+            "from": "SLY",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T04:13:08.441329",
+            "duration": 142
+        },
+        {
+            "from": "SLY",
+            "to": "BIANCA",
+            "timestamp": "2025-03-07T11:56:08.441332",
+            "duration": 66
+        },
+        {
+            "from": "SLY",
+            "to": "BIANCA",
+            "timestamp": "2025-03-04T20:23:08.441334",
+            "duration": 69
+        },
+        {
+            "from": "SLY",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T17:29:08.441337",
+            "duration": 213
+        },
+        {
+            "from": "SLY",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T03:47:08.441339",
+            "duration": 88
+        },
+        {
+            "from": "SLY",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T12:09:08.441341",
+            "duration": 223
+        },
+        {
+            "from": "SLY",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-04T10:37:08.441344",
+            "duration": 256
+        },
+        {
+            "from": "SLY",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-07T01:08:08.441346",
+            "duration": 119
+        },
+        {
+            "from": "SLY",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-05T02:13:08.441349",
+            "duration": 66
+        },
+        {
+            "from": "SLY",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-09T14:48:08.441351",
+            "duration": 111
+        },
+        {
+            "from": "SLY",
+            "to": "Third Servant",
+            "timestamp": "2025-03-03T18:14:08.441353",
+            "duration": 133
+        },
+        {
+            "from": "SLY",
+            "to": "Lord",
+            "timestamp": "2025-03-07T04:45:08.441355",
+            "duration": 220
+        },
+        {
+            "from": "SLY",
+            "to": "Lord",
+            "timestamp": "2025-03-08T21:15:08.441358",
+            "duration": 264
+        },
+        {
+            "from": "SLY",
+            "to": "Lord",
+            "timestamp": "2025-03-06T02:35:08.441360",
+            "duration": 272
+        },
+        {
+            "from": "SLY",
+            "to": "Players",
+            "timestamp": "2025-03-09T18:17:08.441362",
+            "duration": 298
+        },
+        {
+            "from": "SLY",
+            "to": "Players",
+            "timestamp": "2025-03-06T13:50:08.441364",
+            "duration": 283
+        },
+        {
+            "from": "SLY",
+            "to": "Players",
+            "timestamp": "2025-03-09T13:19:08.441368",
+            "duration": 125
+        },
+        {
+            "from": "SLY",
+            "to": "Tailor",
+            "timestamp": "2025-03-07T04:50:08.441370",
+            "duration": 68
+        },
+        {
+            "from": "SLY",
+            "to": "PETER",
+            "timestamp": "2025-03-05T19:46:08.441373",
+            "duration": 215
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "NICHOLAS",
+            "timestamp": "2025-03-09T13:11:08.441376",
+            "duration": 88
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "NICHOLAS",
+            "timestamp": "2025-03-05T04:59:08.441378",
+            "duration": 251
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Hostess",
+            "timestamp": "2025-03-04T14:37:08.441380",
+            "duration": 194
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Hostess",
+            "timestamp": "2025-03-06T19:08:08.441382",
+            "duration": 74
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Widow",
+            "timestamp": "2025-03-06T16:44:08.441385",
+            "duration": 231
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Widow",
+            "timestamp": "2025-03-10T07:59:08.441387",
+            "duration": 198
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "ALL",
+            "timestamp": "2025-03-05T00:36:08.441389",
+            "duration": 232
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "ALL",
+            "timestamp": "2025-03-05T09:33:08.441392",
+            "duration": 225
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "ALL",
+            "timestamp": "2025-03-08T07:38:08.441394",
+            "duration": 204
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "GREMIO",
+            "timestamp": "2025-03-04T11:21:08.441396",
+            "duration": 126
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "GREMIO",
+            "timestamp": "2025-03-06T10:49:08.441399",
+            "duration": 161
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "GREMIO",
+            "timestamp": "2025-03-07T07:11:08.441401",
+            "duration": 271
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Pedant",
+            "timestamp": "2025-03-06T08:01:08.441404",
+            "duration": 286
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-07T13:36:08.441407",
+            "duration": 264
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "CURTIS",
+            "timestamp": "2025-03-10T00:00:08.441409",
+            "duration": 277
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "CURTIS",
+            "timestamp": "2025-03-07T14:40:08.441411",
+            "duration": 73
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "TRANIO",
+            "timestamp": "2025-03-08T13:14:08.441414",
+            "duration": 83
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "TRANIO",
+            "timestamp": "2025-03-10T03:00:08.441416",
+            "duration": 196
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "TRANIO",
+            "timestamp": "2025-03-07T06:08:08.441418",
+            "duration": 220
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-09T09:15:08.441420",
+            "duration": 143
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-09T05:06:08.441423",
+            "duration": 277
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-07T00:16:08.441425",
+            "duration": 105
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-04T04:11:08.441427",
+            "duration": 206
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-07T09:00:08.441429",
+            "duration": 135
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "A Player",
+            "timestamp": "2025-03-04T07:25:08.441432",
+            "duration": 206
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-04T16:49:08.441434",
+            "duration": 203
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-08T15:58:08.441436",
+            "duration": 167
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-02T17:10:08.441439",
+            "duration": 84
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-03T17:05:08.441441",
+            "duration": 201
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-03T07:18:08.441444",
+            "duration": 79
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-06T14:47:08.441446",
+            "duration": 207
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-04T07:37:08.441448",
+            "duration": 291
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-08T10:44:08.441451",
+            "duration": 131
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-06T04:38:08.441453",
+            "duration": 272
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Page",
+            "timestamp": "2025-03-07T23:47:08.441455",
+            "duration": 233
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-04T09:13:08.441457",
+            "duration": 184
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-09T21:37:08.441460",
+            "duration": 292
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-07T11:42:08.441462",
+            "duration": 243
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-02T21:44:08.441464",
+            "duration": 248
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Servant",
+            "timestamp": "2025-03-03T21:52:08.441467",
+            "duration": 150
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Servant",
+            "timestamp": "2025-03-07T03:56:08.441469",
+            "duration": 154
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Servant",
+            "timestamp": "2025-03-10T11:23:08.441471",
+            "duration": 265
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-10T12:25:08.441473",
+            "duration": 295
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-07T15:11:08.441476",
+            "duration": 184
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T13:39:08.441478",
+            "duration": 68
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T00:01:08.441481",
+            "duration": 164
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-06T08:34:08.441483",
+            "duration": 132
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-05T19:32:08.441485",
+            "duration": 115
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-04T14:24:08.441487",
+            "duration": 138
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-07T12:17:08.441490",
+            "duration": 87
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-05T09:07:08.441492",
+            "duration": 106
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-06T14:52:08.441494",
+            "duration": 254
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-07T09:32:08.441497",
+            "duration": 217
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-03T17:30:08.441499",
+            "duration": 253
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Lord",
+            "timestamp": "2025-03-08T06:22:08.441501",
+            "duration": 154
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Lord",
+            "timestamp": "2025-03-10T10:20:08.441503",
+            "duration": 278
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Lord",
+            "timestamp": "2025-03-05T18:37:08.441505",
+            "duration": 214
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Players",
+            "timestamp": "2025-03-06T02:11:08.441508",
+            "duration": 248
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Players",
+            "timestamp": "2025-03-05T19:20:08.441510",
+            "duration": 153
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T11:49:08.441512",
+            "duration": 292
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-07T10:01:08.441514",
+            "duration": 233
+        },
+        {
+            "from": "HORTENSIO",
+            "to": "PETER",
+            "timestamp": "2025-03-05T21:35:08.441517",
+            "duration": 291
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Hostess",
+            "timestamp": "2025-03-03T07:50:08.441519",
+            "duration": 222
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Hostess",
+            "timestamp": "2025-03-05T07:44:08.441521",
+            "duration": 203
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Hostess",
+            "timestamp": "2025-03-05T17:58:08.441528",
+            "duration": 128
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Widow",
+            "timestamp": "2025-03-07T23:28:08.441530",
+            "duration": 200
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Widow",
+            "timestamp": "2025-03-08T16:03:08.441533",
+            "duration": 176
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Widow",
+            "timestamp": "2025-03-04T21:18:08.441535",
+            "duration": 121
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "ALL",
+            "timestamp": "2025-03-03T07:28:08.441537",
+            "duration": 172
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "ALL",
+            "timestamp": "2025-03-05T14:43:08.441540",
+            "duration": 241
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "ALL",
+            "timestamp": "2025-03-03T11:19:08.441542",
+            "duration": 281
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "GREMIO",
+            "timestamp": "2025-03-09T11:27:08.441544",
+            "duration": 126
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Pedant",
+            "timestamp": "2025-03-07T10:35:08.441547",
+            "duration": 158
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Pedant",
+            "timestamp": "2025-03-02T22:11:08.441549",
+            "duration": 62
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Pedant",
+            "timestamp": "2025-03-08T02:53:08.441551",
+            "duration": 255
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-03T14:57:08.441553",
+            "duration": 238
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-03T20:59:08.441556",
+            "duration": 183
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-04T23:10:08.441558",
+            "duration": 271
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "CURTIS",
+            "timestamp": "2025-03-05T02:35:08.441560",
+            "duration": 78
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "CURTIS",
+            "timestamp": "2025-03-09T04:41:08.441562",
+            "duration": 156
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "CURTIS",
+            "timestamp": "2025-03-08T03:39:08.441564",
+            "duration": 138
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "TRANIO",
+            "timestamp": "2025-03-02T21:51:08.441567",
+            "duration": 122
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "TRANIO",
+            "timestamp": "2025-03-09T11:22:08.441569",
+            "duration": 196
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "TRANIO",
+            "timestamp": "2025-03-03T02:24:08.441571",
+            "duration": 201
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-08T01:41:08.441575",
+            "duration": 229
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-03T12:34:08.441577",
+            "duration": 253
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-04T04:47:08.441579",
+            "duration": 158
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-08T01:09:08.441582",
+            "duration": 199
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-05T19:36:08.441584",
+            "duration": 191
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "A Player",
+            "timestamp": "2025-03-05T20:19:08.441586",
+            "duration": 176
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "A Player",
+            "timestamp": "2025-03-09T16:17:08.441588",
+            "duration": 161
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-05T17:41:08.441612",
+            "duration": 141
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-10T12:34:08.441616",
+            "duration": 251
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-04T01:37:08.441619",
+            "duration": 177
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-03T22:37:08.441622",
+            "duration": 214
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-08T13:00:08.441624",
+            "duration": 150
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-05T14:54:08.441626",
+            "duration": 87
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-10T14:30:08.441645",
+            "duration": 274
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-02T20:01:08.441649",
+            "duration": 258
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-04T22:50:08.441651",
+            "duration": 133
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-10T11:03:08.441654",
+            "duration": 99
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-09T22:25:08.441656",
+            "duration": 289
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "KATARINA",
+            "timestamp": "2025-03-06T20:19:08.441659",
+            "duration": 214
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "KATARINA",
+            "timestamp": "2025-03-05T06:48:08.441661",
+            "duration": 139
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Page",
+            "timestamp": "2025-03-05T04:23:08.441664",
+            "duration": 154
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-09T02:09:08.441666",
+            "duration": 290
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-10T07:54:08.441668",
+            "duration": 168
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-06T10:08:08.441670",
+            "duration": 83
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-03T09:38:08.441673",
+            "duration": 126
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-07T22:09:08.441675",
+            "duration": 99
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-08T20:24:08.441677",
+            "duration": 238
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T22:18:08.441680",
+            "duration": 290
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Servant",
+            "timestamp": "2025-03-02T16:59:08.441682",
+            "duration": 175
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T01:47:08.441684",
+            "duration": 103
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "PHILIP",
+            "timestamp": "2025-03-10T09:46:08.441686",
+            "duration": 99
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "BIANCA",
+            "timestamp": "2025-03-06T21:44:08.441688",
+            "duration": 212
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T02:30:08.441691",
+            "duration": 218
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-03T06:13:08.441693",
+            "duration": 149
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-09T05:39:08.441695",
+            "duration": 103
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-09T03:07:08.441697",
+            "duration": 205
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-07T22:45:08.441699",
+            "duration": 173
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-09T19:49:08.441701",
+            "duration": 233
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T10:55:08.441704",
+            "duration": 254
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Third Servant",
+            "timestamp": "2025-03-07T16:23:08.441706",
+            "duration": 126
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Third Servant",
+            "timestamp": "2025-03-10T12:27:08.441708",
+            "duration": 228
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Lord",
+            "timestamp": "2025-03-07T22:48:08.441710",
+            "duration": 188
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Lord",
+            "timestamp": "2025-03-05T18:10:08.441712",
+            "duration": 65
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Lord",
+            "timestamp": "2025-03-05T01:24:08.441714",
+            "duration": 251
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Players",
+            "timestamp": "2025-03-10T03:43:08.441716",
+            "duration": 137
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T10:10:08.441718",
+            "duration": 272
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T19:43:08.441720",
+            "duration": 190
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "PETER",
+            "timestamp": "2025-03-07T18:13:08.441723",
+            "duration": 230
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "PETER",
+            "timestamp": "2025-03-09T04:50:08.441725",
+            "duration": 178
+        },
+        {
+            "from": "NICHOLAS",
+            "to": "PETER",
+            "timestamp": "2025-03-10T05:19:08.441727",
+            "duration": 142
+        },
+        {
+            "from": "Hostess",
+            "to": "Widow",
+            "timestamp": "2025-03-09T18:17:08.441730",
+            "duration": 214
+        },
+        {
+            "from": "Hostess",
+            "to": "ALL",
+            "timestamp": "2025-03-06T09:35:08.441732",
+            "duration": 213
+        },
+        {
+            "from": "Hostess",
+            "to": "GREMIO",
+            "timestamp": "2025-03-03T03:48:08.441735",
+            "duration": 61
+        },
+        {
+            "from": "Hostess",
+            "to": "GREMIO",
+            "timestamp": "2025-03-05T04:24:08.441737",
+            "duration": 64
+        },
+        {
+            "from": "Hostess",
+            "to": "Pedant",
+            "timestamp": "2025-03-09T00:56:08.441739",
+            "duration": 111
+        },
+        {
+            "from": "Hostess",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-08T05:37:08.441752",
+            "duration": 278
+        },
+        {
+            "from": "Hostess",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-09T23:13:08.441755",
+            "duration": 146
+        },
+        {
+            "from": "Hostess",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-05T00:25:08.441757",
+            "duration": 253
+        },
+        {
+            "from": "Hostess",
+            "to": "CURTIS",
+            "timestamp": "2025-03-09T13:56:08.441759",
+            "duration": 160
+        },
+        {
+            "from": "Hostess",
+            "to": "CURTIS",
+            "timestamp": "2025-03-08T10:56:08.441761",
+            "duration": 218
+        },
+        {
+            "from": "Hostess",
+            "to": "TRANIO",
+            "timestamp": "2025-03-08T00:43:08.441764",
+            "duration": 188
+        },
+        {
+            "from": "Hostess",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-06T17:15:08.441766",
+            "duration": 178
+        },
+        {
+            "from": "Hostess",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-07T07:21:08.441768",
+            "duration": 222
+        },
+        {
+            "from": "Hostess",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-10T12:01:08.441770",
+            "duration": 225
+        },
+        {
+            "from": "Hostess",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-03T02:39:08.441779",
+            "duration": 60
+        },
+        {
+            "from": "Hostess",
+            "to": "A Player",
+            "timestamp": "2025-03-03T02:16:08.441781",
+            "duration": 168
+        },
+        {
+            "from": "Hostess",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-04T04:26:08.441783",
+            "duration": 296
+        },
+        {
+            "from": "Hostess",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-04T20:06:08.441785",
+            "duration": 245
+        },
+        {
+            "from": "Hostess",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-03T12:21:08.441788",
+            "duration": 268
+        },
+        {
+            "from": "Hostess",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-06T23:45:08.441790",
+            "duration": 290
+        },
+        {
+            "from": "Hostess",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-03T03:20:08.441792",
+            "duration": 238
+        },
+        {
+            "from": "Hostess",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-09T00:19:08.441794",
+            "duration": 290
+        },
+        {
+            "from": "Hostess",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-08T11:54:08.441797",
+            "duration": 98
+        },
+        {
+            "from": "Hostess",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-06T14:47:08.441799",
+            "duration": 290
+        },
+        {
+            "from": "Hostess",
+            "to": "KATARINA",
+            "timestamp": "2025-03-07T22:10:08.441801",
+            "duration": 182
+        },
+        {
+            "from": "Hostess",
+            "to": "KATARINA",
+            "timestamp": "2025-03-04T12:39:08.441803",
+            "duration": 96
+        },
+        {
+            "from": "Hostess",
+            "to": "Page",
+            "timestamp": "2025-03-10T14:08:08.441806",
+            "duration": 138
+        },
+        {
+            "from": "Hostess",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-04T03:37:08.441808",
+            "duration": 208
+        },
+        {
+            "from": "Hostess",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-06T03:04:08.441810",
+            "duration": 264
+        },
+        {
+            "from": "Hostess",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-09T20:56:08.441813",
+            "duration": 68
+        },
+        {
+            "from": "Hostess",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-07T17:21:08.441815",
+            "duration": 268
+        },
+        {
+            "from": "Hostess",
+            "to": "Servant",
+            "timestamp": "2025-03-03T21:11:08.441817",
+            "duration": 244
+        },
+        {
+            "from": "Hostess",
+            "to": "Servant",
+            "timestamp": "2025-03-09T14:29:08.441819",
+            "duration": 272
+        },
+        {
+            "from": "Hostess",
+            "to": "PHILIP",
+            "timestamp": "2025-03-08T23:13:08.441821",
+            "duration": 89
+        },
+        {
+            "from": "Hostess",
+            "to": "PHILIP",
+            "timestamp": "2025-03-07T06:50:08.441824",
+            "duration": 207
+        },
+        {
+            "from": "Hostess",
+            "to": "PHILIP",
+            "timestamp": "2025-03-02T16:10:08.441827",
+            "duration": 286
+        },
+        {
+            "from": "Hostess",
+            "to": "BIANCA",
+            "timestamp": "2025-03-07T02:32:08.441829",
+            "duration": 127
+        },
+        {
+            "from": "Hostess",
+            "to": "BIANCA",
+            "timestamp": "2025-03-04T01:52:08.441831",
+            "duration": 288
+        },
+        {
+            "from": "Hostess",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T14:16:08.441833",
+            "duration": 251
+        },
+        {
+            "from": "Hostess",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-02T20:49:08.441835",
+            "duration": 239
+        },
+        {
+            "from": "Hostess",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-06T00:47:08.441837",
+            "duration": 124
+        },
+        {
+            "from": "Hostess",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-08T09:16:08.441839",
+            "duration": 277
+        },
+        {
+            "from": "Hostess",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-05T11:11:08.441842",
+            "duration": 63
+        },
+        {
+            "from": "Hostess",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-03T02:59:08.441844",
+            "duration": 118
+        },
+        {
+            "from": "Hostess",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-08T12:40:08.441846",
+            "duration": 252
+        },
+        {
+            "from": "Hostess",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T13:54:08.441848",
+            "duration": 213
+        },
+        {
+            "from": "Hostess",
+            "to": "Third Servant",
+            "timestamp": "2025-03-08T12:10:08.441850",
+            "duration": 151
+        },
+        {
+            "from": "Hostess",
+            "to": "Third Servant",
+            "timestamp": "2025-03-02T15:00:08.441852",
+            "duration": 220
+        },
+        {
+            "from": "Hostess",
+            "to": "Lord",
+            "timestamp": "2025-03-09T21:45:08.441854",
+            "duration": 89
+        },
+        {
+            "from": "Hostess",
+            "to": "Players",
+            "timestamp": "2025-03-10T07:56:08.441857",
+            "duration": 296
+        },
+        {
+            "from": "Hostess",
+            "to": "Players",
+            "timestamp": "2025-03-02T15:16:08.441859",
+            "duration": 259
+        },
+        {
+            "from": "Hostess",
+            "to": "Players",
+            "timestamp": "2025-03-09T22:29:08.441861",
+            "duration": 143
+        },
+        {
+            "from": "Hostess",
+            "to": "Tailor",
+            "timestamp": "2025-03-06T17:15:08.441863",
+            "duration": 271
+        },
+        {
+            "from": "Hostess",
+            "to": "Tailor",
+            "timestamp": "2025-03-04T09:33:08.441865",
+            "duration": 257
+        },
+        {
+            "from": "Hostess",
+            "to": "Tailor",
+            "timestamp": "2025-03-10T13:49:08.441868",
+            "duration": 101
+        },
+        {
+            "from": "Hostess",
+            "to": "PETER",
+            "timestamp": "2025-03-04T17:25:08.441870",
+            "duration": 103
+        },
+        {
+            "from": "Hostess",
+            "to": "PETER",
+            "timestamp": "2025-03-09T08:35:08.441872",
+            "duration": 73
+        },
+        {
+            "from": "Widow",
+            "to": "ALL",
+            "timestamp": "2025-03-05T10:13:08.441875",
+            "duration": 125
+        },
+        {
+            "from": "Widow",
+            "to": "ALL",
+            "timestamp": "2025-03-07T14:34:08.441877",
+            "duration": 167
+        },
+        {
+            "from": "Widow",
+            "to": "GREMIO",
+            "timestamp": "2025-03-06T04:45:08.441880",
+            "duration": 128
+        },
+        {
+            "from": "Widow",
+            "to": "GREMIO",
+            "timestamp": "2025-03-06T01:21:08.441882",
+            "duration": 127
+        },
+        {
+            "from": "Widow",
+            "to": "Pedant",
+            "timestamp": "2025-03-07T01:28:08.441884",
+            "duration": 189
+        },
+        {
+            "from": "Widow",
+            "to": "Pedant",
+            "timestamp": "2025-03-02T17:00:08.441886",
+            "duration": 173
+        },
+        {
+            "from": "Widow",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-02T23:34:08.441888",
+            "duration": 177
+        },
+        {
+            "from": "Widow",
+            "to": "CURTIS",
+            "timestamp": "2025-03-08T01:55:08.441891",
+            "duration": 209
+        },
+        {
+            "from": "Widow",
+            "to": "CURTIS",
+            "timestamp": "2025-03-03T16:13:08.441893",
+            "duration": 261
+        },
+        {
+            "from": "Widow",
+            "to": "CURTIS",
+            "timestamp": "2025-03-05T08:57:08.441895",
+            "duration": 128
+        },
+        {
+            "from": "Widow",
+            "to": "TRANIO",
+            "timestamp": "2025-03-03T19:31:08.441897",
+            "duration": 241
+        },
+        {
+            "from": "Widow",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-05T07:28:08.441899",
+            "duration": 141
+        },
+        {
+            "from": "Widow",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-04T01:09:08.441902",
+            "duration": 194
+        },
+        {
+            "from": "Widow",
+            "to": "A Player",
+            "timestamp": "2025-03-03T11:32:08.441905",
+            "duration": 153
+        },
+        {
+            "from": "Widow",
+            "to": "A Player",
+            "timestamp": "2025-03-06T10:55:08.441907",
+            "duration": 264
+        },
+        {
+            "from": "Widow",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-05T08:50:08.441909",
+            "duration": 226
+        },
+        {
+            "from": "Widow",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-03T16:17:08.441911",
+            "duration": 246
+        },
+        {
+            "from": "Widow",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-06T03:59:08.441913",
+            "duration": 285
+        },
+        {
+            "from": "Widow",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-05T21:05:08.441915",
+            "duration": 190
+        },
+        {
+            "from": "Widow",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-03T20:03:08.441918",
+            "duration": 295
+        },
+        {
+            "from": "Widow",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-10T06:27:08.441920",
+            "duration": 218
+        },
+        {
+            "from": "Widow",
+            "to": "KATARINA",
+            "timestamp": "2025-03-08T04:45:08.441922",
+            "duration": 217
+        },
+        {
+            "from": "Widow",
+            "to": "Page",
+            "timestamp": "2025-03-06T16:37:08.441924",
+            "duration": 273
+        },
+        {
+            "from": "Widow",
+            "to": "Page",
+            "timestamp": "2025-03-10T10:33:08.441926",
+            "duration": 96
+        },
+        {
+            "from": "Widow",
+            "to": "Page",
+            "timestamp": "2025-03-04T10:34:08.441928",
+            "duration": 275
+        },
+        {
+            "from": "Widow",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-08T01:16:08.441931",
+            "duration": 86
+        },
+        {
+            "from": "Widow",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-04T04:32:08.441933",
+            "duration": 116
+        },
+        {
+            "from": "Widow",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-07T05:48:08.441935",
+            "duration": 202
+        },
+        {
+            "from": "Widow",
+            "to": "Servant",
+            "timestamp": "2025-03-09T10:27:08.441937",
+            "duration": 291
+        },
+        {
+            "from": "Widow",
+            "to": "Servant",
+            "timestamp": "2025-03-09T22:07:08.441939",
+            "duration": 158
+        },
+        {
+            "from": "Widow",
+            "to": "Servant",
+            "timestamp": "2025-03-06T00:39:08.441941",
+            "duration": 233
+        },
+        {
+            "from": "Widow",
+            "to": "PHILIP",
+            "timestamp": "2025-03-03T09:29:08.441944",
+            "duration": 300
+        },
+        {
+            "from": "Widow",
+            "to": "PHILIP",
+            "timestamp": "2025-03-06T14:07:08.441946",
+            "duration": 217
+        },
+        {
+            "from": "Widow",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T06:23:08.441948",
+            "duration": 159
+        },
+        {
+            "from": "Widow",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T03:01:08.441950",
+            "duration": 67
+        },
+        {
+            "from": "Widow",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-09T22:29:08.441953",
+            "duration": 221
+        },
+        {
+            "from": "Widow",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-08T12:00:08.441955",
+            "duration": 149
+        },
+        {
+            "from": "Widow",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-06T17:16:08.441957",
+            "duration": 233
+        },
+        {
+            "from": "Widow",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-06T17:05:08.441959",
+            "duration": 288
+        },
+        {
+            "from": "Widow",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T23:56:08.441961",
+            "duration": 61
+        },
+        {
+            "from": "Widow",
+            "to": "Third Servant",
+            "timestamp": "2025-03-08T20:01:08.441963",
+            "duration": 194
+        },
+        {
+            "from": "Widow",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T23:03:08.441966",
+            "duration": 143
+        },
+        {
+            "from": "Widow",
+            "to": "Lord",
+            "timestamp": "2025-03-09T09:11:08.441968",
+            "duration": 224
+        },
+        {
+            "from": "Widow",
+            "to": "Lord",
+            "timestamp": "2025-03-08T14:19:08.441970",
+            "duration": 124
+        },
+        {
+            "from": "Widow",
+            "to": "Players",
+            "timestamp": "2025-03-02T18:23:08.441972",
+            "duration": 162
+        },
+        {
+            "from": "Widow",
+            "to": "Players",
+            "timestamp": "2025-03-04T11:03:08.441974",
+            "duration": 64
+        },
+        {
+            "from": "Widow",
+            "to": "Players",
+            "timestamp": "2025-03-03T22:52:08.441976",
+            "duration": 258
+        },
+        {
+            "from": "Widow",
+            "to": "Tailor",
+            "timestamp": "2025-03-06T17:25:08.441979",
+            "duration": 187
+        },
+        {
+            "from": "Widow",
+            "to": "Tailor",
+            "timestamp": "2025-03-07T01:08:08.441981",
+            "duration": 256
+        },
+        {
+            "from": "Widow",
+            "to": "Tailor",
+            "timestamp": "2025-03-03T22:11:08.441983",
+            "duration": 71
+        },
+        {
+            "from": "Widow",
+            "to": "PETER",
+            "timestamp": "2025-03-08T03:54:08.441985",
+            "duration": 84
+        },
+        {
+            "from": "ALL",
+            "to": "GREMIO",
+            "timestamp": "2025-03-05T23:50:08.441987",
+            "duration": 178
+        },
+        {
+            "from": "ALL",
+            "to": "GREMIO",
+            "timestamp": "2025-03-08T22:24:08.441989",
+            "duration": 209
+        },
+        {
+            "from": "ALL",
+            "to": "GREMIO",
+            "timestamp": "2025-03-10T00:52:08.441992",
+            "duration": 217
+        },
+        {
+            "from": "ALL",
+            "to": "Pedant",
+            "timestamp": "2025-03-08T12:55:08.441994",
+            "duration": 233
+        },
+        {
+            "from": "ALL",
+            "to": "Pedant",
+            "timestamp": "2025-03-04T22:15:08.441996",
+            "duration": 97
+        },
+        {
+            "from": "ALL",
+            "to": "Pedant",
+            "timestamp": "2025-03-04T20:55:08.441998",
+            "duration": 283
+        },
+        {
+            "from": "ALL",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-10T05:46:08.442001",
+            "duration": 85
+        },
+        {
+            "from": "ALL",
+            "to": "CURTIS",
+            "timestamp": "2025-03-09T15:39:08.442003",
+            "duration": 104
+        },
+        {
+            "from": "ALL",
+            "to": "TRANIO",
+            "timestamp": "2025-03-05T22:06:08.442005",
+            "duration": 189
+        },
+        {
+            "from": "ALL",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-09T05:02:08.442007",
+            "duration": 179
+        },
+        {
+            "from": "ALL",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-08T08:47:08.442009",
+            "duration": 79
+        },
+        {
+            "from": "ALL",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-06T16:26:08.442012",
+            "duration": 165
+        },
+        {
+            "from": "ALL",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-04T21:45:08.442014",
+            "duration": 115
+        },
+        {
+            "from": "ALL",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-06T15:20:08.442016",
+            "duration": 168
+        },
+        {
+            "from": "ALL",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-07T19:01:08.493730",
+            "duration": 146
+        },
+        {
+            "from": "ALL",
+            "to": "A Player",
+            "timestamp": "2025-03-05T09:32:08.493748",
+            "duration": 186
+        },
+        {
+            "from": "ALL",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-06T14:16:08.493752",
+            "duration": 123
+        },
+        {
+            "from": "ALL",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-02T20:15:08.493755",
+            "duration": 101
+        },
+        {
+            "from": "ALL",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-03T08:02:08.493757",
+            "duration": 156
+        },
+        {
+            "from": "ALL",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-07T20:03:08.493760",
+            "duration": 237
+        },
+        {
+            "from": "ALL",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-07T21:44:08.493762",
+            "duration": 232
+        },
+        {
+            "from": "ALL",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-04T18:52:08.493764",
+            "duration": 127
+        },
+        {
+            "from": "ALL",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-03T18:46:08.493767",
+            "duration": 253
+        },
+        {
+            "from": "ALL",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-03T08:38:08.493769",
+            "duration": 247
+        },
+        {
+            "from": "ALL",
+            "to": "KATARINA",
+            "timestamp": "2025-03-04T13:38:08.493772",
+            "duration": 193
+        },
+        {
+            "from": "ALL",
+            "to": "Page",
+            "timestamp": "2025-03-06T06:02:08.493774",
+            "duration": 70
+        },
+        {
+            "from": "ALL",
+            "to": "Page",
+            "timestamp": "2025-03-07T04:42:08.493776",
+            "duration": 248
+        },
+        {
+            "from": "ALL",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-07T05:10:08.493779",
+            "duration": 215
+        },
+        {
+            "from": "ALL",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-10T09:45:08.493781",
+            "duration": 160
+        },
+        {
+            "from": "ALL",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-02T22:00:08.493784",
+            "duration": 176
+        },
+        {
+            "from": "ALL",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-04T21:57:08.493786",
+            "duration": 131
+        },
+        {
+            "from": "ALL",
+            "to": "Servant",
+            "timestamp": "2025-03-05T03:53:08.493788",
+            "duration": 245
+        },
+        {
+            "from": "ALL",
+            "to": "Servant",
+            "timestamp": "2025-03-10T13:51:08.493791",
+            "duration": 257
+        },
+        {
+            "from": "ALL",
+            "to": "Servant",
+            "timestamp": "2025-03-08T23:24:08.493793",
+            "duration": 206
+        },
+        {
+            "from": "ALL",
+            "to": "PHILIP",
+            "timestamp": "2025-03-02T15:10:08.493796",
+            "duration": 277
+        },
+        {
+            "from": "ALL",
+            "to": "BIANCA",
+            "timestamp": "2025-03-07T03:28:08.493798",
+            "duration": 197
+        },
+        {
+            "from": "ALL",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T21:09:08.493800",
+            "duration": 168
+        },
+        {
+            "from": "ALL",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T17:52:08.493803",
+            "duration": 264
+        },
+        {
+            "from": "ALL",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T08:16:08.493805",
+            "duration": 179
+        },
+        {
+            "from": "ALL",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T18:02:08.493807",
+            "duration": 64
+        },
+        {
+            "from": "ALL",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-05T16:57:08.493810",
+            "duration": 122
+        },
+        {
+            "from": "ALL",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-03T07:54:08.493812",
+            "duration": 221
+        },
+        {
+            "from": "ALL",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-09T07:42:08.493815",
+            "duration": 166
+        },
+        {
+            "from": "ALL",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-09T09:14:08.493817",
+            "duration": 266
+        },
+        {
+            "from": "ALL",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-06T04:35:08.493819",
+            "duration": 251
+        },
+        {
+            "from": "ALL",
+            "to": "Third Servant",
+            "timestamp": "2025-03-03T15:49:08.493822",
+            "duration": 135
+        },
+        {
+            "from": "ALL",
+            "to": "Third Servant",
+            "timestamp": "2025-03-03T06:22:08.493827",
+            "duration": 267
+        },
+        {
+            "from": "ALL",
+            "to": "Lord",
+            "timestamp": "2025-03-10T14:03:08.493830",
+            "duration": 145
+        },
+        {
+            "from": "ALL",
+            "to": "Lord",
+            "timestamp": "2025-03-09T14:14:08.493832",
+            "duration": 170
+        },
+        {
+            "from": "ALL",
+            "to": "Players",
+            "timestamp": "2025-03-09T03:48:08.493835",
+            "duration": 149
+        },
+        {
+            "from": "ALL",
+            "to": "Players",
+            "timestamp": "2025-03-10T09:48:08.493837",
+            "duration": 128
+        },
+        {
+            "from": "ALL",
+            "to": "Tailor",
+            "timestamp": "2025-03-07T08:05:08.493839",
+            "duration": 117
+        },
+        {
+            "from": "ALL",
+            "to": "Tailor",
+            "timestamp": "2025-03-09T07:50:08.493841",
+            "duration": 276
+        },
+        {
+            "from": "ALL",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T19:25:08.493844",
+            "duration": 221
+        },
+        {
+            "from": "ALL",
+            "to": "PETER",
+            "timestamp": "2025-03-03T01:27:08.493846",
+            "duration": 242
+        },
+        {
+            "from": "ALL",
+            "to": "PETER",
+            "timestamp": "2025-03-04T12:38:08.493848",
+            "duration": 206
+        },
+        {
+            "from": "GREMIO",
+            "to": "Pedant",
+            "timestamp": "2025-03-07T04:08:08.493851",
+            "duration": 214
+        },
+        {
+            "from": "GREMIO",
+            "to": "Pedant",
+            "timestamp": "2025-03-09T04:06:08.493854",
+            "duration": 216
+        },
+        {
+            "from": "GREMIO",
+            "to": "Pedant",
+            "timestamp": "2025-03-09T17:20:08.493856",
+            "duration": 98
+        },
+        {
+            "from": "GREMIO",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-08T00:45:08.493858",
+            "duration": 74
+        },
+        {
+            "from": "GREMIO",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-04T22:20:08.493860",
+            "duration": 223
+        },
+        {
+            "from": "GREMIO",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-09T18:16:08.493863",
+            "duration": 127
+        },
+        {
+            "from": "GREMIO",
+            "to": "CURTIS",
+            "timestamp": "2025-03-07T14:46:08.493865",
+            "duration": 284
+        },
+        {
+            "from": "GREMIO",
+            "to": "TRANIO",
+            "timestamp": "2025-03-06T02:47:08.493868",
+            "duration": 236
+        },
+        {
+            "from": "GREMIO",
+            "to": "TRANIO",
+            "timestamp": "2025-03-03T04:17:08.493870",
+            "duration": 190
+        },
+        {
+            "from": "GREMIO",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-09T02:36:08.493872",
+            "duration": 255
+        },
+        {
+            "from": "GREMIO",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-05T19:57:08.493875",
+            "duration": 237
+        },
+        {
+            "from": "GREMIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-08T06:25:08.493878",
+            "duration": 278
+        },
+        {
+            "from": "GREMIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-10T04:19:08.493880",
+            "duration": 260
+        },
+        {
+            "from": "GREMIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-09T07:11:08.493882",
+            "duration": 161
+        },
+        {
+            "from": "GREMIO",
+            "to": "A Player",
+            "timestamp": "2025-03-06T16:48:08.493885",
+            "duration": 144
+        },
+        {
+            "from": "GREMIO",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-06T06:41:08.493887",
+            "duration": 185
+        },
+        {
+            "from": "GREMIO",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-09T14:11:08.493889",
+            "duration": 276
+        },
+        {
+            "from": "GREMIO",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-02T23:19:08.493892",
+            "duration": 72
+        },
+        {
+            "from": "GREMIO",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-04T14:03:08.493894",
+            "duration": 186
+        },
+        {
+            "from": "GREMIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-03T19:07:08.493897",
+            "duration": 293
+        },
+        {
+            "from": "GREMIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-06T21:00:08.493899",
+            "duration": 61
+        },
+        {
+            "from": "GREMIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-09T14:19:08.493901",
+            "duration": 257
+        },
+        {
+            "from": "GREMIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-05T09:52:08.493904",
+            "duration": 247
+        },
+        {
+            "from": "GREMIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-07T23:07:08.493906",
+            "duration": 269
+        },
+        {
+            "from": "GREMIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-03T14:48:08.493908",
+            "duration": 183
+        },
+        {
+            "from": "GREMIO",
+            "to": "Page",
+            "timestamp": "2025-03-08T03:09:08.493911",
+            "duration": 181
+        },
+        {
+            "from": "GREMIO",
+            "to": "Page",
+            "timestamp": "2025-03-03T09:34:08.493913",
+            "duration": 288
+        },
+        {
+            "from": "GREMIO",
+            "to": "Page",
+            "timestamp": "2025-03-03T09:02:08.493915",
+            "duration": 155
+        },
+        {
+            "from": "GREMIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-09T17:37:08.493917",
+            "duration": 85
+        },
+        {
+            "from": "GREMIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-04T17:00:08.493919",
+            "duration": 153
+        },
+        {
+            "from": "GREMIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-03T06:08:08.493922",
+            "duration": 239
+        },
+        {
+            "from": "GREMIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-08T00:14:08.493924",
+            "duration": 199
+        },
+        {
+            "from": "GREMIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-08T05:55:08.493926",
+            "duration": 174
+        },
+        {
+            "from": "GREMIO",
+            "to": "Servant",
+            "timestamp": "2025-03-04T13:27:08.493929",
+            "duration": 81
+        },
+        {
+            "from": "GREMIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-08T13:29:08.493931",
+            "duration": 194
+        },
+        {
+            "from": "GREMIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-07T02:51:08.493933",
+            "duration": 79
+        },
+        {
+            "from": "GREMIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-08T23:39:08.493935",
+            "duration": 290
+        },
+        {
+            "from": "GREMIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-04T09:06:08.493938",
+            "duration": 191
+        },
+        {
+            "from": "GREMIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-05T18:50:08.493942",
+            "duration": 164
+        },
+        {
+            "from": "GREMIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T04:29:08.493944",
+            "duration": 182
+        },
+        {
+            "from": "GREMIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T07:24:08.493947",
+            "duration": 173
+        },
+        {
+            "from": "GREMIO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-07T22:39:08.493955",
+            "duration": 129
+        },
+        {
+            "from": "GREMIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-04T11:57:08.493959",
+            "duration": 122
+        },
+        {
+            "from": "GREMIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-07T23:50:08.493963",
+            "duration": 281
+        },
+        {
+            "from": "GREMIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-08T08:20:08.493966",
+            "duration": 225
+        },
+        {
+            "from": "GREMIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T10:22:08.493969",
+            "duration": 258
+        },
+        {
+            "from": "GREMIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T20:15:08.493971",
+            "duration": 234
+        },
+        {
+            "from": "GREMIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T21:20:08.493973",
+            "duration": 202
+        },
+        {
+            "from": "GREMIO",
+            "to": "Lord",
+            "timestamp": "2025-03-07T14:29:08.493975",
+            "duration": 227
+        },
+        {
+            "from": "GREMIO",
+            "to": "Lord",
+            "timestamp": "2025-03-06T18:42:08.493977",
+            "duration": 104
+        },
+        {
+            "from": "GREMIO",
+            "to": "Lord",
+            "timestamp": "2025-03-02T23:35:08.493980",
+            "duration": 288
+        },
+        {
+            "from": "GREMIO",
+            "to": "Players",
+            "timestamp": "2025-03-09T10:53:08.493982",
+            "duration": 299
+        },
+        {
+            "from": "GREMIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-03T12:04:08.493984",
+            "duration": 257
+        },
+        {
+            "from": "GREMIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T13:30:08.493986",
+            "duration": 227
+        },
+        {
+            "from": "GREMIO",
+            "to": "PETER",
+            "timestamp": "2025-03-04T23:54:08.493989",
+            "duration": 227
+        },
+        {
+            "from": "GREMIO",
+            "to": "PETER",
+            "timestamp": "2025-03-03T09:27:08.493991",
+            "duration": 210
+        },
+        {
+            "from": "GREMIO",
+            "to": "PETER",
+            "timestamp": "2025-03-04T13:15:08.493993",
+            "duration": 274
+        },
+        {
+            "from": "Pedant",
+            "to": "GRUMIO",
+            "timestamp": "2025-03-04T05:14:08.493996",
+            "duration": 197
+        },
+        {
+            "from": "Pedant",
+            "to": "CURTIS",
+            "timestamp": "2025-03-07T14:51:08.493998",
+            "duration": 254
+        },
+        {
+            "from": "Pedant",
+            "to": "CURTIS",
+            "timestamp": "2025-03-07T06:56:08.494000",
+            "duration": 107
+        },
+        {
+            "from": "Pedant",
+            "to": "TRANIO",
+            "timestamp": "2025-03-06T22:56:08.494002",
+            "duration": 273
+        },
+        {
+            "from": "Pedant",
+            "to": "TRANIO",
+            "timestamp": "2025-03-05T17:41:08.494005",
+            "duration": 63
+        },
+        {
+            "from": "Pedant",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-08T07:12:08.494007",
+            "duration": 265
+        },
+        {
+            "from": "Pedant",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-06T17:28:08.494009",
+            "duration": 117
+        },
+        {
+            "from": "Pedant",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-06T08:29:08.494011",
+            "duration": 94
+        },
+        {
+            "from": "Pedant",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-04T05:32:08.494013",
+            "duration": 182
+        },
+        {
+            "from": "Pedant",
+            "to": "A Player",
+            "timestamp": "2025-03-07T10:43:08.494016",
+            "duration": 110
+        },
+        {
+            "from": "Pedant",
+            "to": "A Player",
+            "timestamp": "2025-03-06T12:51:08.494018",
+            "duration": 220
+        },
+        {
+            "from": "Pedant",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-03T05:32:08.494020",
+            "duration": 139
+        },
+        {
+            "from": "Pedant",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-08T09:58:08.494022",
+            "duration": 67
+        },
+        {
+            "from": "Pedant",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-06T11:32:08.494025",
+            "duration": 69
+        },
+        {
+            "from": "Pedant",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-07T18:54:08.494027",
+            "duration": 68
+        },
+        {
+            "from": "Pedant",
+            "to": "KATARINA",
+            "timestamp": "2025-03-09T19:49:08.494029",
+            "duration": 128
+        },
+        {
+            "from": "Pedant",
+            "to": "KATARINA",
+            "timestamp": "2025-03-05T13:36:08.494031",
+            "duration": 73
+        },
+        {
+            "from": "Pedant",
+            "to": "Page",
+            "timestamp": "2025-03-03T04:45:08.494034",
+            "duration": 242
+        },
+        {
+            "from": "Pedant",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-04T00:13:08.494036",
+            "duration": 255
+        },
+        {
+            "from": "Pedant",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-05T01:24:08.494039",
+            "duration": 204
+        },
+        {
+            "from": "Pedant",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-10T04:19:08.494041",
+            "duration": 169
+        },
+        {
+            "from": "Pedant",
+            "to": "Servant",
+            "timestamp": "2025-03-06T05:41:08.494043",
+            "duration": 103
+        },
+        {
+            "from": "Pedant",
+            "to": "Servant",
+            "timestamp": "2025-03-09T06:57:08.494045",
+            "duration": 154
+        },
+        {
+            "from": "Pedant",
+            "to": "PHILIP",
+            "timestamp": "2025-03-06T03:21:08.494047",
+            "duration": 105
+        },
+        {
+            "from": "Pedant",
+            "to": "PHILIP",
+            "timestamp": "2025-03-08T22:06:08.494049",
+            "duration": 116
+        },
+        {
+            "from": "Pedant",
+            "to": "PHILIP",
+            "timestamp": "2025-03-06T22:36:08.494052",
+            "duration": 183
+        },
+        {
+            "from": "Pedant",
+            "to": "BIANCA",
+            "timestamp": "2025-03-05T18:15:08.494054",
+            "duration": 166
+        },
+        {
+            "from": "Pedant",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T17:00:08.494056",
+            "duration": 61
+        },
+        {
+            "from": "Pedant",
+            "to": "BIANCA",
+            "timestamp": "2025-03-06T07:18:08.494058",
+            "duration": 262
+        },
+        {
+            "from": "Pedant",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T09:20:08.494061",
+            "duration": 116
+        },
+        {
+            "from": "Pedant",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T00:49:08.494063",
+            "duration": 119
+        },
+        {
+            "from": "Pedant",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-10T13:24:08.494065",
+            "duration": 201
+        },
+        {
+            "from": "Pedant",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-03T10:28:08.494068",
+            "duration": 150
+        },
+        {
+            "from": "Pedant",
+            "to": "Third Servant",
+            "timestamp": "2025-03-03T10:04:08.494070",
+            "duration": 102
+        },
+        {
+            "from": "Pedant",
+            "to": "Lord",
+            "timestamp": "2025-03-04T16:34:08.494072",
+            "duration": 292
+        },
+        {
+            "from": "Pedant",
+            "to": "Lord",
+            "timestamp": "2025-03-08T15:02:08.494075",
+            "duration": 124
+        },
+        {
+            "from": "Pedant",
+            "to": "Players",
+            "timestamp": "2025-03-10T11:38:08.494077",
+            "duration": 241
+        },
+        {
+            "from": "Pedant",
+            "to": "Players",
+            "timestamp": "2025-03-06T16:50:08.494080",
+            "duration": 177
+        },
+        {
+            "from": "Pedant",
+            "to": "Players",
+            "timestamp": "2025-03-10T09:24:08.494082",
+            "duration": 177
+        },
+        {
+            "from": "Pedant",
+            "to": "Tailor",
+            "timestamp": "2025-03-04T19:17:08.494085",
+            "duration": 214
+        },
+        {
+            "from": "Pedant",
+            "to": "PETER",
+            "timestamp": "2025-03-05T16:44:08.494087",
+            "duration": 124
+        },
+        {
+            "from": "Pedant",
+            "to": "PETER",
+            "timestamp": "2025-03-09T18:25:08.494089",
+            "duration": 104
+        },
+        {
+            "from": "GRUMIO",
+            "to": "CURTIS",
+            "timestamp": "2025-03-02T18:21:08.494091",
+            "duration": 85
+        },
+        {
+            "from": "GRUMIO",
+            "to": "CURTIS",
+            "timestamp": "2025-03-04T16:55:08.494093",
+            "duration": 144
+        },
+        {
+            "from": "GRUMIO",
+            "to": "TRANIO",
+            "timestamp": "2025-03-06T18:46:08.494096",
+            "duration": 114
+        },
+        {
+            "from": "GRUMIO",
+            "to": "TRANIO",
+            "timestamp": "2025-03-07T02:25:08.494098",
+            "duration": 88
+        },
+        {
+            "from": "GRUMIO",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-08T15:16:08.494100",
+            "duration": 170
+        },
+        {
+            "from": "GRUMIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-03T16:44:08.494103",
+            "duration": 265
+        },
+        {
+            "from": "GRUMIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-05T18:11:08.494105",
+            "duration": 213
+        },
+        {
+            "from": "GRUMIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-02T19:08:08.494107",
+            "duration": 287
+        },
+        {
+            "from": "GRUMIO",
+            "to": "A Player",
+            "timestamp": "2025-03-03T11:08:08.494109",
+            "duration": 178
+        },
+        {
+            "from": "GRUMIO",
+            "to": "A Player",
+            "timestamp": "2025-03-07T20:58:08.494111",
+            "duration": 222
+        },
+        {
+            "from": "GRUMIO",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-03T19:10:08.494114",
+            "duration": 228
+        },
+        {
+            "from": "GRUMIO",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-06T03:28:08.494116",
+            "duration": 191
+        },
+        {
+            "from": "GRUMIO",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-05T06:21:08.494118",
+            "duration": 225
+        },
+        {
+            "from": "GRUMIO",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-09T01:48:08.494121",
+            "duration": 279
+        },
+        {
+            "from": "GRUMIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-04T01:10:08.494123",
+            "duration": 138
+        },
+        {
+            "from": "GRUMIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-04T01:28:08.494125",
+            "duration": 140
+        },
+        {
+            "from": "GRUMIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-06T00:35:08.494127",
+            "duration": 236
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Page",
+            "timestamp": "2025-03-08T06:37:08.494130",
+            "duration": 166
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Page",
+            "timestamp": "2025-03-06T19:56:08.494132",
+            "duration": 292
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Page",
+            "timestamp": "2025-03-08T19:05:08.494134",
+            "duration": 287
+        },
+        {
+            "from": "GRUMIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-04T16:33:08.494136",
+            "duration": 86
+        },
+        {
+            "from": "GRUMIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-05T05:22:08.494138",
+            "duration": 291
+        },
+        {
+            "from": "GRUMIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-03T14:10:08.494304",
+            "duration": 109
+        },
+        {
+            "from": "GRUMIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-06T10:39:08.494314",
+            "duration": 187
+        },
+        {
+            "from": "GRUMIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-07T07:41:08.494317",
+            "duration": 278
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Servant",
+            "timestamp": "2025-03-10T12:54:08.494319",
+            "duration": 132
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Servant",
+            "timestamp": "2025-03-08T17:11:08.494324",
+            "duration": 214
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Servant",
+            "timestamp": "2025-03-07T22:12:08.494326",
+            "duration": 291
+        },
+        {
+            "from": "GRUMIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-05T11:50:08.494329",
+            "duration": 265
+        },
+        {
+            "from": "GRUMIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-05T07:05:08.494332",
+            "duration": 237
+        },
+        {
+            "from": "GRUMIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-06T01:35:08.494334",
+            "duration": 253
+        },
+        {
+            "from": "GRUMIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-04T13:58:08.494337",
+            "duration": 174
+        },
+        {
+            "from": "GRUMIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T02:26:08.494339",
+            "duration": 215
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T10:27:08.494354",
+            "duration": 113
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-03T10:26:08.494357",
+            "duration": 237
+        },
+        {
+            "from": "GRUMIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-08T02:54:08.494360",
+            "duration": 285
+        },
+        {
+            "from": "GRUMIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-09T13:50:08.494362",
+            "duration": 63
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T15:02:08.494364",
+            "duration": 136
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T02:12:08.494367",
+            "duration": 169
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-10T12:45:08.494369",
+            "duration": 254
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Lord",
+            "timestamp": "2025-03-05T04:28:08.494372",
+            "duration": 233
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Lord",
+            "timestamp": "2025-03-05T07:47:08.494374",
+            "duration": 98
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Lord",
+            "timestamp": "2025-03-10T05:16:08.494376",
+            "duration": 104
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Players",
+            "timestamp": "2025-03-03T01:23:08.494379",
+            "duration": 248
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Players",
+            "timestamp": "2025-03-10T07:50:08.494383",
+            "duration": 249
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T21:12:08.494386",
+            "duration": 290
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-06T20:01:08.494388",
+            "duration": 277
+        },
+        {
+            "from": "GRUMIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-10T01:03:08.494390",
+            "duration": 147
+        },
+        {
+            "from": "GRUMIO",
+            "to": "PETER",
+            "timestamp": "2025-03-03T07:17:08.494393",
+            "duration": 193
+        },
+        {
+            "from": "CURTIS",
+            "to": "TRANIO",
+            "timestamp": "2025-03-06T09:09:08.494396",
+            "duration": 272
+        },
+        {
+            "from": "CURTIS",
+            "to": "TRANIO",
+            "timestamp": "2025-03-09T22:51:08.494398",
+            "duration": 148
+        },
+        {
+            "from": "CURTIS",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-08T02:44:08.494401",
+            "duration": 180
+        },
+        {
+            "from": "CURTIS",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-03T14:38:08.494403",
+            "duration": 67
+        },
+        {
+            "from": "CURTIS",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-08T23:44:08.494406",
+            "duration": 195
+        },
+        {
+            "from": "CURTIS",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-05T04:04:08.494408",
+            "duration": 91
+        },
+        {
+            "from": "CURTIS",
+            "to": "A Player",
+            "timestamp": "2025-03-05T20:54:08.494411",
+            "duration": 69
+        },
+        {
+            "from": "CURTIS",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-10T10:24:08.494413",
+            "duration": 101
+        },
+        {
+            "from": "CURTIS",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-07T00:43:08.494416",
+            "duration": 68
+        },
+        {
+            "from": "CURTIS",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-05T09:17:08.494418",
+            "duration": 141
+        },
+        {
+            "from": "CURTIS",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-03T23:45:08.494423",
+            "duration": 150
+        },
+        {
+            "from": "CURTIS",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-03T23:15:08.494425",
+            "duration": 61
+        },
+        {
+            "from": "CURTIS",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-10T06:16:08.494428",
+            "duration": 142
+        },
+        {
+            "from": "CURTIS",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-09T10:55:08.494430",
+            "duration": 252
+        },
+        {
+            "from": "CURTIS",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-09T18:51:08.494460",
+            "duration": 222
+        },
+        {
+            "from": "CURTIS",
+            "to": "KATARINA",
+            "timestamp": "2025-03-02T17:07:08.494465",
+            "duration": 173
+        },
+        {
+            "from": "CURTIS",
+            "to": "Page",
+            "timestamp": "2025-03-05T23:58:08.494467",
+            "duration": 120
+        },
+        {
+            "from": "CURTIS",
+            "to": "Page",
+            "timestamp": "2025-03-05T16:06:08.494470",
+            "duration": 296
+        },
+        {
+            "from": "CURTIS",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-09T13:21:08.494472",
+            "duration": 282
+        },
+        {
+            "from": "CURTIS",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-10T07:34:08.494474",
+            "duration": 130
+        },
+        {
+            "from": "CURTIS",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-06T20:12:08.494477",
+            "duration": 157
+        },
+        {
+            "from": "CURTIS",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-03T19:57:08.494479",
+            "duration": 206
+        },
+        {
+            "from": "CURTIS",
+            "to": "Servant",
+            "timestamp": "2025-03-08T06:11:08.494482",
+            "duration": 232
+        },
+        {
+            "from": "CURTIS",
+            "to": "Servant",
+            "timestamp": "2025-03-09T11:53:08.494484",
+            "duration": 288
+        },
+        {
+            "from": "CURTIS",
+            "to": "PHILIP",
+            "timestamp": "2025-03-06T01:14:08.494486",
+            "duration": 154
+        },
+        {
+            "from": "CURTIS",
+            "to": "PHILIP",
+            "timestamp": "2025-03-09T11:14:08.494489",
+            "duration": 151
+        },
+        {
+            "from": "CURTIS",
+            "to": "PHILIP",
+            "timestamp": "2025-03-04T09:31:08.494491",
+            "duration": 144
+        },
+        {
+            "from": "CURTIS",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T16:58:08.494493",
+            "duration": 279
+        },
+        {
+            "from": "CURTIS",
+            "to": "BIANCA",
+            "timestamp": "2025-03-09T21:37:08.494495",
+            "duration": 288
+        },
+        {
+            "from": "CURTIS",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T21:53:08.494498",
+            "duration": 214
+        },
+        {
+            "from": "CURTIS",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T09:32:08.494500",
+            "duration": 62
+        },
+        {
+            "from": "CURTIS",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T17:05:08.494502",
+            "duration": 195
+        },
+        {
+            "from": "CURTIS",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-02T19:51:08.494505",
+            "duration": 189
+        },
+        {
+            "from": "CURTIS",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-06T10:30:08.494507",
+            "duration": 117
+        },
+        {
+            "from": "CURTIS",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-10T10:17:08.494510",
+            "duration": 283
+        },
+        {
+            "from": "CURTIS",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T05:31:08.494512",
+            "duration": 127
+        },
+        {
+            "from": "CURTIS",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T01:55:08.494514",
+            "duration": 266
+        },
+        {
+            "from": "CURTIS",
+            "to": "Third Servant",
+            "timestamp": "2025-03-07T12:49:08.494516",
+            "duration": 100
+        },
+        {
+            "from": "CURTIS",
+            "to": "Lord",
+            "timestamp": "2025-03-03T14:45:08.494519",
+            "duration": 148
+        },
+        {
+            "from": "CURTIS",
+            "to": "Lord",
+            "timestamp": "2025-03-04T06:09:08.494521",
+            "duration": 287
+        },
+        {
+            "from": "CURTIS",
+            "to": "Players",
+            "timestamp": "2025-03-10T05:23:08.494524",
+            "duration": 279
+        },
+        {
+            "from": "CURTIS",
+            "to": "Players",
+            "timestamp": "2025-03-09T05:31:08.494526",
+            "duration": 182
+        },
+        {
+            "from": "CURTIS",
+            "to": "Players",
+            "timestamp": "2025-03-09T16:32:08.494528",
+            "duration": 190
+        },
+        {
+            "from": "CURTIS",
+            "to": "Tailor",
+            "timestamp": "2025-03-02T23:09:08.494530",
+            "duration": 234
+        },
+        {
+            "from": "CURTIS",
+            "to": "PETER",
+            "timestamp": "2025-03-06T00:51:08.494533",
+            "duration": 103
+        },
+        {
+            "from": "CURTIS",
+            "to": "PETER",
+            "timestamp": "2025-03-03T03:07:08.494535",
+            "duration": 201
+        },
+        {
+            "from": "TRANIO",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-09T21:20:08.494538",
+            "duration": 75
+        },
+        {
+            "from": "TRANIO",
+            "to": "KATHARINA",
+            "timestamp": "2025-03-05T01:43:08.494540",
+            "duration": 241
+        },
+        {
+            "from": "TRANIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-07T11:25:08.494543",
+            "duration": 73
+        },
+        {
+            "from": "TRANIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-10T13:57:08.494545",
+            "duration": 139
+        },
+        {
+            "from": "TRANIO",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-04T13:46:08.494547",
+            "duration": 295
+        },
+        {
+            "from": "TRANIO",
+            "to": "A Player",
+            "timestamp": "2025-03-07T09:13:08.494550",
+            "duration": 265
+        },
+        {
+            "from": "TRANIO",
+            "to": "A Player",
+            "timestamp": "2025-03-08T17:07:08.494552",
+            "duration": 183
+        },
+        {
+            "from": "TRANIO",
+            "to": "A Player",
+            "timestamp": "2025-03-04T11:02:08.494554",
+            "duration": 94
+        },
+        {
+            "from": "TRANIO",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-07T04:38:08.494556",
+            "duration": 159
+        },
+        {
+            "from": "TRANIO",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-05T00:48:08.494559",
+            "duration": 171
+        },
+        {
+            "from": "TRANIO",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-04T08:53:08.494561",
+            "duration": 132
+        },
+        {
+            "from": "TRANIO",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-08T02:29:08.494564",
+            "duration": 235
+        },
+        {
+            "from": "TRANIO",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-02T15:07:08.494566",
+            "duration": 80
+        },
+        {
+            "from": "TRANIO",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-03T21:06:08.494568",
+            "duration": 116
+        },
+        {
+            "from": "TRANIO",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-10T13:36:08.494571",
+            "duration": 117
+        },
+        {
+            "from": "TRANIO",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-07T21:12:08.494573",
+            "duration": 228
+        },
+        {
+            "from": "TRANIO",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-06T11:04:08.494575",
+            "duration": 293
+        },
+        {
+            "from": "TRANIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-07T14:12:08.494577",
+            "duration": 246
+        },
+        {
+            "from": "TRANIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-08T03:35:08.494580",
+            "duration": 165
+        },
+        {
+            "from": "TRANIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-04T17:01:08.494583",
+            "duration": 222
+        },
+        {
+            "from": "TRANIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-05T20:53:08.494585",
+            "duration": 146
+        },
+        {
+            "from": "TRANIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-03T23:06:08.494587",
+            "duration": 190
+        },
+        {
+            "from": "TRANIO",
+            "to": "Page",
+            "timestamp": "2025-03-06T22:37:08.494589",
+            "duration": 229
+        },
+        {
+            "from": "TRANIO",
+            "to": "Page",
+            "timestamp": "2025-03-09T12:08:08.494592",
+            "duration": 87
+        },
+        {
+            "from": "TRANIO",
+            "to": "Page",
+            "timestamp": "2025-03-02T22:25:08.494594",
+            "duration": 131
+        },
+        {
+            "from": "TRANIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-05T14:45:08.494596",
+            "duration": 88
+        },
+        {
+            "from": "TRANIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-03T11:52:08.494599",
+            "duration": 109
+        },
+        {
+            "from": "TRANIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-06T08:06:08.494601",
+            "duration": 93
+        },
+        {
+            "from": "TRANIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-06T00:27:08.494603",
+            "duration": 234
+        },
+        {
+            "from": "TRANIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-09T11:03:08.494605",
+            "duration": 138
+        },
+        {
+            "from": "TRANIO",
+            "to": "Servant",
+            "timestamp": "2025-03-09T02:08:08.494608",
+            "duration": 299
+        },
+        {
+            "from": "TRANIO",
+            "to": "Servant",
+            "timestamp": "2025-03-09T11:02:08.494610",
+            "duration": 191
+        },
+        {
+            "from": "TRANIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-08T20:37:08.494613",
+            "duration": 242
+        },
+        {
+            "from": "TRANIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-08T03:39:08.494615",
+            "duration": 131
+        },
+        {
+            "from": "TRANIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-07T19:31:08.494617",
+            "duration": 174
+        },
+        {
+            "from": "TRANIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T04:16:08.494619",
+            "duration": 126
+        },
+        {
+            "from": "TRANIO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-06T08:35:08.494637",
+            "duration": 74
+        },
+        {
+            "from": "TRANIO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-03T21:17:08.494639",
+            "duration": 65
+        },
+        {
+            "from": "TRANIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-03T23:21:08.494641",
+            "duration": 128
+        },
+        {
+            "from": "TRANIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T01:27:08.494644",
+            "duration": 202
+        },
+        {
+            "from": "TRANIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T12:39:08.494646",
+            "duration": 147
+        },
+        {
+            "from": "TRANIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-08T01:31:08.494648",
+            "duration": 127
+        },
+        {
+            "from": "TRANIO",
+            "to": "Lord",
+            "timestamp": "2025-03-06T05:58:08.494651",
+            "duration": 299
+        },
+        {
+            "from": "TRANIO",
+            "to": "Lord",
+            "timestamp": "2025-03-07T09:11:08.494653",
+            "duration": 271
+        },
+        {
+            "from": "TRANIO",
+            "to": "Players",
+            "timestamp": "2025-03-09T22:20:08.494656",
+            "duration": 228
+        },
+        {
+            "from": "TRANIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-03T06:05:08.494658",
+            "duration": 249
+        },
+        {
+            "from": "TRANIO",
+            "to": "PETER",
+            "timestamp": "2025-03-05T19:36:08.494661",
+            "duration": 118
+        },
+        {
+            "from": "KATHARINA",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-10T05:36:08.494663",
+            "duration": 95
+        },
+        {
+            "from": "KATHARINA",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-08T06:45:08.494666",
+            "duration": 247
+        },
+        {
+            "from": "KATHARINA",
+            "to": "LUCENTIO",
+            "timestamp": "2025-03-04T08:57:08.494668",
+            "duration": 113
+        },
+        {
+            "from": "KATHARINA",
+            "to": "A Player",
+            "timestamp": "2025-03-09T22:25:08.494675",
+            "duration": 269
+        },
+        {
+            "from": "KATHARINA",
+            "to": "A Player",
+            "timestamp": "2025-03-05T14:33:08.494677",
+            "duration": 251
+        },
+        {
+            "from": "KATHARINA",
+            "to": "A Player",
+            "timestamp": "2025-03-04T22:05:08.494679",
+            "duration": 155
+        },
+        {
+            "from": "KATHARINA",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-09T15:27:08.494682",
+            "duration": 141
+        },
+        {
+            "from": "KATHARINA",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-08T19:50:08.494684",
+            "duration": 257
+        },
+        {
+            "from": "KATHARINA",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-06T10:31:08.494687",
+            "duration": 203
+        },
+        {
+            "from": "KATHARINA",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-02T22:35:08.494689",
+            "duration": 189
+        },
+        {
+            "from": "KATHARINA",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-08T15:26:08.494692",
+            "duration": 201
+        },
+        {
+            "from": "KATHARINA",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-07T13:32:08.494694",
+            "duration": 87
+        },
+        {
+            "from": "KATHARINA",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-02T21:15:08.494696",
+            "duration": 297
+        },
+        {
+            "from": "KATHARINA",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-07T10:09:08.494698",
+            "duration": 275
+        },
+        {
+            "from": "KATHARINA",
+            "to": "KATARINA",
+            "timestamp": "2025-03-08T02:48:08.494701",
+            "duration": 230
+        },
+        {
+            "from": "KATHARINA",
+            "to": "KATARINA",
+            "timestamp": "2025-03-05T06:09:08.494703",
+            "duration": 228
+        },
+        {
+            "from": "KATHARINA",
+            "to": "KATARINA",
+            "timestamp": "2025-03-05T03:12:08.494705",
+            "duration": 120
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Page",
+            "timestamp": "2025-03-09T21:24:08.494708",
+            "duration": 78
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Page",
+            "timestamp": "2025-03-03T10:56:08.494710",
+            "duration": 211
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Page",
+            "timestamp": "2025-03-03T22:47:08.494712",
+            "duration": 191
+        },
+        {
+            "from": "KATHARINA",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-03T21:13:08.494715",
+            "duration": 122
+        },
+        {
+            "from": "KATHARINA",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-07T23:36:08.494717",
+            "duration": 193
+        },
+        {
+            "from": "KATHARINA",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-09T14:10:08.494719",
+            "duration": 231
+        },
+        {
+            "from": "KATHARINA",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-09T07:31:08.494721",
+            "duration": 64
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Servant",
+            "timestamp": "2025-03-03T09:22:08.494724",
+            "duration": 141
+        },
+        {
+            "from": "KATHARINA",
+            "to": "PHILIP",
+            "timestamp": "2025-03-10T07:51:08.494726",
+            "duration": 265
+        },
+        {
+            "from": "KATHARINA",
+            "to": "PHILIP",
+            "timestamp": "2025-03-06T13:25:08.494728",
+            "duration": 290
+        },
+        {
+            "from": "KATHARINA",
+            "to": "PHILIP",
+            "timestamp": "2025-03-05T17:22:08.494731",
+            "duration": 188
+        },
+        {
+            "from": "KATHARINA",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T02:04:08.494733",
+            "duration": 211
+        },
+        {
+            "from": "KATHARINA",
+            "to": "BIANCA",
+            "timestamp": "2025-03-09T11:40:08.494735",
+            "duration": 128
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T13:17:08.494738",
+            "duration": 270
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-05T15:31:08.494740",
+            "duration": 192
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-04T02:59:08.494742",
+            "duration": 238
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-07T21:34:08.494744",
+            "duration": 273
+        },
+        {
+            "from": "KATHARINA",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-05T20:55:08.494747",
+            "duration": 127
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T13:40:08.494749",
+            "duration": 157
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Lord",
+            "timestamp": "2025-03-04T07:04:08.494752",
+            "duration": 291
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Lord",
+            "timestamp": "2025-03-03T06:27:08.494754",
+            "duration": 255
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Lord",
+            "timestamp": "2025-03-09T06:02:08.494756",
+            "duration": 222
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Players",
+            "timestamp": "2025-03-05T23:57:08.494759",
+            "duration": 178
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Players",
+            "timestamp": "2025-03-08T16:29:08.494761",
+            "duration": 81
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Tailor",
+            "timestamp": "2025-03-03T11:54:08.494763",
+            "duration": 253
+        },
+        {
+            "from": "KATHARINA",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T08:00:08.494765",
+            "duration": 64
+        },
+        {
+            "from": "KATHARINA",
+            "to": "PETER",
+            "timestamp": "2025-03-10T10:08:08.494769",
+            "duration": 134
+        },
+        {
+            "from": "KATHARINA",
+            "to": "PETER",
+            "timestamp": "2025-03-02T18:32:08.494771",
+            "duration": 85
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "A Player",
+            "timestamp": "2025-03-09T11:20:08.494773",
+            "duration": 144
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "A Player",
+            "timestamp": "2025-03-07T18:47:08.494776",
+            "duration": 161
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-03T11:25:08.494778",
+            "duration": 236
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-03T20:07:08.494781",
+            "duration": 248
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-07T08:25:08.494783",
+            "duration": 244
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-09T09:29:08.494785",
+            "duration": 66
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-07T18:25:08.494788",
+            "duration": 270
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Page",
+            "timestamp": "2025-03-08T17:16:08.494790",
+            "duration": 153
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Page",
+            "timestamp": "2025-03-08T16:40:08.494793",
+            "duration": 288
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-05T13:09:08.494795",
+            "duration": 152
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-08T10:32:08.494797",
+            "duration": 188
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-06T00:38:08.494800",
+            "duration": 181
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-08T21:19:08.494802",
+            "duration": 187
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Servant",
+            "timestamp": "2025-03-06T01:24:08.494804",
+            "duration": 245
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-05T19:52:08.494807",
+            "duration": 70
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-09T09:34:08.494809",
+            "duration": 201
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-05T12:35:08.494811",
+            "duration": 147
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T14:36:08.494813",
+            "duration": 165
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-05T09:41:08.494816",
+            "duration": 190
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T11:08:08.494818",
+            "duration": 217
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T15:59:08.494820",
+            "duration": 216
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T18:55:08.494823",
+            "duration": 113
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-09T12:10:08.494825",
+            "duration": 199
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-10T00:34:08.494828",
+            "duration": 161
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-05T21:27:08.494831",
+            "duration": 265
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T02:09:08.494833",
+            "duration": 178
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-07T15:48:08.494836",
+            "duration": 80
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Lord",
+            "timestamp": "2025-03-06T23:43:08.494838",
+            "duration": 93
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Players",
+            "timestamp": "2025-03-07T23:33:08.494841",
+            "duration": 226
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Players",
+            "timestamp": "2025-03-09T06:04:08.494843",
+            "duration": 192
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-02T17:31:08.494846",
+            "duration": 69
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-03T09:55:08.494848",
+            "duration": 167
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-04T05:18:08.494850",
+            "duration": 242
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "PETER",
+            "timestamp": "2025-03-05T10:16:08.494853",
+            "duration": 80
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "PETER",
+            "timestamp": "2025-03-08T19:28:08.494855",
+            "duration": 149
+        },
+        {
+            "from": "LUCENTIO",
+            "to": "PETER",
+            "timestamp": "2025-03-05T17:42:08.494857",
+            "duration": 173
+        },
+        {
+            "from": "A Player",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-04T07:43:08.494860",
+            "duration": 73
+        },
+        {
+            "from": "A Player",
+            "to": "HORTENSIA",
+            "timestamp": "2025-03-07T19:23:08.494862",
+            "duration": 287
+        },
+        {
+            "from": "A Player",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-06T07:58:08.494864",
+            "duration": 132
+        },
+        {
+            "from": "A Player",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-02T14:42:08.494867",
+            "duration": 107
+        },
+        {
+            "from": "A Player",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-04T17:57:08.494869",
+            "duration": 67
+        },
+        {
+            "from": "A Player",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-07T12:14:08.494871",
+            "duration": 64
+        },
+        {
+            "from": "A Player",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-04T02:45:08.494873",
+            "duration": 183
+        },
+        {
+            "from": "A Player",
+            "to": "KATARINA",
+            "timestamp": "2025-03-08T19:42:08.494876",
+            "duration": 215
+        },
+        {
+            "from": "A Player",
+            "to": "Page",
+            "timestamp": "2025-03-04T06:36:08.494878",
+            "duration": 197
+        },
+        {
+            "from": "A Player",
+            "to": "Page",
+            "timestamp": "2025-03-03T14:47:08.494881",
+            "duration": 141
+        },
+        {
+            "from": "A Player",
+            "to": "Page",
+            "timestamp": "2025-03-06T03:41:08.494883",
+            "duration": 244
+        },
+        {
+            "from": "A Player",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-08T06:29:08.494885",
+            "duration": 110
+        },
+        {
+            "from": "A Player",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-06T05:58:08.494887",
+            "duration": 92
+        },
+        {
+            "from": "A Player",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-10T08:29:08.494890",
+            "duration": 273
+        },
+        {
+            "from": "A Player",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-03T00:52:08.494892",
+            "duration": 75
+        },
+        {
+            "from": "A Player",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-09T18:56:08.494895",
+            "duration": 267
+        },
+        {
+            "from": "A Player",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-10T13:05:08.494897",
+            "duration": 142
+        },
+        {
+            "from": "A Player",
+            "to": "Servant",
+            "timestamp": "2025-03-10T07:11:08.494899",
+            "duration": 260
+        },
+        {
+            "from": "A Player",
+            "to": "Servant",
+            "timestamp": "2025-03-04T03:47:08.494901",
+            "duration": 94
+        },
+        {
+            "from": "A Player",
+            "to": "Servant",
+            "timestamp": "2025-03-05T10:42:08.494904",
+            "duration": 174
+        },
+        {
+            "from": "A Player",
+            "to": "PHILIP",
+            "timestamp": "2025-03-10T00:43:08.494906",
+            "duration": 264
+        },
+        {
+            "from": "A Player",
+            "to": "PHILIP",
+            "timestamp": "2025-03-09T13:29:08.494908",
+            "duration": 264
+        },
+        {
+            "from": "A Player",
+            "to": "BIANCA",
+            "timestamp": "2025-03-10T04:40:08.494911",
+            "duration": 123
+        },
+        {
+            "from": "A Player",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T23:10:08.494913",
+            "duration": 247
+        },
+        {
+            "from": "A Player",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-03T18:57:08.494915",
+            "duration": 148
+        },
+        {
+            "from": "A Player",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-05T14:57:08.494918",
+            "duration": 108
+        },
+        {
+            "from": "A Player",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-07T01:00:08.494920",
+            "duration": 196
+        },
+        {
+            "from": "A Player",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-09T20:58:08.494922",
+            "duration": 138
+        },
+        {
+            "from": "A Player",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-07T17:53:08.494924",
+            "duration": 132
+        },
+        {
+            "from": "A Player",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T08:39:08.494927",
+            "duration": 191
+        },
+        {
+            "from": "A Player",
+            "to": "Lord",
+            "timestamp": "2025-03-07T17:38:08.494929",
+            "duration": 226
+        },
+        {
+            "from": "A Player",
+            "to": "Players",
+            "timestamp": "2025-03-08T09:11:08.494932",
+            "duration": 144
+        },
+        {
+            "from": "A Player",
+            "to": "Players",
+            "timestamp": "2025-03-07T06:27:08.494934",
+            "duration": 120
+        },
+        {
+            "from": "A Player",
+            "to": "Tailor",
+            "timestamp": "2025-03-06T09:38:08.494936",
+            "duration": 255
+        },
+        {
+            "from": "A Player",
+            "to": "PETER",
+            "timestamp": "2025-03-06T20:31:08.494939",
+            "duration": 75
+        },
+        {
+            "from": "A Player",
+            "to": "PETER",
+            "timestamp": "2025-03-03T14:13:08.494941",
+            "duration": 262
+        },
+        {
+            "from": "A Player",
+            "to": "PETER",
+            "timestamp": "2025-03-02T15:39:08.494943",
+            "duration": 259
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-07T05:26:08.494946",
+            "duration": 222
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-06T02:07:08.494948",
+            "duration": 159
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "JOSEPH",
+            "timestamp": "2025-03-06T06:22:08.494950",
+            "duration": 261
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-02T23:53:08.494954",
+            "duration": 175
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-08T13:26:08.494956",
+            "duration": 288
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-07T15:16:08.494958",
+            "duration": 206
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-03T08:36:08.494961",
+            "duration": 115
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "KATARINA",
+            "timestamp": "2025-03-07T18:37:08.494963",
+            "duration": 243
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Page",
+            "timestamp": "2025-03-10T05:24:08.494966",
+            "duration": 217
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Page",
+            "timestamp": "2025-03-09T20:47:08.494968",
+            "duration": 228
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Page",
+            "timestamp": "2025-03-05T19:48:08.494970",
+            "duration": 234
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-09T20:05:08.494972",
+            "duration": 91
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-06T12:41:08.494975",
+            "duration": 255
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-06T19:34:08.494977",
+            "duration": 81
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-03T19:49:08.494979",
+            "duration": 127
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Servant",
+            "timestamp": "2025-03-04T23:15:08.494982",
+            "duration": 206
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "PHILIP",
+            "timestamp": "2025-03-09T12:02:08.494984",
+            "duration": 267
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "PHILIP",
+            "timestamp": "2025-03-10T07:09:08.494986",
+            "duration": 173
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "PHILIP",
+            "timestamp": "2025-03-04T21:59:08.494989",
+            "duration": 210
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "BIANCA",
+            "timestamp": "2025-03-04T17:22:08.494991",
+            "duration": 100
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T15:12:08.494993",
+            "duration": 163
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T06:07:08.494996",
+            "duration": 211
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-07T22:24:08.494998",
+            "duration": 265
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-08T05:29:08.495000",
+            "duration": 226
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-08T22:26:08.495002",
+            "duration": 154
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-07T23:18:08.495005",
+            "duration": 291
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-09T07:11:08.495007",
+            "duration": 157
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T02:56:08.495009",
+            "duration": 169
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Lord",
+            "timestamp": "2025-03-05T12:38:08.495012",
+            "duration": 209
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Players",
+            "timestamp": "2025-03-04T14:40:08.495014",
+            "duration": 206
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Players",
+            "timestamp": "2025-03-10T10:20:08.495016",
+            "duration": 78
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T20:26:08.495019",
+            "duration": 218
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "Tailor",
+            "timestamp": "2025-03-02T22:26:08.495021",
+            "duration": 229
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "PETER",
+            "timestamp": "2025-03-08T11:41:08.495023",
+            "duration": 280
+        },
+        {
+            "from": "HORTENSIA",
+            "to": "PETER",
+            "timestamp": "2025-03-08T04:39:08.495025",
+            "duration": 292
+        },
+        {
+            "from": "JOSEPH",
+            "to": "VINCENTIO",
+            "timestamp": "2025-03-08T13:30:08.495028",
+            "duration": 197
+        },
+        {
+            "from": "JOSEPH",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-10T02:00:08.495030",
+            "duration": 208
+        },
+        {
+            "from": "JOSEPH",
+            "to": "KATARINA",
+            "timestamp": "2025-03-07T07:06:08.495033",
+            "duration": 279
+        },
+        {
+            "from": "JOSEPH",
+            "to": "KATARINA",
+            "timestamp": "2025-03-06T09:33:08.495035",
+            "duration": 246
+        },
+        {
+            "from": "JOSEPH",
+            "to": "KATARINA",
+            "timestamp": "2025-03-06T00:19:08.495038",
+            "duration": 222
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Page",
+            "timestamp": "2025-03-03T13:33:08.495041",
+            "duration": 236
+        },
+        {
+            "from": "JOSEPH",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-08T00:23:08.495043",
+            "duration": 108
+        },
+        {
+            "from": "JOSEPH",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-09T12:08:08.495045",
+            "duration": 179
+        },
+        {
+            "from": "JOSEPH",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-07T17:47:08.495048",
+            "duration": 141
+        },
+        {
+            "from": "JOSEPH",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-04T09:06:08.495050",
+            "duration": 79
+        },
+        {
+            "from": "JOSEPH",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-07T04:47:08.495052",
+            "duration": 82
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Servant",
+            "timestamp": "2025-03-05T14:30:08.495055",
+            "duration": 80
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Servant",
+            "timestamp": "2025-03-04T15:23:08.495057",
+            "duration": 136
+        },
+        {
+            "from": "JOSEPH",
+            "to": "PHILIP",
+            "timestamp": "2025-03-05T18:55:08.495059",
+            "duration": 61
+        },
+        {
+            "from": "JOSEPH",
+            "to": "PHILIP",
+            "timestamp": "2025-03-05T02:16:08.495062",
+            "duration": 168
+        },
+        {
+            "from": "JOSEPH",
+            "to": "PHILIP",
+            "timestamp": "2025-03-05T13:36:08.495064",
+            "duration": 65
+        },
+        {
+            "from": "JOSEPH",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T00:38:08.495066",
+            "duration": 126
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T13:13:08.495069",
+            "duration": 111
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T04:24:08.495071",
+            "duration": 108
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T00:24:08.495073",
+            "duration": 180
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-07T13:20:08.495076",
+            "duration": 169
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-04T09:28:08.495078",
+            "duration": 165
+        },
+        {
+            "from": "JOSEPH",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-09T20:42:08.495080",
+            "duration": 197
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Third Servant",
+            "timestamp": "2025-03-03T08:14:08.495083",
+            "duration": 70
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Third Servant",
+            "timestamp": "2025-03-10T12:36:08.495085",
+            "duration": 224
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Lord",
+            "timestamp": "2025-03-09T07:33:08.495087",
+            "duration": 94
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Lord",
+            "timestamp": "2025-03-03T02:10:08.495090",
+            "duration": 132
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Lord",
+            "timestamp": "2025-03-03T23:28:08.495092",
+            "duration": 129
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Players",
+            "timestamp": "2025-03-03T02:17:08.495094",
+            "duration": 147
+        },
+        {
+            "from": "JOSEPH",
+            "to": "Tailor",
+            "timestamp": "2025-03-04T06:41:08.495097",
+            "duration": 87
+        },
+        {
+            "from": "JOSEPH",
+            "to": "PETER",
+            "timestamp": "2025-03-08T20:13:08.495099",
+            "duration": 139
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "BIONDELLO",
+            "timestamp": "2025-03-08T21:36:08.495102",
+            "duration": 93
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-09T20:55:08.495104",
+            "duration": 248
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-10T10:16:08.495107",
+            "duration": 82
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-05T13:27:08.495109",
+            "duration": 83
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Page",
+            "timestamp": "2025-03-05T10:59:08.495111",
+            "duration": 298
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Page",
+            "timestamp": "2025-03-03T08:25:08.495113",
+            "duration": 93
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-04T10:40:08.495116",
+            "duration": 149
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-05T12:04:08.495118",
+            "duration": 141
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-07T00:32:08.495120",
+            "duration": 291
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-05T00:07:08.495122",
+            "duration": 255
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Servant",
+            "timestamp": "2025-03-09T20:16:08.495125",
+            "duration": 165
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Servant",
+            "timestamp": "2025-03-08T09:10:08.495127",
+            "duration": 270
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-08T07:46:08.495129",
+            "duration": 106
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-03T09:25:08.495131",
+            "duration": 286
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-10T03:56:08.495134",
+            "duration": 191
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T17:10:08.495136",
+            "duration": 278
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T21:27:08.495138",
+            "duration": 259
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T11:25:08.495141",
+            "duration": 82
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-04T06:56:08.495143",
+            "duration": 254
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-07T05:50:08.495145",
+            "duration": 143
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-03T17:22:08.495148",
+            "duration": 259
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T08:04:08.495150",
+            "duration": 187
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T22:48:08.495152",
+            "duration": 89
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T03:02:08.495154",
+            "duration": 71
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Lord",
+            "timestamp": "2025-03-08T16:01:08.495157",
+            "duration": 70
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Lord",
+            "timestamp": "2025-03-06T18:53:08.495159",
+            "duration": 138
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Lord",
+            "timestamp": "2025-03-05T10:49:08.495161",
+            "duration": 174
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Players",
+            "timestamp": "2025-03-08T12:06:08.495164",
+            "duration": 165
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Players",
+            "timestamp": "2025-03-08T04:49:08.495166",
+            "duration": 265
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Players",
+            "timestamp": "2025-03-05T19:02:08.495168",
+            "duration": 86
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T21:08:08.495170",
+            "duration": 267
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-07T00:59:08.495172",
+            "duration": 103
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T22:38:08.495174",
+            "duration": 109
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "PETER",
+            "timestamp": "2025-03-06T09:42:08.495177",
+            "duration": 170
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "PETER",
+            "timestamp": "2025-03-03T02:21:08.495179",
+            "duration": 67
+        },
+        {
+            "from": "VINCENTIO",
+            "to": "PETER",
+            "timestamp": "2025-03-09T11:14:08.495181",
+            "duration": 137
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-09T08:44:08.495184",
+            "duration": 152
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-07T10:33:08.495186",
+            "duration": 111
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "KATARINA",
+            "timestamp": "2025-03-04T02:22:08.495188",
+            "duration": 137
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Page",
+            "timestamp": "2025-03-09T08:33:08.495190",
+            "duration": 257
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Page",
+            "timestamp": "2025-03-03T18:34:08.495193",
+            "duration": 118
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Page",
+            "timestamp": "2025-03-02T21:02:08.495195",
+            "duration": 189
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-06T12:47:08.495197",
+            "duration": 288
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-06T01:50:08.495200",
+            "duration": 268
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-07T21:47:08.495202",
+            "duration": 288
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Servant",
+            "timestamp": "2025-03-07T20:26:08.495204",
+            "duration": 278
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-07T04:42:08.495207",
+            "duration": 110
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "PHILIP",
+            "timestamp": "2025-03-04T20:20:08.495209",
+            "duration": 143
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T18:35:08.495211",
+            "duration": 255
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T07:21:08.495214",
+            "duration": 153
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-04T21:55:08.495216",
+            "duration": 294
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-04T19:33:08.495218",
+            "duration": 154
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-09T05:35:08.495221",
+            "duration": 152
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T04:08:08.495223",
+            "duration": 233
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Lord",
+            "timestamp": "2025-03-03T00:40:08.495226",
+            "duration": 281
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Lord",
+            "timestamp": "2025-03-03T04:30:08.495228",
+            "duration": 178
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Lord",
+            "timestamp": "2025-03-06T06:54:08.495230",
+            "duration": 190
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Players",
+            "timestamp": "2025-03-03T04:50:08.495232",
+            "duration": 142
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Players",
+            "timestamp": "2025-03-09T02:01:08.495234",
+            "duration": 243
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Players",
+            "timestamp": "2025-03-09T10:53:08.495237",
+            "duration": 224
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "Tailor",
+            "timestamp": "2025-03-09T04:19:08.495239",
+            "duration": 196
+        },
+        {
+            "from": "BIONDELLO",
+            "to": "PETER",
+            "timestamp": "2025-03-06T04:59:08.495241",
+            "duration": 214
+        },
+        {
+            "from": "KATARINA",
+            "to": "Page",
+            "timestamp": "2025-03-04T13:41:08.495244",
+            "duration": 190
+        },
+        {
+            "from": "KATARINA",
+            "to": "Page",
+            "timestamp": "2025-03-08T20:25:08.495246",
+            "duration": 186
+        },
+        {
+            "from": "KATARINA",
+            "to": "Page",
+            "timestamp": "2025-03-03T17:19:08.495248",
+            "duration": 61
+        },
+        {
+            "from": "KATARINA",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-08T07:00:08.495251",
+            "duration": 148
+        },
+        {
+            "from": "KATARINA",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-07T04:28:08.495253",
+            "duration": 291
+        },
+        {
+            "from": "KATARINA",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-04T13:46:08.495255",
+            "duration": 272
+        },
+        {
+            "from": "KATARINA",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-08T22:57:08.495258",
+            "duration": 263
+        },
+        {
+            "from": "KATARINA",
+            "to": "Servant",
+            "timestamp": "2025-03-07T18:13:08.495260",
+            "duration": 233
+        },
+        {
+            "from": "KATARINA",
+            "to": "Servant",
+            "timestamp": "2025-03-10T01:38:08.495262",
+            "duration": 213
+        },
+        {
+            "from": "KATARINA",
+            "to": "Servant",
+            "timestamp": "2025-03-07T11:21:08.495265",
+            "duration": 291
+        },
+        {
+            "from": "KATARINA",
+            "to": "PHILIP",
+            "timestamp": "2025-03-04T03:27:08.495267",
+            "duration": 255
+        },
+        {
+            "from": "KATARINA",
+            "to": "BIANCA",
+            "timestamp": "2025-03-07T00:21:08.495271",
+            "duration": 142
+        },
+        {
+            "from": "KATARINA",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T21:11:08.495273",
+            "duration": 126
+        },
+        {
+            "from": "KATARINA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-07T02:11:08.495276",
+            "duration": 200
+        },
+        {
+            "from": "KATARINA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-05T14:06:08.495278",
+            "duration": 65
+        },
+        {
+            "from": "KATARINA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-03T22:46:08.495280",
+            "duration": 134
+        },
+        {
+            "from": "KATARINA",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-03T19:12:08.495283",
+            "duration": 264
+        },
+        {
+            "from": "KATARINA",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T08:28:08.495285",
+            "duration": 294
+        },
+        {
+            "from": "KATARINA",
+            "to": "Lord",
+            "timestamp": "2025-03-06T08:19:08.495287",
+            "duration": 174
+        },
+        {
+            "from": "KATARINA",
+            "to": "Lord",
+            "timestamp": "2025-03-02T18:59:08.495289",
+            "duration": 129
+        },
+        {
+            "from": "KATARINA",
+            "to": "Lord",
+            "timestamp": "2025-03-03T17:14:08.495291",
+            "duration": 192
+        },
+        {
+            "from": "KATARINA",
+            "to": "Players",
+            "timestamp": "2025-03-05T20:07:08.495294",
+            "duration": 245
+        },
+        {
+            "from": "KATARINA",
+            "to": "Players",
+            "timestamp": "2025-03-04T17:42:08.495296",
+            "duration": 236
+        },
+        {
+            "from": "KATARINA",
+            "to": "Tailor",
+            "timestamp": "2025-03-02T19:55:08.495299",
+            "duration": 167
+        },
+        {
+            "from": "KATARINA",
+            "to": "Tailor",
+            "timestamp": "2025-03-04T04:14:08.495301",
+            "duration": 201
+        },
+        {
+            "from": "KATARINA",
+            "to": "Tailor",
+            "timestamp": "2025-03-07T17:25:08.495303",
+            "duration": 150
+        },
+        {
+            "from": "KATARINA",
+            "to": "PETER",
+            "timestamp": "2025-03-10T06:23:08.495306",
+            "duration": 242
+        },
+        {
+            "from": "Page",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-05T20:52:08.495308",
+            "duration": 100
+        },
+        {
+            "from": "Page",
+            "to": "NATHANIEL",
+            "timestamp": "2025-03-10T05:47:08.495310",
+            "duration": 149
+        },
+        {
+            "from": "Page",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-06T01:46:08.495313",
+            "duration": 153
+        },
+        {
+            "from": "Page",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-05T09:15:08.495315",
+            "duration": 146
+        },
+        {
+            "from": "Page",
+            "to": "Servant",
+            "timestamp": "2025-03-05T20:39:08.495317",
+            "duration": 179
+        },
+        {
+            "from": "Page",
+            "to": "PHILIP",
+            "timestamp": "2025-03-05T20:54:08.495319",
+            "duration": 202
+        },
+        {
+            "from": "Page",
+            "to": "PHILIP",
+            "timestamp": "2025-03-09T19:19:08.495322",
+            "duration": 234
+        },
+        {
+            "from": "Page",
+            "to": "PHILIP",
+            "timestamp": "2025-03-07T10:44:08.495324",
+            "duration": 273
+        },
+        {
+            "from": "Page",
+            "to": "BIANCA",
+            "timestamp": "2025-03-10T02:08:08.495326",
+            "duration": 87
+        },
+        {
+            "from": "Page",
+            "to": "BIANCA",
+            "timestamp": "2025-03-07T14:07:08.495328",
+            "duration": 297
+        },
+        {
+            "from": "Page",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T09:43:08.495331",
+            "duration": 300
+        },
+        {
+            "from": "Page",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-03T13:39:08.495333",
+            "duration": 87
+        },
+        {
+            "from": "Page",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-09T12:08:08.495335",
+            "duration": 239
+        },
+        {
+            "from": "Page",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-09T09:21:08.495337",
+            "duration": 101
+        },
+        {
+            "from": "Page",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-05T15:10:08.495340",
+            "duration": 163
+        },
+        {
+            "from": "Page",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T07:27:08.495343",
+            "duration": 289
+        },
+        {
+            "from": "Page",
+            "to": "Lord",
+            "timestamp": "2025-03-04T07:49:08.495345",
+            "duration": 106
+        },
+        {
+            "from": "Page",
+            "to": "Lord",
+            "timestamp": "2025-03-10T01:39:08.495347",
+            "duration": 134
+        },
+        {
+            "from": "Page",
+            "to": "Lord",
+            "timestamp": "2025-03-08T23:29:08.495349",
+            "duration": 280
+        },
+        {
+            "from": "Page",
+            "to": "Players",
+            "timestamp": "2025-03-09T07:23:08.495352",
+            "duration": 195
+        },
+        {
+            "from": "Page",
+            "to": "Players",
+            "timestamp": "2025-03-03T13:53:08.495354",
+            "duration": 184
+        },
+        {
+            "from": "Page",
+            "to": "Players",
+            "timestamp": "2025-03-03T16:56:08.495356",
+            "duration": 189
+        },
+        {
+            "from": "Page",
+            "to": "Tailor",
+            "timestamp": "2025-03-05T23:23:08.495359",
+            "duration": 93
+        },
+        {
+            "from": "Page",
+            "to": "PETER",
+            "timestamp": "2025-03-04T14:49:08.495361",
+            "duration": 99
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-05T14:41:08.495363",
+            "duration": 178
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-03T00:15:08.495366",
+            "duration": 161
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "BAPTISTA",
+            "timestamp": "2025-03-05T05:17:08.495368",
+            "duration": 242
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Servant",
+            "timestamp": "2025-03-03T18:44:08.495370",
+            "duration": 162
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Servant",
+            "timestamp": "2025-03-06T19:16:08.495372",
+            "duration": 81
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Servant",
+            "timestamp": "2025-03-08T10:39:08.495374",
+            "duration": 277
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "PHILIP",
+            "timestamp": "2025-03-03T09:30:08.495377",
+            "duration": 133
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "BIANCA",
+            "timestamp": "2025-03-05T15:45:08.495379",
+            "duration": 300
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "BIANCA",
+            "timestamp": "2025-03-09T05:07:08.495381",
+            "duration": 244
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T05:06:08.495384",
+            "duration": 218
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-04T16:41:08.495386",
+            "duration": 60
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-09T18:25:08.495388",
+            "duration": 239
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-08T02:04:08.495391",
+            "duration": 180
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-02T18:59:08.495393",
+            "duration": 295
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-04T07:59:08.495395",
+            "duration": 225
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T17:32:08.495398",
+            "duration": 98
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Third Servant",
+            "timestamp": "2025-03-08T00:08:08.495400",
+            "duration": 165
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T13:25:08.495402",
+            "duration": 148
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Lord",
+            "timestamp": "2025-03-03T06:45:08.495404",
+            "duration": 285
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Lord",
+            "timestamp": "2025-03-04T04:19:08.495406",
+            "duration": 143
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Players",
+            "timestamp": "2025-03-06T16:52:08.495409",
+            "duration": 164
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Players",
+            "timestamp": "2025-03-09T12:10:08.495411",
+            "duration": 295
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Players",
+            "timestamp": "2025-03-05T13:01:08.495413",
+            "duration": 192
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "Tailor",
+            "timestamp": "2025-03-06T12:06:08.495416",
+            "duration": 77
+        },
+        {
+            "from": "NATHANIEL",
+            "to": "PETER",
+            "timestamp": "2025-03-03T07:59:08.495418",
+            "duration": 72
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Servant",
+            "timestamp": "2025-03-09T19:06:08.495420",
+            "duration": 233
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "PHILIP",
+            "timestamp": "2025-03-07T16:17:08.495423",
+            "duration": 161
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "PHILIP",
+            "timestamp": "2025-03-05T20:43:08.495425",
+            "duration": 234
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T19:37:08.495427",
+            "duration": 221
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "BIANCA",
+            "timestamp": "2025-03-07T02:10:08.495429",
+            "duration": 117
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T02:19:08.495432",
+            "duration": 115
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T18:48:08.495434",
+            "duration": 251
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T06:08:08.495436",
+            "duration": 266
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-05T04:09:08.495438",
+            "duration": 222
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-03T16:58:08.495441",
+            "duration": 106
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T21:53:08.495443",
+            "duration": 138
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Third Servant",
+            "timestamp": "2025-03-07T23:40:08.495446",
+            "duration": 201
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Third Servant",
+            "timestamp": "2025-03-10T11:28:08.495448",
+            "duration": 250
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Lord",
+            "timestamp": "2025-03-03T06:56:08.495450",
+            "duration": 223
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Lord",
+            "timestamp": "2025-03-04T04:03:08.495452",
+            "duration": 233
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Lord",
+            "timestamp": "2025-03-07T04:58:08.495454",
+            "duration": 191
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Players",
+            "timestamp": "2025-03-03T20:50:08.495457",
+            "duration": 217
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Tailor",
+            "timestamp": "2025-03-10T14:15:08.495459",
+            "duration": 104
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Tailor",
+            "timestamp": "2025-03-09T07:43:08.495461",
+            "duration": 278
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "Tailor",
+            "timestamp": "2025-03-04T15:11:08.495463",
+            "duration": 116
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "PETER",
+            "timestamp": "2025-03-10T04:13:08.495466",
+            "duration": 80
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "PETER",
+            "timestamp": "2025-03-06T10:33:08.495468",
+            "duration": 219
+        },
+        {
+            "from": "BAPTISTA",
+            "to": "PETER",
+            "timestamp": "2025-03-04T04:50:08.495470",
+            "duration": 295
+        },
+        {
+            "from": "Servant",
+            "to": "PHILIP",
+            "timestamp": "2025-03-07T19:10:08.495473",
+            "duration": 139
+        },
+        {
+            "from": "Servant",
+            "to": "PHILIP",
+            "timestamp": "2025-03-09T01:13:08.495475",
+            "duration": 241
+        },
+        {
+            "from": "Servant",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T01:26:08.495477",
+            "duration": 188
+        },
+        {
+            "from": "Servant",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T22:55:08.495480",
+            "duration": 245
+        },
+        {
+            "from": "Servant",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-04T07:51:08.495482",
+            "duration": 159
+        },
+        {
+            "from": "Servant",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-05T09:09:08.495484",
+            "duration": 101
+        },
+        {
+            "from": "Servant",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-04T23:23:08.495487",
+            "duration": 154
+        },
+        {
+            "from": "Servant",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-06T21:18:08.495489",
+            "duration": 85
+        },
+        {
+            "from": "Servant",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-02T15:21:08.495491",
+            "duration": 85
+        },
+        {
+            "from": "Servant",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T01:54:08.495493",
+            "duration": 299
+        },
+        {
+            "from": "Servant",
+            "to": "Third Servant",
+            "timestamp": "2025-03-07T23:56:08.495496",
+            "duration": 242
+        },
+        {
+            "from": "Servant",
+            "to": "Lord",
+            "timestamp": "2025-03-02T15:58:08.495498",
+            "duration": 90
+        },
+        {
+            "from": "Servant",
+            "to": "Lord",
+            "timestamp": "2025-03-07T10:26:08.495500",
+            "duration": 291
+        },
+        {
+            "from": "Servant",
+            "to": "Players",
+            "timestamp": "2025-03-09T09:51:08.495503",
+            "duration": 226
+        },
+        {
+            "from": "Servant",
+            "to": "Players",
+            "timestamp": "2025-03-07T13:47:08.495505",
+            "duration": 99
+        },
+        {
+            "from": "Servant",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T07:42:08.495507",
+            "duration": 89
+        },
+        {
+            "from": "Servant",
+            "to": "PETER",
+            "timestamp": "2025-03-09T05:23:08.495510",
+            "duration": 140
+        },
+        {
+            "from": "PHILIP",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T12:40:08.495512",
+            "duration": 300
+        },
+        {
+            "from": "PHILIP",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T08:03:08.495515",
+            "duration": 267
+        },
+        {
+            "from": "PHILIP",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T03:31:08.495517",
+            "duration": 284
+        },
+        {
+            "from": "PHILIP",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T14:24:08.495519",
+            "duration": 217
+        },
+        {
+            "from": "PHILIP",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-05T11:13:08.495521",
+            "duration": 192
+        },
+        {
+            "from": "PHILIP",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-06T08:06:08.495523",
+            "duration": 123
+        },
+        {
+            "from": "PHILIP",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-08T12:58:08.495526",
+            "duration": 278
+        },
+        {
+            "from": "PHILIP",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-07T03:06:08.495529",
+            "duration": 223
+        },
+        {
+            "from": "PHILIP",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T19:13:08.495532",
+            "duration": 108
+        },
+        {
+            "from": "PHILIP",
+            "to": "Third Servant",
+            "timestamp": "2025-03-10T01:47:08.495535",
+            "duration": 184
+        },
+        {
+            "from": "PHILIP",
+            "to": "Third Servant",
+            "timestamp": "2025-03-10T12:04:08.495537",
+            "duration": 295
+        },
+        {
+            "from": "PHILIP",
+            "to": "Lord",
+            "timestamp": "2025-03-06T00:57:08.495539",
+            "duration": 265
+        },
+        {
+            "from": "PHILIP",
+            "to": "Players",
+            "timestamp": "2025-03-07T00:35:08.495542",
+            "duration": 280
+        },
+        {
+            "from": "PHILIP",
+            "to": "Players",
+            "timestamp": "2025-03-06T11:09:08.495544",
+            "duration": 283
+        },
+        {
+            "from": "PHILIP",
+            "to": "Tailor",
+            "timestamp": "2025-03-07T04:20:08.495547",
+            "duration": 106
+        },
+        {
+            "from": "PHILIP",
+            "to": "Tailor",
+            "timestamp": "2025-03-10T11:57:08.495549",
+            "duration": 184
+        },
+        {
+            "from": "PHILIP",
+            "to": "PETER",
+            "timestamp": "2025-03-08T10:07:08.495552",
+            "duration": 297
+        },
+        {
+            "from": "PHILIP",
+            "to": "PETER",
+            "timestamp": "2025-03-04T11:44:08.495554",
+            "duration": 210
+        },
+        {
+            "from": "PHILIP",
+            "to": "PETER",
+            "timestamp": "2025-03-05T10:24:08.495556",
+            "duration": 65
+        },
+        {
+            "from": "BIANCA",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T05:19:08.495558",
+            "duration": 74
+        },
+        {
+            "from": "BIANCA",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-09T22:09:08.495561",
+            "duration": 281
+        },
+        {
+            "from": "BIANCA",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-07T16:02:08.495563",
+            "duration": 118
+        },
+        {
+            "from": "BIANCA",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T20:46:08.495566",
+            "duration": 269
+        },
+        {
+            "from": "BIANCA",
+            "to": "Lord",
+            "timestamp": "2025-03-03T17:45:08.495568",
+            "duration": 91
+        },
+        {
+            "from": "BIANCA",
+            "to": "Players",
+            "timestamp": "2025-03-05T14:05:08.495571",
+            "duration": 265
+        },
+        {
+            "from": "BIANCA",
+            "to": "Tailor",
+            "timestamp": "2025-03-02T17:52:08.495573",
+            "duration": 84
+        },
+        {
+            "from": "BIANCA",
+            "to": "Tailor",
+            "timestamp": "2025-03-04T09:01:08.495575",
+            "duration": 174
+        },
+        {
+            "from": "BIANCA",
+            "to": "PETER",
+            "timestamp": "2025-03-03T06:24:08.495578",
+            "duration": 197
+        },
+        {
+            "from": "Messenger",
+            "to": "Haberdasher",
+            "timestamp": "2025-03-07T04:43:08.495580",
+            "duration": 162
+        },
+        {
+            "from": "Messenger",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-03T21:48:08.495583",
+            "duration": 222
+        },
+        {
+            "from": "Messenger",
+            "to": "Third Servant",
+            "timestamp": "2025-03-08T08:21:08.495585",
+            "duration": 297
+        },
+        {
+            "from": "Messenger",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T15:48:08.495587",
+            "duration": 189
+        },
+        {
+            "from": "Messenger",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T03:16:08.495589",
+            "duration": 135
+        },
+        {
+            "from": "Messenger",
+            "to": "Lord",
+            "timestamp": "2025-03-06T02:00:08.495592",
+            "duration": 70
+        },
+        {
+            "from": "Messenger",
+            "to": "Lord",
+            "timestamp": "2025-03-05T13:22:08.495594",
+            "duration": 207
+        },
+        {
+            "from": "Messenger",
+            "to": "Lord",
+            "timestamp": "2025-03-07T16:39:08.495596",
+            "duration": 196
+        },
+        {
+            "from": "Messenger",
+            "to": "Players",
+            "timestamp": "2025-03-10T02:02:08.495599",
+            "duration": 117
+        },
+        {
+            "from": "Messenger",
+            "to": "Players",
+            "timestamp": "2025-03-08T07:57:08.495601",
+            "duration": 182
+        },
+        {
+            "from": "Messenger",
+            "to": "Tailor",
+            "timestamp": "2025-03-03T15:38:08.495603",
+            "duration": 147
+        },
+        {
+            "from": "Messenger",
+            "to": "Tailor",
+            "timestamp": "2025-03-09T03:25:08.495605",
+            "duration": 180
+        },
+        {
+            "from": "Messenger",
+            "to": "Tailor",
+            "timestamp": "2025-03-03T10:33:08.495608",
+            "duration": 158
+        },
+        {
+            "from": "Messenger",
+            "to": "PETER",
+            "timestamp": "2025-03-06T19:25:08.495610",
+            "duration": 265
+        },
+        {
+            "from": "Messenger",
+            "to": "PETER",
+            "timestamp": "2025-03-07T16:44:08.495612",
+            "duration": 97
+        },
+        {
+            "from": "Haberdasher",
+            "to": "PETRUCHIO",
+            "timestamp": "2025-03-06T20:08:08.495615",
+            "duration": 107
+        },
+        {
+            "from": "Haberdasher",
+            "to": "Third Servant",
+            "timestamp": "2025-03-02T17:48:08.495617",
+            "duration": 282
+        },
+        {
+            "from": "Haberdasher",
+            "to": "Lord",
+            "timestamp": "2025-03-03T07:29:08.495620",
+            "duration": 171
+        },
+        {
+            "from": "Haberdasher",
+            "to": "Players",
+            "timestamp": "2025-03-06T08:16:08.495622",
+            "duration": 107
+        },
+        {
+            "from": "Haberdasher",
+            "to": "Players",
+            "timestamp": "2025-03-10T08:38:08.495624",
+            "duration": 220
+        },
+        {
+            "from": "Haberdasher",
+            "to": "Tailor",
+            "timestamp": "2025-03-07T08:46:08.495627",
+            "duration": 144
+        },
+        {
+            "from": "Haberdasher",
+            "to": "Tailor",
+            "timestamp": "2025-03-10T01:29:08.495629",
+            "duration": 296
+        },
+        {
+            "from": "Haberdasher",
+            "to": "PETER",
+            "timestamp": "2025-03-06T07:13:08.495631",
+            "duration": 88
+        },
+        {
+            "from": "Haberdasher",
+            "to": "PETER",
+            "timestamp": "2025-03-02T23:10:08.495634",
+            "duration": 78
+        },
+        {
+            "from": "PETRUCHIO",
+            "to": "Third Servant",
+            "timestamp": "2025-03-07T16:46:08.495636",
+            "duration": 209
+        },
+        {
+            "from": "PETRUCHIO",
+            "to": "Lord",
+            "timestamp": "2025-03-03T11:23:08.495638",
+            "duration": 100
+        },
+        {
+            "from": "PETRUCHIO",
+            "to": "Players",
+            "timestamp": "2025-03-08T20:15:08.495641",
+            "duration": 78
+        },
+        {
+            "from": "PETRUCHIO",
+            "to": "Players",
+            "timestamp": "2025-03-05T18:38:08.495643",
+            "duration": 202
+        },
+        {
+            "from": "PETRUCHIO",
+            "to": "Players",
+            "timestamp": "2025-03-05T23:51:08.495645",
+            "duration": 227
+        },
+        {
+            "from": "PETRUCHIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-10T13:42:08.495648",
+            "duration": 276
+        },
+        {
+            "from": "PETRUCHIO",
+            "to": "Tailor",
+            "timestamp": "2025-03-08T13:10:08.495650",
+            "duration": 144
+        },
+        {
+            "from": "PETRUCHIO",
+            "to": "PETER",
+            "timestamp": "2025-03-07T14:52:08.495652",
+            "duration": 176
+        },
+        {
+            "from": "Third Servant",
+            "to": "Lord",
+            "timestamp": "2025-03-09T16:35:08.495655",
+            "duration": 136
+        },
+        {
+            "from": "Third Servant",
+            "to": "Players",
+            "timestamp": "2025-03-02T14:47:08.495657",
+            "duration": 156
+        },
+        {
+            "from": "Third Servant",
+            "to": "Tailor",
+            "timestamp": "2025-03-05T17:48:08.495659",
+            "duration": 217
+        },
+        {
+            "from": "Third Servant",
+            "to": "PETER",
+            "timestamp": "2025-03-08T20:01:08.495662",
+            "duration": 222
+        },
+        {
+            "from": "Third Servant",
+            "to": "PETER",
+            "timestamp": "2025-03-05T20:28:08.495664",
+            "duration": 123
+        },
+        {
+            "from": "Lord",
+            "to": "Players",
+            "timestamp": "2025-03-06T23:31:08.495667",
+            "duration": 143
+        },
+        {
+            "from": "Lord",
+            "to": "Players",
+            "timestamp": "2025-03-05T14:56:08.495669",
+            "duration": 245
+        },
+        {
+            "from": "Lord",
+            "to": "Tailor",
+            "timestamp": "2025-03-10T13:17:08.495671",
+            "duration": 230
+        },
+        {
+            "from": "Lord",
+            "to": "Tailor",
+            "timestamp": "2025-03-05T20:06:08.495673",
+            "duration": 127
+        },
+        {
+            "from": "Lord",
+            "to": "Tailor",
+            "timestamp": "2025-03-07T16:13:08.495676",
+            "duration": 256
+        },
+        {
+            "from": "Lord",
+            "to": "PETER",
+            "timestamp": "2025-03-05T20:33:08.495678",
+            "duration": 255
+        },
+        {
+            "from": "Players",
+            "to": "Tailor",
+            "timestamp": "2025-03-06T08:58:08.495681",
+            "duration": 250
+        },
+        {
+            "from": "Players",
+            "to": "PETER",
+            "timestamp": "2025-03-08T15:12:08.495683",
+            "duration": 164
+        },
+        {
+            "from": "Players",
+            "to": "PETER",
+            "timestamp": "2025-03-09T07:31:08.495685",
+            "duration": 219
+        },
+        {
+            "from": "Tailor",
+            "to": "PETER",
+            "timestamp": "2025-03-06T15:20:08.495688",
+            "duration": 252
+        }
+    ],
+    "contact_data": {
+        "SLY": {
+            "phone": "323-761-4127",
+            "email": "sly@commercelink.com",
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "HORTENSIO": {
+            "phone": "310-885-2368",
+            "email": "hortensio@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "NICHOLAS": {
+            "phone": "213-652-1228",
+            "email": "nicholas@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Hostess": {
+            "phone": "213-344-4460",
+            "email": "hostess@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Widow": {
+            "phone": "323-830-9249",
+            "email": "widow@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "ALL": {
+            "phone": "323-800-6447",
+            "email": "all@commercelink.com",
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "GREMIO": {
+            "phone": "213-705-6138",
+            "email": "gremio@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Pedant": {
+            "phone": "310-574-1066",
+            "email": "pedant@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "GRUMIO": {
+            "phone": "213-254-5209",
+            "email": "grumio@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "CURTIS": {
+            "phone": "310-350-7276",
+            "email": "curtis@commercetrade.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "TRANIO": {
+            "phone": "213-702-9311",
+            "email": "tranio@commercelink.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "KATHARINA": {
+            "phone": "310-348-8032",
+            "email": "katharina@merchantsexchange.com",
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "LUCENTIO": {
+            "phone": "310-666-8425",
+            "email": "lucentio@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "A Player": {
+            "phone": "213-492-4651",
+            "email": "a.player@stagescreen.com",
+            "title": "Creative Director",
+            "company": "Stage & Screen Studios",
+            "industry": "Artistic"
+        },
+        "HORTENSIA": {
+            "phone": "323-697-9452",
+            "email": "hortensia@marketdyn.com",
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "JOSEPH": {
+            "phone": "310-804-9617",
+            "email": "joseph@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "VINCENTIO": {
+            "phone": "213-793-1020",
+            "email": "vincentio@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "BIONDELLO": {
+            "phone": "310-752-3448",
+            "email": "biondello@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "KATARINA": {
+            "phone": "323-440-1248",
+            "email": "katarina@commercetrade.com",
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Page": {
+            "phone": "213-243-2361",
+            "email": "page@marketdyn.com",
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "NATHANIEL": {
+            "phone": "323-921-9706",
+            "email": "nathaniel@commercelink.com",
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "BAPTISTA": {
+            "phone": "310-336-7215",
+            "email": "baptista@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "Servant": {
+            "phone": "323-493-6586",
+            "email": "servant@commercelink.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "PHILIP": {
+            "phone": "213-325-5497",
+            "email": "philip@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "BIANCA": {
+            "phone": "310-302-8784",
+            "email": "bianca@marketdyn.com",
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "Messenger": {
+            "phone": "323-954-1834",
+            "email": "messenger@globalrelations.org",
+            "title": "International Development Director",
+            "company": "Global Relations Institute",
+            "industry": "Diplomatic"
+        },
+        "Haberdasher": {
+            "phone": "323-676-7841",
+            "email": "haberdasher@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "PETRUCHIO": {
+            "phone": "323-824-5965",
+            "email": "petruchio@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Third Servant": {
+            "phone": "310-263-1049",
+            "email": "third.servant@commercetrade.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Lord": {
+            "phone": "323-633-4301",
+            "email": "lord@pinnacleinv.com",
+            "title": "Managing Partner",
+            "company": "Pinnacle Investment Group",
+            "industry": "Noble"
+        },
+        "Players": {
+            "phone": "323-346-4956",
+            "email": "players@dramaticworks.com",
+            "title": "Creative Director",
+            "company": "Dramatic Works Productions",
+            "industry": "Artistic"
+        },
+        "Tailor": {
+            "phone": "323-496-3693",
+            "email": "tailor@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "PETER": {
+            "phone": "323-464-9023",
+            "email": "peter@globaltradepart.com",
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        }
+    }
+}

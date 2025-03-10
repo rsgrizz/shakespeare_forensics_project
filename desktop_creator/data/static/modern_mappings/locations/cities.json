@@ -1,0 +1,27 @@
+[
+  {
+    "city": "New York",
+    "area_codes": [ "212", "646", "917" ],
+    "titles": [ "Executive Assistant", "Project Manager", "Software Engineer" ]
+  },
+  {
+    "city": "San Francisco",
+    "area_codes": [ "415", "628" ],
+    "titles": [ "Product Manager", "Data Scientist", "UX Designer" ]
+  },
+  {
+    "city": "Los Angeles",
+    "area_codes": [ "213", "310", "323" ],
+    "titles": [ "Marketing Manager", "Sales Representative", "Social Media Manager" ]
+  },
+  {
+    "city": "Chicago",
+    "area_codes": [ "312", "773", "872" ],
+    "titles": [ "Financial Analyst", "Business Consultant", "Operations Manager" ]
+  },
+  {
+    "city": "Houston",
+    "area_codes": [ "713", "281", "832" ],
+    "titles": [ "Energy Trader", "Petroleum Engineer", "Logistics Coordinator" ]
+  }
+]

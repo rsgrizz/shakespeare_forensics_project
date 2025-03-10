@@ -1,0 +1,4844 @@
+{
+    "characters": {
+        "MENELAUS": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-682-9883",
+            "email": "menelaus@commercelink.com"
+        },
+        "HECTOR": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-214-8916",
+            "email": "hector@commercelink.com"
+        },
+        "PANDARUS": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-268-2455",
+            "email": "pandarus@merchantsexchange.com"
+        },
+        "THERSITES": {
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-897-8559",
+            "email": "thersites@commercetrade.com"
+        },
+        "PARIS": {
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-505-9415",
+            "email": "paris@globaltradepart.com"
+        },
+        "ALL": {
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-178-4698",
+            "email": "all@tradewinds.com"
+        },
+        "HELEN": {
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-884-6509",
+            "email": "helen@tradewinds.com"
+        },
+        "DEIPHOBUS": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-250-4452",
+            "email": "deiphobus@marketdyn.com"
+        },
+        "PRIAM": {
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-181-4728",
+            "email": "priam@commercetrade.com"
+        },
+        "AJAX": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-257-3984",
+            "email": "ajax@tradewinds.com"
+        },
+        "NESTOR": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-927-5318",
+            "email": "nestor@commercetrade.com"
+        },
+        "ULYSSES": {
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-611-6182",
+            "email": "ulysses@globaltradepart.com"
+        },
+        "MYRMIDONS": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-914-2789",
+            "email": "myrmidons@merchantsexchange.com"
+        },
+        "TROILUS": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-347-6407",
+            "email": "troilus@marketdyn.com"
+        },
+        "ALEXANDER": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-266-8159",
+            "email": "alexander@tradewinds.com"
+        },
+        "MARGARELON": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-595-6349",
+            "email": "margarelon@globaltradepart.com"
+        },
+        "CASSANDRA": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-154-7756",
+            "email": "cassandra@globaltradepart.com"
+        },
+        "CALCHAS": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-883-2040",
+            "email": "calchas@commercelink.com"
+        },
+        "Boy": {
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-620-4468",
+            "email": "boy@tradewinds.com"
+        },
+        "CRESSIDA": {
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-946-8808",
+            "email": "cressida@marketdyn.com"
+        },
+        "DIOMEDES": {
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-766-4906",
+            "email": "diomedes@tradewinds.com"
+        },
+        "Servant": {
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-234-5097",
+            "email": "servant@marketdyn.com"
+        },
+        "HELENUS": {
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-553-9664",
+            "email": "helenus@commercelink.com"
+        },
+        "AENEAS": {
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-705-7856",
+            "email": "aeneas@globaltradepart.com"
+        },
+        "AGAMEMNON": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-545-4441",
+            "email": "agamemnon@commercelink.com"
+        },
+        "ACHILLES": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-266-7626",
+            "email": "achilles@globaltradepart.com"
+        },
+        "PATROCLUS": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-144-9710",
+            "email": "patroclus@merchantsexchange.com"
+        },
+        "ANDROMACHE": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-218-6238",
+            "email": "andromache@commercelink.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "MENELAUS",
+            "to": "HECTOR",
+            "timestamp": "2025-03-05T20:19:09.227168",
+            "duration": 191
+        },
+        {
+            "from": "MENELAUS",
+            "to": "PANDARUS",
+            "timestamp": "2025-03-05T16:52:09.227209",
+            "duration": 78
+        },
+        {
+            "from": "MENELAUS",
+            "to": "THERSITES",
+            "timestamp": "2025-03-04T21:37:09.227212",
+            "duration": 74
+        },
+        {
+            "from": "MENELAUS",
+            "to": "PARIS",
+            "timestamp": "2025-03-06T16:42:09.227215",
+            "duration": 190
+        },
+        {
+            "from": "MENELAUS",
+            "to": "PARIS",
+            "timestamp": "2025-03-06T19:31:09.227217",
+            "duration": 146
+        },
+        {
+            "from": "MENELAUS",
+            "to": "PARIS",
+            "timestamp": "2025-03-04T13:34:09.227219",
+            "duration": 262
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ALL",
+            "timestamp": "2025-03-07T01:58:09.227222",
+            "duration": 111
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ALL",
+            "timestamp": "2025-03-06T01:11:09.227224",
+            "duration": 195
+        },
+        {
+            "from": "MENELAUS",
+            "to": "HELEN",
+            "timestamp": "2025-03-06T05:59:09.227227",
+            "duration": 77
+        },
+        {
+            "from": "MENELAUS",
+            "to": "HELEN",
+            "timestamp": "2025-03-04T04:07:09.227229",
+            "duration": 272
+        },
+        {
+            "from": "MENELAUS",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-04T12:46:09.227232",
+            "duration": 71
+        },
+        {
+            "from": "MENELAUS",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-06T14:32:09.227234",
+            "duration": 224
+        },
+        {
+            "from": "MENELAUS",
+            "to": "PRIAM",
+            "timestamp": "2025-03-08T22:59:09.227236",
+            "duration": 219
+        },
+        {
+            "from": "MENELAUS",
+            "to": "PRIAM",
+            "timestamp": "2025-03-09T05:56:09.227238",
+            "duration": 299
+        },
+        {
+            "from": "MENELAUS",
+            "to": "AJAX",
+            "timestamp": "2025-03-10T03:01:09.227241",
+            "duration": 199
+        },
+        {
+            "from": "MENELAUS",
+            "to": "NESTOR",
+            "timestamp": "2025-03-03T21:40:09.227243",
+            "duration": 109
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-08T16:14:09.227246",
+            "duration": 87
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-05T08:21:09.227248",
+            "duration": 193
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-06T09:34:09.227250",
+            "duration": 118
+        },
+        {
+            "from": "MENELAUS",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-04T19:47:09.227252",
+            "duration": 254
+        },
+        {
+            "from": "MENELAUS",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-03T00:42:09.227254",
+            "duration": 255
+        },
+        {
+            "from": "MENELAUS",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-04T00:17:09.227256",
+            "duration": 284
+        },
+        {
+            "from": "MENELAUS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-04T05:00:09.227259",
+            "duration": 155
+        },
+        {
+            "from": "MENELAUS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-09T03:07:09.227261",
+            "duration": 71
+        },
+        {
+            "from": "MENELAUS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-03T18:30:09.227263",
+            "duration": 299
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-07T06:24:09.227265",
+            "duration": 191
+        },
+        {
+            "from": "MENELAUS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-05T12:24:09.227267",
+            "duration": 214
+        },
+        {
+            "from": "MENELAUS",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-08T05:32:09.227270",
+            "duration": 151
+        },
+        {
+            "from": "MENELAUS",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-09T23:58:09.227272",
+            "duration": 206
+        },
+        {
+            "from": "MENELAUS",
+            "to": "Boy",
+            "timestamp": "2025-03-07T00:42:09.227274",
+            "duration": 248
+        },
+        {
+            "from": "MENELAUS",
+            "to": "Boy",
+            "timestamp": "2025-03-05T11:54:09.227276",
+            "duration": 92
+        },
+        {
+            "from": "MENELAUS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-08T11:20:09.227279",
+            "duration": 183
+        },
+        {
+            "from": "MENELAUS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-03T11:02:09.227281",
+            "duration": 268
+        },
+        {
+            "from": "MENELAUS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-06T02:58:09.227283",
+            "duration": 186
+        },
+        {
+            "from": "MENELAUS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-08T11:12:09.227285",
+            "duration": 202
+        },
+        {
+            "from": "MENELAUS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-08T09:44:09.227287",
+            "duration": 238
+        },
+        {
+            "from": "MENELAUS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-08T18:50:09.227290",
+            "duration": 268
+        },
+        {
+            "from": "MENELAUS",
+            "to": "Servant",
+            "timestamp": "2025-03-08T01:31:09.227292",
+            "duration": 73
+        },
+        {
+            "from": "MENELAUS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-07T08:17:09.227294",
+            "duration": 189
+        },
+        {
+            "from": "MENELAUS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-03T11:37:09.227297",
+            "duration": 140
+        },
+        {
+            "from": "MENELAUS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-04T02:07:09.227299",
+            "duration": 250
+        },
+        {
+            "from": "MENELAUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-06T18:11:09.227302",
+            "duration": 226
+        },
+        {
+            "from": "MENELAUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-02T17:57:09.227304",
+            "duration": 178
+        },
+        {
+            "from": "MENELAUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-09T15:55:09.227306",
+            "duration": 263
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-02T19:29:09.227308",
+            "duration": 262
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-07T13:52:09.227310",
+            "duration": 119
+        },
+        {
+            "from": "MENELAUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-06T18:05:09.227313",
+            "duration": 64
+        },
+        {
+            "from": "MENELAUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-06T12:24:09.227315",
+            "duration": 214
+        },
+        {
+            "from": "MENELAUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-07T09:00:09.227317",
+            "duration": 62
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-07T03:02:09.227319",
+            "duration": 122
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-04T21:09:09.227321",
+            "duration": 227
+        },
+        {
+            "from": "MENELAUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-06T08:26:09.227323",
+            "duration": 264
+        },
+        {
+            "from": "HECTOR",
+            "to": "PANDARUS",
+            "timestamp": "2025-03-07T22:26:09.227326",
+            "duration": 186
+        },
+        {
+            "from": "HECTOR",
+            "to": "PANDARUS",
+            "timestamp": "2025-03-09T19:54:09.227328",
+            "duration": 68
+        },
+        {
+            "from": "HECTOR",
+            "to": "THERSITES",
+            "timestamp": "2025-03-03T17:59:09.227330",
+            "duration": 66
+        },
+        {
+            "from": "HECTOR",
+            "to": "PARIS",
+            "timestamp": "2025-03-08T15:09:09.227332",
+            "duration": 72
+        },
+        {
+            "from": "HECTOR",
+            "to": "ALL",
+            "timestamp": "2025-03-06T01:35:09.227335",
+            "duration": 261
+        },
+        {
+            "from": "HECTOR",
+            "to": "ALL",
+            "timestamp": "2025-03-06T21:11:09.227337",
+            "duration": 111
+        },
+        {
+            "from": "HECTOR",
+            "to": "HELEN",
+            "timestamp": "2025-03-08T13:49:09.227340",
+            "duration": 276
+        },
+        {
+            "from": "HECTOR",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-04T15:54:09.227342",
+            "duration": 107
+        },
+        {
+            "from": "HECTOR",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-07T11:40:09.227344",
+            "duration": 97
+        },
+        {
+            "from": "HECTOR",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-07T03:14:09.227346",
+            "duration": 252
+        },
+        {
+            "from": "HECTOR",
+            "to": "PRIAM",
+            "timestamp": "2025-03-06T22:17:09.227349",
+            "duration": 246
+        },
+        {
+            "from": "HECTOR",
+            "to": "AJAX",
+            "timestamp": "2025-03-06T01:42:09.227351",
+            "duration": 272
+        },
+        {
+            "from": "HECTOR",
+            "to": "NESTOR",
+            "timestamp": "2025-03-06T15:58:09.227353",
+            "duration": 148
+        },
+        {
+            "from": "HECTOR",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-07T08:07:09.227356",
+            "duration": 192
+        },
+        {
+            "from": "HECTOR",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-06T09:44:09.227358",
+            "duration": 159
+        },
+        {
+            "from": "HECTOR",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-03T11:18:09.227360",
+            "duration": 137
+        },
+        {
+            "from": "HECTOR",
+            "to": "TROILUS",
+            "timestamp": "2025-03-07T10:39:09.227362",
+            "duration": 153
+        },
+        {
+            "from": "HECTOR",
+            "to": "TROILUS",
+            "timestamp": "2025-03-04T13:58:09.227364",
+            "duration": 89
+        },
+        {
+            "from": "HECTOR",
+            "to": "TROILUS",
+            "timestamp": "2025-03-05T05:48:09.227368",
+            "duration": 179
+        },
+        {
+            "from": "HECTOR",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-08T17:34:09.227370",
+            "duration": 176
+        },
+        {
+            "from": "HECTOR",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-08T14:18:09.227373",
+            "duration": 88
+        },
+        {
+            "from": "HECTOR",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-10T12:27:09.227375",
+            "duration": 280
+        },
+        {
+            "from": "HECTOR",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-10T10:29:09.227377",
+            "duration": 223
+        },
+        {
+            "from": "HECTOR",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-09T20:47:09.227380",
+            "duration": 74
+        },
+        {
+            "from": "HECTOR",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-07T09:16:09.227382",
+            "duration": 282
+        },
+        {
+            "from": "HECTOR",
+            "to": "Boy",
+            "timestamp": "2025-03-04T00:56:09.227385",
+            "duration": 272
+        },
+        {
+            "from": "HECTOR",
+            "to": "Boy",
+            "timestamp": "2025-03-03T14:21:09.227387",
+            "duration": 78
+        },
+        {
+            "from": "HECTOR",
+            "to": "Boy",
+            "timestamp": "2025-03-04T21:24:09.227389",
+            "duration": 119
+        },
+        {
+            "from": "HECTOR",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-03T17:37:09.227391",
+            "duration": 202
+        },
+        {
+            "from": "HECTOR",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-02T17:02:09.227394",
+            "duration": 191
+        },
+        {
+            "from": "HECTOR",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-09T08:13:09.227396",
+            "duration": 83
+        },
+        {
+            "from": "HECTOR",
+            "to": "Servant",
+            "timestamp": "2025-03-09T09:47:09.227398",
+            "duration": 195
+        },
+        {
+            "from": "HECTOR",
+            "to": "Servant",
+            "timestamp": "2025-03-08T01:16:09.227400",
+            "duration": 216
+        },
+        {
+            "from": "HECTOR",
+            "to": "Servant",
+            "timestamp": "2025-03-04T21:46:09.227402",
+            "duration": 142
+        },
+        {
+            "from": "HECTOR",
+            "to": "HELENUS",
+            "timestamp": "2025-03-07T16:18:09.227404",
+            "duration": 218
+        },
+        {
+            "from": "HECTOR",
+            "to": "HELENUS",
+            "timestamp": "2025-03-04T05:39:09.227406",
+            "duration": 266
+        },
+        {
+            "from": "HECTOR",
+            "to": "AENEAS",
+            "timestamp": "2025-03-07T19:18:09.227409",
+            "duration": 76
+        },
+        {
+            "from": "HECTOR",
+            "to": "AENEAS",
+            "timestamp": "2025-03-06T11:49:09.227411",
+            "duration": 249
+        },
+        {
+            "from": "HECTOR",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-08T08:54:09.227413",
+            "duration": 146
+        },
+        {
+            "from": "HECTOR",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-03T11:05:09.227415",
+            "duration": 148
+        },
+        {
+            "from": "HECTOR",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-09T00:44:09.227417",
+            "duration": 237
+        },
+        {
+            "from": "HECTOR",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-07T14:38:09.227420",
+            "duration": 268
+        },
+        {
+            "from": "HECTOR",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-03T13:51:09.227422",
+            "duration": 300
+        },
+        {
+            "from": "HECTOR",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-07T11:53:09.227425",
+            "duration": 111
+        },
+        {
+            "from": "HECTOR",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-03T09:41:09.227427",
+            "duration": 243
+        },
+        {
+            "from": "HECTOR",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-07T01:00:09.227429",
+            "duration": 158
+        },
+        {
+            "from": "HECTOR",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-04T12:21:09.227431",
+            "duration": 268
+        },
+        {
+            "from": "PANDARUS",
+            "to": "THERSITES",
+            "timestamp": "2025-03-08T23:02:09.227433",
+            "duration": 113
+        },
+        {
+            "from": "PANDARUS",
+            "to": "THERSITES",
+            "timestamp": "2025-03-05T22:01:09.227436",
+            "duration": 204
+        },
+        {
+            "from": "PANDARUS",
+            "to": "THERSITES",
+            "timestamp": "2025-03-03T06:26:09.227438",
+            "duration": 89
+        },
+        {
+            "from": "PANDARUS",
+            "to": "PARIS",
+            "timestamp": "2025-03-03T16:12:09.227441",
+            "duration": 280
+        },
+        {
+            "from": "PANDARUS",
+            "to": "ALL",
+            "timestamp": "2025-03-07T03:12:09.227443",
+            "duration": 161
+        },
+        {
+            "from": "PANDARUS",
+            "to": "ALL",
+            "timestamp": "2025-03-04T00:44:09.227445",
+            "duration": 98
+        },
+        {
+            "from": "PANDARUS",
+            "to": "ALL",
+            "timestamp": "2025-03-07T13:57:09.227447",
+            "duration": 276
+        },
+        {
+            "from": "PANDARUS",
+            "to": "HELEN",
+            "timestamp": "2025-03-07T19:45:09.227450",
+            "duration": 291
+        },
+        {
+            "from": "PANDARUS",
+            "to": "HELEN",
+            "timestamp": "2025-03-07T12:53:09.227452",
+            "duration": 140
+        },
+        {
+            "from": "PANDARUS",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-03T04:00:09.227454",
+            "duration": 101
+        },
+        {
+            "from": "PANDARUS",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-07T04:36:09.227456",
+            "duration": 83
+        },
+        {
+            "from": "PANDARUS",
+            "to": "PRIAM",
+            "timestamp": "2025-03-08T20:10:09.227459",
+            "duration": 132
+        },
+        {
+            "from": "PANDARUS",
+            "to": "AJAX",
+            "timestamp": "2025-03-04T23:27:09.227461",
+            "duration": 290
+        },
+        {
+            "from": "PANDARUS",
+            "to": "NESTOR",
+            "timestamp": "2025-03-04T08:06:09.227463",
+            "duration": 122
+        },
+        {
+            "from": "PANDARUS",
+            "to": "NESTOR",
+            "timestamp": "2025-03-06T23:43:09.227465",
+            "duration": 85
+        },
+        {
+            "from": "PANDARUS",
+            "to": "NESTOR",
+            "timestamp": "2025-03-05T19:06:09.227467",
+            "duration": 286
+        },
+        {
+            "from": "PANDARUS",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-07T12:33:09.227470",
+            "duration": 103
+        },
+        {
+            "from": "PANDARUS",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-03T17:57:09.227472",
+            "duration": 166
+        },
+        {
+            "from": "PANDARUS",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-07T04:42:09.227474",
+            "duration": 117
+        },
+        {
+            "from": "PANDARUS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-06T06:24:09.227476",
+            "duration": 140
+        },
+        {
+            "from": "PANDARUS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-06T19:10:09.227478",
+            "duration": 184
+        },
+        {
+            "from": "PANDARUS",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-03T11:30:09.227481",
+            "duration": 279
+        },
+        {
+            "from": "PANDARUS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-05T02:11:09.227483",
+            "duration": 279
+        },
+        {
+            "from": "PANDARUS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-04T17:38:09.227485",
+            "duration": 73
+        },
+        {
+            "from": "PANDARUS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-05T10:02:09.227487",
+            "duration": 251
+        },
+        {
+            "from": "PANDARUS",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-07T07:19:09.227489",
+            "duration": 145
+        },
+        {
+            "from": "PANDARUS",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-03T03:53:09.227491",
+            "duration": 108
+        },
+        {
+            "from": "PANDARUS",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-08T10:47:09.227507",
+            "duration": 197
+        },
+        {
+            "from": "PANDARUS",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-06T22:01:09.227510",
+            "duration": 277
+        },
+        {
+            "from": "PANDARUS",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-05T18:41:09.227512",
+            "duration": 180
+        },
+        {
+            "from": "PANDARUS",
+            "to": "Boy",
+            "timestamp": "2025-03-02T23:51:09.227514",
+            "duration": 296
+        },
+        {
+            "from": "PANDARUS",
+            "to": "Boy",
+            "timestamp": "2025-03-05T23:45:09.227516",
+            "duration": 176
+        },
+        {
+            "from": "PANDARUS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-06T15:26:09.227519",
+            "duration": 283
+        },
+        {
+            "from": "PANDARUS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-05T09:46:09.227521",
+            "duration": 207
+        },
+        {
+            "from": "PANDARUS",
+            "to": "Servant",
+            "timestamp": "2025-03-09T23:14:09.227523",
+            "duration": 197
+        },
+        {
+            "from": "PANDARUS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-06T17:17:09.227525",
+            "duration": 62
+        },
+        {
+            "from": "PANDARUS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-05T21:54:09.227528",
+            "duration": 121
+        },
+        {
+            "from": "PANDARUS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-06T08:51:09.227530",
+            "duration": 82
+        },
+        {
+            "from": "PANDARUS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-03T06:43:09.227532",
+            "duration": 257
+        },
+        {
+            "from": "PANDARUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-06T15:05:09.227534",
+            "duration": 116
+        },
+        {
+            "from": "PANDARUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-05T23:51:09.227536",
+            "duration": 136
+        },
+        {
+            "from": "PANDARUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-09T23:27:09.227538",
+            "duration": 299
+        },
+        {
+            "from": "PANDARUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-07T09:24:09.227540",
+            "duration": 111
+        },
+        {
+            "from": "PANDARUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-03T05:39:09.227543",
+            "duration": 88
+        },
+        {
+            "from": "PANDARUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-07T00:51:09.227545",
+            "duration": 60
+        },
+        {
+            "from": "PANDARUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-09T05:03:09.227547",
+            "duration": 271
+        },
+        {
+            "from": "PANDARUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-03T21:32:09.227549",
+            "duration": 104
+        },
+        {
+            "from": "PANDARUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-08T19:12:09.227551",
+            "duration": 123
+        },
+        {
+            "from": "THERSITES",
+            "to": "PARIS",
+            "timestamp": "2025-03-09T01:26:09.227553",
+            "duration": 294
+        },
+        {
+            "from": "THERSITES",
+            "to": "PARIS",
+            "timestamp": "2025-03-03T20:27:09.227555",
+            "duration": 292
+        },
+        {
+            "from": "THERSITES",
+            "to": "ALL",
+            "timestamp": "2025-03-05T15:45:09.227558",
+            "duration": 97
+        },
+        {
+            "from": "THERSITES",
+            "to": "ALL",
+            "timestamp": "2025-03-07T12:28:09.227560",
+            "duration": 200
+        },
+        {
+            "from": "THERSITES",
+            "to": "HELEN",
+            "timestamp": "2025-03-07T07:37:09.227562",
+            "duration": 152
+        },
+        {
+            "from": "THERSITES",
+            "to": "HELEN",
+            "timestamp": "2025-03-05T19:32:09.227564",
+            "duration": 294
+        },
+        {
+            "from": "THERSITES",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-05T03:23:09.227567",
+            "duration": 277
+        },
+        {
+            "from": "THERSITES",
+            "to": "PRIAM",
+            "timestamp": "2025-03-05T00:05:09.227569",
+            "duration": 216
+        },
+        {
+            "from": "THERSITES",
+            "to": "PRIAM",
+            "timestamp": "2025-03-03T07:09:09.227571",
+            "duration": 239
+        },
+        {
+            "from": "THERSITES",
+            "to": "PRIAM",
+            "timestamp": "2025-03-03T20:39:09.227573",
+            "duration": 89
+        },
+        {
+            "from": "THERSITES",
+            "to": "AJAX",
+            "timestamp": "2025-03-07T07:22:09.227576",
+            "duration": 130
+        },
+        {
+            "from": "THERSITES",
+            "to": "AJAX",
+            "timestamp": "2025-03-05T03:17:09.227578",
+            "duration": 109
+        },
+        {
+            "from": "THERSITES",
+            "to": "NESTOR",
+            "timestamp": "2025-03-06T15:50:09.227580",
+            "duration": 113
+        },
+        {
+            "from": "THERSITES",
+            "to": "NESTOR",
+            "timestamp": "2025-03-09T16:18:09.227582",
+            "duration": 108
+        },
+        {
+            "from": "THERSITES",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-04T15:08:09.227584",
+            "duration": 246
+        },
+        {
+            "from": "THERSITES",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-02T23:07:09.227586",
+            "duration": 300
+        },
+        {
+            "from": "THERSITES",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-03T02:44:09.227589",
+            "duration": 108
+        },
+        {
+            "from": "THERSITES",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-03T22:15:09.227591",
+            "duration": 179
+        },
+        {
+            "from": "THERSITES",
+            "to": "TROILUS",
+            "timestamp": "2025-03-08T03:45:09.227593",
+            "duration": 166
+        },
+        {
+            "from": "THERSITES",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-05T21:13:09.227595",
+            "duration": 184
+        },
+        {
+            "from": "THERSITES",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-05T05:27:09.227597",
+            "duration": 197
+        },
+        {
+            "from": "THERSITES",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-03T10:40:09.227599",
+            "duration": 139
+        },
+        {
+            "from": "THERSITES",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-06T02:35:09.227602",
+            "duration": 61
+        },
+        {
+            "from": "THERSITES",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-07T07:42:09.227604",
+            "duration": 286
+        },
+        {
+            "from": "THERSITES",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-07T18:12:09.227606",
+            "duration": 161
+        },
+        {
+            "from": "THERSITES",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-09T06:35:09.227608",
+            "duration": 293
+        },
+        {
+            "from": "THERSITES",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-08T20:54:09.227611",
+            "duration": 253
+        },
+        {
+            "from": "THERSITES",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-05T15:37:09.227613",
+            "duration": 60
+        },
+        {
+            "from": "THERSITES",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-05T14:02:09.227615",
+            "duration": 95
+        },
+        {
+            "from": "THERSITES",
+            "to": "Boy",
+            "timestamp": "2025-03-05T13:47:09.227617",
+            "duration": 173
+        },
+        {
+            "from": "THERSITES",
+            "to": "Boy",
+            "timestamp": "2025-03-04T23:01:09.227619",
+            "duration": 161
+        },
+        {
+            "from": "THERSITES",
+            "to": "Boy",
+            "timestamp": "2025-03-07T02:14:09.227621",
+            "duration": 225
+        },
+        {
+            "from": "THERSITES",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-07T20:33:09.227623",
+            "duration": 170
+        },
+        {
+            "from": "THERSITES",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-09T15:45:09.227626",
+            "duration": 277
+        },
+        {
+            "from": "THERSITES",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-08T07:41:09.227628",
+            "duration": 60
+        },
+        {
+            "from": "THERSITES",
+            "to": "Servant",
+            "timestamp": "2025-03-07T17:32:09.227630",
+            "duration": 78
+        },
+        {
+            "from": "THERSITES",
+            "to": "Servant",
+            "timestamp": "2025-03-07T08:18:09.227632",
+            "duration": 207
+        },
+        {
+            "from": "THERSITES",
+            "to": "HELENUS",
+            "timestamp": "2025-03-10T11:54:09.227634",
+            "duration": 205
+        },
+        {
+            "from": "THERSITES",
+            "to": "AENEAS",
+            "timestamp": "2025-03-05T16:15:09.227637",
+            "duration": 289
+        },
+        {
+            "from": "THERSITES",
+            "to": "AENEAS",
+            "timestamp": "2025-03-03T03:36:09.227639",
+            "duration": 82
+        },
+        {
+            "from": "THERSITES",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-04T01:03:09.227641",
+            "duration": 74
+        },
+        {
+            "from": "THERSITES",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-06T13:13:09.227644",
+            "duration": 298
+        },
+        {
+            "from": "THERSITES",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-04T21:32:09.227646",
+            "duration": 262
+        },
+        {
+            "from": "THERSITES",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-05T10:16:09.227648",
+            "duration": 228
+        },
+        {
+            "from": "THERSITES",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-09T22:16:09.227650",
+            "duration": 180
+        },
+        {
+            "from": "THERSITES",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-07T05:37:09.227652",
+            "duration": 242
+        },
+        {
+            "from": "THERSITES",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-05T20:13:09.227654",
+            "duration": 218
+        },
+        {
+            "from": "PARIS",
+            "to": "ALL",
+            "timestamp": "2025-03-03T06:10:09.227656",
+            "duration": 147
+        },
+        {
+            "from": "PARIS",
+            "to": "ALL",
+            "timestamp": "2025-03-09T10:00:09.227658",
+            "duration": 224
+        },
+        {
+            "from": "PARIS",
+            "to": "ALL",
+            "timestamp": "2025-03-10T05:26:09.227661",
+            "duration": 194
+        },
+        {
+            "from": "PARIS",
+            "to": "HELEN",
+            "timestamp": "2025-03-02T17:49:09.227663",
+            "duration": 132
+        },
+        {
+            "from": "PARIS",
+            "to": "HELEN",
+            "timestamp": "2025-03-08T05:49:09.227665",
+            "duration": 275
+        },
+        {
+            "from": "PARIS",
+            "to": "HELEN",
+            "timestamp": "2025-03-04T14:46:09.227667",
+            "duration": 165
+        },
+        {
+            "from": "PARIS",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-04T20:48:09.227669",
+            "duration": 82
+        },
+        {
+            "from": "PARIS",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-04T16:10:09.227672",
+            "duration": 143
+        },
+        {
+            "from": "PARIS",
+            "to": "PRIAM",
+            "timestamp": "2025-03-06T00:05:09.227674",
+            "duration": 61
+        },
+        {
+            "from": "PARIS",
+            "to": "PRIAM",
+            "timestamp": "2025-03-03T22:48:09.227676",
+            "duration": 193
+        },
+        {
+            "from": "PARIS",
+            "to": "PRIAM",
+            "timestamp": "2025-03-03T19:28:09.227678",
+            "duration": 285
+        },
+        {
+            "from": "PARIS",
+            "to": "AJAX",
+            "timestamp": "2025-03-08T08:47:09.227680",
+            "duration": 216
+        },
+        {
+            "from": "PARIS",
+            "to": "AJAX",
+            "timestamp": "2025-03-06T03:15:09.227682",
+            "duration": 195
+        },
+        {
+            "from": "PARIS",
+            "to": "NESTOR",
+            "timestamp": "2025-03-04T11:25:09.227685",
+            "duration": 85
+        },
+        {
+            "from": "PARIS",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-05T22:54:09.227687",
+            "duration": 145
+        },
+        {
+            "from": "PARIS",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-09T11:20:09.227689",
+            "duration": 63
+        },
+        {
+            "from": "PARIS",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-05T15:57:09.227691",
+            "duration": 163
+        },
+        {
+            "from": "PARIS",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-06T21:30:09.227693",
+            "duration": 235
+        },
+        {
+            "from": "PARIS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-08T09:12:09.227695",
+            "duration": 227
+        },
+        {
+            "from": "PARIS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-05T18:50:09.227697",
+            "duration": 283
+        },
+        {
+            "from": "PARIS",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-04T04:05:09.227699",
+            "duration": 219
+        },
+        {
+            "from": "PARIS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-07T14:04:09.227702",
+            "duration": 157
+        },
+        {
+            "from": "PARIS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-04T15:32:09.227704",
+            "duration": 103
+        },
+        {
+            "from": "PARIS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-04T06:45:09.227706",
+            "duration": 237
+        },
+        {
+            "from": "PARIS",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-06T08:57:09.227708",
+            "duration": 186
+        },
+        {
+            "from": "PARIS",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-06T07:10:09.227710",
+            "duration": 298
+        },
+        {
+            "from": "PARIS",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-09T18:44:09.227712",
+            "duration": 247
+        },
+        {
+            "from": "PARIS",
+            "to": "Boy",
+            "timestamp": "2025-03-05T21:32:09.227715",
+            "duration": 76
+        },
+        {
+            "from": "PARIS",
+            "to": "Boy",
+            "timestamp": "2025-03-07T10:14:09.227717",
+            "duration": 140
+        },
+        {
+            "from": "PARIS",
+            "to": "Boy",
+            "timestamp": "2025-03-03T03:22:09.227719",
+            "duration": 217
+        },
+        {
+            "from": "PARIS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-03T22:19:09.227721",
+            "duration": 79
+        },
+        {
+            "from": "PARIS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-04T23:43:09.227723",
+            "duration": 293
+        },
+        {
+            "from": "PARIS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-07T21:51:09.227725",
+            "duration": 77
+        },
+        {
+            "from": "PARIS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-02T20:36:09.227727",
+            "duration": 66
+        },
+        {
+            "from": "PARIS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-04T12:47:09.227729",
+            "duration": 295
+        },
+        {
+            "from": "PARIS",
+            "to": "Servant",
+            "timestamp": "2025-03-06T22:37:09.227731",
+            "duration": 210
+        },
+        {
+            "from": "PARIS",
+            "to": "Servant",
+            "timestamp": "2025-03-04T07:21:09.227733",
+            "duration": 105
+        },
+        {
+            "from": "PARIS",
+            "to": "Servant",
+            "timestamp": "2025-03-10T05:31:09.227735",
+            "duration": 158
+        },
+        {
+            "from": "PARIS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-04T23:03:09.227738",
+            "duration": 180
+        },
+        {
+            "from": "PARIS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-06T23:15:09.227740",
+            "duration": 224
+        },
+        {
+            "from": "PARIS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-04T01:44:09.227742",
+            "duration": 219
+        },
+        {
+            "from": "PARIS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-09T21:51:09.227744",
+            "duration": 255
+        },
+        {
+            "from": "PARIS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-04T11:27:09.227746",
+            "duration": 122
+        },
+        {
+            "from": "PARIS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-06T18:55:09.227748",
+            "duration": 116
+        },
+        {
+            "from": "PARIS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-04T12:41:09.227751",
+            "duration": 120
+        },
+        {
+            "from": "PARIS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-05T10:06:09.227753",
+            "duration": 134
+        },
+        {
+            "from": "PARIS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-08T17:50:09.227755",
+            "duration": 134
+        },
+        {
+            "from": "PARIS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-06T23:24:09.227757",
+            "duration": 107
+        },
+        {
+            "from": "PARIS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-06T09:24:09.227759",
+            "duration": 182
+        },
+        {
+            "from": "PARIS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-04T16:30:09.227761",
+            "duration": 200
+        },
+        {
+            "from": "PARIS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-09T08:52:09.227763",
+            "duration": 152
+        },
+        {
+            "from": "PARIS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-03T06:23:09.227766",
+            "duration": 294
+        },
+        {
+            "from": "ALL",
+            "to": "HELEN",
+            "timestamp": "2025-03-03T12:21:09.227768",
+            "duration": 107
+        },
+        {
+            "from": "ALL",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-04T14:31:09.227770",
+            "duration": 66
+        },
+        {
+            "from": "ALL",
+            "to": "PRIAM",
+            "timestamp": "2025-03-09T02:21:09.227773",
+            "duration": 130
+        },
+        {
+            "from": "ALL",
+            "to": "AJAX",
+            "timestamp": "2025-03-04T15:08:09.227775",
+            "duration": 125
+        },
+        {
+            "from": "ALL",
+            "to": "AJAX",
+            "timestamp": "2025-03-06T09:11:09.227777",
+            "duration": 234
+        },
+        {
+            "from": "ALL",
+            "to": "NESTOR",
+            "timestamp": "2025-03-04T12:25:09.227779",
+            "duration": 150
+        },
+        {
+            "from": "ALL",
+            "to": "NESTOR",
+            "timestamp": "2025-03-08T09:35:09.227781",
+            "duration": 107
+        },
+        {
+            "from": "ALL",
+            "to": "NESTOR",
+            "timestamp": "2025-03-10T00:58:09.227783",
+            "duration": 123
+        },
+        {
+            "from": "ALL",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-04T01:24:09.227785",
+            "duration": 66
+        },
+        {
+            "from": "ALL",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-07T18:42:09.227788",
+            "duration": 215
+        },
+        {
+            "from": "ALL",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-09T21:39:09.227790",
+            "duration": 248
+        },
+        {
+            "from": "ALL",
+            "to": "TROILUS",
+            "timestamp": "2025-03-05T19:37:09.227792",
+            "duration": 143
+        },
+        {
+            "from": "ALL",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-09T06:07:09.227794",
+            "duration": 167
+        },
+        {
+            "from": "ALL",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-08T17:16:09.227796",
+            "duration": 223
+        },
+        {
+            "from": "ALL",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-06T12:45:09.227798",
+            "duration": 297
+        },
+        {
+            "from": "ALL",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-04T22:26:09.227801",
+            "duration": 126
+        },
+        {
+            "from": "ALL",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-06T12:31:09.227803",
+            "duration": 228
+        },
+        {
+            "from": "ALL",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-02T23:23:09.227805",
+            "duration": 184
+        },
+        {
+            "from": "ALL",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-09T04:24:09.227807",
+            "duration": 281
+        },
+        {
+            "from": "ALL",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-04T01:30:09.227809",
+            "duration": 259
+        },
+        {
+            "from": "ALL",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-05T18:48:09.227811",
+            "duration": 238
+        },
+        {
+            "from": "ALL",
+            "to": "Boy",
+            "timestamp": "2025-03-03T12:49:09.227814",
+            "duration": 148
+        },
+        {
+            "from": "ALL",
+            "to": "Boy",
+            "timestamp": "2025-03-06T14:26:09.227816",
+            "duration": 144
+        },
+        {
+            "from": "ALL",
+            "to": "Boy",
+            "timestamp": "2025-03-06T00:05:09.227820",
+            "duration": 130
+        },
+        {
+            "from": "ALL",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-02T20:38:09.227825",
+            "duration": 223
+        },
+        {
+            "from": "ALL",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-07T09:40:09.227828",
+            "duration": 90
+        },
+        {
+            "from": "ALL",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-05T20:10:09.227830",
+            "duration": 208
+        },
+        {
+            "from": "ALL",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-05T14:48:09.227832",
+            "duration": 128
+        },
+        {
+            "from": "ALL",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-07T15:04:09.227835",
+            "duration": 98
+        },
+        {
+            "from": "ALL",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-03T00:02:09.227837",
+            "duration": 122
+        },
+        {
+            "from": "ALL",
+            "to": "Servant",
+            "timestamp": "2025-03-05T22:16:09.227839",
+            "duration": 123
+        },
+        {
+            "from": "ALL",
+            "to": "Servant",
+            "timestamp": "2025-03-04T08:01:09.227841",
+            "duration": 85
+        },
+        {
+            "from": "ALL",
+            "to": "Servant",
+            "timestamp": "2025-03-03T03:49:09.227843",
+            "duration": 298
+        },
+        {
+            "from": "ALL",
+            "to": "HELENUS",
+            "timestamp": "2025-03-03T10:12:09.227846",
+            "duration": 262
+        },
+        {
+            "from": "ALL",
+            "to": "HELENUS",
+            "timestamp": "2025-03-07T14:49:09.227848",
+            "duration": 161
+        },
+        {
+            "from": "ALL",
+            "to": "HELENUS",
+            "timestamp": "2025-03-06T06:32:09.227850",
+            "duration": 215
+        },
+        {
+            "from": "ALL",
+            "to": "AENEAS",
+            "timestamp": "2025-03-02T22:53:09.227852",
+            "duration": 96
+        },
+        {
+            "from": "ALL",
+            "to": "AENEAS",
+            "timestamp": "2025-03-03T03:43:09.227854",
+            "duration": 91
+        },
+        {
+            "from": "ALL",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-09T08:24:09.227857",
+            "duration": 94
+        },
+        {
+            "from": "ALL",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-04T14:00:09.227859",
+            "duration": 300
+        },
+        {
+            "from": "ALL",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-05T13:05:09.227861",
+            "duration": 134
+        },
+        {
+            "from": "ALL",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-07T20:39:09.227863",
+            "duration": 137
+        },
+        {
+            "from": "ALL",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-07T13:08:09.227866",
+            "duration": 268
+        },
+        {
+            "from": "ALL",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-05T12:19:09.227868",
+            "duration": 132
+        },
+        {
+            "from": "ALL",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-08T14:45:09.227874",
+            "duration": 160
+        },
+        {
+            "from": "HELEN",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-03T23:46:09.227877",
+            "duration": 62
+        },
+        {
+            "from": "HELEN",
+            "to": "DEIPHOBUS",
+            "timestamp": "2025-03-05T15:51:09.227879",
+            "duration": 272
+        },
+        {
+            "from": "HELEN",
+            "to": "PRIAM",
+            "timestamp": "2025-03-06T20:22:09.227882",
+            "duration": 117
+        },
+        {
+            "from": "HELEN",
+            "to": "AJAX",
+            "timestamp": "2025-03-04T08:15:09.227885",
+            "duration": 275
+        },
+        {
+            "from": "HELEN",
+            "to": "AJAX",
+            "timestamp": "2025-03-08T15:34:09.227887",
+            "duration": 129
+        },
+        {
+            "from": "HELEN",
+            "to": "AJAX",
+            "timestamp": "2025-03-07T08:40:09.227889",
+            "duration": 285
+        },
+        {
+            "from": "HELEN",
+            "to": "NESTOR",
+            "timestamp": "2025-03-04T16:23:09.227891",
+            "duration": 163
+        },
+        {
+            "from": "HELEN",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-08T11:46:09.227894",
+            "duration": 64
+        },
+        {
+            "from": "HELEN",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-05T07:14:09.227896",
+            "duration": 189
+        },
+        {
+            "from": "HELEN",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-06T01:08:09.227898",
+            "duration": 161
+        },
+        {
+            "from": "HELEN",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-07T14:51:09.227900",
+            "duration": 64
+        },
+        {
+            "from": "HELEN",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-08T01:51:09.227902",
+            "duration": 291
+        },
+        {
+            "from": "HELEN",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-06T04:34:09.227904",
+            "duration": 298
+        },
+        {
+            "from": "HELEN",
+            "to": "TROILUS",
+            "timestamp": "2025-03-04T07:04:09.227907",
+            "duration": 63
+        },
+        {
+            "from": "HELEN",
+            "to": "TROILUS",
+            "timestamp": "2025-03-08T06:44:09.227909",
+            "duration": 187
+        },
+        {
+            "from": "HELEN",
+            "to": "TROILUS",
+            "timestamp": "2025-03-09T05:48:09.227911",
+            "duration": 185
+        },
+        {
+            "from": "HELEN",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-03T16:52:09.227913",
+            "duration": 194
+        },
+        {
+            "from": "HELEN",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-09T19:15:09.227915",
+            "duration": 82
+        },
+        {
+            "from": "HELEN",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-07T15:03:09.227934",
+            "duration": 190
+        },
+        {
+            "from": "HELEN",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-06T17:49:09.227936",
+            "duration": 234
+        },
+        {
+            "from": "HELEN",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-06T15:27:09.227938",
+            "duration": 186
+        },
+        {
+            "from": "HELEN",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-06T15:01:09.227940",
+            "duration": 279
+        },
+        {
+            "from": "HELEN",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-10T05:08:09.227942",
+            "duration": 283
+        },
+        {
+            "from": "HELEN",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-07T11:14:09.227944",
+            "duration": 179
+        },
+        {
+            "from": "HELEN",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-03T01:48:09.227947",
+            "duration": 168
+        },
+        {
+            "from": "HELEN",
+            "to": "Boy",
+            "timestamp": "2025-03-07T18:30:09.227949",
+            "duration": 279
+        },
+        {
+            "from": "HELEN",
+            "to": "Boy",
+            "timestamp": "2025-03-02T17:31:09.227951",
+            "duration": 159
+        },
+        {
+            "from": "HELEN",
+            "to": "Boy",
+            "timestamp": "2025-03-02T18:27:09.227953",
+            "duration": 128
+        },
+        {
+            "from": "HELEN",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-06T14:04:09.227956",
+            "duration": 126
+        },
+        {
+            "from": "HELEN",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-03T07:33:09.227958",
+            "duration": 96
+        },
+        {
+            "from": "HELEN",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-08T02:58:09.227960",
+            "duration": 181
+        },
+        {
+            "from": "HELEN",
+            "to": "Servant",
+            "timestamp": "2025-03-07T23:18:09.227962",
+            "duration": 281
+        },
+        {
+            "from": "HELEN",
+            "to": "HELENUS",
+            "timestamp": "2025-03-07T17:52:09.227965",
+            "duration": 211
+        },
+        {
+            "from": "HELEN",
+            "to": "AENEAS",
+            "timestamp": "2025-03-03T04:56:09.227967",
+            "duration": 110
+        },
+        {
+            "from": "HELEN",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-04T02:49:09.227969",
+            "duration": 146
+        },
+        {
+            "from": "HELEN",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-03T06:31:09.227971",
+            "duration": 261
+        },
+        {
+            "from": "HELEN",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-04T23:57:09.227974",
+            "duration": 115
+        },
+        {
+            "from": "HELEN",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-06T17:28:09.227976",
+            "duration": 143
+        },
+        {
+            "from": "HELEN",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-05T16:43:09.227978",
+            "duration": 219
+        },
+        {
+            "from": "HELEN",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-06T19:37:09.227987",
+            "duration": 175
+        },
+        {
+            "from": "HELEN",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-08T22:26:09.227989",
+            "duration": 300
+        },
+        {
+            "from": "HELEN",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-09T01:54:09.227991",
+            "duration": 87
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "PRIAM",
+            "timestamp": "2025-03-07T17:15:09.227993",
+            "duration": 277
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "PRIAM",
+            "timestamp": "2025-03-03T21:06:09.227995",
+            "duration": 209
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "AJAX",
+            "timestamp": "2025-03-07T05:11:09.227998",
+            "duration": 98
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "NESTOR",
+            "timestamp": "2025-03-05T00:36:09.228000",
+            "duration": 181
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-08T03:10:09.228003",
+            "duration": 215
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-06T03:40:09.228005",
+            "duration": 187
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-05T15:08:09.228007",
+            "duration": 142
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-06T15:15:09.228009",
+            "duration": 173
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-04T01:25:09.228011",
+            "duration": 80
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-10T13:59:09.228014",
+            "duration": 235
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-05T11:55:09.228016",
+            "duration": 85
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-10T04:59:09.228018",
+            "duration": 114
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-04T08:48:09.228020",
+            "duration": 299
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-06T18:05:09.228022",
+            "duration": 190
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-08T08:52:09.228024",
+            "duration": 181
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-09T21:33:09.228027",
+            "duration": 232
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-05T17:56:09.228029",
+            "duration": 132
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "Boy",
+            "timestamp": "2025-03-04T03:25:09.228031",
+            "duration": 61
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-09T16:45:09.228033",
+            "duration": 214
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-09T07:46:09.228036",
+            "duration": 229
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-06T00:54:09.228038",
+            "duration": 231
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-06T01:54:09.228041",
+            "duration": 128
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-07T15:49:09.228043",
+            "duration": 128
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "Servant",
+            "timestamp": "2025-03-06T18:32:09.228045",
+            "duration": 101
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T14:57:09.228047",
+            "duration": 145
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "Servant",
+            "timestamp": "2025-03-05T14:10:09.228049",
+            "duration": 131
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-05T13:24:09.228051",
+            "duration": 280
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-04T01:43:09.228054",
+            "duration": 71
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-08T18:25:09.228056",
+            "duration": 284
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-05T23:32:09.228058",
+            "duration": 173
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-08T08:13:09.228060",
+            "duration": 122
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-09T07:45:09.228062",
+            "duration": 202
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-04T00:13:09.228064",
+            "duration": 246
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-08T10:52:09.228068",
+            "duration": 81
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-06T00:02:09.228070",
+            "duration": 210
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-06T07:29:09.228072",
+            "duration": 192
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-03T15:20:09.228074",
+            "duration": 144
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-07T03:27:09.228076",
+            "duration": 154
+        },
+        {
+            "from": "DEIPHOBUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-10T06:26:09.228078",
+            "duration": 117
+        },
+        {
+            "from": "PRIAM",
+            "to": "AJAX",
+            "timestamp": "2025-03-07T10:34:09.228081",
+            "duration": 207
+        },
+        {
+            "from": "PRIAM",
+            "to": "NESTOR",
+            "timestamp": "2025-03-05T18:44:09.228083",
+            "duration": 101
+        },
+        {
+            "from": "PRIAM",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-05T21:21:09.228085",
+            "duration": 208
+        },
+        {
+            "from": "PRIAM",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-09T15:16:09.228087",
+            "duration": 258
+        },
+        {
+            "from": "PRIAM",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-07T15:13:09.228089",
+            "duration": 62
+        },
+        {
+            "from": "PRIAM",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-07T18:52:09.228092",
+            "duration": 288
+        },
+        {
+            "from": "PRIAM",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-08T03:00:09.228094",
+            "duration": 242
+        },
+        {
+            "from": "PRIAM",
+            "to": "TROILUS",
+            "timestamp": "2025-03-09T08:18:09.228096",
+            "duration": 63
+        },
+        {
+            "from": "PRIAM",
+            "to": "TROILUS",
+            "timestamp": "2025-03-08T12:10:09.228098",
+            "duration": 114
+        },
+        {
+            "from": "PRIAM",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-06T08:28:09.228100",
+            "duration": 69
+        },
+        {
+            "from": "PRIAM",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-09T06:12:09.228102",
+            "duration": 90
+        },
+        {
+            "from": "PRIAM",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-09T15:45:09.228105",
+            "duration": 267
+        },
+        {
+            "from": "PRIAM",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-02T19:32:09.228107",
+            "duration": 208
+        },
+        {
+            "from": "PRIAM",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-09T11:58:09.228109",
+            "duration": 235
+        },
+        {
+            "from": "PRIAM",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-10T10:26:09.228111",
+            "duration": 265
+        },
+        {
+            "from": "PRIAM",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-10T09:19:09.228113",
+            "duration": 232
+        },
+        {
+            "from": "PRIAM",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-04T17:03:09.228116",
+            "duration": 97
+        },
+        {
+            "from": "PRIAM",
+            "to": "Boy",
+            "timestamp": "2025-03-06T19:47:09.228118",
+            "duration": 77
+        },
+        {
+            "from": "PRIAM",
+            "to": "Boy",
+            "timestamp": "2025-03-07T00:05:09.228120",
+            "duration": 81
+        },
+        {
+            "from": "PRIAM",
+            "to": "Boy",
+            "timestamp": "2025-03-04T02:45:09.228122",
+            "duration": 84
+        },
+        {
+            "from": "PRIAM",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-03T20:51:09.228124",
+            "duration": 135
+        },
+        {
+            "from": "PRIAM",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-10T05:39:09.228126",
+            "duration": 208
+        },
+        {
+            "from": "PRIAM",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-09T22:34:09.228129",
+            "duration": 158
+        },
+        {
+            "from": "PRIAM",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-04T02:58:09.228131",
+            "duration": 110
+        },
+        {
+            "from": "PRIAM",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-06T18:25:09.228133",
+            "duration": 192
+        },
+        {
+            "from": "PRIAM",
+            "to": "Servant",
+            "timestamp": "2025-03-05T08:31:09.228135",
+            "duration": 180
+        },
+        {
+            "from": "PRIAM",
+            "to": "Servant",
+            "timestamp": "2025-03-06T22:00:09.228137",
+            "duration": 249
+        },
+        {
+            "from": "PRIAM",
+            "to": "Servant",
+            "timestamp": "2025-03-04T15:59:09.228139",
+            "duration": 124
+        },
+        {
+            "from": "PRIAM",
+            "to": "HELENUS",
+            "timestamp": "2025-03-06T03:42:09.228142",
+            "duration": 97
+        },
+        {
+            "from": "PRIAM",
+            "to": "AENEAS",
+            "timestamp": "2025-03-06T00:56:09.228144",
+            "duration": 195
+        },
+        {
+            "from": "PRIAM",
+            "to": "AENEAS",
+            "timestamp": "2025-03-03T15:59:09.228149",
+            "duration": 190
+        },
+        {
+            "from": "PRIAM",
+            "to": "AENEAS",
+            "timestamp": "2025-03-06T02:35:09.228151",
+            "duration": 64
+        },
+        {
+            "from": "PRIAM",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-05T00:26:09.228154",
+            "duration": 66
+        },
+        {
+            "from": "PRIAM",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-06T10:03:09.228156",
+            "duration": 237
+        },
+        {
+            "from": "PRIAM",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-07T12:33:09.228158",
+            "duration": 71
+        },
+        {
+            "from": "PRIAM",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-07T09:00:09.228161",
+            "duration": 199
+        },
+        {
+            "from": "AJAX",
+            "to": "NESTOR",
+            "timestamp": "2025-03-03T05:08:09.228163",
+            "duration": 207
+        },
+        {
+            "from": "AJAX",
+            "to": "NESTOR",
+            "timestamp": "2025-03-03T05:31:09.228165",
+            "duration": 89
+        },
+        {
+            "from": "AJAX",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-05T10:10:09.228167",
+            "duration": 284
+        },
+        {
+            "from": "AJAX",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-09T23:26:09.228170",
+            "duration": 217
+        },
+        {
+            "from": "AJAX",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-09T16:27:09.228172",
+            "duration": 187
+        },
+        {
+            "from": "AJAX",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-04T01:48:09.228174",
+            "duration": 133
+        },
+        {
+            "from": "AJAX",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-07T04:39:09.228176",
+            "duration": 182
+        },
+        {
+            "from": "AJAX",
+            "to": "TROILUS",
+            "timestamp": "2025-03-06T15:44:09.228178",
+            "duration": 65
+        },
+        {
+            "from": "AJAX",
+            "to": "TROILUS",
+            "timestamp": "2025-03-06T10:52:09.228180",
+            "duration": 138
+        },
+        {
+            "from": "AJAX",
+            "to": "TROILUS",
+            "timestamp": "2025-03-02T19:16:09.228182",
+            "duration": 202
+        },
+        {
+            "from": "AJAX",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-08T07:40:09.228185",
+            "duration": 97
+        },
+        {
+            "from": "AJAX",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-09T14:28:09.228187",
+            "duration": 141
+        },
+        {
+            "from": "AJAX",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-07T19:37:09.228189",
+            "duration": 152
+        },
+        {
+            "from": "AJAX",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-05T13:33:09.228191",
+            "duration": 119
+        },
+        {
+            "from": "AJAX",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-05T06:47:09.228193",
+            "duration": 86
+        },
+        {
+            "from": "AJAX",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-09T06:55:09.228196",
+            "duration": 180
+        },
+        {
+            "from": "AJAX",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-07T03:29:09.228198",
+            "duration": 295
+        },
+        {
+            "from": "AJAX",
+            "to": "Boy",
+            "timestamp": "2025-03-07T13:25:09.228200",
+            "duration": 70
+        },
+        {
+            "from": "AJAX",
+            "to": "Boy",
+            "timestamp": "2025-03-07T22:07:09.228202",
+            "duration": 89
+        },
+        {
+            "from": "AJAX",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-05T09:49:09.228204",
+            "duration": 281
+        },
+        {
+            "from": "AJAX",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-10T01:33:09.228206",
+            "duration": 232
+        },
+        {
+            "from": "AJAX",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-05T07:00:09.228209",
+            "duration": 272
+        },
+        {
+            "from": "AJAX",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-07T05:32:09.228211",
+            "duration": 104
+        },
+        {
+            "from": "AJAX",
+            "to": "Servant",
+            "timestamp": "2025-03-04T23:58:09.228213",
+            "duration": 75
+        },
+        {
+            "from": "AJAX",
+            "to": "Servant",
+            "timestamp": "2025-03-07T15:19:09.228215",
+            "duration": 191
+        },
+        {
+            "from": "AJAX",
+            "to": "HELENUS",
+            "timestamp": "2025-03-09T18:04:09.228217",
+            "duration": 216
+        },
+        {
+            "from": "AJAX",
+            "to": "HELENUS",
+            "timestamp": "2025-03-07T00:09:09.228219",
+            "duration": 248
+        },
+        {
+            "from": "AJAX",
+            "to": "HELENUS",
+            "timestamp": "2025-03-02T20:09:09.228221",
+            "duration": 265
+        },
+        {
+            "from": "AJAX",
+            "to": "AENEAS",
+            "timestamp": "2025-03-07T19:38:09.228224",
+            "duration": 190
+        },
+        {
+            "from": "AJAX",
+            "to": "AENEAS",
+            "timestamp": "2025-03-05T14:55:09.228226",
+            "duration": 271
+        },
+        {
+            "from": "AJAX",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-08T19:45:09.228228",
+            "duration": 70
+        },
+        {
+            "from": "AJAX",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-04T08:43:09.228230",
+            "duration": 168
+        },
+        {
+            "from": "AJAX",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-06T17:37:09.228232",
+            "duration": 299
+        },
+        {
+            "from": "AJAX",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-03T13:09:09.228235",
+            "duration": 75
+        },
+        {
+            "from": "AJAX",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-04T02:34:09.228237",
+            "duration": 247
+        },
+        {
+            "from": "AJAX",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-10T05:17:09.228239",
+            "duration": 152
+        },
+        {
+            "from": "AJAX",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-02T21:40:09.228241",
+            "duration": 205
+        },
+        {
+            "from": "NESTOR",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-03T18:53:09.228244",
+            "duration": 137
+        },
+        {
+            "from": "NESTOR",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-04T08:00:09.228246",
+            "duration": 156
+        },
+        {
+            "from": "NESTOR",
+            "to": "ULYSSES",
+            "timestamp": "2025-03-05T16:57:09.228248",
+            "duration": 193
+        },
+        {
+            "from": "NESTOR",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-07T05:53:09.228250",
+            "duration": 94
+        },
+        {
+            "from": "NESTOR",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-04T14:17:09.228252",
+            "duration": 176
+        },
+        {
+            "from": "NESTOR",
+            "to": "TROILUS",
+            "timestamp": "2025-03-03T18:16:09.228255",
+            "duration": 97
+        },
+        {
+            "from": "NESTOR",
+            "to": "TROILUS",
+            "timestamp": "2025-03-09T14:31:09.228257",
+            "duration": 212
+        },
+        {
+            "from": "NESTOR",
+            "to": "TROILUS",
+            "timestamp": "2025-03-10T02:36:09.228259",
+            "duration": 232
+        },
+        {
+            "from": "NESTOR",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-03T10:38:09.228261",
+            "duration": 192
+        },
+        {
+            "from": "NESTOR",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-05T00:09:09.228264",
+            "duration": 186
+        },
+        {
+            "from": "NESTOR",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-10T07:40:09.228266",
+            "duration": 264
+        },
+        {
+            "from": "NESTOR",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-07T16:31:09.228268",
+            "duration": 187
+        },
+        {
+            "from": "NESTOR",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-06T23:36:09.228271",
+            "duration": 269
+        },
+        {
+            "from": "NESTOR",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-05T18:20:09.228273",
+            "duration": 292
+        },
+        {
+            "from": "NESTOR",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-05T12:42:09.228275",
+            "duration": 225
+        },
+        {
+            "from": "NESTOR",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-06T20:52:09.228277",
+            "duration": 101
+        },
+        {
+            "from": "NESTOR",
+            "to": "Boy",
+            "timestamp": "2025-03-03T11:31:09.228279",
+            "duration": 239
+        },
+        {
+            "from": "NESTOR",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-03T17:17:09.228282",
+            "duration": 294
+        },
+        {
+            "from": "NESTOR",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-07T07:38:09.228284",
+            "duration": 86
+        },
+        {
+            "from": "NESTOR",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-07T20:54:09.228286",
+            "duration": 94
+        },
+        {
+            "from": "NESTOR",
+            "to": "Servant",
+            "timestamp": "2025-03-08T16:07:09.228288",
+            "duration": 214
+        },
+        {
+            "from": "NESTOR",
+            "to": "HELENUS",
+            "timestamp": "2025-03-05T00:58:09.228291",
+            "duration": 164
+        },
+        {
+            "from": "NESTOR",
+            "to": "AENEAS",
+            "timestamp": "2025-03-09T04:50:09.228293",
+            "duration": 247
+        },
+        {
+            "from": "NESTOR",
+            "to": "AENEAS",
+            "timestamp": "2025-03-03T10:44:09.228295",
+            "duration": 215
+        },
+        {
+            "from": "NESTOR",
+            "to": "AENEAS",
+            "timestamp": "2025-03-05T11:57:09.228297",
+            "duration": 256
+        },
+        {
+            "from": "NESTOR",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-04T05:29:09.228300",
+            "duration": 87
+        },
+        {
+            "from": "NESTOR",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-07T18:35:09.228302",
+            "duration": 258
+        },
+        {
+            "from": "NESTOR",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-05T18:51:09.228304",
+            "duration": 260
+        },
+        {
+            "from": "NESTOR",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-05T17:04:09.228306",
+            "duration": 288
+        },
+        {
+            "from": "NESTOR",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-08T08:59:09.228309",
+            "duration": 60
+        },
+        {
+            "from": "ULYSSES",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-03T12:30:09.228311",
+            "duration": 97
+        },
+        {
+            "from": "ULYSSES",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-07T08:19:09.228313",
+            "duration": 178
+        },
+        {
+            "from": "ULYSSES",
+            "to": "MYRMIDONS",
+            "timestamp": "2025-03-03T19:07:09.228315",
+            "duration": 220
+        },
+        {
+            "from": "ULYSSES",
+            "to": "TROILUS",
+            "timestamp": "2025-03-06T16:00:09.228317",
+            "duration": 162
+        },
+        {
+            "from": "ULYSSES",
+            "to": "TROILUS",
+            "timestamp": "2025-03-03T01:39:09.228320",
+            "duration": 160
+        },
+        {
+            "from": "ULYSSES",
+            "to": "TROILUS",
+            "timestamp": "2025-03-04T13:51:09.228322",
+            "duration": 258
+        },
+        {
+            "from": "ULYSSES",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-10T12:05:09.228324",
+            "duration": 135
+        },
+        {
+            "from": "ULYSSES",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-04T16:13:09.228326",
+            "duration": 126
+        },
+        {
+            "from": "ULYSSES",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-06T07:41:09.228328",
+            "duration": 136
+        },
+        {
+            "from": "ULYSSES",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-07T03:36:09.228330",
+            "duration": 136
+        },
+        {
+            "from": "ULYSSES",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-08T19:13:09.228333",
+            "duration": 239
+        },
+        {
+            "from": "ULYSSES",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-03T03:01:09.228335",
+            "duration": 70
+        },
+        {
+            "from": "ULYSSES",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-05T17:40:09.228337",
+            "duration": 274
+        },
+        {
+            "from": "ULYSSES",
+            "to": "Boy",
+            "timestamp": "2025-03-05T02:45:09.228339",
+            "duration": 199
+        },
+        {
+            "from": "ULYSSES",
+            "to": "Boy",
+            "timestamp": "2025-03-05T12:12:09.228341",
+            "duration": 239
+        },
+        {
+            "from": "ULYSSES",
+            "to": "Boy",
+            "timestamp": "2025-03-05T17:50:09.228343",
+            "duration": 180
+        },
+        {
+            "from": "ULYSSES",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-04T17:21:09.228345",
+            "duration": 157
+        },
+        {
+            "from": "ULYSSES",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-04T23:47:09.228348",
+            "duration": 261
+        },
+        {
+            "from": "ULYSSES",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-05T15:44:09.228350",
+            "duration": 116
+        },
+        {
+            "from": "ULYSSES",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-02T15:47:09.228352",
+            "duration": 249
+        },
+        {
+            "from": "ULYSSES",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-09T04:24:09.228354",
+            "duration": 83
+        },
+        {
+            "from": "ULYSSES",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-07T20:08:09.228356",
+            "duration": 158
+        },
+        {
+            "from": "ULYSSES",
+            "to": "Servant",
+            "timestamp": "2025-03-10T07:13:09.228358",
+            "duration": 265
+        },
+        {
+            "from": "ULYSSES",
+            "to": "Servant",
+            "timestamp": "2025-03-07T09:36:09.228360",
+            "duration": 96
+        },
+        {
+            "from": "ULYSSES",
+            "to": "HELENUS",
+            "timestamp": "2025-03-08T00:21:09.228363",
+            "duration": 126
+        },
+        {
+            "from": "ULYSSES",
+            "to": "AENEAS",
+            "timestamp": "2025-03-09T19:18:09.228365",
+            "duration": 82
+        },
+        {
+            "from": "ULYSSES",
+            "to": "AENEAS",
+            "timestamp": "2025-03-06T13:25:09.228367",
+            "duration": 293
+        },
+        {
+            "from": "ULYSSES",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-05T13:06:09.228369",
+            "duration": 255
+        },
+        {
+            "from": "ULYSSES",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-08T14:44:09.228372",
+            "duration": 142
+        },
+        {
+            "from": "ULYSSES",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-04T05:22:09.228374",
+            "duration": 80
+        },
+        {
+            "from": "ULYSSES",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-10T07:34:09.228376",
+            "duration": 272
+        },
+        {
+            "from": "ULYSSES",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-09T00:45:09.228378",
+            "duration": 176
+        },
+        {
+            "from": "ULYSSES",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-06T09:20:09.228380",
+            "duration": 224
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "TROILUS",
+            "timestamp": "2025-03-10T12:34:09.228383",
+            "duration": 62
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-02T17:30:09.228385",
+            "duration": 68
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-04T03:19:09.228387",
+            "duration": 152
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-05T21:21:09.228389",
+            "duration": 190
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-06T11:34:09.228391",
+            "duration": 90
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-09T20:29:09.228394",
+            "duration": 209
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-05T04:12:09.228395",
+            "duration": 100
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-09T04:02:09.228398",
+            "duration": 252
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-03T03:38:09.228400",
+            "duration": 164
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "Boy",
+            "timestamp": "2025-03-06T08:32:09.228402",
+            "duration": 128
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "Boy",
+            "timestamp": "2025-03-02T21:44:09.228404",
+            "duration": 245
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-06T05:54:09.228406",
+            "duration": 160
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-03T04:48:09.228408",
+            "duration": 147
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-03T00:32:09.228411",
+            "duration": 229
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-05T16:28:09.228413",
+            "duration": 219
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-07T04:19:09.228415",
+            "duration": 206
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T16:13:09.228418",
+            "duration": 298
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "Servant",
+            "timestamp": "2025-03-05T17:41:09.228420",
+            "duration": 105
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-04T04:00:09.228422",
+            "duration": 115
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-06T21:54:09.228424",
+            "duration": 133
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-08T00:57:09.228427",
+            "duration": 126
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-03T14:47:09.228429",
+            "duration": 189
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-07T02:53:09.228431",
+            "duration": 161
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-03T09:22:09.228433",
+            "duration": 193
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-09T22:03:09.228435",
+            "duration": 163
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-03T11:18:09.228437",
+            "duration": 109
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-04T10:58:09.228440",
+            "duration": 283
+        },
+        {
+            "from": "MYRMIDONS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-03T05:01:09.228442",
+            "duration": 188
+        },
+        {
+            "from": "TROILUS",
+            "to": "ALEXANDER",
+            "timestamp": "2025-03-04T04:09:09.228444",
+            "duration": 92
+        },
+        {
+            "from": "TROILUS",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-09T06:46:09.228446",
+            "duration": 148
+        },
+        {
+            "from": "TROILUS",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-05T16:25:09.228449",
+            "duration": 85
+        },
+        {
+            "from": "TROILUS",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-07T10:57:09.228451",
+            "duration": 128
+        },
+        {
+            "from": "TROILUS",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-03T11:46:09.228453",
+            "duration": 152
+        },
+        {
+            "from": "TROILUS",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-09T08:52:09.228455",
+            "duration": 169
+        },
+        {
+            "from": "TROILUS",
+            "to": "Boy",
+            "timestamp": "2025-03-08T05:23:09.228457",
+            "duration": 245
+        },
+        {
+            "from": "TROILUS",
+            "to": "Boy",
+            "timestamp": "2025-03-05T23:20:09.228459",
+            "duration": 117
+        },
+        {
+            "from": "TROILUS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-06T03:38:09.228464",
+            "duration": 166
+        },
+        {
+            "from": "TROILUS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-10T11:07:09.228476",
+            "duration": 173
+        },
+        {
+            "from": "TROILUS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-08T18:03:09.228479",
+            "duration": 149
+        },
+        {
+            "from": "TROILUS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-02T16:50:09.228481",
+            "duration": 75
+        },
+        {
+            "from": "TROILUS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-04T23:22:09.228483",
+            "duration": 202
+        },
+        {
+            "from": "TROILUS",
+            "to": "Servant",
+            "timestamp": "2025-03-05T22:52:09.228486",
+            "duration": 260
+        },
+        {
+            "from": "TROILUS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-02T18:02:09.228488",
+            "duration": 137
+        },
+        {
+            "from": "TROILUS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-05T23:03:09.228490",
+            "duration": 146
+        },
+        {
+            "from": "TROILUS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-07T10:18:09.228492",
+            "duration": 277
+        },
+        {
+            "from": "TROILUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-10T10:45:09.228495",
+            "duration": 235
+        },
+        {
+            "from": "TROILUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-06T16:03:09.228497",
+            "duration": 179
+        },
+        {
+            "from": "TROILUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-10T09:12:09.228499",
+            "duration": 290
+        },
+        {
+            "from": "TROILUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-10T12:51:09.228501",
+            "duration": 229
+        },
+        {
+            "from": "TROILUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-05T01:05:09.228558",
+            "duration": 223
+        },
+        {
+            "from": "TROILUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-04T05:27:09.228561",
+            "duration": 204
+        },
+        {
+            "from": "TROILUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-09T01:25:09.228563",
+            "duration": 244
+        },
+        {
+            "from": "TROILUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-03T18:46:09.228565",
+            "duration": 163
+        },
+        {
+            "from": "TROILUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-03T14:38:09.228567",
+            "duration": 251
+        },
+        {
+            "from": "TROILUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-06T18:58:09.228569",
+            "duration": 256
+        },
+        {
+            "from": "TROILUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-09T13:13:09.228571",
+            "duration": 248
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-04T03:27:09.228574",
+            "duration": 92
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-07T16:37:09.228576",
+            "duration": 182
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "MARGARELON",
+            "timestamp": "2025-03-10T05:43:09.228578",
+            "duration": 111
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-07T02:43:09.228580",
+            "duration": 74
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-06T12:23:09.228582",
+            "duration": 264
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-10T03:49:09.228584",
+            "duration": 191
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-04T11:02:09.228586",
+            "duration": 76
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "Boy",
+            "timestamp": "2025-03-06T03:51:09.228588",
+            "duration": 89
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "Boy",
+            "timestamp": "2025-03-03T23:09:09.228591",
+            "duration": 281
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "Boy",
+            "timestamp": "2025-03-06T21:05:09.228593",
+            "duration": 172
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-06T21:26:09.228595",
+            "duration": 88
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-05T07:03:09.228597",
+            "duration": 102
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-06T21:44:09.228599",
+            "duration": 199
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-03T22:23:09.228602",
+            "duration": 101
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "Servant",
+            "timestamp": "2025-03-09T01:38:09.228604",
+            "duration": 84
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "Servant",
+            "timestamp": "2025-03-10T08:36:09.228606",
+            "duration": 211
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "HELENUS",
+            "timestamp": "2025-03-07T20:22:09.228608",
+            "duration": 171
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "HELENUS",
+            "timestamp": "2025-03-03T18:29:09.228610",
+            "duration": 153
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "HELENUS",
+            "timestamp": "2025-03-09T01:35:09.228612",
+            "duration": 289
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "AENEAS",
+            "timestamp": "2025-03-10T10:54:09.228614",
+            "duration": 171
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "AENEAS",
+            "timestamp": "2025-03-05T08:13:09.228617",
+            "duration": 124
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-05T02:12:09.228619",
+            "duration": 292
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-09T07:42:09.228621",
+            "duration": 84
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-09T16:07:09.228623",
+            "duration": 263
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-07T16:06:09.228626",
+            "duration": 211
+        },
+        {
+            "from": "ALEXANDER",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-09T15:21:09.228628",
+            "duration": 143
+        },
+        {
+            "from": "MARGARELON",
+            "to": "CASSANDRA",
+            "timestamp": "2025-03-07T05:10:09.228630",
+            "duration": 94
+        },
+        {
+            "from": "MARGARELON",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-04T15:28:09.228632",
+            "duration": 154
+        },
+        {
+            "from": "MARGARELON",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-10T08:46:09.228634",
+            "duration": 268
+        },
+        {
+            "from": "MARGARELON",
+            "to": "Boy",
+            "timestamp": "2025-03-05T20:03:09.228638",
+            "duration": 269
+        },
+        {
+            "from": "MARGARELON",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-09T07:53:09.228640",
+            "duration": 135
+        },
+        {
+            "from": "MARGARELON",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-10T09:50:09.228643",
+            "duration": 113
+        },
+        {
+            "from": "MARGARELON",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-09T01:55:09.228645",
+            "duration": 292
+        },
+        {
+            "from": "MARGARELON",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-09T12:35:09.228647",
+            "duration": 146
+        },
+        {
+            "from": "MARGARELON",
+            "to": "Servant",
+            "timestamp": "2025-03-05T18:31:09.228649",
+            "duration": 221
+        },
+        {
+            "from": "MARGARELON",
+            "to": "HELENUS",
+            "timestamp": "2025-03-09T21:20:09.228651",
+            "duration": 261
+        },
+        {
+            "from": "MARGARELON",
+            "to": "HELENUS",
+            "timestamp": "2025-03-06T09:04:09.228653",
+            "duration": 171
+        },
+        {
+            "from": "MARGARELON",
+            "to": "AENEAS",
+            "timestamp": "2025-03-04T11:36:09.228655",
+            "duration": 71
+        },
+        {
+            "from": "MARGARELON",
+            "to": "AENEAS",
+            "timestamp": "2025-03-06T01:00:09.228657",
+            "duration": 229
+        },
+        {
+            "from": "MARGARELON",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-09T08:06:09.228660",
+            "duration": 208
+        },
+        {
+            "from": "MARGARELON",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-04T10:10:09.228662",
+            "duration": 205
+        },
+        {
+            "from": "MARGARELON",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-03T08:37:09.228664",
+            "duration": 286
+        },
+        {
+            "from": "MARGARELON",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-08T19:13:09.228666",
+            "duration": 72
+        },
+        {
+            "from": "MARGARELON",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-04T13:49:09.228668",
+            "duration": 266
+        },
+        {
+            "from": "MARGARELON",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-10T02:03:09.228670",
+            "duration": 160
+        },
+        {
+            "from": "MARGARELON",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-09T02:38:09.228672",
+            "duration": 258
+        },
+        {
+            "from": "MARGARELON",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-09T02:00:09.228675",
+            "duration": 178
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-10T12:06:09.228677",
+            "duration": 88
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "CALCHAS",
+            "timestamp": "2025-03-07T04:11:09.228679",
+            "duration": 128
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "Boy",
+            "timestamp": "2025-03-09T09:05:09.228681",
+            "duration": 241
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "Boy",
+            "timestamp": "2025-03-05T13:58:09.228683",
+            "duration": 166
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "Boy",
+            "timestamp": "2025-03-09T00:36:09.228685",
+            "duration": 76
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-09T06:10:09.228687",
+            "duration": 169
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-09T16:51:09.228690",
+            "duration": 279
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-03T08:02:09.228692",
+            "duration": 84
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-04T15:51:09.228694",
+            "duration": 185
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "Servant",
+            "timestamp": "2025-03-07T20:18:09.228696",
+            "duration": 293
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "Servant",
+            "timestamp": "2025-03-07T09:06:09.228698",
+            "duration": 125
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "Servant",
+            "timestamp": "2025-03-08T03:27:09.228700",
+            "duration": 278
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "HELENUS",
+            "timestamp": "2025-03-08T19:29:09.228702",
+            "duration": 161
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "HELENUS",
+            "timestamp": "2025-03-02T15:23:09.228704",
+            "duration": 147
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "AENEAS",
+            "timestamp": "2025-03-05T19:02:09.228707",
+            "duration": 205
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-06T01:21:09.228709",
+            "duration": 244
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-04T09:17:09.228711",
+            "duration": 178
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-03T05:27:09.228713",
+            "duration": 137
+        },
+        {
+            "from": "CASSANDRA",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-03T06:05:09.228716",
+            "duration": 90
+        },
+        {
+            "from": "CALCHAS",
+            "to": "Boy",
+            "timestamp": "2025-03-03T22:19:09.228718",
+            "duration": 106
+        },
+        {
+            "from": "CALCHAS",
+            "to": "Boy",
+            "timestamp": "2025-03-03T12:47:09.228720",
+            "duration": 235
+        },
+        {
+            "from": "CALCHAS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-05T10:04:09.228722",
+            "duration": 289
+        },
+        {
+            "from": "CALCHAS",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-03T15:28:09.228724",
+            "duration": 110
+        },
+        {
+            "from": "CALCHAS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-06T22:41:09.228727",
+            "duration": 152
+        },
+        {
+            "from": "CALCHAS",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-02T21:57:09.228729",
+            "duration": 99
+        },
+        {
+            "from": "CALCHAS",
+            "to": "Servant",
+            "timestamp": "2025-03-10T04:56:09.228731",
+            "duration": 163
+        },
+        {
+            "from": "CALCHAS",
+            "to": "Servant",
+            "timestamp": "2025-03-06T18:30:09.228733",
+            "duration": 153
+        },
+        {
+            "from": "CALCHAS",
+            "to": "Servant",
+            "timestamp": "2025-03-08T03:34:09.228735",
+            "duration": 66
+        },
+        {
+            "from": "CALCHAS",
+            "to": "HELENUS",
+            "timestamp": "2025-03-03T00:12:09.228738",
+            "duration": 293
+        },
+        {
+            "from": "CALCHAS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-07T02:17:09.228740",
+            "duration": 124
+        },
+        {
+            "from": "CALCHAS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-02T23:53:09.228742",
+            "duration": 73
+        },
+        {
+            "from": "CALCHAS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-03T00:04:09.228744",
+            "duration": 199
+        },
+        {
+            "from": "CALCHAS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-08T01:12:09.228746",
+            "duration": 103
+        },
+        {
+            "from": "CALCHAS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-10T13:56:09.228748",
+            "duration": 85
+        },
+        {
+            "from": "CALCHAS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-05T13:09:09.228750",
+            "duration": 89
+        },
+        {
+            "from": "CALCHAS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-10T06:11:09.228752",
+            "duration": 224
+        },
+        {
+            "from": "CALCHAS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-04T20:32:09.228755",
+            "duration": 80
+        },
+        {
+            "from": "CALCHAS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-08T07:22:09.228757",
+            "duration": 215
+        },
+        {
+            "from": "CALCHAS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-07T17:17:09.228759",
+            "duration": 82
+        },
+        {
+            "from": "CALCHAS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-05T02:26:09.228761",
+            "duration": 222
+        },
+        {
+            "from": "CALCHAS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-04T08:58:09.228763",
+            "duration": 139
+        },
+        {
+            "from": "Boy",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-08T07:58:09.228766",
+            "duration": 281
+        },
+        {
+            "from": "Boy",
+            "to": "CRESSIDA",
+            "timestamp": "2025-03-10T03:47:09.228768",
+            "duration": 215
+        },
+        {
+            "from": "Boy",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-09T13:35:09.228770",
+            "duration": 227
+        },
+        {
+            "from": "Boy",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-07T11:21:09.228772",
+            "duration": 155
+        },
+        {
+            "from": "Boy",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-03T04:34:09.228774",
+            "duration": 146
+        },
+        {
+            "from": "Boy",
+            "to": "Servant",
+            "timestamp": "2025-03-05T07:15:09.228777",
+            "duration": 148
+        },
+        {
+            "from": "Boy",
+            "to": "HELENUS",
+            "timestamp": "2025-03-04T19:02:09.228779",
+            "duration": 231
+        },
+        {
+            "from": "Boy",
+            "to": "HELENUS",
+            "timestamp": "2025-03-09T02:47:09.228781",
+            "duration": 169
+        },
+        {
+            "from": "Boy",
+            "to": "AENEAS",
+            "timestamp": "2025-03-10T00:47:09.228784",
+            "duration": 130
+        },
+        {
+            "from": "Boy",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-03T00:27:09.228786",
+            "duration": 290
+        },
+        {
+            "from": "Boy",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-05T12:06:09.228788",
+            "duration": 75
+        },
+        {
+            "from": "Boy",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-05T13:05:09.228790",
+            "duration": 261
+        },
+        {
+            "from": "Boy",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-06T01:50:09.228798",
+            "duration": 247
+        },
+        {
+            "from": "Boy",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-05T11:33:09.228800",
+            "duration": 75
+        },
+        {
+            "from": "Boy",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-04T14:37:09.228803",
+            "duration": 231
+        },
+        {
+            "from": "Boy",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-05T02:11:09.228805",
+            "duration": 96
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "DIOMEDES",
+            "timestamp": "2025-03-03T10:37:09.228807",
+            "duration": 291
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "Servant",
+            "timestamp": "2025-03-07T15:14:09.228809",
+            "duration": 150
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "Servant",
+            "timestamp": "2025-03-06T19:15:09.228812",
+            "duration": 61
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "Servant",
+            "timestamp": "2025-03-10T11:18:09.228814",
+            "duration": 176
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "HELENUS",
+            "timestamp": "2025-03-05T12:36:09.228816",
+            "duration": 283
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "HELENUS",
+            "timestamp": "2025-03-06T23:39:09.228819",
+            "duration": 234
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "AENEAS",
+            "timestamp": "2025-03-08T03:36:09.228821",
+            "duration": 240
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-09T16:06:09.228823",
+            "duration": 64
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-05T03:51:09.228825",
+            "duration": 95
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-04T20:50:09.228828",
+            "duration": 188
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-03T08:33:09.228830",
+            "duration": 133
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-08T14:16:09.228832",
+            "duration": 156
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-09T13:30:09.228834",
+            "duration": 196
+        },
+        {
+            "from": "CRESSIDA",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-09T18:00:09.228836",
+            "duration": 122
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "Servant",
+            "timestamp": "2025-03-08T17:25:09.228839",
+            "duration": 199
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "HELENUS",
+            "timestamp": "2025-03-04T07:03:09.228841",
+            "duration": 288
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "AENEAS",
+            "timestamp": "2025-03-10T08:47:09.228843",
+            "duration": 155
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "AENEAS",
+            "timestamp": "2025-03-10T00:21:09.228846",
+            "duration": 222
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-04T20:32:09.228848",
+            "duration": 217
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-03T09:12:09.228850",
+            "duration": 109
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-08T16:59:09.228852",
+            "duration": 76
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-05T07:17:09.228854",
+            "duration": 157
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-06T03:40:09.228856",
+            "duration": 248
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-03T01:56:09.228858",
+            "duration": 125
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-05T03:53:09.228861",
+            "duration": 107
+        },
+        {
+            "from": "DIOMEDES",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-03T02:10:09.228863",
+            "duration": 162
+        },
+        {
+            "from": "Servant",
+            "to": "HELENUS",
+            "timestamp": "2025-03-04T13:43:09.228865",
+            "duration": 129
+        },
+        {
+            "from": "Servant",
+            "to": "HELENUS",
+            "timestamp": "2025-03-08T05:53:09.228867",
+            "duration": 186
+        },
+        {
+            "from": "Servant",
+            "to": "AENEAS",
+            "timestamp": "2025-03-04T02:46:09.228869",
+            "duration": 214
+        },
+        {
+            "from": "Servant",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-05T14:23:09.228876",
+            "duration": 111
+        },
+        {
+            "from": "Servant",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-05T06:03:09.228879",
+            "duration": 96
+        },
+        {
+            "from": "Servant",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-07T09:28:09.228881",
+            "duration": 83
+        },
+        {
+            "from": "Servant",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-06T08:18:09.228883",
+            "duration": 81
+        },
+        {
+            "from": "Servant",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-07T13:35:09.228885",
+            "duration": 62
+        },
+        {
+            "from": "Servant",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-05T16:44:09.228887",
+            "duration": 111
+        },
+        {
+            "from": "Servant",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-04T06:02:09.228889",
+            "duration": 184
+        },
+        {
+            "from": "Servant",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-07T14:02:09.228891",
+            "duration": 164
+        },
+        {
+            "from": "HELENUS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-03T01:24:09.228894",
+            "duration": 106
+        },
+        {
+            "from": "HELENUS",
+            "to": "AENEAS",
+            "timestamp": "2025-03-07T01:07:09.228897",
+            "duration": 231
+        },
+        {
+            "from": "HELENUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-03T16:49:09.228900",
+            "duration": 208
+        },
+        {
+            "from": "HELENUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-09T07:44:09.228902",
+            "duration": 83
+        },
+        {
+            "from": "HELENUS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-09T11:21:09.228904",
+            "duration": 74
+        },
+        {
+            "from": "HELENUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-07T23:22:09.228906",
+            "duration": 190
+        },
+        {
+            "from": "HELENUS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-07T03:01:09.228908",
+            "duration": 92
+        },
+        {
+            "from": "HELENUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-09T14:35:09.228910",
+            "duration": 192
+        },
+        {
+            "from": "HELENUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-09T21:43:09.228913",
+            "duration": 181
+        },
+        {
+            "from": "HELENUS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-05T10:10:09.228915",
+            "duration": 200
+        },
+        {
+            "from": "HELENUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-04T09:16:09.228918",
+            "duration": 281
+        },
+        {
+            "from": "AENEAS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-05T19:16:09.228920",
+            "duration": 253
+        },
+        {
+            "from": "AENEAS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-07T18:59:09.228922",
+            "duration": 217
+        },
+        {
+            "from": "AENEAS",
+            "to": "AGAMEMNON",
+            "timestamp": "2025-03-03T06:31:09.228924",
+            "duration": 229
+        },
+        {
+            "from": "AENEAS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-10T05:11:09.228927",
+            "duration": 120
+        },
+        {
+            "from": "AENEAS",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-06T00:40:09.228929",
+            "duration": 62
+        },
+        {
+            "from": "AENEAS",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-03T10:00:09.228931",
+            "duration": 259
+        },
+        {
+            "from": "AENEAS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-08T22:59:09.228933",
+            "duration": 100
+        },
+        {
+            "from": "AGAMEMNON",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-07T00:33:09.228936",
+            "duration": 230
+        },
+        {
+            "from": "AGAMEMNON",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-08T04:25:09.228938",
+            "duration": 268
+        },
+        {
+            "from": "AGAMEMNON",
+            "to": "ACHILLES",
+            "timestamp": "2025-03-08T22:51:09.228940",
+            "duration": 73
+        },
+        {
+            "from": "AGAMEMNON",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-05T03:53:09.228942",
+            "duration": 194
+        },
+        {
+            "from": "AGAMEMNON",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-06T19:47:09.228944",
+            "duration": 85
+        },
+        {
+            "from": "ACHILLES",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-07T14:19:09.228947",
+            "duration": 236
+        },
+        {
+            "from": "ACHILLES",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-10T04:57:09.228949",
+            "duration": 192
+        },
+        {
+            "from": "ACHILLES",
+            "to": "PATROCLUS",
+            "timestamp": "2025-03-03T23:54:09.228951",
+            "duration": 191
+        },
+        {
+            "from": "ACHILLES",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-09T23:55:09.228953",
+            "duration": 132
+        },
+        {
+            "from": "ACHILLES",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-04T11:05:09.228955",
+            "duration": 113
+        },
+        {
+            "from": "ACHILLES",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-08T18:02:09.228957",
+            "duration": 226
+        },
+        {
+            "from": "PATROCLUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-07T04:35:09.228959",
+            "duration": 269
+        },
+        {
+            "from": "PATROCLUS",
+            "to": "ANDROMACHE",
+            "timestamp": "2025-03-03T20:24:09.228961",
+            "duration": 117
+        }
+    ],
+    "contact_data": {
+        "MENELAUS": {
+            "phone": "323-801-9702",
+            "email": "menelaus@commercelink.com",
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "HECTOR": {
+            "phone": "323-933-8936",
+            "email": "hector@merchantsexchange.com",
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "PANDARUS": {
+            "phone": "323-662-8173",
+            "email": "pandarus@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "THERSITES": {
+            "phone": "213-411-5519",
+            "email": "thersites@merchantsexchange.com",
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "PARIS": {
+            "phone": "310-435-7496",
+            "email": "paris@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "ALL": {
+            "phone": "213-879-8259",
+            "email": "all@marketdyn.com",
+            "title": "Market Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "HELEN": {
+            "phone": "323-877-3169",
+            "email": "helen@marketdyn.com",
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "DEIPHOBUS": {
+            "phone": "323-485-9002",
+            "email": "deiphobus@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "PRIAM": {
+            "phone": "323-419-8639",
+            "email": "priam@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "AJAX": {
+            "phone": "323-853-3851",
+            "email": "ajax@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "NESTOR": {
+            "phone": "213-656-9264",
+            "email": "nestor@commercelink.com",
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "ULYSSES": {
+            "phone": "213-621-3783",
+            "email": "ulysses@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "MYRMIDONS": {
+            "phone": "323-268-9376",
+            "email": "myrmidons@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "TROILUS": {
+            "phone": "213-612-1846",
+            "email": "troilus@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "ALEXANDER": {
+            "phone": "310-297-4512",
+            "email": "alexander@marketdyn.com",
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "MARGARELON": {
+            "phone": "213-965-4439",
+            "email": "margarelon@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "CASSANDRA": {
+            "phone": "323-431-5931",
+            "email": "cassandra@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "CALCHAS": {
+            "phone": "213-824-1745",
+            "email": "calchas@tradewinds.com",
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Boy": {
+            "phone": "310-691-4549",
+            "email": "boy@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "CRESSIDA": {
+            "phone": "213-770-6697",
+            "email": "cressida@commercetrade.com",
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "DIOMEDES": {
+            "phone": "213-962-6958",
+            "email": "diomedes@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Servant": {
+            "phone": "213-329-7136",
+            "email": "servant@tradewinds.com",
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "HELENUS": {
+            "phone": "323-499-2204",
+            "email": "helenus@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "AENEAS": {
+            "phone": "213-378-3638",
+            "email": "aeneas@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "AGAMEMNON": {
+            "phone": "323-426-1650",
+            "email": "agamemnon@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "ACHILLES": {
+            "phone": "213-964-7286",
+            "email": "achilles@marketdyn.com",
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "PATROCLUS": {
+            "phone": "323-553-1675",
+            "email": "patroclus@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "ANDROMACHE": {
+            "phone": "323-527-4358",
+            "email": "andromache@commercetrade.com",
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        }
+    }
+}

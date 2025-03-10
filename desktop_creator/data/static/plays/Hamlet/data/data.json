@@ -1,0 +1,5237 @@
+{
+    "characters": {
+        "PRINCE FORTINBRAS": {
+            "title": "President",
+            "company": "Sovereign Wealth Partners",
+            "industry": "Royal",
+            "location": "Chicago",
+            "phone": "773-805-7472",
+            "email": "prince.fortinbras@sovereignwealth.com"
+        },
+        "ROSENCRANTZ:": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-200-6226",
+            "email": "rosencrantz@commercetrade.com"
+        },
+        "MARCELLUS": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-750-7424",
+            "email": "marcellus@commercetrade.com"
+        },
+        "Prologue": {
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-139-4618",
+            "email": "prologue@globaltradepart.com"
+        },
+        "GUILDENSTERN:": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-812-3916",
+            "email": "guildenstern@tradewinds.com"
+        },
+        "HORATIO": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-973-2158",
+            "email": "horatio@marketdyn.com"
+        },
+        "BERNARDO": {
+            "title": "Market Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-943-3024",
+            "email": "bernardo@marketdyn.com"
+        },
+        "VOLTIMAND": {
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-898-3756",
+            "email": "voltimand@merchantsexchange.com"
+        },
+        "OSRIC": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-917-6797",
+            "email": "osric@commercetrade.com"
+        },
+        "FRANCISCO": {
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-263-1916",
+            "email": "francisco@globaltradepart.com"
+        },
+        "CORNELIUS": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-515-8517",
+            "email": "cornelius@commercetrade.com"
+        },
+        "Player Queen": {
+            "title": "Chairman of the Board",
+            "company": "Dynasty Global Investments",
+            "industry": "Royal",
+            "location": "Houston",
+            "phone": "281-447-1036",
+            "email": "player.queen@dynastyglobal.com"
+        },
+        "QUEEN GERTRUDE": {
+            "title": "President",
+            "company": "Crown Holdings International",
+            "industry": "Royal",
+            "location": "Los Angeles",
+            "phone": "310-421-2238",
+            "email": "queen.gertrude@crownholdings.com"
+        },
+        "GUILDENSTERN": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-563-6810",
+            "email": "guildenstern@commercetrade.com"
+        },
+        "LORD POLONIUS": {
+            "title": "Managing Partner",
+            "company": "Legacy Capital Partners",
+            "industry": "Noble",
+            "location": "New York",
+            "phone": "212-815-9285",
+            "email": "lord.polonius@legacycap.com"
+        },
+        "HAMLET": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-589-5065",
+            "email": "hamlet@tradewinds.com"
+        },
+        "Gentleman": {
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-493-2836",
+            "email": "gentleman@merchantsexchange.com"
+        },
+        "Danes": {
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-980-5557",
+            "email": "danes@commercelink.com"
+        },
+        "LUCIANUS": {
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-713-8007",
+            "email": "lucianus@commercelink.com"
+        },
+        "Servant": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-626-4101",
+            "email": "servant@tradewinds.com"
+        },
+        "OPHELIA": {
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-304-8410",
+            "email": "ophelia@globaltradepart.com"
+        },
+        "Messenger": {
+            "title": "External Relations Head",
+            "company": "Unity Diplomatic Solutions",
+            "industry": "Diplomatic",
+            "location": "Los Angeles",
+            "phone": "213-628-8930",
+            "email": "messenger@unitydiplomacy.com"
+        },
+        "KING CLAUDIUS": {
+            "title": "Executive Chairman",
+            "company": "Regency Financial",
+            "industry": "Royal",
+            "location": "Los Angeles",
+            "phone": "323-456-1190",
+            "email": "king.claudius@regencyfinancial.com"
+        },
+        "LAERTES": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-571-2058",
+            "email": "laertes@commercelink.com"
+        },
+        "Lord": {
+            "title": "Executive Director",
+            "company": "Prestige Holdings",
+            "industry": "Noble",
+            "location": "New York",
+            "phone": "646-936-3943",
+            "email": "lord@prestigeholdings.com"
+        },
+        "ROSENCRANTZ": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-715-5100",
+            "email": "rosencrantz@merchantsexchange.com"
+        },
+        "Captain": {
+            "title": "Head of Special Operations",
+            "company": "Fortress Global Security",
+            "industry": "Military",
+            "location": "New York",
+            "phone": "212-702-5216",
+            "email": "captain@fortresssecurity.com"
+        },
+        "Player King": {
+            "title": "Chairman of the Board",
+            "company": "Dynasty Global Investments",
+            "industry": "Royal",
+            "location": "Houston",
+            "phone": "281-589-2285",
+            "email": "player.king@dynastyglobal.com"
+        },
+        "REYNALDO": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-827-1743",
+            "email": "reynaldo@commercelink.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "ROSENCRANTZ:",
+            "timestamp": "2025-03-05T19:56:04.698913",
+            "duration": 139
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "MARCELLUS",
+            "timestamp": "2025-03-04T20:43:04.698925",
+            "duration": 192
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Prologue",
+            "timestamp": "2025-03-09T11:03:04.698928",
+            "duration": 82
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Prologue",
+            "timestamp": "2025-03-05T11:35:04.698930",
+            "duration": 263
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "GUILDENSTERN:",
+            "timestamp": "2025-03-10T13:29:04.698933",
+            "duration": 74
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "HORATIO",
+            "timestamp": "2025-03-04T20:12:04.698936",
+            "duration": 112
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "HORATIO",
+            "timestamp": "2025-03-03T04:51:04.698938",
+            "duration": 159
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "BERNARDO",
+            "timestamp": "2025-03-09T11:32:04.698941",
+            "duration": 76
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "BERNARDO",
+            "timestamp": "2025-03-10T02:13:04.698943",
+            "duration": 177
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-07T00:17:04.698945",
+            "duration": 91
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-07T21:00:04.698947",
+            "duration": 245
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-10T09:17:04.698950",
+            "duration": 166
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "OSRIC",
+            "timestamp": "2025-03-03T11:14:04.698952",
+            "duration": 98
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-10T13:01:04.698954",
+            "duration": 206
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-03T06:26:04.698957",
+            "duration": 171
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-05T15:02:04.698959",
+            "duration": 96
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-09T09:26:04.698961",
+            "duration": 163
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Player Queen",
+            "timestamp": "2025-03-05T18:32:04.698964",
+            "duration": 211
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Player Queen",
+            "timestamp": "2025-03-02T21:10:04.698966",
+            "duration": 183
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-10T04:57:04.698968",
+            "duration": 273
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-07T22:50:04.698970",
+            "duration": 131
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-08T11:33:04.698972",
+            "duration": 264
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-04T14:34:04.698975",
+            "duration": 89
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-09T01:43:04.698977",
+            "duration": 121
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-09T17:11:04.698980",
+            "duration": 195
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-03T18:49:04.698982",
+            "duration": 145
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-03T18:33:04.698984",
+            "duration": 236
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "HAMLET",
+            "timestamp": "2025-03-05T07:03:04.698986",
+            "duration": 260
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "HAMLET",
+            "timestamp": "2025-03-03T10:25:04.698989",
+            "duration": 217
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T15:59:04.698991",
+            "duration": 104
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Danes",
+            "timestamp": "2025-03-06T22:59:04.699051",
+            "duration": 168
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Danes",
+            "timestamp": "2025-03-07T17:58:04.699053",
+            "duration": 116
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Danes",
+            "timestamp": "2025-03-05T05:36:04.699055",
+            "duration": 292
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-05T03:56:04.699058",
+            "duration": 284
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Servant",
+            "timestamp": "2025-03-07T04:17:04.699060",
+            "duration": 196
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-08T04:54:04.699062",
+            "duration": 296
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-04T10:43:04.699065",
+            "duration": 132
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T15:29:04.699067",
+            "duration": 278
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T17:03:04.699069",
+            "duration": 206
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-07T16:48:04.699072",
+            "duration": 89
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-08T22:02:04.699074",
+            "duration": 121
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-08T14:49:04.699076",
+            "duration": 189
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Lord",
+            "timestamp": "2025-03-02T23:55:04.699078",
+            "duration": 176
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-03T01:19:04.699080",
+            "duration": 66
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T00:30:04.699082",
+            "duration": 279
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-02T22:47:04.699084",
+            "duration": 177
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Captain",
+            "timestamp": "2025-03-07T22:15:04.699087",
+            "duration": 129
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Captain",
+            "timestamp": "2025-03-06T06:59:04.699089",
+            "duration": 187
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Player King",
+            "timestamp": "2025-03-03T21:06:04.699091",
+            "duration": 211
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "Player King",
+            "timestamp": "2025-03-09T02:59:04.699093",
+            "duration": 156
+        },
+        {
+            "from": "PRINCE FORTINBRAS",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-08T16:26:04.699095",
+            "duration": 266
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "MARCELLUS",
+            "timestamp": "2025-03-05T19:16:04.699098",
+            "duration": 143
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Prologue",
+            "timestamp": "2025-03-08T09:11:04.699100",
+            "duration": 100
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Prologue",
+            "timestamp": "2025-03-05T00:08:04.699102",
+            "duration": 100
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Prologue",
+            "timestamp": "2025-03-05T16:09:04.699104",
+            "duration": 255
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "GUILDENSTERN:",
+            "timestamp": "2025-03-04T01:50:04.699106",
+            "duration": 144
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "GUILDENSTERN:",
+            "timestamp": "2025-03-05T07:41:04.699108",
+            "duration": 215
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "HORATIO",
+            "timestamp": "2025-03-07T09:12:04.699111",
+            "duration": 134
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "HORATIO",
+            "timestamp": "2025-03-09T05:09:04.699114",
+            "duration": 212
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "BERNARDO",
+            "timestamp": "2025-03-10T13:51:04.699125",
+            "duration": 291
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-03T14:30:04.699127",
+            "duration": 79
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-09T21:43:04.699129",
+            "duration": 162
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "OSRIC",
+            "timestamp": "2025-03-02T18:21:04.699132",
+            "duration": 173
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-04T15:48:04.699134",
+            "duration": 203
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-09T14:56:04.699136",
+            "duration": 243
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-08T17:15:04.699138",
+            "duration": 243
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-03T22:22:04.699140",
+            "duration": 264
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Player Queen",
+            "timestamp": "2025-03-04T14:30:04.699143",
+            "duration": 116
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-05T06:24:04.699145",
+            "duration": 83
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-04T02:10:04.699147",
+            "duration": 114
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-03T21:00:04.699149",
+            "duration": 264
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-07T06:01:04.699151",
+            "duration": 98
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-04T08:10:04.699153",
+            "duration": 197
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-09T13:56:04.699155",
+            "duration": 105
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-07T07:10:04.699157",
+            "duration": 299
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "HAMLET",
+            "timestamp": "2025-03-03T17:31:04.699160",
+            "duration": 94
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "HAMLET",
+            "timestamp": "2025-03-07T09:15:04.699162",
+            "duration": 227
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "HAMLET",
+            "timestamp": "2025-03-07T05:39:04.699164",
+            "duration": 122
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Gentleman",
+            "timestamp": "2025-03-02T23:30:04.699167",
+            "duration": 201
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T13:57:04.699169",
+            "duration": 116
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T03:25:04.699171",
+            "duration": 272
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Danes",
+            "timestamp": "2025-03-06T17:53:04.699173",
+            "duration": 156
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Danes",
+            "timestamp": "2025-03-04T03:57:04.699175",
+            "duration": 258
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T15:32:04.699177",
+            "duration": 188
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Servant",
+            "timestamp": "2025-03-10T08:31:04.699180",
+            "duration": 278
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Servant",
+            "timestamp": "2025-03-05T09:05:04.699182",
+            "duration": 232
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Servant",
+            "timestamp": "2025-03-05T15:53:04.699184",
+            "duration": 192
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-09T15:14:04.699186",
+            "duration": 224
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T21:41:04.699189",
+            "duration": 138
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-08T03:11:04.699191",
+            "duration": 128
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-10T04:54:04.699193",
+            "duration": 86
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "LAERTES",
+            "timestamp": "2025-03-10T12:11:04.699195",
+            "duration": 272
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Lord",
+            "timestamp": "2025-03-08T17:49:04.699198",
+            "duration": 271
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Lord",
+            "timestamp": "2025-03-08T14:18:04.699200",
+            "duration": 150
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Lord",
+            "timestamp": "2025-03-06T03:47:04.699202",
+            "duration": 153
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-03T13:52:04.699204",
+            "duration": 184
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-09T18:37:04.699206",
+            "duration": 203
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Captain",
+            "timestamp": "2025-03-04T20:07:04.699208",
+            "duration": 103
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Captain",
+            "timestamp": "2025-03-07T03:04:04.699210",
+            "duration": 197
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "Player King",
+            "timestamp": "2025-03-08T20:00:04.699213",
+            "duration": 264
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-05T12:41:04.699215",
+            "duration": 121
+        },
+        {
+            "from": "ROSENCRANTZ:",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-10T03:37:04.699217",
+            "duration": 128
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Prologue",
+            "timestamp": "2025-03-04T15:33:04.699219",
+            "duration": 127
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "GUILDENSTERN:",
+            "timestamp": "2025-03-06T01:32:04.699222",
+            "duration": 202
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "GUILDENSTERN:",
+            "timestamp": "2025-03-09T16:55:04.699224",
+            "duration": 180
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "GUILDENSTERN:",
+            "timestamp": "2025-03-02T18:28:04.699226",
+            "duration": 149
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "HORATIO",
+            "timestamp": "2025-03-10T06:51:04.699228",
+            "duration": 78
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "HORATIO",
+            "timestamp": "2025-03-05T12:10:04.699230",
+            "duration": 156
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "HORATIO",
+            "timestamp": "2025-03-09T03:30:04.699232",
+            "duration": 206
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "BERNARDO",
+            "timestamp": "2025-03-08T13:47:04.699234",
+            "duration": 197
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-09T15:19:04.699237",
+            "duration": 205
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-08T14:45:04.699243",
+            "duration": 218
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-04T01:15:04.699245",
+            "duration": 235
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "OSRIC",
+            "timestamp": "2025-03-05T22:11:04.699247",
+            "duration": 264
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-05T21:53:04.699250",
+            "duration": 247
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-08T00:48:04.699252",
+            "duration": 155
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-07T19:27:04.699254",
+            "duration": 190
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-08T12:03:04.699256",
+            "duration": 214
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Player Queen",
+            "timestamp": "2025-03-08T22:01:04.699258",
+            "duration": 279
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-10T00:27:04.699261",
+            "duration": 220
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-05T11:27:04.699263",
+            "duration": 265
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-04T07:35:04.699265",
+            "duration": 133
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-10T10:09:04.699267",
+            "duration": 214
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-05T21:02:04.699270",
+            "duration": 181
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-08T12:02:04.699272",
+            "duration": 168
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-06T07:41:04.699274",
+            "duration": 80
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "HAMLET",
+            "timestamp": "2025-03-08T15:01:04.699276",
+            "duration": 176
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "HAMLET",
+            "timestamp": "2025-03-03T17:55:04.699278",
+            "duration": 294
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T20:29:04.699280",
+            "duration": 214
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-10T02:51:04.699283",
+            "duration": 85
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Danes",
+            "timestamp": "2025-03-09T19:13:04.699285",
+            "duration": 81
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T11:50:04.699287",
+            "duration": 86
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T04:25:04.699289",
+            "duration": 207
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Servant",
+            "timestamp": "2025-03-04T12:39:04.699292",
+            "duration": 119
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-10T00:10:04.699294",
+            "duration": 264
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-02T17:17:04.699296",
+            "duration": 180
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T04:37:04.699298",
+            "duration": 221
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T10:52:04.699300",
+            "duration": 149
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T19:44:04.699302",
+            "duration": 235
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-04T22:42:04.699304",
+            "duration": 265
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T05:39:04.699352",
+            "duration": 203
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-09T20:04:04.699371",
+            "duration": 171
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Lord",
+            "timestamp": "2025-03-08T10:40:04.699382",
+            "duration": 126
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-04T16:28:04.699393",
+            "duration": 132
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Captain",
+            "timestamp": "2025-03-05T03:46:04.699402",
+            "duration": 114
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Captain",
+            "timestamp": "2025-03-06T20:12:04.699410",
+            "duration": 188
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Player King",
+            "timestamp": "2025-03-07T02:16:04.699418",
+            "duration": 206
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Player King",
+            "timestamp": "2025-03-04T10:14:04.699425",
+            "duration": 219
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "Player King",
+            "timestamp": "2025-03-04T01:39:04.699433",
+            "duration": 284
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-04T22:36:04.699443",
+            "duration": 168
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-05T16:36:04.699450",
+            "duration": 114
+        },
+        {
+            "from": "MARCELLUS",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-08T08:16:04.699457",
+            "duration": 288
+        },
+        {
+            "from": "Prologue",
+            "to": "GUILDENSTERN:",
+            "timestamp": "2025-03-05T10:30:04.699467",
+            "duration": 166
+        },
+        {
+            "from": "Prologue",
+            "to": "HORATIO",
+            "timestamp": "2025-03-05T06:34:04.699475",
+            "duration": 247
+        },
+        {
+            "from": "Prologue",
+            "to": "HORATIO",
+            "timestamp": "2025-03-06T16:12:04.699482",
+            "duration": 282
+        },
+        {
+            "from": "Prologue",
+            "to": "HORATIO",
+            "timestamp": "2025-03-09T07:18:04.699490",
+            "duration": 200
+        },
+        {
+            "from": "Prologue",
+            "to": "BERNARDO",
+            "timestamp": "2025-03-10T14:32:04.699499",
+            "duration": 109
+        },
+        {
+            "from": "Prologue",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-04T00:30:04.699509",
+            "duration": 233
+        },
+        {
+            "from": "Prologue",
+            "to": "OSRIC",
+            "timestamp": "2025-03-10T13:14:04.699517",
+            "duration": 227
+        },
+        {
+            "from": "Prologue",
+            "to": "OSRIC",
+            "timestamp": "2025-03-03T00:35:04.699525",
+            "duration": 277
+        },
+        {
+            "from": "Prologue",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-09T22:18:04.699533",
+            "duration": 157
+        },
+        {
+            "from": "Prologue",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-08T12:11:04.699547",
+            "duration": 293
+        },
+        {
+            "from": "Prologue",
+            "to": "Player Queen",
+            "timestamp": "2025-03-04T16:35:04.699556",
+            "duration": 66
+        },
+        {
+            "from": "Prologue",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-08T18:28:04.699564",
+            "duration": 260
+        },
+        {
+            "from": "Prologue",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-08T00:42:04.699571",
+            "duration": 192
+        },
+        {
+            "from": "Prologue",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-05T01:23:04.699576",
+            "duration": 205
+        },
+        {
+            "from": "Prologue",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-10T04:12:04.699578",
+            "duration": 190
+        },
+        {
+            "from": "Prologue",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-06T04:46:04.699580",
+            "duration": 189
+        },
+        {
+            "from": "Prologue",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-05T10:25:04.699582",
+            "duration": 290
+        },
+        {
+            "from": "Prologue",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-06T08:47:04.699585",
+            "duration": 259
+        },
+        {
+            "from": "Prologue",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-08T17:20:04.699587",
+            "duration": 291
+        },
+        {
+            "from": "Prologue",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-10T05:12:04.699589",
+            "duration": 213
+        },
+        {
+            "from": "Prologue",
+            "to": "HAMLET",
+            "timestamp": "2025-03-10T07:27:04.699591",
+            "duration": 136
+        },
+        {
+            "from": "Prologue",
+            "to": "HAMLET",
+            "timestamp": "2025-03-06T09:13:04.699594",
+            "duration": 133
+        },
+        {
+            "from": "Prologue",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T15:38:04.699596",
+            "duration": 279
+        },
+        {
+            "from": "Prologue",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T18:10:04.699598",
+            "duration": 222
+        },
+        {
+            "from": "Prologue",
+            "to": "Danes",
+            "timestamp": "2025-03-07T00:26:04.699600",
+            "duration": 128
+        },
+        {
+            "from": "Prologue",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-07T13:00:04.699603",
+            "duration": 139
+        },
+        {
+            "from": "Prologue",
+            "to": "Servant",
+            "timestamp": "2025-03-07T23:03:04.699605",
+            "duration": 84
+        },
+        {
+            "from": "Prologue",
+            "to": "Servant",
+            "timestamp": "2025-03-08T09:50:04.699607",
+            "duration": 162
+        },
+        {
+            "from": "Prologue",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-03T01:53:04.699609",
+            "duration": 200
+        },
+        {
+            "from": "Prologue",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-10T11:20:04.699611",
+            "duration": 214
+        },
+        {
+            "from": "Prologue",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-08T09:24:04.699613",
+            "duration": 127
+        },
+        {
+            "from": "Prologue",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T00:37:04.699616",
+            "duration": 165
+        },
+        {
+            "from": "Prologue",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-05T12:57:04.699618",
+            "duration": 295
+        },
+        {
+            "from": "Prologue",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-08T07:05:04.699620",
+            "duration": 137
+        },
+        {
+            "from": "Prologue",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-02T17:59:04.699622",
+            "duration": 94
+        },
+        {
+            "from": "Prologue",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T14:44:04.699624",
+            "duration": 127
+        },
+        {
+            "from": "Prologue",
+            "to": "Lord",
+            "timestamp": "2025-03-07T08:47:04.699627",
+            "duration": 131
+        },
+        {
+            "from": "Prologue",
+            "to": "Lord",
+            "timestamp": "2025-03-05T14:54:04.699629",
+            "duration": 229
+        },
+        {
+            "from": "Prologue",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-03T05:05:04.699631",
+            "duration": 230
+        },
+        {
+            "from": "Prologue",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T20:10:04.699633",
+            "duration": 180
+        },
+        {
+            "from": "Prologue",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-10T03:56:04.699635",
+            "duration": 233
+        },
+        {
+            "from": "Prologue",
+            "to": "Captain",
+            "timestamp": "2025-03-02T17:07:04.699637",
+            "duration": 174
+        },
+        {
+            "from": "Prologue",
+            "to": "Player King",
+            "timestamp": "2025-03-09T14:01:04.699641",
+            "duration": 215
+        },
+        {
+            "from": "Prologue",
+            "to": "Player King",
+            "timestamp": "2025-03-03T16:36:04.699643",
+            "duration": 290
+        },
+        {
+            "from": "Prologue",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-03T20:43:04.699645",
+            "duration": 81
+        },
+        {
+            "from": "Prologue",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-03T19:47:04.699647",
+            "duration": 94
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "HORATIO",
+            "timestamp": "2025-03-04T18:46:04.699649",
+            "duration": 120
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "HORATIO",
+            "timestamp": "2025-03-07T02:59:04.699651",
+            "duration": 249
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "BERNARDO",
+            "timestamp": "2025-03-06T04:53:04.699654",
+            "duration": 113
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "BERNARDO",
+            "timestamp": "2025-03-03T22:38:04.699656",
+            "duration": 103
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-06T09:34:04.699659",
+            "duration": 284
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "OSRIC",
+            "timestamp": "2025-03-10T02:06:04.699661",
+            "duration": 145
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "OSRIC",
+            "timestamp": "2025-03-05T22:04:04.699663",
+            "duration": 142
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "OSRIC",
+            "timestamp": "2025-03-04T12:34:04.699665",
+            "duration": 222
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-04T21:17:04.699667",
+            "duration": 230
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-06T17:28:04.699669",
+            "duration": 63
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-04T12:26:04.699672",
+            "duration": 206
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-07T18:28:04.699674",
+            "duration": 277
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-04T05:35:04.699676",
+            "duration": 101
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Player Queen",
+            "timestamp": "2025-03-03T13:37:04.699678",
+            "duration": 298
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-02T20:33:04.699680",
+            "duration": 123
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-07T06:39:04.699682",
+            "duration": 280
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-03T01:05:04.699685",
+            "duration": 61
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-04T07:02:04.699687",
+            "duration": 270
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-04T16:22:04.699689",
+            "duration": 198
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-07T10:13:04.699691",
+            "duration": 146
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-04T04:42:04.699694",
+            "duration": 291
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "HAMLET",
+            "timestamp": "2025-03-06T16:15:04.699696",
+            "duration": 214
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "HAMLET",
+            "timestamp": "2025-03-05T02:58:04.699698",
+            "duration": 183
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T23:51:04.699700",
+            "duration": 150
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Gentleman",
+            "timestamp": "2025-03-10T00:37:04.699702",
+            "duration": 193
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Danes",
+            "timestamp": "2025-03-09T05:42:04.699705",
+            "duration": 253
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Danes",
+            "timestamp": "2025-03-03T03:25:04.699707",
+            "duration": 149
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T05:27:04.699709",
+            "duration": 220
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Servant",
+            "timestamp": "2025-03-10T01:18:04.699712",
+            "duration": 291
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Servant",
+            "timestamp": "2025-03-09T14:02:04.699714",
+            "duration": 143
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Servant",
+            "timestamp": "2025-03-07T05:01:04.699716",
+            "duration": 222
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-10T12:05:04.699718",
+            "duration": 101
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-03T15:33:04.699720",
+            "duration": 113
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-08T16:12:04.699722",
+            "duration": 273
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T01:04:04.699725",
+            "duration": 123
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-07T13:39:04.699727",
+            "duration": 95
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-10T14:19:04.699729",
+            "duration": 300
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "LAERTES",
+            "timestamp": "2025-03-09T04:59:04.699732",
+            "duration": 238
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "LAERTES",
+            "timestamp": "2025-03-04T13:41:04.699734",
+            "duration": 262
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Lord",
+            "timestamp": "2025-03-09T08:11:04.699736",
+            "duration": 232
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Lord",
+            "timestamp": "2025-03-03T20:52:04.699738",
+            "duration": 264
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Lord",
+            "timestamp": "2025-03-03T15:02:04.699740",
+            "duration": 294
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-03T16:52:04.699742",
+            "duration": 139
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-08T19:59:04.699745",
+            "duration": 192
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-03T23:10:04.699747",
+            "duration": 183
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Captain",
+            "timestamp": "2025-03-08T22:19:04.699749",
+            "duration": 288
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Player King",
+            "timestamp": "2025-03-10T08:15:04.699752",
+            "duration": 99
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Player King",
+            "timestamp": "2025-03-08T03:24:04.699754",
+            "duration": 99
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "Player King",
+            "timestamp": "2025-03-10T04:14:04.699756",
+            "duration": 73
+        },
+        {
+            "from": "GUILDENSTERN:",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-05T13:04:04.699759",
+            "duration": 272
+        },
+        {
+            "from": "HORATIO",
+            "to": "BERNARDO",
+            "timestamp": "2025-03-08T18:18:04.699761",
+            "duration": 279
+        },
+        {
+            "from": "HORATIO",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-03T17:28:04.699764",
+            "duration": 232
+        },
+        {
+            "from": "HORATIO",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-06T11:16:04.699766",
+            "duration": 291
+        },
+        {
+            "from": "HORATIO",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-07T12:11:04.699768",
+            "duration": 158
+        },
+        {
+            "from": "HORATIO",
+            "to": "OSRIC",
+            "timestamp": "2025-03-05T02:26:04.699770",
+            "duration": 131
+        },
+        {
+            "from": "HORATIO",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-06T19:45:04.699772",
+            "duration": 150
+        },
+        {
+            "from": "HORATIO",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-07T13:34:04.699775",
+            "duration": 106
+        },
+        {
+            "from": "HORATIO",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-10T06:43:04.699777",
+            "duration": 154
+        },
+        {
+            "from": "HORATIO",
+            "to": "Player Queen",
+            "timestamp": "2025-03-08T15:46:04.699779",
+            "duration": 105
+        },
+        {
+            "from": "HORATIO",
+            "to": "Player Queen",
+            "timestamp": "2025-03-06T10:49:04.699781",
+            "duration": 237
+        },
+        {
+            "from": "HORATIO",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-09T07:58:04.699783",
+            "duration": 214
+        },
+        {
+            "from": "HORATIO",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-08T05:07:04.699785",
+            "duration": 289
+        },
+        {
+            "from": "HORATIO",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-08T10:36:04.699788",
+            "duration": 240
+        },
+        {
+            "from": "HORATIO",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-07T22:32:04.699790",
+            "duration": 146
+        },
+        {
+            "from": "HORATIO",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-03T03:15:04.699792",
+            "duration": 282
+        },
+        {
+            "from": "HORATIO",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-08T16:02:04.699794",
+            "duration": 221
+        },
+        {
+            "from": "HORATIO",
+            "to": "HAMLET",
+            "timestamp": "2025-03-09T21:05:04.699797",
+            "duration": 86
+        },
+        {
+            "from": "HORATIO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T06:25:04.699799",
+            "duration": 116
+        },
+        {
+            "from": "HORATIO",
+            "to": "Danes",
+            "timestamp": "2025-03-10T13:46:04.699802",
+            "duration": 84
+        },
+        {
+            "from": "HORATIO",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-07T19:04:04.699804",
+            "duration": 195
+        },
+        {
+            "from": "HORATIO",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T08:33:04.699806",
+            "duration": 237
+        },
+        {
+            "from": "HORATIO",
+            "to": "Servant",
+            "timestamp": "2025-03-06T12:21:04.699809",
+            "duration": 266
+        },
+        {
+            "from": "HORATIO",
+            "to": "Servant",
+            "timestamp": "2025-03-06T19:06:04.699811",
+            "duration": 206
+        },
+        {
+            "from": "HORATIO",
+            "to": "Servant",
+            "timestamp": "2025-03-05T09:26:04.699814",
+            "duration": 118
+        },
+        {
+            "from": "HORATIO",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-04T09:09:04.699816",
+            "duration": 268
+        },
+        {
+            "from": "HORATIO",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-07T03:04:04.699818",
+            "duration": 102
+        },
+        {
+            "from": "HORATIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T01:37:04.699820",
+            "duration": 224
+        },
+        {
+            "from": "HORATIO",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-05T11:33:04.699823",
+            "duration": 122
+        },
+        {
+            "from": "HORATIO",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T14:22:04.699825",
+            "duration": 300
+        },
+        {
+            "from": "HORATIO",
+            "to": "LAERTES",
+            "timestamp": "2025-03-07T05:41:04.699827",
+            "duration": 164
+        },
+        {
+            "from": "HORATIO",
+            "to": "Lord",
+            "timestamp": "2025-03-04T07:59:04.699830",
+            "duration": 210
+        },
+        {
+            "from": "HORATIO",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T18:29:04.699832",
+            "duration": 156
+        },
+        {
+            "from": "HORATIO",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T05:05:04.699834",
+            "duration": 189
+        },
+        {
+            "from": "HORATIO",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T17:04:04.699836",
+            "duration": 248
+        },
+        {
+            "from": "HORATIO",
+            "to": "Captain",
+            "timestamp": "2025-03-09T17:02:04.699838",
+            "duration": 162
+        },
+        {
+            "from": "HORATIO",
+            "to": "Player King",
+            "timestamp": "2025-03-08T18:29:04.699841",
+            "duration": 81
+        },
+        {
+            "from": "HORATIO",
+            "to": "Player King",
+            "timestamp": "2025-03-09T20:44:04.699843",
+            "duration": 180
+        },
+        {
+            "from": "HORATIO",
+            "to": "Player King",
+            "timestamp": "2025-03-05T17:52:04.699845",
+            "duration": 181
+        },
+        {
+            "from": "HORATIO",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-04T15:58:04.699847",
+            "duration": 235
+        },
+        {
+            "from": "BERNARDO",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-05T02:10:04.699850",
+            "duration": 162
+        },
+        {
+            "from": "BERNARDO",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-09T14:00:04.699852",
+            "duration": 171
+        },
+        {
+            "from": "BERNARDO",
+            "to": "VOLTIMAND",
+            "timestamp": "2025-03-03T10:34:04.699854",
+            "duration": 79
+        },
+        {
+            "from": "BERNARDO",
+            "to": "OSRIC",
+            "timestamp": "2025-03-07T00:20:04.699856",
+            "duration": 110
+        },
+        {
+            "from": "BERNARDO",
+            "to": "OSRIC",
+            "timestamp": "2025-03-06T15:32:04.699858",
+            "duration": 212
+        },
+        {
+            "from": "BERNARDO",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-05T22:23:04.699861",
+            "duration": 157
+        },
+        {
+            "from": "BERNARDO",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-03T09:34:04.699863",
+            "duration": 178
+        },
+        {
+            "from": "BERNARDO",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-08T05:54:04.699865",
+            "duration": 228
+        },
+        {
+            "from": "BERNARDO",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-10T03:51:04.699867",
+            "duration": 236
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Player Queen",
+            "timestamp": "2025-03-06T15:41:04.699870",
+            "duration": 151
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Player Queen",
+            "timestamp": "2025-03-06T11:27:04.699872",
+            "duration": 81
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Player Queen",
+            "timestamp": "2025-03-09T04:12:04.699874",
+            "duration": 285
+        },
+        {
+            "from": "BERNARDO",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-09T16:54:04.699876",
+            "duration": 68
+        },
+        {
+            "from": "BERNARDO",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-06T17:28:04.699878",
+            "duration": 89
+        },
+        {
+            "from": "BERNARDO",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-07T06:57:04.699881",
+            "duration": 262
+        },
+        {
+            "from": "BERNARDO",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-03T14:05:04.699883",
+            "duration": 284
+        },
+        {
+            "from": "BERNARDO",
+            "to": "HAMLET",
+            "timestamp": "2025-03-05T13:33:04.699885",
+            "duration": 293
+        },
+        {
+            "from": "BERNARDO",
+            "to": "HAMLET",
+            "timestamp": "2025-03-10T02:51:04.699887",
+            "duration": 229
+        },
+        {
+            "from": "BERNARDO",
+            "to": "HAMLET",
+            "timestamp": "2025-03-08T20:59:04.699889",
+            "duration": 95
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T09:28:04.699892",
+            "duration": 179
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Danes",
+            "timestamp": "2025-03-10T04:17:04.699894",
+            "duration": 196
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Danes",
+            "timestamp": "2025-03-08T13:14:04.699896",
+            "duration": 298
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Danes",
+            "timestamp": "2025-03-04T10:17:04.699899",
+            "duration": 68
+        },
+        {
+            "from": "BERNARDO",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-10T08:42:04.699901",
+            "duration": 289
+        },
+        {
+            "from": "BERNARDO",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-06T20:40:04.699903",
+            "duration": 300
+        },
+        {
+            "from": "BERNARDO",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T18:27:04.699905",
+            "duration": 264
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Servant",
+            "timestamp": "2025-03-10T09:28:04.699908",
+            "duration": 120
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Servant",
+            "timestamp": "2025-03-07T00:28:04.699910",
+            "duration": 169
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Servant",
+            "timestamp": "2025-03-08T02:44:04.699912",
+            "duration": 261
+        },
+        {
+            "from": "BERNARDO",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-06T22:24:04.699914",
+            "duration": 249
+        },
+        {
+            "from": "BERNARDO",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-09T14:36:04.699916",
+            "duration": 131
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T13:00:04.699919",
+            "duration": 163
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T17:43:04.699921",
+            "duration": 261
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T18:55:04.699923",
+            "duration": 136
+        },
+        {
+            "from": "BERNARDO",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-03T03:50:04.699925",
+            "duration": 210
+        },
+        {
+            "from": "BERNARDO",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-10T11:33:04.699927",
+            "duration": 260
+        },
+        {
+            "from": "BERNARDO",
+            "to": "LAERTES",
+            "timestamp": "2025-03-06T02:56:04.699930",
+            "duration": 173
+        },
+        {
+            "from": "BERNARDO",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T18:02:04.699932",
+            "duration": 190
+        },
+        {
+            "from": "BERNARDO",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T21:11:04.699934",
+            "duration": 173
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Lord",
+            "timestamp": "2025-03-02T20:32:04.699936",
+            "duration": 285
+        },
+        {
+            "from": "BERNARDO",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-07T14:10:04.699951",
+            "duration": 86
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Captain",
+            "timestamp": "2025-03-09T15:39:04.699959",
+            "duration": 158
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Captain",
+            "timestamp": "2025-03-09T23:29:04.699963",
+            "duration": 218
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Captain",
+            "timestamp": "2025-03-09T08:18:04.699965",
+            "duration": 188
+        },
+        {
+            "from": "BERNARDO",
+            "to": "Player King",
+            "timestamp": "2025-03-09T01:26:04.699968",
+            "duration": 133
+        },
+        {
+            "from": "BERNARDO",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-03T04:03:04.699971",
+            "duration": 125
+        },
+        {
+            "from": "BERNARDO",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-08T14:14:04.699973",
+            "duration": 119
+        },
+        {
+            "from": "BERNARDO",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-09T08:31:04.699975",
+            "duration": 253
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "OSRIC",
+            "timestamp": "2025-03-09T10:59:04.699978",
+            "duration": 214
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "OSRIC",
+            "timestamp": "2025-03-07T15:12:04.699980",
+            "duration": 64
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-09T06:12:04.699982",
+            "duration": 126
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-07T08:51:04.699984",
+            "duration": 102
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-05T16:50:04.699986",
+            "duration": 273
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-09T01:49:04.699988",
+            "duration": 225
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-08T02:52:04.699991",
+            "duration": 279
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-10T04:00:04.699993",
+            "duration": 297
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Player Queen",
+            "timestamp": "2025-03-03T23:16:04.699995",
+            "duration": 124
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Player Queen",
+            "timestamp": "2025-03-10T11:11:04.699998",
+            "duration": 216
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Player Queen",
+            "timestamp": "2025-03-06T20:13:04.700000",
+            "duration": 173
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-07T06:55:04.700002",
+            "duration": 136
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-08T22:29:04.700004",
+            "duration": 147
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-09T05:37:04.700006",
+            "duration": 62
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-04T11:14:04.700009",
+            "duration": 117
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-09T02:01:04.700011",
+            "duration": 79
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-08T15:34:04.700013",
+            "duration": 287
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-07T16:28:04.700015",
+            "duration": 289
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-07T18:08:04.700019",
+            "duration": 123
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "HAMLET",
+            "timestamp": "2025-03-09T13:08:04.700021",
+            "duration": 289
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "HAMLET",
+            "timestamp": "2025-03-04T13:35:04.700023",
+            "duration": 221
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "HAMLET",
+            "timestamp": "2025-03-06T09:31:04.700025",
+            "duration": 245
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T06:10:04.700028",
+            "duration": 68
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Danes",
+            "timestamp": "2025-03-04T00:40:04.700030",
+            "duration": 291
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Danes",
+            "timestamp": "2025-03-03T22:56:04.700032",
+            "duration": 200
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-07T07:30:04.700035",
+            "duration": 223
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-02T21:12:04.700037",
+            "duration": 203
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-04T17:23:04.700039",
+            "duration": 134
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Servant",
+            "timestamp": "2025-03-07T18:31:04.700041",
+            "duration": 229
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Servant",
+            "timestamp": "2025-03-04T11:21:04.700043",
+            "duration": 294
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Servant",
+            "timestamp": "2025-03-08T02:30:04.700045",
+            "duration": 112
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-05T00:50:04.700048",
+            "duration": 99
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-10T09:30:04.700050",
+            "duration": 117
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-09T14:56:04.700052",
+            "duration": 104
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T15:19:04.700054",
+            "duration": 132
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-09T01:56:04.700057",
+            "duration": 104
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-05T21:21:04.700059",
+            "duration": 137
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "LAERTES",
+            "timestamp": "2025-03-09T12:42:04.700061",
+            "duration": 263
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "LAERTES",
+            "timestamp": "2025-03-08T06:19:04.700063",
+            "duration": 72
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "LAERTES",
+            "timestamp": "2025-03-10T05:57:04.700066",
+            "duration": 275
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Lord",
+            "timestamp": "2025-03-07T10:48:04.700068",
+            "duration": 188
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-04T04:54:04.700070",
+            "duration": 114
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Captain",
+            "timestamp": "2025-03-03T18:11:04.700072",
+            "duration": 279
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "Player King",
+            "timestamp": "2025-03-07T00:10:04.700075",
+            "duration": 220
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-05T07:53:04.700077",
+            "duration": 243
+        },
+        {
+            "from": "VOLTIMAND",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-09T09:29:04.700079",
+            "duration": 117
+        },
+        {
+            "from": "OSRIC",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-03T19:37:04.700081",
+            "duration": 259
+        },
+        {
+            "from": "OSRIC",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-06T05:17:04.700084",
+            "duration": 91
+        },
+        {
+            "from": "OSRIC",
+            "to": "FRANCISCO",
+            "timestamp": "2025-03-08T23:09:04.700086",
+            "duration": 246
+        },
+        {
+            "from": "OSRIC",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-09T16:30:04.700088",
+            "duration": 75
+        },
+        {
+            "from": "OSRIC",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-06T11:50:04.700090",
+            "duration": 185
+        },
+        {
+            "from": "OSRIC",
+            "to": "Player Queen",
+            "timestamp": "2025-03-05T13:52:04.700092",
+            "duration": 143
+        },
+        {
+            "from": "OSRIC",
+            "to": "Player Queen",
+            "timestamp": "2025-03-04T18:07:04.700094",
+            "duration": 242
+        },
+        {
+            "from": "OSRIC",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-08T07:09:04.700097",
+            "duration": 68
+        },
+        {
+            "from": "OSRIC",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-09T05:23:04.700099",
+            "duration": 220
+        },
+        {
+            "from": "OSRIC",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-09T07:34:04.700101",
+            "duration": 188
+        },
+        {
+            "from": "OSRIC",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-02T17:30:04.700103",
+            "duration": 194
+        },
+        {
+            "from": "OSRIC",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-03T19:18:04.700105",
+            "duration": 219
+        },
+        {
+            "from": "OSRIC",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-02T18:57:04.700107",
+            "duration": 159
+        },
+        {
+            "from": "OSRIC",
+            "to": "HAMLET",
+            "timestamp": "2025-03-06T18:55:04.700109",
+            "duration": 272
+        },
+        {
+            "from": "OSRIC",
+            "to": "HAMLET",
+            "timestamp": "2025-03-07T06:01:04.700111",
+            "duration": 172
+        },
+        {
+            "from": "OSRIC",
+            "to": "HAMLET",
+            "timestamp": "2025-03-06T17:10:04.700114",
+            "duration": 273
+        },
+        {
+            "from": "OSRIC",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T20:22:04.700116",
+            "duration": 104
+        },
+        {
+            "from": "OSRIC",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T08:27:04.700118",
+            "duration": 225
+        },
+        {
+            "from": "OSRIC",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T10:13:04.700120",
+            "duration": 122
+        },
+        {
+            "from": "OSRIC",
+            "to": "Danes",
+            "timestamp": "2025-03-02T14:56:04.700122",
+            "duration": 152
+        },
+        {
+            "from": "OSRIC",
+            "to": "Danes",
+            "timestamp": "2025-03-03T04:50:04.700125",
+            "duration": 129
+        },
+        {
+            "from": "OSRIC",
+            "to": "Danes",
+            "timestamp": "2025-03-06T18:37:04.700127",
+            "duration": 94
+        },
+        {
+            "from": "OSRIC",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-06T01:29:04.700129",
+            "duration": 60
+        },
+        {
+            "from": "OSRIC",
+            "to": "Servant",
+            "timestamp": "2025-03-04T08:12:04.700131",
+            "duration": 285
+        },
+        {
+            "from": "OSRIC",
+            "to": "Servant",
+            "timestamp": "2025-03-09T06:03:04.700133",
+            "duration": 251
+        },
+        {
+            "from": "OSRIC",
+            "to": "Servant",
+            "timestamp": "2025-03-06T12:17:04.700136",
+            "duration": 181
+        },
+        {
+            "from": "OSRIC",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-10T08:30:04.700138",
+            "duration": 225
+        },
+        {
+            "from": "OSRIC",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-05T12:54:04.700140",
+            "duration": 109
+        },
+        {
+            "from": "OSRIC",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T02:02:04.700142",
+            "duration": 88
+        },
+        {
+            "from": "OSRIC",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T11:54:04.700144",
+            "duration": 202
+        },
+        {
+            "from": "OSRIC",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-05T19:30:04.700146",
+            "duration": 218
+        },
+        {
+            "from": "OSRIC",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-10T11:15:04.700148",
+            "duration": 68
+        },
+        {
+            "from": "OSRIC",
+            "to": "LAERTES",
+            "timestamp": "2025-03-09T12:14:04.700151",
+            "duration": 234
+        },
+        {
+            "from": "OSRIC",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T11:54:04.700153",
+            "duration": 115
+        },
+        {
+            "from": "OSRIC",
+            "to": "Lord",
+            "timestamp": "2025-03-08T05:40:04.700155",
+            "duration": 67
+        },
+        {
+            "from": "OSRIC",
+            "to": "Lord",
+            "timestamp": "2025-03-03T15:07:04.700157",
+            "duration": 254
+        },
+        {
+            "from": "OSRIC",
+            "to": "Lord",
+            "timestamp": "2025-03-07T17:39:04.700159",
+            "duration": 191
+        },
+        {
+            "from": "OSRIC",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-03T00:48:04.700161",
+            "duration": 283
+        },
+        {
+            "from": "OSRIC",
+            "to": "Captain",
+            "timestamp": "2025-03-06T21:00:04.700164",
+            "duration": 71
+        },
+        {
+            "from": "OSRIC",
+            "to": "Player King",
+            "timestamp": "2025-03-06T23:17:04.700166",
+            "duration": 224
+        },
+        {
+            "from": "OSRIC",
+            "to": "Player King",
+            "timestamp": "2025-03-03T08:15:04.700168",
+            "duration": 183
+        },
+        {
+            "from": "OSRIC",
+            "to": "Player King",
+            "timestamp": "2025-03-02T17:28:04.700170",
+            "duration": 93
+        },
+        {
+            "from": "OSRIC",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-08T04:21:04.700179",
+            "duration": 260
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-06T04:11:04.700182",
+            "duration": 109
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-07T12:58:04.700184",
+            "duration": 65
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-07T15:14:04.700186",
+            "duration": 139
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "Player Queen",
+            "timestamp": "2025-03-04T01:54:04.700188",
+            "duration": 274
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-06T12:41:04.700190",
+            "duration": 240
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-09T17:20:04.700192",
+            "duration": 67
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-09T14:58:04.700195",
+            "duration": 150
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-09T15:04:04.700197",
+            "duration": 134
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-04T12:54:04.700199",
+            "duration": 158
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-02T18:31:04.700201",
+            "duration": 154
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "HAMLET",
+            "timestamp": "2025-03-06T17:05:04.700203",
+            "duration": 257
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "HAMLET",
+            "timestamp": "2025-03-06T23:28:04.700205",
+            "duration": 150
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "HAMLET",
+            "timestamp": "2025-03-07T15:46:04.700207",
+            "duration": 109
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-10T09:52:04.700210",
+            "duration": 113
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-10T06:43:04.700212",
+            "duration": 228
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "Danes",
+            "timestamp": "2025-03-05T08:42:04.700214",
+            "duration": 127
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-08T13:22:04.700216",
+            "duration": 181
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-03T11:57:04.700218",
+            "duration": 157
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "Servant",
+            "timestamp": "2025-03-06T06:36:04.700221",
+            "duration": 138
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-10T03:04:04.700223",
+            "duration": 172
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T05:16:04.700226",
+            "duration": 88
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T16:02:04.700228",
+            "duration": 145
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-06T11:27:04.700230",
+            "duration": 237
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-09T08:28:04.700232",
+            "duration": 240
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-03T12:06:04.700234",
+            "duration": 137
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "LAERTES",
+            "timestamp": "2025-03-09T08:33:04.700236",
+            "duration": 119
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "Lord",
+            "timestamp": "2025-03-06T18:10:04.700239",
+            "duration": 100
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-07T14:29:04.700241",
+            "duration": 100
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "Captain",
+            "timestamp": "2025-03-08T12:59:04.700243",
+            "duration": 79
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "Player King",
+            "timestamp": "2025-03-05T17:30:04.700246",
+            "duration": 68
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-07T05:43:04.700248",
+            "duration": 275
+        },
+        {
+            "from": "FRANCISCO",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-02T23:21:04.700250",
+            "duration": 158
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Player Queen",
+            "timestamp": "2025-03-05T13:36:04.700252",
+            "duration": 105
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Player Queen",
+            "timestamp": "2025-03-03T18:45:04.700255",
+            "duration": 72
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Player Queen",
+            "timestamp": "2025-03-09T16:33:04.700257",
+            "duration": 95
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-10T10:34:04.700259",
+            "duration": 76
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-09T20:51:04.700262",
+            "duration": 96
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-08T08:34:04.700264",
+            "duration": 268
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-09T15:50:04.700266",
+            "duration": 87
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "HAMLET",
+            "timestamp": "2025-03-03T11:18:04.700273",
+            "duration": 114
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "HAMLET",
+            "timestamp": "2025-03-08T23:40:04.700275",
+            "duration": 216
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "HAMLET",
+            "timestamp": "2025-03-07T12:02:04.700277",
+            "duration": 142
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T23:44:04.700279",
+            "duration": 139
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T01:00:04.700281",
+            "duration": 132
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T17:05:04.700283",
+            "duration": 206
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Danes",
+            "timestamp": "2025-03-04T02:59:04.700285",
+            "duration": 73
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Danes",
+            "timestamp": "2025-03-08T23:01:04.700288",
+            "duration": 99
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T20:13:04.700290",
+            "duration": 248
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-05T23:34:04.700292",
+            "duration": 74
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Servant",
+            "timestamp": "2025-03-07T02:27:04.700294",
+            "duration": 207
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T00:33:04.700296",
+            "duration": 141
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T16:40:04.700298",
+            "duration": 228
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-06T09:37:04.700301",
+            "duration": 265
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-05T02:37:04.700303",
+            "duration": 277
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-04T04:16:04.700305",
+            "duration": 240
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T10:18:04.700307",
+            "duration": 122
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T15:52:04.700309",
+            "duration": 74
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T17:13:04.700311",
+            "duration": 272
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-04T15:42:04.700313",
+            "duration": 271
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-09T04:20:04.700316",
+            "duration": 286
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-03T20:33:04.700318",
+            "duration": 131
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-07T00:48:04.700320",
+            "duration": 286
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-08T15:34:04.700322",
+            "duration": 166
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-07T04:46:04.700324",
+            "duration": 90
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-04T08:13:04.700326",
+            "duration": 229
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-08T02:32:04.700328",
+            "duration": 186
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-10T12:34:04.700331",
+            "duration": 204
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Player King",
+            "timestamp": "2025-03-06T04:50:04.700333",
+            "duration": 239
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Player King",
+            "timestamp": "2025-03-10T14:20:04.700335",
+            "duration": 165
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Player King",
+            "timestamp": "2025-03-09T04:45:04.700337",
+            "duration": 182
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-06T21:33:04.700339",
+            "duration": 265
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-02T20:18:04.700341",
+            "duration": 128
+        },
+        {
+            "from": "Player Queen",
+            "to": "QUEEN GERTRUDE",
+            "timestamp": "2025-03-03T07:27:04.700344",
+            "duration": 282
+        },
+        {
+            "from": "Player Queen",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-04T16:58:04.700346",
+            "duration": 136
+        },
+        {
+            "from": "Player Queen",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-03T11:18:04.700348",
+            "duration": 177
+        },
+        {
+            "from": "Player Queen",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-06T17:26:04.700350",
+            "duration": 122
+        },
+        {
+            "from": "Player Queen",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-03T07:29:04.700353",
+            "duration": 253
+        },
+        {
+            "from": "Player Queen",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-10T10:27:04.700355",
+            "duration": 298
+        },
+        {
+            "from": "Player Queen",
+            "to": "HAMLET",
+            "timestamp": "2025-03-10T02:27:04.700357",
+            "duration": 114
+        },
+        {
+            "from": "Player Queen",
+            "to": "HAMLET",
+            "timestamp": "2025-03-06T16:35:04.700359",
+            "duration": 95
+        },
+        {
+            "from": "Player Queen",
+            "to": "HAMLET",
+            "timestamp": "2025-03-08T08:10:04.700361",
+            "duration": 97
+        },
+        {
+            "from": "Player Queen",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T04:27:04.700367",
+            "duration": 250
+        },
+        {
+            "from": "Player Queen",
+            "to": "Danes",
+            "timestamp": "2025-03-08T14:11:04.700370",
+            "duration": 133
+        },
+        {
+            "from": "Player Queen",
+            "to": "Danes",
+            "timestamp": "2025-03-07T08:35:04.700372",
+            "duration": 295
+        },
+        {
+            "from": "Player Queen",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T19:07:04.700374",
+            "duration": 219
+        },
+        {
+            "from": "Player Queen",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T07:40:04.700376",
+            "duration": 71
+        },
+        {
+            "from": "Player Queen",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-07T17:10:04.700378",
+            "duration": 93
+        },
+        {
+            "from": "Player Queen",
+            "to": "Servant",
+            "timestamp": "2025-03-03T13:57:04.700380",
+            "duration": 278
+        },
+        {
+            "from": "Player Queen",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-03T16:46:04.700383",
+            "duration": 266
+        },
+        {
+            "from": "Player Queen",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-07T23:43:04.700385",
+            "duration": 105
+        },
+        {
+            "from": "Player Queen",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T21:52:04.700387",
+            "duration": 256
+        },
+        {
+            "from": "Player Queen",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-08T19:05:04.700389",
+            "duration": 96
+        },
+        {
+            "from": "Player Queen",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-03T12:14:04.700391",
+            "duration": 71
+        },
+        {
+            "from": "Player Queen",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-02T15:16:04.700393",
+            "duration": 203
+        },
+        {
+            "from": "Player Queen",
+            "to": "LAERTES",
+            "timestamp": "2025-03-09T18:42:04.700396",
+            "duration": 255
+        },
+        {
+            "from": "Player Queen",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T00:07:04.700398",
+            "duration": 169
+        },
+        {
+            "from": "Player Queen",
+            "to": "LAERTES",
+            "timestamp": "2025-03-06T14:17:04.700400",
+            "duration": 152
+        },
+        {
+            "from": "Player Queen",
+            "to": "Lord",
+            "timestamp": "2025-03-03T06:30:04.700403",
+            "duration": 63
+        },
+        {
+            "from": "Player Queen",
+            "to": "Lord",
+            "timestamp": "2025-03-06T08:32:04.700405",
+            "duration": 259
+        },
+        {
+            "from": "Player Queen",
+            "to": "Lord",
+            "timestamp": "2025-03-04T14:15:04.700407",
+            "duration": 143
+        },
+        {
+            "from": "Player Queen",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-06T23:39:04.700410",
+            "duration": 111
+        },
+        {
+            "from": "Player Queen",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T21:28:04.700412",
+            "duration": 233
+        },
+        {
+            "from": "Player Queen",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T20:15:04.700414",
+            "duration": 186
+        },
+        {
+            "from": "Player Queen",
+            "to": "Captain",
+            "timestamp": "2025-03-05T08:31:04.700416",
+            "duration": 245
+        },
+        {
+            "from": "Player Queen",
+            "to": "Captain",
+            "timestamp": "2025-03-07T07:08:04.700418",
+            "duration": 115
+        },
+        {
+            "from": "Player Queen",
+            "to": "Captain",
+            "timestamp": "2025-03-03T16:31:04.700420",
+            "duration": 170
+        },
+        {
+            "from": "Player Queen",
+            "to": "Player King",
+            "timestamp": "2025-03-10T00:21:04.700423",
+            "duration": 292
+        },
+        {
+            "from": "Player Queen",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-03T16:24:04.700425",
+            "duration": 137
+        },
+        {
+            "from": "Player Queen",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-09T03:23:04.700427",
+            "duration": 96
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-03T05:35:04.700430",
+            "duration": 160
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-09T20:33:04.700432",
+            "duration": 128
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "GUILDENSTERN",
+            "timestamp": "2025-03-05T20:38:04.700434",
+            "duration": 160
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-07T09:52:04.700436",
+            "duration": 129
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-05T03:48:04.700438",
+            "duration": 209
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-04T21:06:04.700440",
+            "duration": 247
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "HAMLET",
+            "timestamp": "2025-03-02T16:09:04.700443",
+            "duration": 124
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "HAMLET",
+            "timestamp": "2025-03-03T19:50:04.700445",
+            "duration": 289
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T14:52:04.700447",
+            "duration": 220
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "Danes",
+            "timestamp": "2025-03-10T08:03:04.700449",
+            "duration": 161
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "Danes",
+            "timestamp": "2025-03-04T06:22:04.700451",
+            "duration": 258
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "Danes",
+            "timestamp": "2025-03-03T22:44:04.700453",
+            "duration": 108
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T04:52:04.700456",
+            "duration": 110
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "Servant",
+            "timestamp": "2025-03-02T20:58:04.700458",
+            "duration": 295
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-02T23:06:04.700460",
+            "duration": 101
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T19:04:04.700462",
+            "duration": 220
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-05T03:26:04.700465",
+            "duration": 132
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T11:02:04.700467",
+            "duration": 170
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "Lord",
+            "timestamp": "2025-03-07T12:11:04.700470",
+            "duration": 91
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-09T23:18:04.700472",
+            "duration": 124
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-04T18:03:04.700474",
+            "duration": 161
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T02:00:04.700476",
+            "duration": 251
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "Captain",
+            "timestamp": "2025-03-05T06:14:04.700478",
+            "duration": 87
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "Captain",
+            "timestamp": "2025-03-07T00:27:04.700480",
+            "duration": 288
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "Player King",
+            "timestamp": "2025-03-10T02:41:04.700483",
+            "duration": 161
+        },
+        {
+            "from": "QUEEN GERTRUDE",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-06T19:54:04.700485",
+            "duration": 104
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-03T10:07:04.700487",
+            "duration": 133
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-05T06:42:04.700489",
+            "duration": 164
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "LORD POLONIUS",
+            "timestamp": "2025-03-07T09:14:04.700491",
+            "duration": 263
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "HAMLET",
+            "timestamp": "2025-03-10T03:43:04.700494",
+            "duration": 162
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T04:27:04.700496",
+            "duration": 78
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Danes",
+            "timestamp": "2025-03-07T01:57:04.700499",
+            "duration": 285
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-05T01:19:04.700505",
+            "duration": 242
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Servant",
+            "timestamp": "2025-03-03T16:29:04.700508",
+            "duration": 184
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-07T17:41:04.700510",
+            "duration": 283
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-08T21:18:04.700512",
+            "duration": 138
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T10:52:04.700514",
+            "duration": 175
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T02:25:04.700516",
+            "duration": 82
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T17:21:04.700518",
+            "duration": 80
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-05T05:25:04.700521",
+            "duration": 60
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "LAERTES",
+            "timestamp": "2025-03-09T17:10:04.700523",
+            "duration": 240
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Lord",
+            "timestamp": "2025-03-10T12:37:04.700525",
+            "duration": 126
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Lord",
+            "timestamp": "2025-03-08T11:05:04.700527",
+            "duration": 213
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-06T23:12:04.700530",
+            "duration": 162
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-09T21:00:04.700532",
+            "duration": 83
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Captain",
+            "timestamp": "2025-03-04T22:36:04.700534",
+            "duration": 135
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Player King",
+            "timestamp": "2025-03-06T16:14:04.700536",
+            "duration": 247
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Player King",
+            "timestamp": "2025-03-05T19:25:04.700539",
+            "duration": 199
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "Player King",
+            "timestamp": "2025-03-08T16:22:04.700540",
+            "duration": 288
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-10T07:19:04.700543",
+            "duration": 100
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-05T05:36:04.700545",
+            "duration": 225
+        },
+        {
+            "from": "GUILDENSTERN",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-02T18:05:04.700547",
+            "duration": 291
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "HAMLET",
+            "timestamp": "2025-03-06T18:21:04.700549",
+            "duration": 275
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "HAMLET",
+            "timestamp": "2025-03-08T13:20:04.700551",
+            "duration": 290
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "HAMLET",
+            "timestamp": "2025-03-08T04:41:04.700553",
+            "duration": 248
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T16:22:04.700556",
+            "duration": 227
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T19:30:04.700558",
+            "duration": 85
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Danes",
+            "timestamp": "2025-03-08T07:18:04.700560",
+            "duration": 272
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Danes",
+            "timestamp": "2025-03-05T12:41:04.700562",
+            "duration": 165
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Danes",
+            "timestamp": "2025-03-09T06:07:04.700564",
+            "duration": 196
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T23:41:04.700568",
+            "duration": 269
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-10T08:03:04.700570",
+            "duration": 280
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-02T23:30:04.700572",
+            "duration": 104
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Servant",
+            "timestamp": "2025-03-08T19:21:04.700574",
+            "duration": 285
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Servant",
+            "timestamp": "2025-03-02T19:54:04.700576",
+            "duration": 89
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T10:24:04.700578",
+            "duration": 252
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-04T08:06:04.700580",
+            "duration": 262
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T08:16:04.700583",
+            "duration": 166
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T01:48:04.700585",
+            "duration": 131
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T02:05:04.700587",
+            "duration": 133
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-07T20:51:04.700589",
+            "duration": 96
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-06T10:43:04.700591",
+            "duration": 73
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T10:59:04.700594",
+            "duration": 294
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-04T05:54:04.700596",
+            "duration": 95
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-04T01:07:04.700598",
+            "duration": 84
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-09T01:11:04.700600",
+            "duration": 136
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-07T11:30:04.700602",
+            "duration": 228
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-05T06:51:04.700604",
+            "duration": 64
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-06T01:09:04.700606",
+            "duration": 157
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-04T13:23:04.700609",
+            "duration": 213
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-08T04:57:04.700611",
+            "duration": 223
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-09T05:22:04.700613",
+            "duration": 217
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Player King",
+            "timestamp": "2025-03-06T10:09:04.700615",
+            "duration": 116
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "Player King",
+            "timestamp": "2025-03-07T08:58:04.700617",
+            "duration": 250
+        },
+        {
+            "from": "LORD POLONIUS",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-05T12:54:04.700619",
+            "duration": 114
+        },
+        {
+            "from": "HAMLET",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T19:49:04.700622",
+            "duration": 166
+        },
+        {
+            "from": "HAMLET",
+            "to": "Danes",
+            "timestamp": "2025-03-07T18:10:04.700624",
+            "duration": 79
+        },
+        {
+            "from": "HAMLET",
+            "to": "Danes",
+            "timestamp": "2025-03-10T12:03:04.700626",
+            "duration": 215
+        },
+        {
+            "from": "HAMLET",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-03T07:51:04.700628",
+            "duration": 193
+        },
+        {
+            "from": "HAMLET",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-07T05:40:04.700631",
+            "duration": 61
+        },
+        {
+            "from": "HAMLET",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-08T02:04:04.700632",
+            "duration": 122
+        },
+        {
+            "from": "HAMLET",
+            "to": "Servant",
+            "timestamp": "2025-03-05T10:11:04.700635",
+            "duration": 278
+        },
+        {
+            "from": "HAMLET",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-09T10:34:04.700637",
+            "duration": 285
+        },
+        {
+            "from": "HAMLET",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T05:48:04.700640",
+            "duration": 119
+        },
+        {
+            "from": "HAMLET",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-02T19:28:04.700642",
+            "duration": 258
+        },
+        {
+            "from": "HAMLET",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-02T21:54:04.700644",
+            "duration": 104
+        },
+        {
+            "from": "HAMLET",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-06T06:55:04.700646",
+            "duration": 175
+        },
+        {
+            "from": "HAMLET",
+            "to": "LAERTES",
+            "timestamp": "2025-03-04T13:51:04.700648",
+            "duration": 206
+        },
+        {
+            "from": "HAMLET",
+            "to": "LAERTES",
+            "timestamp": "2025-03-06T01:29:04.700650",
+            "duration": 185
+        },
+        {
+            "from": "HAMLET",
+            "to": "Lord",
+            "timestamp": "2025-03-09T16:12:04.700653",
+            "duration": 105
+        },
+        {
+            "from": "HAMLET",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-04T04:47:04.700655",
+            "duration": 179
+        },
+        {
+            "from": "HAMLET",
+            "to": "Captain",
+            "timestamp": "2025-03-04T09:14:04.700657",
+            "duration": 168
+        },
+        {
+            "from": "HAMLET",
+            "to": "Player King",
+            "timestamp": "2025-03-06T19:29:04.700659",
+            "duration": 246
+        },
+        {
+            "from": "HAMLET",
+            "to": "Player King",
+            "timestamp": "2025-03-03T13:53:04.700662",
+            "duration": 282
+        },
+        {
+            "from": "HAMLET",
+            "to": "Player King",
+            "timestamp": "2025-03-03T20:09:04.700664",
+            "duration": 187
+        },
+        {
+            "from": "HAMLET",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-04T13:45:04.700666",
+            "duration": 101
+        },
+        {
+            "from": "HAMLET",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-02T15:29:04.700668",
+            "duration": 104
+        },
+        {
+            "from": "Gentleman",
+            "to": "Danes",
+            "timestamp": "2025-03-05T04:52:04.700670",
+            "duration": 106
+        },
+        {
+            "from": "Gentleman",
+            "to": "Danes",
+            "timestamp": "2025-03-08T07:38:04.700672",
+            "duration": 70
+        },
+        {
+            "from": "Gentleman",
+            "to": "Danes",
+            "timestamp": "2025-03-02T18:06:04.700674",
+            "duration": 288
+        },
+        {
+            "from": "Gentleman",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-07T08:30:04.700676",
+            "duration": 253
+        },
+        {
+            "from": "Gentleman",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-10T00:19:04.700678",
+            "duration": 237
+        },
+        {
+            "from": "Gentleman",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-05T06:00:04.700680",
+            "duration": 263
+        },
+        {
+            "from": "Gentleman",
+            "to": "Servant",
+            "timestamp": "2025-03-10T06:22:04.700683",
+            "duration": 120
+        },
+        {
+            "from": "Gentleman",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-04T00:28:04.700685",
+            "duration": 68
+        },
+        {
+            "from": "Gentleman",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-07T06:50:04.700687",
+            "duration": 300
+        },
+        {
+            "from": "Gentleman",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-06T06:00:04.700689",
+            "duration": 91
+        },
+        {
+            "from": "Gentleman",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T11:44:04.700691",
+            "duration": 82
+        },
+        {
+            "from": "Gentleman",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T06:05:04.700693",
+            "duration": 181
+        },
+        {
+            "from": "Gentleman",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-07T08:25:04.700696",
+            "duration": 267
+        },
+        {
+            "from": "Gentleman",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-07T12:43:04.700698",
+            "duration": 237
+        },
+        {
+            "from": "Gentleman",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T00:34:04.700700",
+            "duration": 282
+        },
+        {
+            "from": "Gentleman",
+            "to": "LAERTES",
+            "timestamp": "2025-03-03T04:23:04.700702",
+            "duration": 139
+        },
+        {
+            "from": "Gentleman",
+            "to": "Lord",
+            "timestamp": "2025-03-06T00:59:04.700704",
+            "duration": 278
+        },
+        {
+            "from": "Gentleman",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T14:16:04.700707",
+            "duration": 140
+        },
+        {
+            "from": "Gentleman",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-03T22:16:04.700709",
+            "duration": 108
+        },
+        {
+            "from": "Gentleman",
+            "to": "Captain",
+            "timestamp": "2025-03-06T23:56:04.700711",
+            "duration": 129
+        },
+        {
+            "from": "Gentleman",
+            "to": "Captain",
+            "timestamp": "2025-03-09T14:11:04.700713",
+            "duration": 231
+        },
+        {
+            "from": "Gentleman",
+            "to": "Player King",
+            "timestamp": "2025-03-08T16:01:04.700716",
+            "duration": 288
+        },
+        {
+            "from": "Gentleman",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-06T11:37:04.700718",
+            "duration": 292
+        },
+        {
+            "from": "Gentleman",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-05T07:23:04.700720",
+            "duration": 145
+        },
+        {
+            "from": "Danes",
+            "to": "LUCIANUS",
+            "timestamp": "2025-03-09T04:30:04.700722",
+            "duration": 114
+        },
+        {
+            "from": "Danes",
+            "to": "Servant",
+            "timestamp": "2025-03-05T11:19:04.700725",
+            "duration": 260
+        },
+        {
+            "from": "Danes",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-09T17:15:04.700727",
+            "duration": 119
+        },
+        {
+            "from": "Danes",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-02T19:52:04.700729",
+            "duration": 223
+        },
+        {
+            "from": "Danes",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-07T22:09:04.700731",
+            "duration": 255
+        },
+        {
+            "from": "Danes",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T16:34:04.700733",
+            "duration": 184
+        },
+        {
+            "from": "Danes",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T05:19:04.700735",
+            "duration": 152
+        },
+        {
+            "from": "Danes",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T15:46:04.700737",
+            "duration": 87
+        },
+        {
+            "from": "Danes",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-09T21:26:04.700740",
+            "duration": 219
+        },
+        {
+            "from": "Danes",
+            "to": "LAERTES",
+            "timestamp": "2025-03-05T11:55:04.700743",
+            "duration": 162
+        },
+        {
+            "from": "Danes",
+            "to": "LAERTES",
+            "timestamp": "2025-03-08T18:14:04.700745",
+            "duration": 291
+        },
+        {
+            "from": "Danes",
+            "to": "Lord",
+            "timestamp": "2025-03-08T04:07:04.700747",
+            "duration": 226
+        },
+        {
+            "from": "Danes",
+            "to": "Lord",
+            "timestamp": "2025-03-08T09:09:04.700749",
+            "duration": 152
+        },
+        {
+            "from": "Danes",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-08T19:57:04.700751",
+            "duration": 261
+        },
+        {
+            "from": "Danes",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-04T09:53:04.700753",
+            "duration": 142
+        },
+        {
+            "from": "Danes",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-08T13:31:04.700756",
+            "duration": 240
+        },
+        {
+            "from": "Danes",
+            "to": "Captain",
+            "timestamp": "2025-03-03T12:15:04.700758",
+            "duration": 65
+        },
+        {
+            "from": "Danes",
+            "to": "Captain",
+            "timestamp": "2025-03-09T22:20:04.700760",
+            "duration": 203
+        },
+        {
+            "from": "Danes",
+            "to": "Player King",
+            "timestamp": "2025-03-10T01:31:04.700762",
+            "duration": 72
+        },
+        {
+            "from": "Danes",
+            "to": "Player King",
+            "timestamp": "2025-03-05T20:21:04.700764",
+            "duration": 65
+        },
+        {
+            "from": "Danes",
+            "to": "Player King",
+            "timestamp": "2025-03-03T02:56:04.700766",
+            "duration": 99
+        },
+        {
+            "from": "Danes",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-03T17:59:04.700769",
+            "duration": 118
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "Servant",
+            "timestamp": "2025-03-04T21:27:04.700771",
+            "duration": 126
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T22:42:04.700773",
+            "duration": 229
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T16:44:04.700775",
+            "duration": 115
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-07T13:51:04.700777",
+            "duration": 120
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-08T05:43:04.700779",
+            "duration": 223
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-10T13:34:04.700782",
+            "duration": 127
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T15:23:04.700784",
+            "duration": 292
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T21:18:04.700786",
+            "duration": 295
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T06:35:04.700788",
+            "duration": 153
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-09T17:41:04.700790",
+            "duration": 148
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-10T05:01:04.700792",
+            "duration": 260
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-04T00:27:04.700795",
+            "duration": 171
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-08T19:52:04.700797",
+            "duration": 145
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "Lord",
+            "timestamp": "2025-03-09T02:59:04.700799",
+            "duration": 189
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-04T08:38:04.700801",
+            "duration": 259
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "Captain",
+            "timestamp": "2025-03-10T03:10:04.700804",
+            "duration": 231
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "Player King",
+            "timestamp": "2025-03-06T07:42:04.700806",
+            "duration": 193
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "Player King",
+            "timestamp": "2025-03-05T12:28:04.700808",
+            "duration": 69
+        },
+        {
+            "from": "LUCIANUS",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-09T02:59:04.700811",
+            "duration": 246
+        },
+        {
+            "from": "Servant",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-09T21:25:04.700813",
+            "duration": 179
+        },
+        {
+            "from": "Servant",
+            "to": "OPHELIA",
+            "timestamp": "2025-03-09T17:27:04.700815",
+            "duration": 171
+        },
+        {
+            "from": "Servant",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T05:10:04.700817",
+            "duration": 251
+        },
+        {
+            "from": "Servant",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T18:12:04.700820",
+            "duration": 300
+        },
+        {
+            "from": "Servant",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T19:57:04.700822",
+            "duration": 167
+        },
+        {
+            "from": "Servant",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-07T09:18:04.700824",
+            "duration": 62
+        },
+        {
+            "from": "Servant",
+            "to": "LAERTES",
+            "timestamp": "2025-03-08T22:23:04.700829",
+            "duration": 267
+        },
+        {
+            "from": "Servant",
+            "to": "Lord",
+            "timestamp": "2025-03-05T12:44:04.700832",
+            "duration": 254
+        },
+        {
+            "from": "Servant",
+            "to": "Lord",
+            "timestamp": "2025-03-04T02:06:04.700834",
+            "duration": 142
+        },
+        {
+            "from": "Servant",
+            "to": "Lord",
+            "timestamp": "2025-03-05T05:40:04.700836",
+            "duration": 122
+        },
+        {
+            "from": "Servant",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-10T05:02:04.700838",
+            "duration": 218
+        },
+        {
+            "from": "Servant",
+            "to": "Captain",
+            "timestamp": "2025-03-09T15:43:04.700841",
+            "duration": 240
+        },
+        {
+            "from": "Servant",
+            "to": "Captain",
+            "timestamp": "2025-03-02T20:08:04.700843",
+            "duration": 127
+        },
+        {
+            "from": "Servant",
+            "to": "Captain",
+            "timestamp": "2025-03-09T12:10:04.700845",
+            "duration": 128
+        },
+        {
+            "from": "Servant",
+            "to": "Player King",
+            "timestamp": "2025-03-09T10:46:04.700847",
+            "duration": 295
+        },
+        {
+            "from": "Servant",
+            "to": "Player King",
+            "timestamp": "2025-03-04T22:23:04.700849",
+            "duration": 170
+        },
+        {
+            "from": "Servant",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-07T01:34:04.700852",
+            "duration": 162
+        },
+        {
+            "from": "Servant",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-05T22:33:04.700854",
+            "duration": 173
+        },
+        {
+            "from": "Servant",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-04T21:12:04.700856",
+            "duration": 193
+        },
+        {
+            "from": "OPHELIA",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T08:27:04.700858",
+            "duration": 212
+        },
+        {
+            "from": "OPHELIA",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T07:48:04.700860",
+            "duration": 277
+        },
+        {
+            "from": "OPHELIA",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-09T10:25:04.700862",
+            "duration": 90
+        },
+        {
+            "from": "OPHELIA",
+            "to": "LAERTES",
+            "timestamp": "2025-03-04T12:45:04.700864",
+            "duration": 178
+        },
+        {
+            "from": "OPHELIA",
+            "to": "LAERTES",
+            "timestamp": "2025-03-04T11:30:04.700867",
+            "duration": 90
+        },
+        {
+            "from": "OPHELIA",
+            "to": "LAERTES",
+            "timestamp": "2025-03-03T20:02:04.700869",
+            "duration": 96
+        },
+        {
+            "from": "OPHELIA",
+            "to": "Lord",
+            "timestamp": "2025-03-03T06:56:04.700871",
+            "duration": 92
+        },
+        {
+            "from": "OPHELIA",
+            "to": "Lord",
+            "timestamp": "2025-03-08T23:06:04.700873",
+            "duration": 161
+        },
+        {
+            "from": "OPHELIA",
+            "to": "Lord",
+            "timestamp": "2025-03-08T09:20:04.700875",
+            "duration": 81
+        },
+        {
+            "from": "OPHELIA",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T07:02:04.700877",
+            "duration": 220
+        },
+        {
+            "from": "OPHELIA",
+            "to": "Captain",
+            "timestamp": "2025-03-09T00:59:04.700879",
+            "duration": 120
+        },
+        {
+            "from": "OPHELIA",
+            "to": "Captain",
+            "timestamp": "2025-03-05T16:48:04.700881",
+            "duration": 219
+        },
+        {
+            "from": "OPHELIA",
+            "to": "Captain",
+            "timestamp": "2025-03-04T05:43:04.700883",
+            "duration": 130
+        },
+        {
+            "from": "OPHELIA",
+            "to": "Player King",
+            "timestamp": "2025-03-08T23:10:04.700886",
+            "duration": 157
+        },
+        {
+            "from": "OPHELIA",
+            "to": "Player King",
+            "timestamp": "2025-03-03T02:05:04.700888",
+            "duration": 136
+        },
+        {
+            "from": "OPHELIA",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-08T01:57:04.700890",
+            "duration": 236
+        },
+        {
+            "from": "OPHELIA",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-06T02:04:04.700892",
+            "duration": 157
+        },
+        {
+            "from": "OPHELIA",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-07T14:17:04.700894",
+            "duration": 123
+        },
+        {
+            "from": "Messenger",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-09T00:42:04.700896",
+            "duration": 239
+        },
+        {
+            "from": "Messenger",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-05T18:46:04.700898",
+            "duration": 62
+        },
+        {
+            "from": "Messenger",
+            "to": "KING CLAUDIUS",
+            "timestamp": "2025-03-07T14:19:04.700900",
+            "duration": 204
+        },
+        {
+            "from": "Messenger",
+            "to": "LAERTES",
+            "timestamp": "2025-03-02T18:48:04.700903",
+            "duration": 177
+        },
+        {
+            "from": "Messenger",
+            "to": "LAERTES",
+            "timestamp": "2025-03-10T08:12:04.700905",
+            "duration": 203
+        },
+        {
+            "from": "Messenger",
+            "to": "LAERTES",
+            "timestamp": "2025-03-03T14:36:04.700907",
+            "duration": 146
+        },
+        {
+            "from": "Messenger",
+            "to": "Lord",
+            "timestamp": "2025-03-05T12:35:04.700909",
+            "duration": 199
+        },
+        {
+            "from": "Messenger",
+            "to": "Lord",
+            "timestamp": "2025-03-06T04:29:04.700911",
+            "duration": 161
+        },
+        {
+            "from": "Messenger",
+            "to": "Lord",
+            "timestamp": "2025-03-04T11:14:04.700913",
+            "duration": 238
+        },
+        {
+            "from": "Messenger",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-04T21:12:04.700915",
+            "duration": 281
+        },
+        {
+            "from": "Messenger",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-06T07:53:04.700917",
+            "duration": 212
+        },
+        {
+            "from": "Messenger",
+            "to": "Captain",
+            "timestamp": "2025-03-06T22:29:04.700920",
+            "duration": 173
+        },
+        {
+            "from": "Messenger",
+            "to": "Player King",
+            "timestamp": "2025-03-04T23:12:04.700922",
+            "duration": 228
+        },
+        {
+            "from": "Messenger",
+            "to": "Player King",
+            "timestamp": "2025-03-06T20:38:04.700924",
+            "duration": 267
+        },
+        {
+            "from": "Messenger",
+            "to": "Player King",
+            "timestamp": "2025-03-05T21:13:04.700926",
+            "duration": 73
+        },
+        {
+            "from": "Messenger",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-04T15:12:04.700929",
+            "duration": 296
+        },
+        {
+            "from": "Messenger",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-09T20:23:04.700931",
+            "duration": 239
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-06T09:18:04.700933",
+            "duration": 104
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-10T07:04:04.700935",
+            "duration": 71
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "LAERTES",
+            "timestamp": "2025-03-09T07:27:04.700938",
+            "duration": 68
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-10T03:28:04.700940",
+            "duration": 247
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-05T07:22:04.700942",
+            "duration": 209
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-10T03:36:04.700944",
+            "duration": 62
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-05T03:52:04.700947",
+            "duration": 282
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-05T07:44:04.700949",
+            "duration": 263
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-02T16:37:04.700951",
+            "duration": 221
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "Player King",
+            "timestamp": "2025-03-07T07:19:04.700954",
+            "duration": 248
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-07T13:12:04.700956",
+            "duration": 297
+        },
+        {
+            "from": "KING CLAUDIUS",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-07T10:52:04.700958",
+            "duration": 171
+        },
+        {
+            "from": "LAERTES",
+            "to": "Lord",
+            "timestamp": "2025-03-09T21:36:04.700961",
+            "duration": 123
+        },
+        {
+            "from": "LAERTES",
+            "to": "Lord",
+            "timestamp": "2025-03-09T08:09:04.700963",
+            "duration": 241
+        },
+        {
+            "from": "LAERTES",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-02T15:57:04.700965",
+            "duration": 194
+        },
+        {
+            "from": "LAERTES",
+            "to": "Captain",
+            "timestamp": "2025-03-06T12:00:04.700968",
+            "duration": 276
+        },
+        {
+            "from": "LAERTES",
+            "to": "Player King",
+            "timestamp": "2025-03-06T21:01:04.700970",
+            "duration": 215
+        },
+        {
+            "from": "LAERTES",
+            "to": "Player King",
+            "timestamp": "2025-03-06T04:47:04.700972",
+            "duration": 142
+        },
+        {
+            "from": "LAERTES",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-04T05:59:04.700974",
+            "duration": 184
+        },
+        {
+            "from": "LAERTES",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-10T00:13:04.700976",
+            "duration": 209
+        },
+        {
+            "from": "Lord",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-03T18:38:04.700979",
+            "duration": 149
+        },
+        {
+            "from": "Lord",
+            "to": "ROSENCRANTZ",
+            "timestamp": "2025-03-09T07:42:04.700981",
+            "duration": 203
+        },
+        {
+            "from": "Lord",
+            "to": "Captain",
+            "timestamp": "2025-03-05T19:07:04.700983",
+            "duration": 288
+        },
+        {
+            "from": "Lord",
+            "to": "Captain",
+            "timestamp": "2025-03-09T00:17:04.700985",
+            "duration": 189
+        },
+        {
+            "from": "Lord",
+            "to": "Captain",
+            "timestamp": "2025-03-08T23:10:04.700987",
+            "duration": 144
+        },
+        {
+            "from": "Lord",
+            "to": "Player King",
+            "timestamp": "2025-03-05T00:31:04.700989",
+            "duration": 95
+        },
+        {
+            "from": "Lord",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-10T05:59:04.700992",
+            "duration": 66
+        },
+        {
+            "from": "ROSENCRANTZ",
+            "to": "Captain",
+            "timestamp": "2025-03-09T14:54:04.700994",
+            "duration": 164
+        },
+        {
+            "from": "ROSENCRANTZ",
+            "to": "Player King",
+            "timestamp": "2025-03-05T17:24:04.700996",
+            "duration": 119
+        },
+        {
+            "from": "ROSENCRANTZ",
+            "to": "Player King",
+            "timestamp": "2025-03-03T08:34:04.700998",
+            "duration": 289
+        },
+        {
+            "from": "ROSENCRANTZ",
+            "to": "Player King",
+            "timestamp": "2025-03-06T13:34:04.701000",
+            "duration": 157
+        },
+        {
+            "from": "ROSENCRANTZ",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-05T21:20:04.701003",
+            "duration": 277
+        },
+        {
+            "from": "ROSENCRANTZ",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-07T01:00:04.701005",
+            "duration": 207
+        },
+        {
+            "from": "ROSENCRANTZ",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-09T03:32:04.701007",
+            "duration": 131
+        },
+        {
+            "from": "Captain",
+            "to": "Player King",
+            "timestamp": "2025-03-03T17:12:04.701009",
+            "duration": 75
+        },
+        {
+            "from": "Captain",
+            "to": "Player King",
+            "timestamp": "2025-03-04T17:07:04.701011",
+            "duration": 245
+        },
+        {
+            "from": "Captain",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-07T04:35:04.701013",
+            "duration": 70
+        },
+        {
+            "from": "Captain",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-07T03:14:04.701016",
+            "duration": 120
+        },
+        {
+            "from": "Player King",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-08T10:18:04.701018",
+            "duration": 94
+        },
+        {
+            "from": "Player King",
+            "to": "REYNALDO",
+            "timestamp": "2025-03-03T09:57:04.701020",
+            "duration": 120
+        }
+    ],
+    "contact_data": {
+        "PRINCE FORTINBRAS": {
+            "phone": "832-730-8162",
+            "email": "prince.fortinbras@imperialventures.com",
+            "title": "Managing Director",
+            "company": "Imperial Ventures",
+            "industry": "Royal"
+        },
+        "ROSENCRANTZ:": {
+            "phone": "713-774-5771",
+            "email": "rosencrantz@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "MARCELLUS": {
+            "phone": "713-997-4077",
+            "email": "marcellus@commercelink.com",
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "Prologue": {
+            "phone": "713-232-2871",
+            "email": "prologue@commercelink.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "GUILDENSTERN:": {
+            "phone": "281-564-7815",
+            "email": "guildenstern@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "HORATIO": {
+            "phone": "281-680-3731",
+            "email": "horatio@commercelink.com",
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "BERNARDO": {
+            "phone": "713-810-8954",
+            "email": "bernardo@marketdyn.com",
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "VOLTIMAND": {
+            "phone": "713-734-4021",
+            "email": "voltimand@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "OSRIC": {
+            "phone": "832-921-3308",
+            "email": "osric@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "FRANCISCO": {
+            "phone": "832-259-3753",
+            "email": "francisco@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "CORNELIUS": {
+            "phone": "281-581-2777",
+            "email": "cornelius@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Player Queen": {
+            "phone": "832-938-5284",
+            "email": "player.queen@monarchcap.com",
+            "title": "Chairman of the Board",
+            "company": "Monarch Capital Group",
+            "industry": "Royal"
+        },
+        "QUEEN GERTRUDE": {
+            "phone": "281-498-8957",
+            "email": "queen.gertrude@sovereignwealth.com",
+            "title": "Executive Chairman",
+            "company": "Sovereign Wealth Partners",
+            "industry": "Royal"
+        },
+        "GUILDENSTERN": {
+            "phone": "713-402-3765",
+            "email": "guildenstern@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "LORD POLONIUS": {
+            "phone": "281-441-4738",
+            "email": "lord.polonius@noblesterling.com",
+            "title": "Portfolio Director",
+            "company": "Noble & Sterling Partners",
+            "industry": "Noble"
+        },
+        "HAMLET": {
+            "phone": "281-533-9035",
+            "email": "hamlet@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "Gentleman": {
+            "phone": "832-875-7968",
+            "email": "gentleman@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Danes": {
+            "phone": "832-410-6360",
+            "email": "danes@merchantsexchange.com",
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "LUCIANUS": {
+            "phone": "832-767-9794",
+            "email": "lucianus@globaltradepart.com",
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Servant": {
+            "phone": "832-247-9477",
+            "email": "servant@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "OPHELIA": {
+            "phone": "281-541-4584",
+            "email": "ophelia@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Messenger": {
+            "phone": "713-401-4672",
+            "email": "messenger@allianceintl.com",
+            "title": "Global Communications Director",
+            "company": "Alliance International",
+            "industry": "Diplomatic"
+        },
+        "KING CLAUDIUS": {
+            "phone": "832-412-9989",
+            "email": "king.claudius@sovereignwealth.com",
+            "title": "Executive Chairman",
+            "company": "Sovereign Wealth Partners",
+            "industry": "Royal"
+        },
+        "LAERTES": {
+            "phone": "281-666-4113",
+            "email": "laertes@tradewinds.com",
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Lord": {
+            "phone": "713-373-7580",
+            "email": "lord@prestigeholdings.com",
+            "title": "Managing Partner",
+            "company": "Prestige Holdings",
+            "industry": "Noble"
+        },
+        "ROSENCRANTZ": {
+            "phone": "832-694-3031",
+            "email": "rosencrantz@commercetrade.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Captain": {
+            "phone": "281-363-6022",
+            "email": "captain@stratops.com",
+            "title": "Security Director",
+            "company": "Strategic Operations Group",
+            "industry": "Military"
+        },
+        "Player King": {
+            "phone": "832-459-3041",
+            "email": "player.king@monarchcap.com",
+            "title": "Chairman of the Board",
+            "company": "Monarch Capital Group",
+            "industry": "Royal"
+        },
+        "REYNALDO": {
+            "phone": "832-912-2553",
+            "email": "reynaldo@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        }
+    }
+}

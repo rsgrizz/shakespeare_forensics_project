@@ -1,1 +1,14 @@
-{}
+{
+  "CHARACTER_1": {
+    "description": "Generic Character",
+    "modern_role": "Employee",
+    "department": "General",
+    "location": "Anytown"
+  },
+  "CHARACTER_2": {
+    "description": "Generic Character",
+    "modern_role": "Manager",
+    "department": "Management",
+    "location": "Anytown"
+  }
+}

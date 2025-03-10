@@ -1,0 +1,4208 @@
+{
+    "characters": {
+        "Scene III": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-527-1530",
+            "email": "scene.iii@merchantsexchange.com"
+        },
+        "Jupiter": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-816-1591",
+            "email": "jupiter@commercetrade.com"
+        },
+        "CAIUS LUCIUS": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-141-9139",
+            "email": "caius.lucius@commercetrade.com"
+        },
+        "PHILARIO": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-697-4143",
+            "email": "philario@commercetrade.com"
+        },
+        "IACHIMO": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-173-8958",
+            "email": "iachimo@merchantsexchange.com"
+        },
+        "CORNELIUS": {
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-326-9275",
+            "email": "cornelius@commercelink.com"
+        },
+        "BELARIUS": {
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-254-1968",
+            "email": "belarius@tradewinds.com"
+        },
+        "Soothsayer": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-597-1867",
+            "email": "soothsayer@globaltradepart.com"
+        },
+        "Mother": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-120-5051",
+            "email": "mother@commercetrade.com"
+        },
+        "IMOGEN": {
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-563-1516",
+            "email": "imogen@merchantsexchange.com"
+        },
+        "Attendant": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-122-8535",
+            "email": "attendant@merchantsexchange.com"
+        },
+        "PISANIO": {
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-807-4413",
+            "email": "pisanio@marketdyn.com"
+        },
+        "QUEEN": {
+            "title": "Chief Executive Officer",
+            "company": "Monarch Capital Group",
+            "industry": "Royal",
+            "location": "Chicago",
+            "phone": "773-922-2810",
+            "email": "queen@monarchcap.com"
+        },
+        "POSTHUMUS LEONATUS": {
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-578-3154",
+            "email": "posthumus.leonatus@globaltradepart.com"
+        },
+        "Posthumus Leonatus": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-195-4850",
+            "email": "posthumus.leonatus@merchantsexchange.com"
+        },
+        "CLOTEN": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-627-6266",
+            "email": "cloten@merchantsexchange.com"
+        },
+        "Messenger": {
+            "title": "International Relations Director",
+            "company": "Alliance International",
+            "industry": "Diplomatic",
+            "location": "Chicago",
+            "phone": "312-576-4766",
+            "email": "messenger@allianceintl.com"
+        },
+        "CYMBELINE": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-173-5659",
+            "email": "cymbeline@commercelink.com"
+        },
+        "Lords": {
+            "title": "Portfolio Director",
+            "company": "Prestige Holdings",
+            "industry": "Noble",
+            "location": "Houston",
+            "phone": "281-386-9062",
+            "email": "lords@prestigeholdings.com"
+        },
+        "Sicilius Leonatus": {
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-755-5072",
+            "email": "sicilius.leonatus@commercetrade.com"
+        },
+        "Lord": {
+            "title": "Senior Partner",
+            "company": "Prestige Holdings",
+            "industry": "Noble",
+            "location": "Los Angeles",
+            "phone": "213-735-1307",
+            "email": "lord@prestigeholdings.com"
+        },
+        "Captain": {
+            "title": "Head of Special Operations",
+            "company": "Fortress Global Security",
+            "industry": "Military",
+            "location": "Houston",
+            "phone": "281-240-8614",
+            "email": "captain@fortresssecurity.com"
+        },
+        "GUIDERIUS": {
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-183-4260",
+            "email": "guiderius@marketdyn.com"
+        },
+        "Lady": {
+            "title": "Portfolio Director",
+            "company": "Heritage Private Equity",
+            "industry": "Noble",
+            "location": "Chicago",
+            "phone": "872-529-1580",
+            "email": "lady@heritagepe.com"
+        },
+        "ARVIRAGUS": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-881-8452",
+            "email": "arviragus@commercelink.com"
+        },
+        "Frenchman": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-326-2433",
+            "email": "frenchman@commercetrade.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "Scene III",
+            "to": "Jupiter",
+            "timestamp": "2025-03-06T22:01:04.474426",
+            "duration": 207
+        },
+        {
+            "from": "Scene III",
+            "to": "CAIUS LUCIUS",
+            "timestamp": "2025-03-04T00:59:04.474437",
+            "duration": 179
+        },
+        {
+            "from": "Scene III",
+            "to": "CAIUS LUCIUS",
+            "timestamp": "2025-03-04T05:19:04.474440",
+            "duration": 279
+        },
+        {
+            "from": "Scene III",
+            "to": "CAIUS LUCIUS",
+            "timestamp": "2025-03-10T13:34:04.474443",
+            "duration": 234
+        },
+        {
+            "from": "Scene III",
+            "to": "PHILARIO",
+            "timestamp": "2025-03-04T19:54:04.474446",
+            "duration": 201
+        },
+        {
+            "from": "Scene III",
+            "to": "PHILARIO",
+            "timestamp": "2025-03-08T19:58:04.474448",
+            "duration": 65
+        },
+        {
+            "from": "Scene III",
+            "to": "PHILARIO",
+            "timestamp": "2025-03-05T11:59:04.474450",
+            "duration": 261
+        },
+        {
+            "from": "Scene III",
+            "to": "IACHIMO",
+            "timestamp": "2025-03-06T18:31:04.474453",
+            "duration": 242
+        },
+        {
+            "from": "Scene III",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-09T14:32:04.474455",
+            "duration": 247
+        },
+        {
+            "from": "Scene III",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-10T11:03:04.474458",
+            "duration": 212
+        },
+        {
+            "from": "Scene III",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-06T00:24:04.474461",
+            "duration": 104
+        },
+        {
+            "from": "Scene III",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-03T21:01:04.474463",
+            "duration": 300
+        },
+        {
+            "from": "Scene III",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-06T10:47:04.474465",
+            "duration": 108
+        },
+        {
+            "from": "Scene III",
+            "to": "Mother",
+            "timestamp": "2025-03-05T14:09:04.474467",
+            "duration": 100
+        },
+        {
+            "from": "Scene III",
+            "to": "Mother",
+            "timestamp": "2025-03-05T01:09:04.474470",
+            "duration": 128
+        },
+        {
+            "from": "Scene III",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-04T09:48:04.474472",
+            "duration": 91
+        },
+        {
+            "from": "Scene III",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-04T21:32:04.474474",
+            "duration": 295
+        },
+        {
+            "from": "Scene III",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-07T06:11:04.474477",
+            "duration": 160
+        },
+        {
+            "from": "Scene III",
+            "to": "Attendant",
+            "timestamp": "2025-03-08T03:56:04.474479",
+            "duration": 137
+        },
+        {
+            "from": "Scene III",
+            "to": "Attendant",
+            "timestamp": "2025-03-04T10:03:04.474481",
+            "duration": 169
+        },
+        {
+            "from": "Scene III",
+            "to": "PISANIO",
+            "timestamp": "2025-03-04T11:38:04.474483",
+            "duration": 213
+        },
+        {
+            "from": "Scene III",
+            "to": "PISANIO",
+            "timestamp": "2025-03-05T07:33:04.474485",
+            "duration": 269
+        },
+        {
+            "from": "Scene III",
+            "to": "PISANIO",
+            "timestamp": "2025-03-07T03:07:04.474488",
+            "duration": 80
+        },
+        {
+            "from": "Scene III",
+            "to": "QUEEN",
+            "timestamp": "2025-03-07T09:46:04.474490",
+            "duration": 98
+        },
+        {
+            "from": "Scene III",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-05T10:46:04.474492",
+            "duration": 117
+        },
+        {
+            "from": "Scene III",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-07T00:08:04.474495",
+            "duration": 166
+        },
+        {
+            "from": "Scene III",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-09T03:53:04.474497",
+            "duration": 240
+        },
+        {
+            "from": "Scene III",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-03T02:00:04.474499",
+            "duration": 75
+        },
+        {
+            "from": "Scene III",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-03T13:40:04.474501",
+            "duration": 104
+        },
+        {
+            "from": "Scene III",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-08T04:29:04.474504",
+            "duration": 81
+        },
+        {
+            "from": "Scene III",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-03T22:11:04.474506",
+            "duration": 233
+        },
+        {
+            "from": "Scene III",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T12:25:04.474508",
+            "duration": 223
+        },
+        {
+            "from": "Scene III",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-08T13:27:04.474510",
+            "duration": 126
+        },
+        {
+            "from": "Scene III",
+            "to": "Lords",
+            "timestamp": "2025-03-08T18:01:04.474513",
+            "duration": 184
+        },
+        {
+            "from": "Scene III",
+            "to": "Lords",
+            "timestamp": "2025-03-03T21:02:04.474515",
+            "duration": 95
+        },
+        {
+            "from": "Scene III",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-06T23:02:04.474517",
+            "duration": 132
+        },
+        {
+            "from": "Scene III",
+            "to": "Lord",
+            "timestamp": "2025-03-03T21:41:04.474519",
+            "duration": 152
+        },
+        {
+            "from": "Scene III",
+            "to": "Captain",
+            "timestamp": "2025-03-05T13:34:04.474522",
+            "duration": 159
+        },
+        {
+            "from": "Scene III",
+            "to": "Captain",
+            "timestamp": "2025-03-07T20:25:04.474524",
+            "duration": 208
+        },
+        {
+            "from": "Scene III",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-04T09:05:04.474526",
+            "duration": 91
+        },
+        {
+            "from": "Scene III",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-09T05:00:04.474528",
+            "duration": 172
+        },
+        {
+            "from": "Scene III",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-06T20:26:04.474531",
+            "duration": 80
+        },
+        {
+            "from": "Scene III",
+            "to": "Lady",
+            "timestamp": "2025-03-05T14:51:04.474533",
+            "duration": 98
+        },
+        {
+            "from": "Scene III",
+            "to": "Lady",
+            "timestamp": "2025-03-04T23:59:04.474535",
+            "duration": 224
+        },
+        {
+            "from": "Scene III",
+            "to": "Lady",
+            "timestamp": "2025-03-03T18:50:04.474537",
+            "duration": 165
+        },
+        {
+            "from": "Scene III",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-07T08:47:04.474539",
+            "duration": 156
+        },
+        {
+            "from": "Scene III",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-07T16:33:04.474541",
+            "duration": 104
+        },
+        {
+            "from": "Scene III",
+            "to": "Frenchman",
+            "timestamp": "2025-03-10T03:57:04.474544",
+            "duration": 258
+        },
+        {
+            "from": "Scene III",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T15:45:04.474546",
+            "duration": 212
+        },
+        {
+            "from": "Jupiter",
+            "to": "CAIUS LUCIUS",
+            "timestamp": "2025-03-07T12:58:04.474548",
+            "duration": 274
+        },
+        {
+            "from": "Jupiter",
+            "to": "PHILARIO",
+            "timestamp": "2025-03-06T19:59:04.474550",
+            "duration": 131
+        },
+        {
+            "from": "Jupiter",
+            "to": "PHILARIO",
+            "timestamp": "2025-03-07T22:32:04.474552",
+            "duration": 131
+        },
+        {
+            "from": "Jupiter",
+            "to": "PHILARIO",
+            "timestamp": "2025-03-06T12:39:04.474555",
+            "duration": 217
+        },
+        {
+            "from": "Jupiter",
+            "to": "IACHIMO",
+            "timestamp": "2025-03-07T12:16:04.474557",
+            "duration": 196
+        },
+        {
+            "from": "Jupiter",
+            "to": "IACHIMO",
+            "timestamp": "2025-03-06T13:17:04.474559",
+            "duration": 285
+        },
+        {
+            "from": "Jupiter",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-08T02:25:04.474561",
+            "duration": 111
+        },
+        {
+            "from": "Jupiter",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-10T04:18:04.474563",
+            "duration": 287
+        },
+        {
+            "from": "Jupiter",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-08T06:36:04.474566",
+            "duration": 233
+        },
+        {
+            "from": "Jupiter",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-03T05:35:04.474568",
+            "duration": 187
+        },
+        {
+            "from": "Jupiter",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-07T07:09:04.474570",
+            "duration": 298
+        },
+        {
+            "from": "Jupiter",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-06T01:28:04.474572",
+            "duration": 126
+        },
+        {
+            "from": "Jupiter",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-03T23:34:04.474574",
+            "duration": 86
+        },
+        {
+            "from": "Jupiter",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-02T23:54:04.474576",
+            "duration": 208
+        },
+        {
+            "from": "Jupiter",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-03T06:39:04.474578",
+            "duration": 147
+        },
+        {
+            "from": "Jupiter",
+            "to": "Mother",
+            "timestamp": "2025-03-03T23:26:04.474580",
+            "duration": 147
+        },
+        {
+            "from": "Jupiter",
+            "to": "Mother",
+            "timestamp": "2025-03-07T22:18:04.474583",
+            "duration": 268
+        },
+        {
+            "from": "Jupiter",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-06T05:23:04.474585",
+            "duration": 79
+        },
+        {
+            "from": "Jupiter",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-06T19:22:04.474587",
+            "duration": 77
+        },
+        {
+            "from": "Jupiter",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-08T08:54:04.474589",
+            "duration": 97
+        },
+        {
+            "from": "Jupiter",
+            "to": "Attendant",
+            "timestamp": "2025-03-05T20:27:04.474591",
+            "duration": 274
+        },
+        {
+            "from": "Jupiter",
+            "to": "PISANIO",
+            "timestamp": "2025-03-10T10:45:04.474594",
+            "duration": 97
+        },
+        {
+            "from": "Jupiter",
+            "to": "PISANIO",
+            "timestamp": "2025-03-09T21:43:04.474596",
+            "duration": 268
+        },
+        {
+            "from": "Jupiter",
+            "to": "PISANIO",
+            "timestamp": "2025-03-03T23:43:04.474598",
+            "duration": 141
+        },
+        {
+            "from": "Jupiter",
+            "to": "QUEEN",
+            "timestamp": "2025-03-05T02:17:04.474600",
+            "duration": 224
+        },
+        {
+            "from": "Jupiter",
+            "to": "QUEEN",
+            "timestamp": "2025-03-09T22:46:04.474603",
+            "duration": 260
+        },
+        {
+            "from": "Jupiter",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-09T14:30:04.474605",
+            "duration": 205
+        },
+        {
+            "from": "Jupiter",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-04T13:48:04.474607",
+            "duration": 149
+        },
+        {
+            "from": "Jupiter",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-05T14:06:04.474610",
+            "duration": 298
+        },
+        {
+            "from": "Jupiter",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T05:16:04.474613",
+            "duration": 208
+        },
+        {
+            "from": "Jupiter",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-08T07:28:04.474615",
+            "duration": 159
+        },
+        {
+            "from": "Jupiter",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-08T03:28:04.474617",
+            "duration": 85
+        },
+        {
+            "from": "Jupiter",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-04T14:26:04.474619",
+            "duration": 265
+        },
+        {
+            "from": "Jupiter",
+            "to": "Lords",
+            "timestamp": "2025-03-07T09:07:04.474623",
+            "duration": 238
+        },
+        {
+            "from": "Jupiter",
+            "to": "Lords",
+            "timestamp": "2025-03-09T15:15:04.474625",
+            "duration": 237
+        },
+        {
+            "from": "Jupiter",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-04T04:09:04.474627",
+            "duration": 295
+        },
+        {
+            "from": "Jupiter",
+            "to": "Lord",
+            "timestamp": "2025-03-06T21:08:04.474630",
+            "duration": 184
+        },
+        {
+            "from": "Jupiter",
+            "to": "Captain",
+            "timestamp": "2025-03-06T16:05:04.474632",
+            "duration": 223
+        },
+        {
+            "from": "Jupiter",
+            "to": "Captain",
+            "timestamp": "2025-03-04T05:08:04.474634",
+            "duration": 135
+        },
+        {
+            "from": "Jupiter",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-07T17:48:04.474637",
+            "duration": 212
+        },
+        {
+            "from": "Jupiter",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-05T03:26:04.474639",
+            "duration": 141
+        },
+        {
+            "from": "Jupiter",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-08T02:53:04.474644",
+            "duration": 229
+        },
+        {
+            "from": "Jupiter",
+            "to": "Lady",
+            "timestamp": "2025-03-10T10:43:04.474647",
+            "duration": 120
+        },
+        {
+            "from": "Jupiter",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-04T05:38:04.474649",
+            "duration": 118
+        },
+        {
+            "from": "Jupiter",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-10T02:08:04.474651",
+            "duration": 206
+        },
+        {
+            "from": "Jupiter",
+            "to": "Frenchman",
+            "timestamp": "2025-03-05T10:27:04.474654",
+            "duration": 293
+        },
+        {
+            "from": "Jupiter",
+            "to": "Frenchman",
+            "timestamp": "2025-03-10T06:48:04.474656",
+            "duration": 214
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "PHILARIO",
+            "timestamp": "2025-03-08T02:19:04.474658",
+            "duration": 62
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "IACHIMO",
+            "timestamp": "2025-03-03T17:55:04.474660",
+            "duration": 240
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "IACHIMO",
+            "timestamp": "2025-03-03T05:50:04.474662",
+            "duration": 112
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "IACHIMO",
+            "timestamp": "2025-03-10T08:23:04.474664",
+            "duration": 262
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-10T08:28:04.474667",
+            "duration": 237
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-09T00:17:04.474669",
+            "duration": 122
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-09T18:02:04.474671",
+            "duration": 241
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-06T10:36:04.474673",
+            "duration": 128
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-07T02:03:04.474675",
+            "duration": 72
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-06T13:03:04.474677",
+            "duration": 147
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-06T17:54:04.474679",
+            "duration": 281
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Mother",
+            "timestamp": "2025-03-04T09:19:04.474681",
+            "duration": 217
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Mother",
+            "timestamp": "2025-03-04T16:48:04.474683",
+            "duration": 84
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-03T19:54:04.474686",
+            "duration": 208
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-04T06:15:04.474688",
+            "duration": 241
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Attendant",
+            "timestamp": "2025-03-05T21:16:04.474691",
+            "duration": 165
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Attendant",
+            "timestamp": "2025-03-07T00:36:04.474693",
+            "duration": 74
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Attendant",
+            "timestamp": "2025-03-07T11:27:04.474695",
+            "duration": 116
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "PISANIO",
+            "timestamp": "2025-03-02T15:00:04.474697",
+            "duration": 111
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "PISANIO",
+            "timestamp": "2025-03-08T21:09:04.474699",
+            "duration": 223
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "QUEEN",
+            "timestamp": "2025-03-06T23:15:04.474701",
+            "duration": 279
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "QUEEN",
+            "timestamp": "2025-03-03T13:24:04.474703",
+            "duration": 67
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-05T18:45:04.474706",
+            "duration": 245
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-05T23:47:04.474708",
+            "duration": 122
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-06T09:52:04.474710",
+            "duration": 300
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-09T18:49:04.474712",
+            "duration": 137
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-05T17:20:04.474714",
+            "duration": 61
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-09T16:22:04.474716",
+            "duration": 230
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T18:48:04.474718",
+            "duration": 148
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T01:40:04.474720",
+            "duration": 69
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T15:44:04.474722",
+            "duration": 127
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-07T18:10:04.474725",
+            "duration": 108
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-07T05:25:04.474727",
+            "duration": 293
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-02T16:40:04.474729",
+            "duration": 286
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Lords",
+            "timestamp": "2025-03-04T20:29:04.474732",
+            "duration": 298
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Lords",
+            "timestamp": "2025-03-04T16:32:04.474734",
+            "duration": 207
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-04T07:53:04.474736",
+            "duration": 96
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-04T17:01:04.474738",
+            "duration": 286
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-07T04:52:04.474740",
+            "duration": 280
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-05T19:29:04.474742",
+            "duration": 196
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-10T03:14:04.474745",
+            "duration": 223
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-07T18:19:04.474747",
+            "duration": 192
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-08T15:04:04.474749",
+            "duration": 176
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Lady",
+            "timestamp": "2025-03-08T07:54:04.474751",
+            "duration": 230
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Lady",
+            "timestamp": "2025-03-05T08:30:04.474753",
+            "duration": 242
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Lady",
+            "timestamp": "2025-03-07T22:15:04.474755",
+            "duration": 68
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-05T07:34:04.474757",
+            "duration": 281
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-07T23:18:04.474759",
+            "duration": 87
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-07T03:10:04.474761",
+            "duration": 70
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Frenchman",
+            "timestamp": "2025-03-07T07:18:04.474764",
+            "duration": 257
+        },
+        {
+            "from": "CAIUS LUCIUS",
+            "to": "Frenchman",
+            "timestamp": "2025-03-04T22:29:04.474766",
+            "duration": 108
+        },
+        {
+            "from": "PHILARIO",
+            "to": "IACHIMO",
+            "timestamp": "2025-03-04T18:07:04.474768",
+            "duration": 90
+        },
+        {
+            "from": "PHILARIO",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-03T21:19:04.474770",
+            "duration": 139
+        },
+        {
+            "from": "PHILARIO",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-06T16:05:04.474773",
+            "duration": 186
+        },
+        {
+            "from": "PHILARIO",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-02T23:34:04.474775",
+            "duration": 283
+        },
+        {
+            "from": "PHILARIO",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-10T06:26:04.474777",
+            "duration": 66
+        },
+        {
+            "from": "PHILARIO",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-05T19:33:04.474779",
+            "duration": 122
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-10T11:59:04.474781",
+            "duration": 130
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-05T04:54:04.474783",
+            "duration": 294
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Mother",
+            "timestamp": "2025-03-04T01:38:04.474786",
+            "duration": 104
+        },
+        {
+            "from": "PHILARIO",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-03T22:06:04.474788",
+            "duration": 149
+        },
+        {
+            "from": "PHILARIO",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-10T14:11:04.474790",
+            "duration": 249
+        },
+        {
+            "from": "PHILARIO",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-08T05:11:04.474792",
+            "duration": 141
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Attendant",
+            "timestamp": "2025-03-06T20:06:04.474794",
+            "duration": 211
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Attendant",
+            "timestamp": "2025-03-04T03:11:04.474796",
+            "duration": 106
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Attendant",
+            "timestamp": "2025-03-08T18:59:04.474798",
+            "duration": 250
+        },
+        {
+            "from": "PHILARIO",
+            "to": "PISANIO",
+            "timestamp": "2025-03-02T20:45:04.474801",
+            "duration": 131
+        },
+        {
+            "from": "PHILARIO",
+            "to": "QUEEN",
+            "timestamp": "2025-03-02T21:45:04.474803",
+            "duration": 202
+        },
+        {
+            "from": "PHILARIO",
+            "to": "QUEEN",
+            "timestamp": "2025-03-05T08:53:04.474805",
+            "duration": 175
+        },
+        {
+            "from": "PHILARIO",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-05T05:00:04.474807",
+            "duration": 257
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-06T17:48:04.474809",
+            "duration": 108
+        },
+        {
+            "from": "PHILARIO",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-02T17:48:04.474811",
+            "duration": 118
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T06:00:04.474814",
+            "duration": 182
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T12:01:04.474816",
+            "duration": 250
+        },
+        {
+            "from": "PHILARIO",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-06T19:16:04.474818",
+            "duration": 262
+        },
+        {
+            "from": "PHILARIO",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-02T22:19:04.474820",
+            "duration": 109
+        },
+        {
+            "from": "PHILARIO",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-03T15:36:04.474822",
+            "duration": 114
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Lords",
+            "timestamp": "2025-03-08T08:13:04.474825",
+            "duration": 69
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Lords",
+            "timestamp": "2025-03-10T06:45:04.474827",
+            "duration": 120
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Lords",
+            "timestamp": "2025-03-03T01:45:04.474829",
+            "duration": 143
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-09T02:31:04.474831",
+            "duration": 167
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Lord",
+            "timestamp": "2025-03-07T17:39:04.474834",
+            "duration": 276
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Lord",
+            "timestamp": "2025-03-02T15:33:04.474836",
+            "duration": 107
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Lord",
+            "timestamp": "2025-03-10T03:03:04.474838",
+            "duration": 294
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Captain",
+            "timestamp": "2025-03-06T16:50:04.474840",
+            "duration": 204
+        },
+        {
+            "from": "PHILARIO",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-02T18:20:04.474842",
+            "duration": 157
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Lady",
+            "timestamp": "2025-03-10T13:39:04.474844",
+            "duration": 279
+        },
+        {
+            "from": "PHILARIO",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-06T15:12:04.474847",
+            "duration": 143
+        },
+        {
+            "from": "PHILARIO",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-10T00:34:04.474849",
+            "duration": 293
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Frenchman",
+            "timestamp": "2025-03-06T18:53:04.474851",
+            "duration": 197
+        },
+        {
+            "from": "PHILARIO",
+            "to": "Frenchman",
+            "timestamp": "2025-03-09T19:49:04.474853",
+            "duration": 174
+        },
+        {
+            "from": "IACHIMO",
+            "to": "CORNELIUS",
+            "timestamp": "2025-03-06T18:24:04.474855",
+            "duration": 75
+        },
+        {
+            "from": "IACHIMO",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-03T01:50:04.474857",
+            "duration": 115
+        },
+        {
+            "from": "IACHIMO",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-05T12:01:04.474859",
+            "duration": 126
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-03T17:19:04.474862",
+            "duration": 60
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-10T05:04:04.474864",
+            "duration": 97
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-03T22:11:04.474866",
+            "duration": 99
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Mother",
+            "timestamp": "2025-03-08T15:27:04.474868",
+            "duration": 253
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Mother",
+            "timestamp": "2025-03-07T15:38:04.474870",
+            "duration": 197
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Mother",
+            "timestamp": "2025-03-06T19:58:04.474872",
+            "duration": 151
+        },
+        {
+            "from": "IACHIMO",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-04T10:25:04.474874",
+            "duration": 221
+        },
+        {
+            "from": "IACHIMO",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-02T14:52:04.474877",
+            "duration": 246
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Attendant",
+            "timestamp": "2025-03-08T01:45:04.474879",
+            "duration": 266
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Attendant",
+            "timestamp": "2025-03-04T06:05:04.474881",
+            "duration": 134
+        },
+        {
+            "from": "IACHIMO",
+            "to": "PISANIO",
+            "timestamp": "2025-03-04T10:42:04.474883",
+            "duration": 213
+        },
+        {
+            "from": "IACHIMO",
+            "to": "QUEEN",
+            "timestamp": "2025-03-05T00:51:04.474886",
+            "duration": 80
+        },
+        {
+            "from": "IACHIMO",
+            "to": "QUEEN",
+            "timestamp": "2025-03-07T10:46:04.474888",
+            "duration": 291
+        },
+        {
+            "from": "IACHIMO",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-04T17:34:04.474891",
+            "duration": 136
+        },
+        {
+            "from": "IACHIMO",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-09T21:21:04.474893",
+            "duration": 88
+        },
+        {
+            "from": "IACHIMO",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-03T11:02:04.474895",
+            "duration": 151
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-03T13:28:04.474897",
+            "duration": 251
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-08T01:05:04.474899",
+            "duration": 161
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-08T00:55:04.474901",
+            "duration": 255
+        },
+        {
+            "from": "IACHIMO",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-10T00:39:04.474903",
+            "duration": 63
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T16:39:04.474906",
+            "duration": 74
+        },
+        {
+            "from": "IACHIMO",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-08T22:14:04.474908",
+            "duration": 124
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Lords",
+            "timestamp": "2025-03-03T15:06:04.474910",
+            "duration": 127
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-08T15:30:04.474912",
+            "duration": 298
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Lord",
+            "timestamp": "2025-03-06T15:45:04.474915",
+            "duration": 102
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Captain",
+            "timestamp": "2025-03-09T11:38:04.474917",
+            "duration": 173
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Captain",
+            "timestamp": "2025-03-03T00:04:04.474919",
+            "duration": 122
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Captain",
+            "timestamp": "2025-03-06T01:09:04.474921",
+            "duration": 215
+        },
+        {
+            "from": "IACHIMO",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-04T12:07:04.474923",
+            "duration": 187
+        },
+        {
+            "from": "IACHIMO",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-09T13:58:04.474925",
+            "duration": 156
+        },
+        {
+            "from": "IACHIMO",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-05T12:14:04.474927",
+            "duration": 127
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Lady",
+            "timestamp": "2025-03-03T10:37:04.474929",
+            "duration": 64
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Lady",
+            "timestamp": "2025-03-04T17:03:04.474931",
+            "duration": 96
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Lady",
+            "timestamp": "2025-03-09T17:23:04.474933",
+            "duration": 163
+        },
+        {
+            "from": "IACHIMO",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-07T10:13:04.474936",
+            "duration": 115
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Frenchman",
+            "timestamp": "2025-03-09T10:50:04.474938",
+            "duration": 195
+        },
+        {
+            "from": "IACHIMO",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T10:14:04.474940",
+            "duration": 234
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-06T10:15:04.474942",
+            "duration": 185
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-05T00:20:04.474944",
+            "duration": 97
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "BELARIUS",
+            "timestamp": "2025-03-07T03:48:04.474946",
+            "duration": 213
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-05T09:19:04.474949",
+            "duration": 234
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-08T06:23:04.474951",
+            "duration": 62
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Mother",
+            "timestamp": "2025-03-08T09:24:04.474953",
+            "duration": 260
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Mother",
+            "timestamp": "2025-03-06T06:32:04.474956",
+            "duration": 236
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-04T19:19:04.474958",
+            "duration": 208
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-07T22:21:04.474963",
+            "duration": 212
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-09T21:17:04.474965",
+            "duration": 120
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Attendant",
+            "timestamp": "2025-03-03T11:15:04.474968",
+            "duration": 134
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "PISANIO",
+            "timestamp": "2025-03-03T09:26:04.474970",
+            "duration": 177
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "PISANIO",
+            "timestamp": "2025-03-03T13:53:04.474972",
+            "duration": 143
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "PISANIO",
+            "timestamp": "2025-03-07T07:14:04.474974",
+            "duration": 242
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "QUEEN",
+            "timestamp": "2025-03-03T13:53:04.474976",
+            "duration": 244
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "QUEEN",
+            "timestamp": "2025-03-06T00:14:04.474978",
+            "duration": 169
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "QUEEN",
+            "timestamp": "2025-03-04T23:41:04.474980",
+            "duration": 289
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-08T00:47:04.474982",
+            "duration": 239
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-03T23:26:04.474984",
+            "duration": 149
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-06T12:45:04.474986",
+            "duration": 90
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-07T22:42:04.474989",
+            "duration": 179
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-04T15:49:04.474991",
+            "duration": 238
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-07T00:39:04.474993",
+            "duration": 292
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T13:11:04.474995",
+            "duration": 227
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-06T03:06:04.474997",
+            "duration": 263
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Lords",
+            "timestamp": "2025-03-04T07:39:04.475000",
+            "duration": 285
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Lords",
+            "timestamp": "2025-03-05T16:11:04.475002",
+            "duration": 78
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Lords",
+            "timestamp": "2025-03-09T14:31:04.475004",
+            "duration": 196
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-07T23:43:04.475006",
+            "duration": 103
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-02T23:09:04.475008",
+            "duration": 228
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-05T00:34:04.475010",
+            "duration": 247
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-08T22:41:04.475013",
+            "duration": 102
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-04T09:45:04.475015",
+            "duration": 88
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-05T23:13:04.475017",
+            "duration": 202
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Lady",
+            "timestamp": "2025-03-05T11:53:04.475019",
+            "duration": 234
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Lady",
+            "timestamp": "2025-03-09T21:04:04.475021",
+            "duration": 211
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Lady",
+            "timestamp": "2025-03-08T04:37:04.475023",
+            "duration": 279
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-08T03:17:04.475025",
+            "duration": 285
+        },
+        {
+            "from": "CORNELIUS",
+            "to": "Frenchman",
+            "timestamp": "2025-03-07T02:03:04.475028",
+            "duration": 287
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-05T00:07:04.475030",
+            "duration": 95
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Soothsayer",
+            "timestamp": "2025-03-10T11:36:04.475032",
+            "duration": 135
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Mother",
+            "timestamp": "2025-03-09T12:45:04.475034",
+            "duration": 92
+        },
+        {
+            "from": "BELARIUS",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-06T22:38:04.475037",
+            "duration": 81
+        },
+        {
+            "from": "BELARIUS",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-10T00:29:04.475039",
+            "duration": 109
+        },
+        {
+            "from": "BELARIUS",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-02T20:30:04.475041",
+            "duration": 213
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Attendant",
+            "timestamp": "2025-03-03T07:49:04.475043",
+            "duration": 86
+        },
+        {
+            "from": "BELARIUS",
+            "to": "PISANIO",
+            "timestamp": "2025-03-06T20:10:04.475046",
+            "duration": 126
+        },
+        {
+            "from": "BELARIUS",
+            "to": "PISANIO",
+            "timestamp": "2025-03-03T07:42:04.475048",
+            "duration": 98
+        },
+        {
+            "from": "BELARIUS",
+            "to": "QUEEN",
+            "timestamp": "2025-03-09T17:30:04.475050",
+            "duration": 70
+        },
+        {
+            "from": "BELARIUS",
+            "to": "QUEEN",
+            "timestamp": "2025-03-04T23:19:04.475052",
+            "duration": 92
+        },
+        {
+            "from": "BELARIUS",
+            "to": "QUEEN",
+            "timestamp": "2025-03-05T14:02:04.475054",
+            "duration": 205
+        },
+        {
+            "from": "BELARIUS",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-06T05:57:04.475056",
+            "duration": 72
+        },
+        {
+            "from": "BELARIUS",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-09T06:25:04.475058",
+            "duration": 127
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-06T11:55:04.475061",
+            "duration": 212
+        },
+        {
+            "from": "BELARIUS",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-03T10:19:04.475063",
+            "duration": 239
+        },
+        {
+            "from": "BELARIUS",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-08T19:28:04.475065",
+            "duration": 125
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T19:34:04.475067",
+            "duration": 167
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T21:45:04.475069",
+            "duration": 82
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T07:32:04.475071",
+            "duration": 286
+        },
+        {
+            "from": "BELARIUS",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-10T13:34:04.475074",
+            "duration": 261
+        },
+        {
+            "from": "BELARIUS",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-09T22:31:04.475076",
+            "duration": 181
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Lords",
+            "timestamp": "2025-03-08T02:04:04.475078",
+            "duration": 91
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Lords",
+            "timestamp": "2025-03-10T04:16:04.475080",
+            "duration": 195
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-04T22:42:04.475082",
+            "duration": 192
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-07T11:01:04.475084",
+            "duration": 237
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Lord",
+            "timestamp": "2025-03-05T10:02:04.475086",
+            "duration": 148
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Captain",
+            "timestamp": "2025-03-07T12:23:04.475089",
+            "duration": 124
+        },
+        {
+            "from": "BELARIUS",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-07T06:52:04.475091",
+            "duration": 156
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Lady",
+            "timestamp": "2025-03-10T08:48:04.475093",
+            "duration": 248
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Lady",
+            "timestamp": "2025-03-09T01:06:04.475095",
+            "duration": 136
+        },
+        {
+            "from": "BELARIUS",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-06T04:05:04.475098",
+            "duration": 162
+        },
+        {
+            "from": "BELARIUS",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-07T19:24:04.475100",
+            "duration": 252
+        },
+        {
+            "from": "BELARIUS",
+            "to": "Frenchman",
+            "timestamp": "2025-03-09T21:03:04.475102",
+            "duration": 261
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Mother",
+            "timestamp": "2025-03-05T17:01:04.475104",
+            "duration": 157
+        },
+        {
+            "from": "Soothsayer",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-09T19:41:04.475106",
+            "duration": 271
+        },
+        {
+            "from": "Soothsayer",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-03T12:48:04.475108",
+            "duration": 119
+        },
+        {
+            "from": "Soothsayer",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-02T18:59:04.475110",
+            "duration": 169
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Attendant",
+            "timestamp": "2025-03-05T17:06:04.475114",
+            "duration": 125
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Attendant",
+            "timestamp": "2025-03-04T05:20:04.475116",
+            "duration": 238
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Attendant",
+            "timestamp": "2025-03-06T10:42:04.475118",
+            "duration": 221
+        },
+        {
+            "from": "Soothsayer",
+            "to": "PISANIO",
+            "timestamp": "2025-03-05T18:28:04.475120",
+            "duration": 169
+        },
+        {
+            "from": "Soothsayer",
+            "to": "QUEEN",
+            "timestamp": "2025-03-06T18:45:04.475122",
+            "duration": 240
+        },
+        {
+            "from": "Soothsayer",
+            "to": "QUEEN",
+            "timestamp": "2025-03-04T08:37:04.475125",
+            "duration": 127
+        },
+        {
+            "from": "Soothsayer",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-05T01:47:04.475127",
+            "duration": 218
+        },
+        {
+            "from": "Soothsayer",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-08T14:35:04.475129",
+            "duration": 292
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-08T05:13:04.475131",
+            "duration": 143
+        },
+        {
+            "from": "Soothsayer",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-07T20:56:04.475134",
+            "duration": 140
+        },
+        {
+            "from": "Soothsayer",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-04T00:42:04.475136",
+            "duration": 78
+        },
+        {
+            "from": "Soothsayer",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-03T13:39:04.475138",
+            "duration": 68
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T21:39:04.475140",
+            "duration": 231
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T14:03:04.475142",
+            "duration": 123
+        },
+        {
+            "from": "Soothsayer",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-04T02:58:04.475144",
+            "duration": 71
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Lords",
+            "timestamp": "2025-03-06T14:31:04.475146",
+            "duration": 94
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-04T16:33:04.475149",
+            "duration": 298
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-08T00:02:04.475151",
+            "duration": 136
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Lord",
+            "timestamp": "2025-03-09T22:56:04.475153",
+            "duration": 61
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Captain",
+            "timestamp": "2025-03-06T09:43:04.475155",
+            "duration": 73
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Captain",
+            "timestamp": "2025-03-03T11:20:04.475157",
+            "duration": 256
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Captain",
+            "timestamp": "2025-03-09T23:48:04.475159",
+            "duration": 232
+        },
+        {
+            "from": "Soothsayer",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-03T06:25:04.475161",
+            "duration": 128
+        },
+        {
+            "from": "Soothsayer",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-07T07:35:04.475163",
+            "duration": 122
+        },
+        {
+            "from": "Soothsayer",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-04T14:03:04.475165",
+            "duration": 106
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Lady",
+            "timestamp": "2025-03-03T06:00:04.475168",
+            "duration": 89
+        },
+        {
+            "from": "Soothsayer",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-08T09:02:04.475170",
+            "duration": 238
+        },
+        {
+            "from": "Soothsayer",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-05T13:01:04.475172",
+            "duration": 295
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Frenchman",
+            "timestamp": "2025-03-03T12:43:04.475174",
+            "duration": 151
+        },
+        {
+            "from": "Soothsayer",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T11:56:04.475177",
+            "duration": 227
+        },
+        {
+            "from": "Mother",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-04T20:33:04.475179",
+            "duration": 122
+        },
+        {
+            "from": "Mother",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-09T20:34:04.475181",
+            "duration": 76
+        },
+        {
+            "from": "Mother",
+            "to": "IMOGEN",
+            "timestamp": "2025-03-08T14:56:04.475183",
+            "duration": 64
+        },
+        {
+            "from": "Mother",
+            "to": "Attendant",
+            "timestamp": "2025-03-08T23:30:04.475185",
+            "duration": 182
+        },
+        {
+            "from": "Mother",
+            "to": "Attendant",
+            "timestamp": "2025-03-08T13:29:04.475187",
+            "duration": 213
+        },
+        {
+            "from": "Mother",
+            "to": "Attendant",
+            "timestamp": "2025-03-06T03:02:04.475189",
+            "duration": 246
+        },
+        {
+            "from": "Mother",
+            "to": "PISANIO",
+            "timestamp": "2025-03-09T06:19:04.475192",
+            "duration": 78
+        },
+        {
+            "from": "Mother",
+            "to": "PISANIO",
+            "timestamp": "2025-03-04T06:45:04.475194",
+            "duration": 157
+        },
+        {
+            "from": "Mother",
+            "to": "PISANIO",
+            "timestamp": "2025-03-08T18:01:04.475196",
+            "duration": 265
+        },
+        {
+            "from": "Mother",
+            "to": "QUEEN",
+            "timestamp": "2025-03-06T09:19:04.475199",
+            "duration": 91
+        },
+        {
+            "from": "Mother",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-04T21:13:04.475201",
+            "duration": 165
+        },
+        {
+            "from": "Mother",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-05T01:10:04.475203",
+            "duration": 219
+        },
+        {
+            "from": "Mother",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-02T17:22:04.475205",
+            "duration": 170
+        },
+        {
+            "from": "Mother",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-09T13:54:04.475207",
+            "duration": 270
+        },
+        {
+            "from": "Mother",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-08T05:25:04.475210",
+            "duration": 75
+        },
+        {
+            "from": "Mother",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T20:25:04.475212",
+            "duration": 144
+        },
+        {
+            "from": "Mother",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-03T03:00:04.475214",
+            "duration": 226
+        },
+        {
+            "from": "Mother",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-05T19:48:04.475216",
+            "duration": 159
+        },
+        {
+            "from": "Mother",
+            "to": "Lords",
+            "timestamp": "2025-03-07T00:00:04.475219",
+            "duration": 154
+        },
+        {
+            "from": "Mother",
+            "to": "Lords",
+            "timestamp": "2025-03-06T12:07:04.475221",
+            "duration": 215
+        },
+        {
+            "from": "Mother",
+            "to": "Lords",
+            "timestamp": "2025-03-07T17:56:04.475223",
+            "duration": 120
+        },
+        {
+            "from": "Mother",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-05T07:42:04.475225",
+            "duration": 300
+        },
+        {
+            "from": "Mother",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-03T07:09:04.475227",
+            "duration": 85
+        },
+        {
+            "from": "Mother",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-03T02:50:04.475230",
+            "duration": 226
+        },
+        {
+            "from": "Mother",
+            "to": "Lord",
+            "timestamp": "2025-03-08T03:09:04.475232",
+            "duration": 89
+        },
+        {
+            "from": "Mother",
+            "to": "Lord",
+            "timestamp": "2025-03-06T15:31:04.475234",
+            "duration": 191
+        },
+        {
+            "from": "Mother",
+            "to": "Captain",
+            "timestamp": "2025-03-03T08:23:04.475236",
+            "duration": 295
+        },
+        {
+            "from": "Mother",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-07T15:13:04.475239",
+            "duration": 228
+        },
+        {
+            "from": "Mother",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-03T05:23:04.475241",
+            "duration": 144
+        },
+        {
+            "from": "Mother",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-07T21:21:04.475243",
+            "duration": 169
+        },
+        {
+            "from": "Mother",
+            "to": "Lady",
+            "timestamp": "2025-03-04T09:55:04.475245",
+            "duration": 180
+        },
+        {
+            "from": "Mother",
+            "to": "Lady",
+            "timestamp": "2025-03-03T19:57:04.475247",
+            "duration": 194
+        },
+        {
+            "from": "Mother",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-03T23:27:04.475250",
+            "duration": 252
+        },
+        {
+            "from": "Mother",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-07T21:37:04.475252",
+            "duration": 161
+        },
+        {
+            "from": "Mother",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-04T04:17:04.475254",
+            "duration": 113
+        },
+        {
+            "from": "Mother",
+            "to": "Frenchman",
+            "timestamp": "2025-03-03T12:32:04.475256",
+            "duration": 165
+        },
+        {
+            "from": "Mother",
+            "to": "Frenchman",
+            "timestamp": "2025-03-10T11:50:04.475258",
+            "duration": 289
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Attendant",
+            "timestamp": "2025-03-03T09:41:04.475261",
+            "duration": 221
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Attendant",
+            "timestamp": "2025-03-09T15:11:04.475263",
+            "duration": 259
+        },
+        {
+            "from": "IMOGEN",
+            "to": "PISANIO",
+            "timestamp": "2025-03-03T18:36:04.475265",
+            "duration": 109
+        },
+        {
+            "from": "IMOGEN",
+            "to": "QUEEN",
+            "timestamp": "2025-03-03T16:24:04.475267",
+            "duration": 164
+        },
+        {
+            "from": "IMOGEN",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-02T22:07:04.475270",
+            "duration": 103
+        },
+        {
+            "from": "IMOGEN",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-10T02:05:04.475272",
+            "duration": 229
+        },
+        {
+            "from": "IMOGEN",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-06T18:24:04.475274",
+            "duration": 106
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-08T06:37:04.475276",
+            "duration": 127
+        },
+        {
+            "from": "IMOGEN",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-05T07:39:04.475278",
+            "duration": 185
+        },
+        {
+            "from": "IMOGEN",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-07T22:22:04.475284",
+            "duration": 216
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T22:20:04.475286",
+            "duration": 287
+        },
+        {
+            "from": "IMOGEN",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-04T03:39:04.475289",
+            "duration": 265
+        },
+        {
+            "from": "IMOGEN",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-07T14:43:04.475291",
+            "duration": 272
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Lords",
+            "timestamp": "2025-03-10T05:26:04.475293",
+            "duration": 211
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Lords",
+            "timestamp": "2025-03-10T13:03:04.475295",
+            "duration": 109
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Lords",
+            "timestamp": "2025-03-03T14:42:04.475297",
+            "duration": 146
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-06T20:42:04.475300",
+            "duration": 195
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-10T09:52:04.475302",
+            "duration": 117
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-09T16:56:04.475304",
+            "duration": 275
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Lord",
+            "timestamp": "2025-03-02T23:31:04.475306",
+            "duration": 241
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Captain",
+            "timestamp": "2025-03-06T11:20:04.475308",
+            "duration": 86
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Captain",
+            "timestamp": "2025-03-08T16:08:04.475310",
+            "duration": 142
+        },
+        {
+            "from": "IMOGEN",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-04T11:21:04.475313",
+            "duration": 93
+        },
+        {
+            "from": "IMOGEN",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-08T05:53:04.475315",
+            "duration": 273
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Lady",
+            "timestamp": "2025-03-06T10:01:04.475317",
+            "duration": 98
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Lady",
+            "timestamp": "2025-03-04T04:24:04.475319",
+            "duration": 224
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Lady",
+            "timestamp": "2025-03-09T13:17:04.475321",
+            "duration": 87
+        },
+        {
+            "from": "IMOGEN",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-05T18:36:04.475324",
+            "duration": 121
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T12:17:04.475326",
+            "duration": 204
+        },
+        {
+            "from": "IMOGEN",
+            "to": "Frenchman",
+            "timestamp": "2025-03-05T19:33:04.475328",
+            "duration": 102
+        },
+        {
+            "from": "Attendant",
+            "to": "PISANIO",
+            "timestamp": "2025-03-03T05:59:04.475331",
+            "duration": 89
+        },
+        {
+            "from": "Attendant",
+            "to": "PISANIO",
+            "timestamp": "2025-03-09T01:13:04.475333",
+            "duration": 79
+        },
+        {
+            "from": "Attendant",
+            "to": "PISANIO",
+            "timestamp": "2025-03-07T01:29:04.475335",
+            "duration": 110
+        },
+        {
+            "from": "Attendant",
+            "to": "QUEEN",
+            "timestamp": "2025-03-10T05:12:04.475338",
+            "duration": 203
+        },
+        {
+            "from": "Attendant",
+            "to": "QUEEN",
+            "timestamp": "2025-03-09T09:23:04.475340",
+            "duration": 211
+        },
+        {
+            "from": "Attendant",
+            "to": "QUEEN",
+            "timestamp": "2025-03-08T12:41:04.475342",
+            "duration": 243
+        },
+        {
+            "from": "Attendant",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-06T14:56:04.475344",
+            "duration": 241
+        },
+        {
+            "from": "Attendant",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-07T21:25:04.475346",
+            "duration": 195
+        },
+        {
+            "from": "Attendant",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-04T17:58:04.475348",
+            "duration": 216
+        },
+        {
+            "from": "Attendant",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-05T02:13:04.475351",
+            "duration": 91
+        },
+        {
+            "from": "Attendant",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-09T16:42:04.475353",
+            "duration": 146
+        },
+        {
+            "from": "Attendant",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-04T19:32:04.475355",
+            "duration": 74
+        },
+        {
+            "from": "Attendant",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T04:53:04.475357",
+            "duration": 175
+        },
+        {
+            "from": "Attendant",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T18:09:04.475359",
+            "duration": 168
+        },
+        {
+            "from": "Attendant",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-04T03:12:04.475361",
+            "duration": 140
+        },
+        {
+            "from": "Attendant",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-07T06:28:04.475364",
+            "duration": 229
+        },
+        {
+            "from": "Attendant",
+            "to": "Lords",
+            "timestamp": "2025-03-06T13:46:04.475366",
+            "duration": 183
+        },
+        {
+            "from": "Attendant",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-09T13:43:04.475368",
+            "duration": 152
+        },
+        {
+            "from": "Attendant",
+            "to": "Lord",
+            "timestamp": "2025-03-05T03:46:04.475370",
+            "duration": 224
+        },
+        {
+            "from": "Attendant",
+            "to": "Lord",
+            "timestamp": "2025-03-05T17:33:04.475372",
+            "duration": 214
+        },
+        {
+            "from": "Attendant",
+            "to": "Captain",
+            "timestamp": "2025-03-05T02:25:04.475375",
+            "duration": 290
+        },
+        {
+            "from": "Attendant",
+            "to": "Captain",
+            "timestamp": "2025-03-08T11:48:04.475377",
+            "duration": 70
+        },
+        {
+            "from": "Attendant",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-06T05:20:04.475379",
+            "duration": 181
+        },
+        {
+            "from": "Attendant",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-06T13:57:04.475381",
+            "duration": 121
+        },
+        {
+            "from": "Attendant",
+            "to": "Lady",
+            "timestamp": "2025-03-03T01:13:04.475383",
+            "duration": 143
+        },
+        {
+            "from": "Attendant",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-07T07:39:04.475385",
+            "duration": 214
+        },
+        {
+            "from": "Attendant",
+            "to": "Frenchman",
+            "timestamp": "2025-03-03T15:05:04.475388",
+            "duration": 105
+        },
+        {
+            "from": "Attendant",
+            "to": "Frenchman",
+            "timestamp": "2025-03-09T16:00:04.475390",
+            "duration": 107
+        },
+        {
+            "from": "PISANIO",
+            "to": "QUEEN",
+            "timestamp": "2025-03-07T06:10:04.475392",
+            "duration": 279
+        },
+        {
+            "from": "PISANIO",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-08T09:31:04.475395",
+            "duration": 146
+        },
+        {
+            "from": "PISANIO",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-10T03:41:04.475397",
+            "duration": 282
+        },
+        {
+            "from": "PISANIO",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-07T12:07:04.475399",
+            "duration": 218
+        },
+        {
+            "from": "PISANIO",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-10T09:21:04.475401",
+            "duration": 159
+        },
+        {
+            "from": "PISANIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T23:15:04.475407",
+            "duration": 217
+        },
+        {
+            "from": "PISANIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T18:38:04.475410",
+            "duration": 103
+        },
+        {
+            "from": "PISANIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T18:04:04.475412",
+            "duration": 120
+        },
+        {
+            "from": "PISANIO",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-04T14:26:04.475414",
+            "duration": 173
+        },
+        {
+            "from": "PISANIO",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-07T08:53:04.475416",
+            "duration": 127
+        },
+        {
+            "from": "PISANIO",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-07T23:20:04.475418",
+            "duration": 155
+        },
+        {
+            "from": "PISANIO",
+            "to": "Lords",
+            "timestamp": "2025-03-10T11:18:04.475421",
+            "duration": 86
+        },
+        {
+            "from": "PISANIO",
+            "to": "Lords",
+            "timestamp": "2025-03-07T18:36:04.475423",
+            "duration": 235
+        },
+        {
+            "from": "PISANIO",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-07T01:26:04.475425",
+            "duration": 255
+        },
+        {
+            "from": "PISANIO",
+            "to": "Lord",
+            "timestamp": "2025-03-07T22:19:04.475427",
+            "duration": 170
+        },
+        {
+            "from": "PISANIO",
+            "to": "Lord",
+            "timestamp": "2025-03-08T13:35:04.475429",
+            "duration": 175
+        },
+        {
+            "from": "PISANIO",
+            "to": "Lord",
+            "timestamp": "2025-03-10T13:32:04.475431",
+            "duration": 271
+        },
+        {
+            "from": "PISANIO",
+            "to": "Captain",
+            "timestamp": "2025-03-06T13:17:04.475434",
+            "duration": 194
+        },
+        {
+            "from": "PISANIO",
+            "to": "Captain",
+            "timestamp": "2025-03-05T21:44:04.475436",
+            "duration": 138
+        },
+        {
+            "from": "PISANIO",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-10T07:41:04.475450",
+            "duration": 173
+        },
+        {
+            "from": "PISANIO",
+            "to": "Lady",
+            "timestamp": "2025-03-10T09:57:04.475453",
+            "duration": 254
+        },
+        {
+            "from": "PISANIO",
+            "to": "Lady",
+            "timestamp": "2025-03-05T11:10:04.475456",
+            "duration": 211
+        },
+        {
+            "from": "PISANIO",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-04T02:25:04.475458",
+            "duration": 266
+        },
+        {
+            "from": "PISANIO",
+            "to": "Frenchman",
+            "timestamp": "2025-03-03T16:48:04.475460",
+            "duration": 218
+        },
+        {
+            "from": "PISANIO",
+            "to": "Frenchman",
+            "timestamp": "2025-03-04T14:23:04.475462",
+            "duration": 205
+        },
+        {
+            "from": "PISANIO",
+            "to": "Frenchman",
+            "timestamp": "2025-03-07T14:51:04.475465",
+            "duration": 294
+        },
+        {
+            "from": "QUEEN",
+            "to": "POSTHUMUS LEONATUS",
+            "timestamp": "2025-03-08T02:10:04.475467",
+            "duration": 289
+        },
+        {
+            "from": "QUEEN",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-08T09:24:04.475469",
+            "duration": 222
+        },
+        {
+            "from": "QUEEN",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-09T14:15:04.475472",
+            "duration": 219
+        },
+        {
+            "from": "QUEEN",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-07T09:02:04.475474",
+            "duration": 159
+        },
+        {
+            "from": "QUEEN",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-05T10:49:04.475476",
+            "duration": 100
+        },
+        {
+            "from": "QUEEN",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-04T13:45:04.475479",
+            "duration": 182
+        },
+        {
+            "from": "QUEEN",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T19:53:04.475481",
+            "duration": 231
+        },
+        {
+            "from": "QUEEN",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T22:26:04.475483",
+            "duration": 251
+        },
+        {
+            "from": "QUEEN",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-09T21:27:04.475485",
+            "duration": 226
+        },
+        {
+            "from": "QUEEN",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-09T05:32:04.475487",
+            "duration": 260
+        },
+        {
+            "from": "QUEEN",
+            "to": "Lords",
+            "timestamp": "2025-03-05T08:39:04.475490",
+            "duration": 269
+        },
+        {
+            "from": "QUEEN",
+            "to": "Lords",
+            "timestamp": "2025-03-05T08:28:04.475492",
+            "duration": 152
+        },
+        {
+            "from": "QUEEN",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-08T23:28:04.475494",
+            "duration": 141
+        },
+        {
+            "from": "QUEEN",
+            "to": "Lord",
+            "timestamp": "2025-03-06T18:03:04.475497",
+            "duration": 269
+        },
+        {
+            "from": "QUEEN",
+            "to": "Captain",
+            "timestamp": "2025-03-04T13:26:04.475499",
+            "duration": 75
+        },
+        {
+            "from": "QUEEN",
+            "to": "Captain",
+            "timestamp": "2025-03-07T16:17:04.475501",
+            "duration": 276
+        },
+        {
+            "from": "QUEEN",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-10T13:15:04.475503",
+            "duration": 168
+        },
+        {
+            "from": "QUEEN",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-06T00:09:04.475505",
+            "duration": 194
+        },
+        {
+            "from": "QUEEN",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-04T17:25:04.475508",
+            "duration": 187
+        },
+        {
+            "from": "QUEEN",
+            "to": "Lady",
+            "timestamp": "2025-03-04T10:55:04.475510",
+            "duration": 76
+        },
+        {
+            "from": "QUEEN",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-08T18:15:04.475512",
+            "duration": 190
+        },
+        {
+            "from": "QUEEN",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-09T15:07:04.475514",
+            "duration": 224
+        },
+        {
+            "from": "QUEEN",
+            "to": "Frenchman",
+            "timestamp": "2025-03-03T14:41:04.475517",
+            "duration": 239
+        },
+        {
+            "from": "QUEEN",
+            "to": "Frenchman",
+            "timestamp": "2025-03-04T18:15:04.475519",
+            "duration": 210
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Posthumus Leonatus",
+            "timestamp": "2025-03-03T13:45:04.475521",
+            "duration": 253
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-04T04:14:04.475523",
+            "duration": 197
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-06T00:20:04.475525",
+            "duration": 209
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T01:37:04.475528",
+            "duration": 181
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-03T08:59:04.475530",
+            "duration": 89
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-08T14:59:04.475532",
+            "duration": 241
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-05T14:26:04.475534",
+            "duration": 137
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Lords",
+            "timestamp": "2025-03-08T06:48:04.475536",
+            "duration": 220
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Lords",
+            "timestamp": "2025-03-05T22:20:04.475538",
+            "duration": 132
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-10T13:44:04.475541",
+            "duration": 218
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-04T00:33:04.475543",
+            "duration": 188
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-08T21:56:04.475545",
+            "duration": 95
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Lord",
+            "timestamp": "2025-03-04T01:34:04.475547",
+            "duration": 233
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Lord",
+            "timestamp": "2025-03-09T23:22:04.475549",
+            "duration": 137
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Captain",
+            "timestamp": "2025-03-09T14:08:04.475552",
+            "duration": 234
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Captain",
+            "timestamp": "2025-03-07T12:51:04.475554",
+            "duration": 224
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Captain",
+            "timestamp": "2025-03-03T11:04:04.475556",
+            "duration": 112
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-03T14:10:04.475558",
+            "duration": 274
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Lady",
+            "timestamp": "2025-03-07T10:28:04.475561",
+            "duration": 217
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-03T13:49:04.475563",
+            "duration": 293
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-05T06:36:04.475565",
+            "duration": 288
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Frenchman",
+            "timestamp": "2025-03-06T07:43:04.475567",
+            "duration": 170
+        },
+        {
+            "from": "POSTHUMUS LEONATUS",
+            "to": "Frenchman",
+            "timestamp": "2025-03-06T11:35:04.475570",
+            "duration": 213
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-05T04:50:04.475572",
+            "duration": 71
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-08T06:28:04.475574",
+            "duration": 163
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "CLOTEN",
+            "timestamp": "2025-03-08T15:13:04.475576",
+            "duration": 105
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T11:10:04.475578",
+            "duration": 273
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-09T18:32:04.475581",
+            "duration": 148
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-10T08:47:04.475583",
+            "duration": 250
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Lords",
+            "timestamp": "2025-03-03T11:41:04.475585",
+            "duration": 243
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Lords",
+            "timestamp": "2025-03-02T15:45:04.475587",
+            "duration": 92
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-03T03:29:04.475589",
+            "duration": 194
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-06T23:36:04.475591",
+            "duration": 269
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Lord",
+            "timestamp": "2025-03-07T14:43:04.475594",
+            "duration": 170
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Lord",
+            "timestamp": "2025-03-03T06:42:04.475596",
+            "duration": 115
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Lord",
+            "timestamp": "2025-03-04T14:05:04.475598",
+            "duration": 192
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Captain",
+            "timestamp": "2025-03-04T17:16:04.475600",
+            "duration": 101
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Captain",
+            "timestamp": "2025-03-05T07:48:04.475602",
+            "duration": 79
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Captain",
+            "timestamp": "2025-03-03T05:38:04.475604",
+            "duration": 134
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-09T15:09:04.475609",
+            "duration": 226
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Lady",
+            "timestamp": "2025-03-05T20:32:04.475612",
+            "duration": 164
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-06T23:05:04.475614",
+            "duration": 90
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-08T06:28:04.475617",
+            "duration": 150
+        },
+        {
+            "from": "Posthumus Leonatus",
+            "to": "Frenchman",
+            "timestamp": "2025-03-05T12:02:04.475619",
+            "duration": 219
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T16:53:04.475622",
+            "duration": 133
+        },
+        {
+            "from": "CLOTEN",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-06T12:09:04.475624",
+            "duration": 278
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Lords",
+            "timestamp": "2025-03-07T05:00:04.475628",
+            "duration": 86
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Lords",
+            "timestamp": "2025-03-03T20:12:04.475630",
+            "duration": 232
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-02T21:31:04.475632",
+            "duration": 115
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Lord",
+            "timestamp": "2025-03-04T13:37:04.475634",
+            "duration": 276
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Lord",
+            "timestamp": "2025-03-09T06:26:04.475636",
+            "duration": 221
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Captain",
+            "timestamp": "2025-03-02T17:10:04.475639",
+            "duration": 219
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Captain",
+            "timestamp": "2025-03-07T16:18:04.475641",
+            "duration": 260
+        },
+        {
+            "from": "CLOTEN",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-09T08:36:04.475643",
+            "duration": 187
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Lady",
+            "timestamp": "2025-03-07T08:12:04.475645",
+            "duration": 164
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Lady",
+            "timestamp": "2025-03-09T16:37:04.475648",
+            "duration": 285
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Lady",
+            "timestamp": "2025-03-05T02:50:04.475650",
+            "duration": 98
+        },
+        {
+            "from": "CLOTEN",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-05T03:28:04.475652",
+            "duration": 94
+        },
+        {
+            "from": "CLOTEN",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-03T04:35:04.475654",
+            "duration": 124
+        },
+        {
+            "from": "CLOTEN",
+            "to": "Frenchman",
+            "timestamp": "2025-03-07T01:18:04.475656",
+            "duration": 298
+        },
+        {
+            "from": "Messenger",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-09T18:57:04.475659",
+            "duration": 127
+        },
+        {
+            "from": "Messenger",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-08T02:04:04.475661",
+            "duration": 249
+        },
+        {
+            "from": "Messenger",
+            "to": "CYMBELINE",
+            "timestamp": "2025-03-05T12:50:04.475663",
+            "duration": 101
+        },
+        {
+            "from": "Messenger",
+            "to": "Lords",
+            "timestamp": "2025-03-03T02:08:04.475665",
+            "duration": 285
+        },
+        {
+            "from": "Messenger",
+            "to": "Lords",
+            "timestamp": "2025-03-09T12:08:04.475667",
+            "duration": 294
+        },
+        {
+            "from": "Messenger",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-09T03:44:04.475670",
+            "duration": 86
+        },
+        {
+            "from": "Messenger",
+            "to": "Lord",
+            "timestamp": "2025-03-04T23:32:04.475672",
+            "duration": 173
+        },
+        {
+            "from": "Messenger",
+            "to": "Lord",
+            "timestamp": "2025-03-05T11:21:04.475674",
+            "duration": 227
+        },
+        {
+            "from": "Messenger",
+            "to": "Captain",
+            "timestamp": "2025-03-04T03:35:04.475676",
+            "duration": 74
+        },
+        {
+            "from": "Messenger",
+            "to": "Captain",
+            "timestamp": "2025-03-07T03:54:04.475678",
+            "duration": 134
+        },
+        {
+            "from": "Messenger",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-04T09:54:04.475680",
+            "duration": 115
+        },
+        {
+            "from": "Messenger",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-02T21:33:04.475682",
+            "duration": 246
+        },
+        {
+            "from": "Messenger",
+            "to": "Lady",
+            "timestamp": "2025-03-05T17:08:04.475685",
+            "duration": 289
+        },
+        {
+            "from": "Messenger",
+            "to": "Lady",
+            "timestamp": "2025-03-07T00:54:04.475687",
+            "duration": 219
+        },
+        {
+            "from": "Messenger",
+            "to": "Lady",
+            "timestamp": "2025-03-05T07:34:04.475689",
+            "duration": 133
+        },
+        {
+            "from": "Messenger",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-09T01:20:04.475691",
+            "duration": 82
+        },
+        {
+            "from": "Messenger",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-03T20:39:04.475693",
+            "duration": 104
+        },
+        {
+            "from": "Messenger",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-03T06:31:04.475695",
+            "duration": 237
+        },
+        {
+            "from": "Messenger",
+            "to": "Frenchman",
+            "timestamp": "2025-03-09T23:48:04.475697",
+            "duration": 240
+        },
+        {
+            "from": "Messenger",
+            "to": "Frenchman",
+            "timestamp": "2025-03-04T03:40:04.475699",
+            "duration": 131
+        },
+        {
+            "from": "Messenger",
+            "to": "Frenchman",
+            "timestamp": "2025-03-04T22:01:04.475701",
+            "duration": 265
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Lords",
+            "timestamp": "2025-03-08T11:22:04.475704",
+            "duration": 116
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Lords",
+            "timestamp": "2025-03-09T14:08:04.475706",
+            "duration": 100
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Lords",
+            "timestamp": "2025-03-04T20:17:04.475708",
+            "duration": 78
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-04T13:53:04.475710",
+            "duration": 288
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Lord",
+            "timestamp": "2025-03-10T08:07:04.475713",
+            "duration": 285
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Lord",
+            "timestamp": "2025-03-04T19:09:04.475715",
+            "duration": 257
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Captain",
+            "timestamp": "2025-03-07T01:27:04.475717",
+            "duration": 80
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Captain",
+            "timestamp": "2025-03-03T12:58:04.475719",
+            "duration": 245
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Captain",
+            "timestamp": "2025-03-06T17:31:04.475721",
+            "duration": 178
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-09T01:10:04.475723",
+            "duration": 237
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-02T23:01:04.475725",
+            "duration": 121
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Lady",
+            "timestamp": "2025-03-04T16:03:04.475727",
+            "duration": 113
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Lady",
+            "timestamp": "2025-03-09T12:12:04.475729",
+            "duration": 259
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-07T19:23:04.475732",
+            "duration": 199
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Frenchman",
+            "timestamp": "2025-03-10T10:48:04.475734",
+            "duration": 119
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T18:51:04.475736",
+            "duration": 155
+        },
+        {
+            "from": "CYMBELINE",
+            "to": "Frenchman",
+            "timestamp": "2025-03-06T17:40:04.475738",
+            "duration": 282
+        },
+        {
+            "from": "Lords",
+            "to": "Sicilius Leonatus",
+            "timestamp": "2025-03-05T06:19:04.475740",
+            "duration": 286
+        },
+        {
+            "from": "Lords",
+            "to": "Lord",
+            "timestamp": "2025-03-08T11:03:04.475743",
+            "duration": 221
+        },
+        {
+            "from": "Lords",
+            "to": "Lord",
+            "timestamp": "2025-03-09T19:08:04.475745",
+            "duration": 277
+        },
+        {
+            "from": "Lords",
+            "to": "Lord",
+            "timestamp": "2025-03-07T18:38:04.475747",
+            "duration": 73
+        },
+        {
+            "from": "Lords",
+            "to": "Captain",
+            "timestamp": "2025-03-06T20:27:04.475749",
+            "duration": 207
+        },
+        {
+            "from": "Lords",
+            "to": "Captain",
+            "timestamp": "2025-03-04T04:39:04.475751",
+            "duration": 141
+        },
+        {
+            "from": "Lords",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-07T19:40:04.475753",
+            "duration": 122
+        },
+        {
+            "from": "Lords",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-04T05:58:04.475755",
+            "duration": 212
+        },
+        {
+            "from": "Lords",
+            "to": "Lady",
+            "timestamp": "2025-03-03T06:37:04.475757",
+            "duration": 90
+        },
+        {
+            "from": "Lords",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-03T12:16:04.475760",
+            "duration": 176
+        },
+        {
+            "from": "Lords",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-05T16:38:04.475762",
+            "duration": 194
+        },
+        {
+            "from": "Lords",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T13:34:04.475764",
+            "duration": 241
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "Lord",
+            "timestamp": "2025-03-06T12:05:04.475766",
+            "duration": 156
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "Captain",
+            "timestamp": "2025-03-05T12:47:04.475769",
+            "duration": 72
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "Captain",
+            "timestamp": "2025-03-04T03:10:04.475771",
+            "duration": 106
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "Captain",
+            "timestamp": "2025-03-08T00:29:04.475773",
+            "duration": 154
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-09T09:43:04.475776",
+            "duration": 233
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-04T18:06:04.475778",
+            "duration": 209
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "Lady",
+            "timestamp": "2025-03-10T07:53:04.475780",
+            "duration": 160
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "Lady",
+            "timestamp": "2025-03-04T04:32:04.475782",
+            "duration": 264
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-03T01:52:04.475784",
+            "duration": 294
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-03T15:32:04.475786",
+            "duration": 214
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T09:50:04.475789",
+            "duration": 78
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "Frenchman",
+            "timestamp": "2025-03-03T09:09:04.475791",
+            "duration": 236
+        },
+        {
+            "from": "Sicilius Leonatus",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T14:33:04.475793",
+            "duration": 62
+        },
+        {
+            "from": "Lord",
+            "to": "Captain",
+            "timestamp": "2025-03-04T23:12:04.475795",
+            "duration": 172
+        },
+        {
+            "from": "Lord",
+            "to": "Captain",
+            "timestamp": "2025-03-07T17:40:04.475797",
+            "duration": 201
+        },
+        {
+            "from": "Lord",
+            "to": "Captain",
+            "timestamp": "2025-03-09T07:52:04.475799",
+            "duration": 273
+        },
+        {
+            "from": "Lord",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-08T12:03:04.475802",
+            "duration": 113
+        },
+        {
+            "from": "Lord",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-09T07:23:04.475804",
+            "duration": 94
+        },
+        {
+            "from": "Lord",
+            "to": "Lady",
+            "timestamp": "2025-03-05T09:31:04.475806",
+            "duration": 148
+        },
+        {
+            "from": "Lord",
+            "to": "Lady",
+            "timestamp": "2025-03-04T22:38:04.475808",
+            "duration": 182
+        },
+        {
+            "from": "Lord",
+            "to": "Lady",
+            "timestamp": "2025-03-06T05:01:04.475810",
+            "duration": 203
+        },
+        {
+            "from": "Lord",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-07T02:02:04.475813",
+            "duration": 109
+        },
+        {
+            "from": "Lord",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-09T17:23:04.475815",
+            "duration": 168
+        },
+        {
+            "from": "Lord",
+            "to": "Frenchman",
+            "timestamp": "2025-03-02T19:21:04.475817",
+            "duration": 269
+        },
+        {
+            "from": "Lord",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T17:23:04.475819",
+            "duration": 94
+        },
+        {
+            "from": "Lord",
+            "to": "Frenchman",
+            "timestamp": "2025-03-06T03:02:04.475821",
+            "duration": 85
+        },
+        {
+            "from": "Captain",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-07T16:50:04.475824",
+            "duration": 196
+        },
+        {
+            "from": "Captain",
+            "to": "GUIDERIUS",
+            "timestamp": "2025-03-08T22:52:04.475826",
+            "duration": 171
+        },
+        {
+            "from": "Captain",
+            "to": "Lady",
+            "timestamp": "2025-03-02T15:43:04.475828",
+            "duration": 281
+        },
+        {
+            "from": "Captain",
+            "to": "Lady",
+            "timestamp": "2025-03-03T13:50:04.475830",
+            "duration": 209
+        },
+        {
+            "from": "Captain",
+            "to": "Lady",
+            "timestamp": "2025-03-05T02:59:04.475832",
+            "duration": 99
+        },
+        {
+            "from": "Captain",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-02T15:02:04.475835",
+            "duration": 162
+        },
+        {
+            "from": "Captain",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-05T16:39:04.475837",
+            "duration": 165
+        },
+        {
+            "from": "Captain",
+            "to": "Frenchman",
+            "timestamp": "2025-03-03T23:10:04.475839",
+            "duration": 96
+        },
+        {
+            "from": "GUIDERIUS",
+            "to": "Lady",
+            "timestamp": "2025-03-09T12:49:04.475842",
+            "duration": 192
+        },
+        {
+            "from": "GUIDERIUS",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-03T09:52:04.475844",
+            "duration": 300
+        },
+        {
+            "from": "GUIDERIUS",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-03T10:07:04.475846",
+            "duration": 288
+        },
+        {
+            "from": "GUIDERIUS",
+            "to": "Frenchman",
+            "timestamp": "2025-03-05T11:37:04.475848",
+            "duration": 169
+        },
+        {
+            "from": "GUIDERIUS",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T20:29:04.475851",
+            "duration": 103
+        },
+        {
+            "from": "GUIDERIUS",
+            "to": "Frenchman",
+            "timestamp": "2025-03-08T23:41:04.475853",
+            "duration": 182
+        },
+        {
+            "from": "Lady",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-04T15:21:04.475855",
+            "duration": 267
+        },
+        {
+            "from": "Lady",
+            "to": "ARVIRAGUS",
+            "timestamp": "2025-03-05T04:18:04.475857",
+            "duration": 143
+        },
+        {
+            "from": "Lady",
+            "to": "Frenchman",
+            "timestamp": "2025-03-07T02:57:04.475860",
+            "duration": 246
+        },
+        {
+            "from": "Lady",
+            "to": "Frenchman",
+            "timestamp": "2025-03-10T06:23:04.475862",
+            "duration": 279
+        },
+        {
+            "from": "Lady",
+            "to": "Frenchman",
+            "timestamp": "2025-03-03T04:35:04.475864",
+            "duration": 161
+        },
+        {
+            "from": "ARVIRAGUS",
+            "to": "Frenchman",
+            "timestamp": "2025-03-05T11:55:04.475866",
+            "duration": 292
+        }
+    ],
+    "contact_data": {
+        "Scene III": {
+            "phone": "713-887-9513",
+            "email": "scene.iii@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Jupiter": {
+            "phone": "713-923-4193",
+            "email": "jupiter@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "CAIUS LUCIUS": {
+            "phone": "281-767-9600",
+            "email": "caius.lucius@commercelink.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "PHILARIO": {
+            "phone": "832-489-4966",
+            "email": "philario@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "IACHIMO": {
+            "phone": "832-290-8652",
+            "email": "iachimo@tradewinds.com",
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "CORNELIUS": {
+            "phone": "713-931-7355",
+            "email": "cornelius@commercetrade.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "BELARIUS": {
+            "phone": "281-517-2189",
+            "email": "belarius@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Soothsayer": {
+            "phone": "281-213-8263",
+            "email": "soothsayer@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "Mother": {
+            "phone": "713-458-3146",
+            "email": "mother@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "IMOGEN": {
+            "phone": "713-254-3335",
+            "email": "imogen@marketdyn.com",
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "Attendant": {
+            "phone": "713-226-5546",
+            "email": "attendant@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "PISANIO": {
+            "phone": "832-872-3364",
+            "email": "pisanio@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "QUEEN": {
+            "phone": "832-386-4570",
+            "email": "queen@sovereignwealth.com",
+            "title": "Global President",
+            "company": "Sovereign Wealth Partners",
+            "industry": "Royal"
+        },
+        "POSTHUMUS LEONATUS": {
+            "phone": "281-696-2716",
+            "email": "posthumus.leonatus@tradewinds.com",
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Posthumus Leonatus": {
+            "phone": "281-900-9212",
+            "email": "posthumus.leonatus@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "CLOTEN": {
+            "phone": "832-799-4506",
+            "email": "cloten@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Messenger": {
+            "phone": "713-925-4936",
+            "email": "messenger@globalrelations.org",
+            "title": "Diplomatic Affairs Manager",
+            "company": "Global Relations Institute",
+            "industry": "Diplomatic"
+        },
+        "CYMBELINE": {
+            "phone": "832-442-6189",
+            "email": "cymbeline@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Lords": {
+            "phone": "832-852-9390",
+            "email": "lords@legacycap.com",
+            "title": "Chief Investment Officer",
+            "company": "Legacy Capital Partners",
+            "industry": "Noble"
+        },
+        "Sicilius Leonatus": {
+            "phone": "281-992-8979",
+            "email": "sicilius.leonatus@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Lord": {
+            "phone": "281-734-5715",
+            "email": "lord@elitema.com",
+            "title": "Portfolio Director",
+            "company": "Elite Management Associates",
+            "industry": "Noble"
+        },
+        "Captain": {
+            "phone": "713-836-8674",
+            "email": "captain@fortresssecurity.com",
+            "title": "Operations Director",
+            "company": "Fortress Global Security",
+            "industry": "Military"
+        },
+        "GUIDERIUS": {
+            "phone": "832-883-7878",
+            "email": "guiderius@marketdyn.com",
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "Lady": {
+            "phone": "281-396-7147",
+            "email": "lady@elitema.com",
+            "title": "Portfolio Director",
+            "company": "Elite Management Associates",
+            "industry": "Noble"
+        },
+        "ARVIRAGUS": {
+            "phone": "281-691-8094",
+            "email": "arviragus@merchantsexchange.com",
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Frenchman": {
+            "phone": "281-482-7061",
+            "email": "frenchman@marketdyn.com",
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        }
+    }
+}

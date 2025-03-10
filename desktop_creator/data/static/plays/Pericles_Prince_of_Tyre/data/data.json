@@ -1,0 +1,6809 @@
+{
+    "characters": {
+        "HELICANUS": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-782-5245",
+            "email": "helicanus@tradewinds.com"
+        },
+        "THALIARD": {
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-622-3425",
+            "email": "thaliard@commercetrade.com"
+        },
+        "DIONYZA": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-915-2628",
+            "email": "dionyza@commercetrade.com"
+        },
+        "MARINA": {
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-284-3470",
+            "email": "marina@commercelink.com"
+        },
+        "GOWER": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-725-6788",
+            "email": "gower@tradewinds.com"
+        },
+        "Third Fisherman": {
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-990-9066",
+            "email": "third.fisherman@globaltradepart.com"
+        },
+        "Daughter": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-352-2731",
+            "email": "daughter@merchantsexchange.com"
+        },
+        "Marshal": {
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-314-9775",
+            "email": "marshal@marketdyn.com"
+        },
+        "SIMONIDES": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-391-4661",
+            "email": "simonides@commercelink.com"
+        },
+        "Bawd": {
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-885-4023",
+            "email": "bawd@tradewinds.com"
+        },
+        "Third Knight": {
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-230-3707",
+            "email": "third.knight@tradewinds.com"
+        },
+        "PERICLES": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-995-9056",
+            "email": "pericles@globaltradepart.com"
+        },
+        "CERIMON": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-700-3102",
+            "email": "cerimon@commercetrade.com"
+        },
+        "BOTH": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-283-5669",
+            "email": "both@commercelink.com"
+        },
+        "LYCHORIDA": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-699-1163",
+            "email": "lychorida@tradewinds.com"
+        },
+        "PHILEMON": {
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-558-9632",
+            "email": "philemon@marketdyn.com"
+        },
+        "Knights": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-810-7969",
+            "email": "knights@tradewinds.com"
+        },
+        "KNIGHTS": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-217-5916",
+            "email": "knights@merchantsexchange.com"
+        },
+        "DIANA": {
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-956-5203",
+            "email": "diana@globaltradepart.com"
+        },
+        "BOULT": {
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-432-1184",
+            "email": "boult@commercetrade.com"
+        },
+        "LYSIMACHUS": {
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-358-9241",
+            "email": "lysimachus@commercetrade.com"
+        },
+        "ANTIOCHUS": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-269-7723",
+            "email": "antiochus@commercetrade.com"
+        },
+        "Servant": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-627-7329",
+            "email": "servant@tradewinds.com"
+        },
+        "Tyrian Sailor": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-495-3613",
+            "email": "tyrian.sailor@merchantsexchange.com"
+        },
+        "Pandar": {
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-272-1473",
+            "email": "pandar@marketdyn.com"
+        },
+        "THAISA": {
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-634-3469",
+            "email": "thaisa@globaltradepart.com"
+        },
+        "Messenger": {
+            "title": "Public Relations Director",
+            "company": "Bridge Builders Associates",
+            "industry": "Diplomatic",
+            "location": "San Francisco",
+            "phone": "628-842-6319",
+            "email": "messenger@bridgebuilders.com"
+        },
+        "Lord": {
+            "title": "Senior Partner",
+            "company": "Prestige Holdings",
+            "industry": "Noble",
+            "location": "Houston",
+            "phone": "832-961-6199",
+            "email": "lord@prestigeholdings.com"
+        },
+        "CLEON": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-510-6552",
+            "email": "cleon@tradewinds.com"
+        },
+        "Third Lord": {
+            "title": "Managing Partner",
+            "company": "Legacy Capital Partners",
+            "industry": "Noble",
+            "location": "Los Angeles",
+            "phone": "323-260-8671",
+            "email": "third.lord@legacycap.com"
+        },
+        "LEONINE": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-963-4862",
+            "email": "leonine@merchantsexchange.com"
+        },
+        "ESCANES": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-296-2292",
+            "email": "escanes@commercelink.com"
+        },
+        "Third Pirate": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-730-9593",
+            "email": "third.pirate@marketdyn.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "HELICANUS",
+            "to": "THALIARD",
+            "timestamp": "2025-03-04T11:33:07.348505",
+            "duration": 64
+        },
+        {
+            "from": "HELICANUS",
+            "to": "THALIARD",
+            "timestamp": "2025-03-05T23:03:07.348517",
+            "duration": 250
+        },
+        {
+            "from": "HELICANUS",
+            "to": "THALIARD",
+            "timestamp": "2025-03-10T10:13:07.348520",
+            "duration": 136
+        },
+        {
+            "from": "HELICANUS",
+            "to": "DIONYZA",
+            "timestamp": "2025-03-09T15:35:07.348527",
+            "duration": 68
+        },
+        {
+            "from": "HELICANUS",
+            "to": "DIONYZA",
+            "timestamp": "2025-03-06T21:58:07.348530",
+            "duration": 258
+        },
+        {
+            "from": "HELICANUS",
+            "to": "MARINA",
+            "timestamp": "2025-03-05T20:46:07.348533",
+            "duration": 297
+        },
+        {
+            "from": "HELICANUS",
+            "to": "GOWER",
+            "timestamp": "2025-03-03T03:41:07.348535",
+            "duration": 77
+        },
+        {
+            "from": "HELICANUS",
+            "to": "GOWER",
+            "timestamp": "2025-03-09T20:41:07.348537",
+            "duration": 267
+        },
+        {
+            "from": "HELICANUS",
+            "to": "GOWER",
+            "timestamp": "2025-03-05T03:57:07.348539",
+            "duration": 127
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-08T09:43:07.348542",
+            "duration": 291
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-03T07:02:07.348545",
+            "duration": 212
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Daughter",
+            "timestamp": "2025-03-09T16:18:07.348547",
+            "duration": 203
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Daughter",
+            "timestamp": "2025-03-03T15:32:07.348549",
+            "duration": 69
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Marshal",
+            "timestamp": "2025-03-06T21:09:07.348552",
+            "duration": 290
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Marshal",
+            "timestamp": "2025-03-07T21:57:07.348554",
+            "duration": 258
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Marshal",
+            "timestamp": "2025-03-02T15:15:07.348556",
+            "duration": 266
+        },
+        {
+            "from": "HELICANUS",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-03T02:03:07.348558",
+            "duration": 206
+        },
+        {
+            "from": "HELICANUS",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-08T21:42:07.348561",
+            "duration": 241
+        },
+        {
+            "from": "HELICANUS",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-06T18:56:07.348563",
+            "duration": 182
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Bawd",
+            "timestamp": "2025-03-07T14:54:07.348565",
+            "duration": 210
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Third Knight",
+            "timestamp": "2025-03-09T07:09:07.348568",
+            "duration": 254
+        },
+        {
+            "from": "HELICANUS",
+            "to": "PERICLES",
+            "timestamp": "2025-03-07T17:30:07.348570",
+            "duration": 245
+        },
+        {
+            "from": "HELICANUS",
+            "to": "PERICLES",
+            "timestamp": "2025-03-08T07:49:07.348572",
+            "duration": 204
+        },
+        {
+            "from": "HELICANUS",
+            "to": "CERIMON",
+            "timestamp": "2025-03-08T09:24:07.348575",
+            "duration": 166
+        },
+        {
+            "from": "HELICANUS",
+            "to": "BOTH",
+            "timestamp": "2025-03-06T01:01:07.348577",
+            "duration": 178
+        },
+        {
+            "from": "HELICANUS",
+            "to": "BOTH",
+            "timestamp": "2025-03-06T09:54:07.348579",
+            "duration": 90
+        },
+        {
+            "from": "HELICANUS",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-09T12:15:07.348582",
+            "duration": 169
+        },
+        {
+            "from": "HELICANUS",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-09T00:42:07.348740",
+            "duration": 271
+        },
+        {
+            "from": "HELICANUS",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-08T19:29:07.348751",
+            "duration": 183
+        },
+        {
+            "from": "HELICANUS",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-09T21:19:07.348754",
+            "duration": 97
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Knights",
+            "timestamp": "2025-03-06T20:47:07.348757",
+            "duration": 63
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Knights",
+            "timestamp": "2025-03-04T20:19:07.348760",
+            "duration": 295
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Knights",
+            "timestamp": "2025-03-08T04:14:07.348762",
+            "duration": 240
+        },
+        {
+            "from": "HELICANUS",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-04T15:34:07.348765",
+            "duration": 193
+        },
+        {
+            "from": "HELICANUS",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-03T22:37:07.348767",
+            "duration": 277
+        },
+        {
+            "from": "HELICANUS",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-09T18:17:07.348769",
+            "duration": 65
+        },
+        {
+            "from": "HELICANUS",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T18:24:07.348772",
+            "duration": 181
+        },
+        {
+            "from": "HELICANUS",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T15:20:07.348774",
+            "duration": 75
+        },
+        {
+            "from": "HELICANUS",
+            "to": "BOULT",
+            "timestamp": "2025-03-10T02:47:07.348776",
+            "duration": 278
+        },
+        {
+            "from": "HELICANUS",
+            "to": "BOULT",
+            "timestamp": "2025-03-04T13:02:07.348778",
+            "duration": 130
+        },
+        {
+            "from": "HELICANUS",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-10T14:31:07.348781",
+            "duration": 247
+        },
+        {
+            "from": "HELICANUS",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-09T07:33:07.348788",
+            "duration": 159
+        },
+        {
+            "from": "HELICANUS",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-08T17:17:07.348790",
+            "duration": 134
+        },
+        {
+            "from": "HELICANUS",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-08T19:40:07.348792",
+            "duration": 296
+        },
+        {
+            "from": "HELICANUS",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-09T14:12:07.348794",
+            "duration": 94
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Servant",
+            "timestamp": "2025-03-10T05:48:07.348797",
+            "duration": 85
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Servant",
+            "timestamp": "2025-03-07T04:42:07.348799",
+            "duration": 110
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Servant",
+            "timestamp": "2025-03-03T03:56:07.348801",
+            "duration": 264
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-08T14:48:07.348803",
+            "duration": 142
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-05T19:52:07.348805",
+            "duration": 186
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-04T05:03:07.348807",
+            "duration": 162
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Pandar",
+            "timestamp": "2025-03-10T10:45:07.348810",
+            "duration": 277
+        },
+        {
+            "from": "HELICANUS",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T04:33:07.348825",
+            "duration": 66
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T05:04:07.348827",
+            "duration": 277
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T16:28:07.348829",
+            "duration": 112
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T22:28:07.348831",
+            "duration": 132
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Lord",
+            "timestamp": "2025-03-06T06:40:07.348833",
+            "duration": 267
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Lord",
+            "timestamp": "2025-03-08T07:28:07.348835",
+            "duration": 174
+        },
+        {
+            "from": "HELICANUS",
+            "to": "CLEON",
+            "timestamp": "2025-03-07T02:48:07.348838",
+            "duration": 222
+        },
+        {
+            "from": "HELICANUS",
+            "to": "CLEON",
+            "timestamp": "2025-03-05T16:58:07.348840",
+            "duration": 281
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Third Lord",
+            "timestamp": "2025-03-08T06:43:07.348842",
+            "duration": 103
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Third Lord",
+            "timestamp": "2025-03-04T15:39:07.348844",
+            "duration": 211
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Third Lord",
+            "timestamp": "2025-03-06T17:56:07.348846",
+            "duration": 213
+        },
+        {
+            "from": "HELICANUS",
+            "to": "LEONINE",
+            "timestamp": "2025-03-02T22:34:07.348848",
+            "duration": 74
+        },
+        {
+            "from": "HELICANUS",
+            "to": "ESCANES",
+            "timestamp": "2025-03-08T05:13:07.348851",
+            "duration": 235
+        },
+        {
+            "from": "HELICANUS",
+            "to": "ESCANES",
+            "timestamp": "2025-03-10T12:02:07.348853",
+            "duration": 105
+        },
+        {
+            "from": "HELICANUS",
+            "to": "ESCANES",
+            "timestamp": "2025-03-04T20:25:07.348855",
+            "duration": 244
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-02T21:13:07.348858",
+            "duration": 154
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-04T06:32:07.348860",
+            "duration": 256
+        },
+        {
+            "from": "HELICANUS",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-04T21:53:07.348862",
+            "duration": 230
+        },
+        {
+            "from": "THALIARD",
+            "to": "DIONYZA",
+            "timestamp": "2025-03-04T00:39:07.348865",
+            "duration": 166
+        },
+        {
+            "from": "THALIARD",
+            "to": "MARINA",
+            "timestamp": "2025-03-08T04:10:07.348867",
+            "duration": 236
+        },
+        {
+            "from": "THALIARD",
+            "to": "GOWER",
+            "timestamp": "2025-03-07T05:56:07.348869",
+            "duration": 254
+        },
+        {
+            "from": "THALIARD",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-06T09:34:07.348873",
+            "duration": 128
+        },
+        {
+            "from": "THALIARD",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-04T22:27:07.348875",
+            "duration": 169
+        },
+        {
+            "from": "THALIARD",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-04T03:42:07.348877",
+            "duration": 209
+        },
+        {
+            "from": "THALIARD",
+            "to": "Daughter",
+            "timestamp": "2025-03-10T00:16:07.348879",
+            "duration": 231
+        },
+        {
+            "from": "THALIARD",
+            "to": "Daughter",
+            "timestamp": "2025-03-04T02:30:07.348882",
+            "duration": 290
+        },
+        {
+            "from": "THALIARD",
+            "to": "Daughter",
+            "timestamp": "2025-03-10T13:17:07.348884",
+            "duration": 216
+        },
+        {
+            "from": "THALIARD",
+            "to": "Marshal",
+            "timestamp": "2025-03-05T05:06:07.348887",
+            "duration": 84
+        },
+        {
+            "from": "THALIARD",
+            "to": "Marshal",
+            "timestamp": "2025-03-06T03:37:07.348889",
+            "duration": 177
+        },
+        {
+            "from": "THALIARD",
+            "to": "Marshal",
+            "timestamp": "2025-03-07T01:01:07.348891",
+            "duration": 297
+        },
+        {
+            "from": "THALIARD",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-06T16:41:07.348894",
+            "duration": 276
+        },
+        {
+            "from": "THALIARD",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-04T23:12:07.348896",
+            "duration": 293
+        },
+        {
+            "from": "THALIARD",
+            "to": "Bawd",
+            "timestamp": "2025-03-03T00:16:07.348898",
+            "duration": 170
+        },
+        {
+            "from": "THALIARD",
+            "to": "Third Knight",
+            "timestamp": "2025-03-08T08:42:07.348900",
+            "duration": 197
+        },
+        {
+            "from": "THALIARD",
+            "to": "Third Knight",
+            "timestamp": "2025-03-09T03:28:07.348902",
+            "duration": 140
+        },
+        {
+            "from": "THALIARD",
+            "to": "Third Knight",
+            "timestamp": "2025-03-03T20:02:07.348904",
+            "duration": 176
+        },
+        {
+            "from": "THALIARD",
+            "to": "PERICLES",
+            "timestamp": "2025-03-02T16:19:07.348907",
+            "duration": 152
+        },
+        {
+            "from": "THALIARD",
+            "to": "CERIMON",
+            "timestamp": "2025-03-03T10:14:07.348909",
+            "duration": 140
+        },
+        {
+            "from": "THALIARD",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T17:44:07.348911",
+            "duration": 157
+        },
+        {
+            "from": "THALIARD",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-09T19:21:07.348914",
+            "duration": 254
+        },
+        {
+            "from": "THALIARD",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-02T19:33:07.348916",
+            "duration": 102
+        },
+        {
+            "from": "THALIARD",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-05T21:26:07.348919",
+            "duration": 230
+        },
+        {
+            "from": "THALIARD",
+            "to": "Knights",
+            "timestamp": "2025-03-09T09:44:07.348921",
+            "duration": 300
+        },
+        {
+            "from": "THALIARD",
+            "to": "Knights",
+            "timestamp": "2025-03-06T05:26:07.348923",
+            "duration": 230
+        },
+        {
+            "from": "THALIARD",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-03T10:03:07.348925",
+            "duration": 63
+        },
+        {
+            "from": "THALIARD",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-05T00:34:07.348927",
+            "duration": 290
+        },
+        {
+            "from": "THALIARD",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-08T00:44:07.348929",
+            "duration": 297
+        },
+        {
+            "from": "THALIARD",
+            "to": "DIANA",
+            "timestamp": "2025-03-06T02:42:07.348931",
+            "duration": 96
+        },
+        {
+            "from": "THALIARD",
+            "to": "DIANA",
+            "timestamp": "2025-03-06T01:44:07.348934",
+            "duration": 87
+        },
+        {
+            "from": "THALIARD",
+            "to": "BOULT",
+            "timestamp": "2025-03-07T00:38:07.348936",
+            "duration": 78
+        },
+        {
+            "from": "THALIARD",
+            "to": "BOULT",
+            "timestamp": "2025-03-04T22:48:07.348938",
+            "duration": 76
+        },
+        {
+            "from": "THALIARD",
+            "to": "BOULT",
+            "timestamp": "2025-03-07T10:45:07.348940",
+            "duration": 273
+        },
+        {
+            "from": "THALIARD",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-08T05:25:07.348942",
+            "duration": 146
+        },
+        {
+            "from": "THALIARD",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-03T10:17:07.348944",
+            "duration": 285
+        },
+        {
+            "from": "THALIARD",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-06T13:58:07.348946",
+            "duration": 72
+        },
+        {
+            "from": "THALIARD",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-05T00:34:07.348949",
+            "duration": 115
+        },
+        {
+            "from": "THALIARD",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-08T06:38:07.348951",
+            "duration": 73
+        },
+        {
+            "from": "THALIARD",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-09T06:25:07.348953",
+            "duration": 64
+        },
+        {
+            "from": "THALIARD",
+            "to": "Servant",
+            "timestamp": "2025-03-02T20:31:07.348955",
+            "duration": 121
+        },
+        {
+            "from": "THALIARD",
+            "to": "Servant",
+            "timestamp": "2025-03-05T07:49:07.348957",
+            "duration": 227
+        },
+        {
+            "from": "THALIARD",
+            "to": "Servant",
+            "timestamp": "2025-03-06T12:49:07.348959",
+            "duration": 200
+        },
+        {
+            "from": "THALIARD",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-08T21:29:07.348962",
+            "duration": 130
+        },
+        {
+            "from": "THALIARD",
+            "to": "Pandar",
+            "timestamp": "2025-03-07T07:11:07.348964",
+            "duration": 121
+        },
+        {
+            "from": "THALIARD",
+            "to": "THAISA",
+            "timestamp": "2025-03-04T18:13:07.348966",
+            "duration": 187
+        },
+        {
+            "from": "THALIARD",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T11:05:07.348968",
+            "duration": 163
+        },
+        {
+            "from": "THALIARD",
+            "to": "Lord",
+            "timestamp": "2025-03-05T16:51:07.348971",
+            "duration": 236
+        },
+        {
+            "from": "THALIARD",
+            "to": "Lord",
+            "timestamp": "2025-03-04T13:09:07.348973",
+            "duration": 158
+        },
+        {
+            "from": "THALIARD",
+            "to": "CLEON",
+            "timestamp": "2025-03-03T10:52:07.348975",
+            "duration": 110
+        },
+        {
+            "from": "THALIARD",
+            "to": "Third Lord",
+            "timestamp": "2025-03-04T23:11:07.348978",
+            "duration": 83
+        },
+        {
+            "from": "THALIARD",
+            "to": "LEONINE",
+            "timestamp": "2025-03-03T04:50:07.348980",
+            "duration": 294
+        },
+        {
+            "from": "THALIARD",
+            "to": "LEONINE",
+            "timestamp": "2025-03-10T04:10:07.348982",
+            "duration": 226
+        },
+        {
+            "from": "THALIARD",
+            "to": "ESCANES",
+            "timestamp": "2025-03-06T11:56:07.348984",
+            "duration": 81
+        },
+        {
+            "from": "THALIARD",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-05T02:11:07.348987",
+            "duration": 132
+        },
+        {
+            "from": "DIONYZA",
+            "to": "MARINA",
+            "timestamp": "2025-03-05T20:43:07.348989",
+            "duration": 224
+        },
+        {
+            "from": "DIONYZA",
+            "to": "GOWER",
+            "timestamp": "2025-03-05T07:12:07.348991",
+            "duration": 197
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-06T05:49:07.348993",
+            "duration": 128
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-08T01:54:07.349003",
+            "duration": 150
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-06T15:52:07.349006",
+            "duration": 212
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Daughter",
+            "timestamp": "2025-03-04T15:55:07.349008",
+            "duration": 92
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Daughter",
+            "timestamp": "2025-03-04T07:40:07.349011",
+            "duration": 190
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Marshal",
+            "timestamp": "2025-03-09T00:10:07.349013",
+            "duration": 71
+        },
+        {
+            "from": "DIONYZA",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-05T21:33:07.349015",
+            "duration": 151
+        },
+        {
+            "from": "DIONYZA",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-10T08:25:07.349018",
+            "duration": 183
+        },
+        {
+            "from": "DIONYZA",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-09T07:17:07.349020",
+            "duration": 146
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Bawd",
+            "timestamp": "2025-03-06T18:33:07.349022",
+            "duration": 137
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Third Knight",
+            "timestamp": "2025-03-07T20:47:07.349024",
+            "duration": 202
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Third Knight",
+            "timestamp": "2025-03-06T17:45:07.349027",
+            "duration": 105
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Third Knight",
+            "timestamp": "2025-03-05T02:19:07.349029",
+            "duration": 68
+        },
+        {
+            "from": "DIONYZA",
+            "to": "PERICLES",
+            "timestamp": "2025-03-05T17:06:07.349031",
+            "duration": 277
+        },
+        {
+            "from": "DIONYZA",
+            "to": "CERIMON",
+            "timestamp": "2025-03-05T14:32:07.349033",
+            "duration": 124
+        },
+        {
+            "from": "DIONYZA",
+            "to": "CERIMON",
+            "timestamp": "2025-03-08T00:26:07.349035",
+            "duration": 176
+        },
+        {
+            "from": "DIONYZA",
+            "to": "CERIMON",
+            "timestamp": "2025-03-02T17:48:07.349038",
+            "duration": 108
+        },
+        {
+            "from": "DIONYZA",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T20:11:07.349040",
+            "duration": 198
+        },
+        {
+            "from": "DIONYZA",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-05T11:55:07.349042",
+            "duration": 170
+        },
+        {
+            "from": "DIONYZA",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-03T17:18:07.349044",
+            "duration": 153
+        },
+        {
+            "from": "DIONYZA",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-02T20:53:07.349047",
+            "duration": 180
+        },
+        {
+            "from": "DIONYZA",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-09T19:40:07.349049",
+            "duration": 119
+        },
+        {
+            "from": "DIONYZA",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-07T21:45:07.349051",
+            "duration": 284
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Knights",
+            "timestamp": "2025-03-09T20:45:07.349053",
+            "duration": 94
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Knights",
+            "timestamp": "2025-03-05T11:37:07.349055",
+            "duration": 124
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Knights",
+            "timestamp": "2025-03-07T17:13:07.349058",
+            "duration": 221
+        },
+        {
+            "from": "DIONYZA",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-04T02:40:07.349060",
+            "duration": 101
+        },
+        {
+            "from": "DIONYZA",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-08T07:23:07.349063",
+            "duration": 244
+        },
+        {
+            "from": "DIONYZA",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-04T14:56:07.349065",
+            "duration": 73
+        },
+        {
+            "from": "DIONYZA",
+            "to": "DIANA",
+            "timestamp": "2025-03-04T21:22:07.349067",
+            "duration": 260
+        },
+        {
+            "from": "DIONYZA",
+            "to": "BOULT",
+            "timestamp": "2025-03-06T07:44:07.349070",
+            "duration": 197
+        },
+        {
+            "from": "DIONYZA",
+            "to": "BOULT",
+            "timestamp": "2025-03-03T23:22:07.349072",
+            "duration": 67
+        },
+        {
+            "from": "DIONYZA",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-06T20:10:07.349074",
+            "duration": 130
+        },
+        {
+            "from": "DIONYZA",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-07T03:38:07.349076",
+            "duration": 111
+        },
+        {
+            "from": "DIONYZA",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-07T14:45:07.349078",
+            "duration": 260
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Servant",
+            "timestamp": "2025-03-08T23:41:07.349080",
+            "duration": 202
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-07T15:38:07.349083",
+            "duration": 187
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-07T11:07:07.349085",
+            "duration": 165
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-06T12:21:07.349087",
+            "duration": 250
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Pandar",
+            "timestamp": "2025-03-07T07:57:07.349089",
+            "duration": 153
+        },
+        {
+            "from": "DIONYZA",
+            "to": "THAISA",
+            "timestamp": "2025-03-04T00:58:07.349091",
+            "duration": 249
+        },
+        {
+            "from": "DIONYZA",
+            "to": "THAISA",
+            "timestamp": "2025-03-09T17:14:07.349093",
+            "duration": 61
+        },
+        {
+            "from": "DIONYZA",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T11:00:07.349095",
+            "duration": 238
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T03:48:07.349098",
+            "duration": 100
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Lord",
+            "timestamp": "2025-03-09T20:04:07.349100",
+            "duration": 253
+        },
+        {
+            "from": "DIONYZA",
+            "to": "CLEON",
+            "timestamp": "2025-03-04T19:29:07.349103",
+            "duration": 226
+        },
+        {
+            "from": "DIONYZA",
+            "to": "CLEON",
+            "timestamp": "2025-03-02T17:08:07.349105",
+            "duration": 281
+        },
+        {
+            "from": "DIONYZA",
+            "to": "CLEON",
+            "timestamp": "2025-03-07T12:44:07.349107",
+            "duration": 81
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Third Lord",
+            "timestamp": "2025-03-08T21:46:07.349110",
+            "duration": 166
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Third Lord",
+            "timestamp": "2025-03-06T18:09:07.349112",
+            "duration": 106
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Third Lord",
+            "timestamp": "2025-03-03T14:12:07.349114",
+            "duration": 262
+        },
+        {
+            "from": "DIONYZA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-10T01:31:07.349116",
+            "duration": 272
+        },
+        {
+            "from": "DIONYZA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-05T10:08:07.349118",
+            "duration": 182
+        },
+        {
+            "from": "DIONYZA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-08T13:57:07.349120",
+            "duration": 148
+        },
+        {
+            "from": "DIONYZA",
+            "to": "ESCANES",
+            "timestamp": "2025-03-10T04:49:07.349123",
+            "duration": 261
+        },
+        {
+            "from": "DIONYZA",
+            "to": "ESCANES",
+            "timestamp": "2025-03-05T06:17:07.349125",
+            "duration": 277
+        },
+        {
+            "from": "DIONYZA",
+            "to": "ESCANES",
+            "timestamp": "2025-03-03T08:32:07.349127",
+            "duration": 213
+        },
+        {
+            "from": "DIONYZA",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-05T15:01:07.349129",
+            "duration": 221
+        },
+        {
+            "from": "MARINA",
+            "to": "GOWER",
+            "timestamp": "2025-03-07T03:08:07.349131",
+            "duration": 60
+        },
+        {
+            "from": "MARINA",
+            "to": "GOWER",
+            "timestamp": "2025-03-05T03:27:07.349133",
+            "duration": 66
+        },
+        {
+            "from": "MARINA",
+            "to": "GOWER",
+            "timestamp": "2025-03-09T09:24:07.349136",
+            "duration": 243
+        },
+        {
+            "from": "MARINA",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-04T20:57:07.349138",
+            "duration": 77
+        },
+        {
+            "from": "MARINA",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-09T12:41:07.349140",
+            "duration": 83
+        },
+        {
+            "from": "MARINA",
+            "to": "Daughter",
+            "timestamp": "2025-03-08T14:27:07.349142",
+            "duration": 250
+        },
+        {
+            "from": "MARINA",
+            "to": "Daughter",
+            "timestamp": "2025-03-07T06:01:07.349144",
+            "duration": 115
+        },
+        {
+            "from": "MARINA",
+            "to": "Marshal",
+            "timestamp": "2025-03-07T16:51:07.349147",
+            "duration": 249
+        },
+        {
+            "from": "MARINA",
+            "to": "Marshal",
+            "timestamp": "2025-03-04T08:59:07.349149",
+            "duration": 252
+        },
+        {
+            "from": "MARINA",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-10T06:57:07.349151",
+            "duration": 97
+        },
+        {
+            "from": "MARINA",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-02T22:25:07.349153",
+            "duration": 255
+        },
+        {
+            "from": "MARINA",
+            "to": "Bawd",
+            "timestamp": "2025-03-09T22:11:07.349156",
+            "duration": 202
+        },
+        {
+            "from": "MARINA",
+            "to": "Bawd",
+            "timestamp": "2025-03-09T16:07:07.349158",
+            "duration": 70
+        },
+        {
+            "from": "MARINA",
+            "to": "Third Knight",
+            "timestamp": "2025-03-06T09:57:07.349160",
+            "duration": 183
+        },
+        {
+            "from": "MARINA",
+            "to": "Third Knight",
+            "timestamp": "2025-03-05T22:52:07.349162",
+            "duration": 291
+        },
+        {
+            "from": "MARINA",
+            "to": "Third Knight",
+            "timestamp": "2025-03-08T02:03:07.349164",
+            "duration": 111
+        },
+        {
+            "from": "MARINA",
+            "to": "PERICLES",
+            "timestamp": "2025-03-07T17:38:07.349167",
+            "duration": 60
+        },
+        {
+            "from": "MARINA",
+            "to": "PERICLES",
+            "timestamp": "2025-03-08T04:53:07.349169",
+            "duration": 82
+        },
+        {
+            "from": "MARINA",
+            "to": "CERIMON",
+            "timestamp": "2025-03-06T08:58:07.349171",
+            "duration": 165
+        },
+        {
+            "from": "MARINA",
+            "to": "CERIMON",
+            "timestamp": "2025-03-06T06:54:07.349173",
+            "duration": 216
+        },
+        {
+            "from": "MARINA",
+            "to": "CERIMON",
+            "timestamp": "2025-03-07T03:15:07.349175",
+            "duration": 82
+        },
+        {
+            "from": "MARINA",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T14:19:07.349178",
+            "duration": 143
+        },
+        {
+            "from": "MARINA",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T07:20:07.349180",
+            "duration": 287
+        },
+        {
+            "from": "MARINA",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-04T00:16:07.349182",
+            "duration": 156
+        },
+        {
+            "from": "MARINA",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-09T06:12:07.349184",
+            "duration": 230
+        },
+        {
+            "from": "MARINA",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-03T00:04:07.349186",
+            "duration": 115
+        },
+        {
+            "from": "MARINA",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-05T04:01:07.349189",
+            "duration": 156
+        },
+        {
+            "from": "MARINA",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-09T22:07:07.349191",
+            "duration": 103
+        },
+        {
+            "from": "MARINA",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-04T03:55:07.349193",
+            "duration": 212
+        },
+        {
+            "from": "MARINA",
+            "to": "Knights",
+            "timestamp": "2025-03-08T04:04:07.349195",
+            "duration": 158
+        },
+        {
+            "from": "MARINA",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-08T21:59:07.349197",
+            "duration": 243
+        },
+        {
+            "from": "MARINA",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-04T09:37:07.349199",
+            "duration": 221
+        },
+        {
+            "from": "MARINA",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T23:09:07.349202",
+            "duration": 292
+        },
+        {
+            "from": "MARINA",
+            "to": "BOULT",
+            "timestamp": "2025-03-09T16:23:07.349204",
+            "duration": 197
+        },
+        {
+            "from": "MARINA",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-03T23:43:07.349207",
+            "duration": 166
+        },
+        {
+            "from": "MARINA",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-05T05:59:07.349209",
+            "duration": 243
+        },
+        {
+            "from": "MARINA",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-04T06:52:07.349211",
+            "duration": 239
+        },
+        {
+            "from": "MARINA",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-08T17:47:07.349213",
+            "duration": 227
+        },
+        {
+            "from": "MARINA",
+            "to": "Servant",
+            "timestamp": "2025-03-04T17:15:07.349215",
+            "duration": 253
+        },
+        {
+            "from": "MARINA",
+            "to": "Servant",
+            "timestamp": "2025-03-05T12:49:07.349217",
+            "duration": 291
+        },
+        {
+            "from": "MARINA",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-07T08:09:07.349220",
+            "duration": 82
+        },
+        {
+            "from": "MARINA",
+            "to": "Pandar",
+            "timestamp": "2025-03-04T21:29:07.349222",
+            "duration": 163
+        },
+        {
+            "from": "MARINA",
+            "to": "Pandar",
+            "timestamp": "2025-03-09T07:35:07.349224",
+            "duration": 76
+        },
+        {
+            "from": "MARINA",
+            "to": "Pandar",
+            "timestamp": "2025-03-03T15:53:07.349226",
+            "duration": 66
+        },
+        {
+            "from": "MARINA",
+            "to": "THAISA",
+            "timestamp": "2025-03-04T09:34:07.349229",
+            "duration": 246
+        },
+        {
+            "from": "MARINA",
+            "to": "THAISA",
+            "timestamp": "2025-03-06T04:10:07.349231",
+            "duration": 199
+        },
+        {
+            "from": "MARINA",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T16:17:07.349233",
+            "duration": 67
+        },
+        {
+            "from": "MARINA",
+            "to": "Lord",
+            "timestamp": "2025-03-04T22:02:07.349235",
+            "duration": 108
+        },
+        {
+            "from": "MARINA",
+            "to": "Lord",
+            "timestamp": "2025-03-10T01:42:07.349238",
+            "duration": 130
+        },
+        {
+            "from": "MARINA",
+            "to": "CLEON",
+            "timestamp": "2025-03-09T06:47:07.349240",
+            "duration": 289
+        },
+        {
+            "from": "MARINA",
+            "to": "CLEON",
+            "timestamp": "2025-03-04T16:00:07.349242",
+            "duration": 160
+        },
+        {
+            "from": "MARINA",
+            "to": "CLEON",
+            "timestamp": "2025-03-04T18:03:07.349244",
+            "duration": 300
+        },
+        {
+            "from": "MARINA",
+            "to": "Third Lord",
+            "timestamp": "2025-03-05T02:36:07.349246",
+            "duration": 239
+        },
+        {
+            "from": "MARINA",
+            "to": "Third Lord",
+            "timestamp": "2025-03-04T15:48:07.349248",
+            "duration": 258
+        },
+        {
+            "from": "MARINA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-09T08:39:07.349251",
+            "duration": 256
+        },
+        {
+            "from": "MARINA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-02T18:27:07.349253",
+            "duration": 106
+        },
+        {
+            "from": "MARINA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-08T12:51:07.349255",
+            "duration": 151
+        },
+        {
+            "from": "MARINA",
+            "to": "ESCANES",
+            "timestamp": "2025-03-07T16:57:07.349257",
+            "duration": 60
+        },
+        {
+            "from": "MARINA",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-10T07:49:07.349259",
+            "duration": 93
+        },
+        {
+            "from": "GOWER",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-10T10:10:07.349262",
+            "duration": 60
+        },
+        {
+            "from": "GOWER",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-03T04:11:07.349264",
+            "duration": 85
+        },
+        {
+            "from": "GOWER",
+            "to": "Third Fisherman",
+            "timestamp": "2025-03-02T21:39:07.349266",
+            "duration": 233
+        },
+        {
+            "from": "GOWER",
+            "to": "Daughter",
+            "timestamp": "2025-03-05T11:48:07.349268",
+            "duration": 131
+        },
+        {
+            "from": "GOWER",
+            "to": "Marshal",
+            "timestamp": "2025-03-04T05:18:07.349271",
+            "duration": 217
+        },
+        {
+            "from": "GOWER",
+            "to": "Marshal",
+            "timestamp": "2025-03-06T13:53:07.349273",
+            "duration": 161
+        },
+        {
+            "from": "GOWER",
+            "to": "Marshal",
+            "timestamp": "2025-03-04T20:26:07.349275",
+            "duration": 122
+        },
+        {
+            "from": "GOWER",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-06T08:52:07.349277",
+            "duration": 208
+        },
+        {
+            "from": "GOWER",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-07T08:16:07.349279",
+            "duration": 241
+        },
+        {
+            "from": "GOWER",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-05T13:44:07.349281",
+            "duration": 139
+        },
+        {
+            "from": "GOWER",
+            "to": "Bawd",
+            "timestamp": "2025-03-05T23:48:07.349283",
+            "duration": 76
+        },
+        {
+            "from": "GOWER",
+            "to": "Bawd",
+            "timestamp": "2025-03-05T22:15:07.349285",
+            "duration": 243
+        },
+        {
+            "from": "GOWER",
+            "to": "Bawd",
+            "timestamp": "2025-03-10T00:14:07.349287",
+            "duration": 289
+        },
+        {
+            "from": "GOWER",
+            "to": "Third Knight",
+            "timestamp": "2025-03-07T09:05:07.349290",
+            "duration": 205
+        },
+        {
+            "from": "GOWER",
+            "to": "Third Knight",
+            "timestamp": "2025-03-09T07:17:07.349292",
+            "duration": 129
+        },
+        {
+            "from": "GOWER",
+            "to": "PERICLES",
+            "timestamp": "2025-03-03T22:19:07.349294",
+            "duration": 77
+        },
+        {
+            "from": "GOWER",
+            "to": "PERICLES",
+            "timestamp": "2025-03-06T17:36:07.349296",
+            "duration": 169
+        },
+        {
+            "from": "GOWER",
+            "to": "CERIMON",
+            "timestamp": "2025-03-07T19:17:07.349298",
+            "duration": 195
+        },
+        {
+            "from": "GOWER",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T07:32:07.349301",
+            "duration": 125
+        },
+        {
+            "from": "GOWER",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-03T17:25:07.349303",
+            "duration": 291
+        },
+        {
+            "from": "GOWER",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-06T10:14:07.349305",
+            "duration": 170
+        },
+        {
+            "from": "GOWER",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-05T10:22:07.349308",
+            "duration": 132
+        },
+        {
+            "from": "GOWER",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-04T15:56:07.349310",
+            "duration": 156
+        },
+        {
+            "from": "GOWER",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-03T18:40:07.349312",
+            "duration": 297
+        },
+        {
+            "from": "GOWER",
+            "to": "Knights",
+            "timestamp": "2025-03-05T13:42:07.349314",
+            "duration": 65
+        },
+        {
+            "from": "GOWER",
+            "to": "Knights",
+            "timestamp": "2025-03-09T15:58:07.349317",
+            "duration": 209
+        },
+        {
+            "from": "GOWER",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-05T03:42:07.349319",
+            "duration": 138
+        },
+        {
+            "from": "GOWER",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T13:34:07.349322",
+            "duration": 77
+        },
+        {
+            "from": "GOWER",
+            "to": "DIANA",
+            "timestamp": "2025-03-08T12:50:07.349324",
+            "duration": 276
+        },
+        {
+            "from": "GOWER",
+            "to": "BOULT",
+            "timestamp": "2025-03-08T19:01:07.349349",
+            "duration": 196
+        },
+        {
+            "from": "GOWER",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-05T03:04:07.349352",
+            "duration": 109
+        },
+        {
+            "from": "GOWER",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-08T22:00:07.349354",
+            "duration": 137
+        },
+        {
+            "from": "GOWER",
+            "to": "Servant",
+            "timestamp": "2025-03-05T00:10:07.349356",
+            "duration": 225
+        },
+        {
+            "from": "GOWER",
+            "to": "Servant",
+            "timestamp": "2025-03-09T12:31:07.349359",
+            "duration": 147
+        },
+        {
+            "from": "GOWER",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-05T22:00:07.349361",
+            "duration": 184
+        },
+        {
+            "from": "GOWER",
+            "to": "Pandar",
+            "timestamp": "2025-03-02T22:38:07.349363",
+            "duration": 128
+        },
+        {
+            "from": "GOWER",
+            "to": "Pandar",
+            "timestamp": "2025-03-05T16:37:07.349365",
+            "duration": 282
+        },
+        {
+            "from": "GOWER",
+            "to": "THAISA",
+            "timestamp": "2025-03-05T21:03:07.349367",
+            "duration": 244
+        },
+        {
+            "from": "GOWER",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T10:01:07.349370",
+            "duration": 61
+        },
+        {
+            "from": "GOWER",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T18:41:07.349372",
+            "duration": 214
+        },
+        {
+            "from": "GOWER",
+            "to": "Lord",
+            "timestamp": "2025-03-10T06:39:07.349374",
+            "duration": 151
+        },
+        {
+            "from": "GOWER",
+            "to": "Lord",
+            "timestamp": "2025-03-03T21:26:07.349376",
+            "duration": 249
+        },
+        {
+            "from": "GOWER",
+            "to": "CLEON",
+            "timestamp": "2025-03-05T16:04:07.349378",
+            "duration": 140
+        },
+        {
+            "from": "GOWER",
+            "to": "Third Lord",
+            "timestamp": "2025-03-02T20:43:07.349381",
+            "duration": 248
+        },
+        {
+            "from": "GOWER",
+            "to": "Third Lord",
+            "timestamp": "2025-03-07T04:36:07.349383",
+            "duration": 69
+        },
+        {
+            "from": "GOWER",
+            "to": "LEONINE",
+            "timestamp": "2025-03-06T10:53:07.349385",
+            "duration": 219
+        },
+        {
+            "from": "GOWER",
+            "to": "ESCANES",
+            "timestamp": "2025-03-05T13:31:07.349387",
+            "duration": 61
+        },
+        {
+            "from": "GOWER",
+            "to": "ESCANES",
+            "timestamp": "2025-03-09T19:20:07.349389",
+            "duration": 191
+        },
+        {
+            "from": "GOWER",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-04T05:56:07.349391",
+            "duration": 111
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Daughter",
+            "timestamp": "2025-03-03T11:49:07.349394",
+            "duration": 92
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Daughter",
+            "timestamp": "2025-03-09T18:03:07.349396",
+            "duration": 291
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Marshal",
+            "timestamp": "2025-03-03T03:51:07.349398",
+            "duration": 238
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-08T14:05:07.349400",
+            "duration": 95
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Bawd",
+            "timestamp": "2025-03-04T17:36:07.349403",
+            "duration": 212
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Bawd",
+            "timestamp": "2025-03-05T07:10:07.349405",
+            "duration": 82
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Bawd",
+            "timestamp": "2025-03-07T20:32:07.349407",
+            "duration": 212
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Third Knight",
+            "timestamp": "2025-03-06T18:35:07.349409",
+            "duration": 226
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Third Knight",
+            "timestamp": "2025-03-04T04:18:07.349411",
+            "duration": 72
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Third Knight",
+            "timestamp": "2025-03-05T00:02:07.349414",
+            "duration": 278
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "PERICLES",
+            "timestamp": "2025-03-05T06:57:07.349416",
+            "duration": 295
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "PERICLES",
+            "timestamp": "2025-03-09T04:31:07.349418",
+            "duration": 158
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "CERIMON",
+            "timestamp": "2025-03-08T04:30:07.349420",
+            "duration": 182
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "CERIMON",
+            "timestamp": "2025-03-06T15:01:07.349422",
+            "duration": 228
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "CERIMON",
+            "timestamp": "2025-03-08T08:43:07.349424",
+            "duration": 187
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T00:29:07.349427",
+            "duration": 245
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "BOTH",
+            "timestamp": "2025-03-06T22:15:07.349429",
+            "duration": 88
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-09T20:27:07.349432",
+            "duration": 208
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-02T19:28:07.349434",
+            "duration": 133
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-07T22:40:07.349436",
+            "duration": 204
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-03T11:36:07.349438",
+            "duration": 126
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-07T14:39:07.349440",
+            "duration": 244
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Knights",
+            "timestamp": "2025-03-08T13:32:07.349442",
+            "duration": 128
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-06T01:47:07.349444",
+            "duration": 240
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "DIANA",
+            "timestamp": "2025-03-05T00:13:07.349447",
+            "duration": 274
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "DIANA",
+            "timestamp": "2025-03-09T20:22:07.349449",
+            "duration": 163
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "BOULT",
+            "timestamp": "2025-03-02T16:36:07.349451",
+            "duration": 227
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "BOULT",
+            "timestamp": "2025-03-07T23:57:07.349453",
+            "duration": 98
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-05T06:39:07.349455",
+            "duration": 211
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-10T08:54:07.349457",
+            "duration": 65
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-05T04:31:07.349459",
+            "duration": 203
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-10T00:53:07.349462",
+            "duration": 114
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Servant",
+            "timestamp": "2025-03-03T04:42:07.349464",
+            "duration": 148
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-09T12:31:07.349466",
+            "duration": 127
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Pandar",
+            "timestamp": "2025-03-02T17:28:07.349475",
+            "duration": 129
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T01:42:07.349492",
+            "duration": 261
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "THAISA",
+            "timestamp": "2025-03-04T22:18:07.349496",
+            "duration": 72
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T03:02:07.349499",
+            "duration": 272
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Lord",
+            "timestamp": "2025-03-05T07:00:07.349501",
+            "duration": 104
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "CLEON",
+            "timestamp": "2025-03-06T13:36:07.349504",
+            "duration": 245
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Third Lord",
+            "timestamp": "2025-03-03T09:25:07.349507",
+            "duration": 138
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Third Lord",
+            "timestamp": "2025-03-05T22:28:07.349509",
+            "duration": 108
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Third Lord",
+            "timestamp": "2025-03-05T05:56:07.349511",
+            "duration": 185
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "LEONINE",
+            "timestamp": "2025-03-08T03:44:07.349513",
+            "duration": 165
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "LEONINE",
+            "timestamp": "2025-03-06T00:52:07.349515",
+            "duration": 251
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "ESCANES",
+            "timestamp": "2025-03-09T18:18:07.349518",
+            "duration": 82
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "ESCANES",
+            "timestamp": "2025-03-10T11:08:07.349521",
+            "duration": 147
+        },
+        {
+            "from": "Third Fisherman",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-09T20:01:07.349531",
+            "duration": 93
+        },
+        {
+            "from": "Daughter",
+            "to": "Marshal",
+            "timestamp": "2025-03-04T17:52:07.349534",
+            "duration": 89
+        },
+        {
+            "from": "Daughter",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-06T22:33:07.349536",
+            "duration": 267
+        },
+        {
+            "from": "Daughter",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-07T00:00:07.349538",
+            "duration": 140
+        },
+        {
+            "from": "Daughter",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-09T11:51:07.349540",
+            "duration": 140
+        },
+        {
+            "from": "Daughter",
+            "to": "Bawd",
+            "timestamp": "2025-03-06T06:41:07.349543",
+            "duration": 194
+        },
+        {
+            "from": "Daughter",
+            "to": "Third Knight",
+            "timestamp": "2025-03-06T00:00:07.349545",
+            "duration": 89
+        },
+        {
+            "from": "Daughter",
+            "to": "PERICLES",
+            "timestamp": "2025-03-07T01:42:07.349547",
+            "duration": 126
+        },
+        {
+            "from": "Daughter",
+            "to": "PERICLES",
+            "timestamp": "2025-03-10T03:20:07.349549",
+            "duration": 77
+        },
+        {
+            "from": "Daughter",
+            "to": "CERIMON",
+            "timestamp": "2025-03-03T07:11:07.349552",
+            "duration": 240
+        },
+        {
+            "from": "Daughter",
+            "to": "CERIMON",
+            "timestamp": "2025-03-03T01:49:07.349554",
+            "duration": 93
+        },
+        {
+            "from": "Daughter",
+            "to": "CERIMON",
+            "timestamp": "2025-03-05T04:31:07.349556",
+            "duration": 188
+        },
+        {
+            "from": "Daughter",
+            "to": "BOTH",
+            "timestamp": "2025-03-09T15:00:07.349558",
+            "duration": 170
+        },
+        {
+            "from": "Daughter",
+            "to": "BOTH",
+            "timestamp": "2025-03-06T00:54:07.349561",
+            "duration": 74
+        },
+        {
+            "from": "Daughter",
+            "to": "BOTH",
+            "timestamp": "2025-03-07T23:41:07.349563",
+            "duration": 291
+        },
+        {
+            "from": "Daughter",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-07T14:00:07.349566",
+            "duration": 87
+        },
+        {
+            "from": "Daughter",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-06T09:18:07.349568",
+            "duration": 292
+        },
+        {
+            "from": "Daughter",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-03T18:59:07.349570",
+            "duration": 123
+        },
+        {
+            "from": "Daughter",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-08T18:28:07.349573",
+            "duration": 254
+        },
+        {
+            "from": "Daughter",
+            "to": "Knights",
+            "timestamp": "2025-03-07T01:51:07.349576",
+            "duration": 113
+        },
+        {
+            "from": "Daughter",
+            "to": "Knights",
+            "timestamp": "2025-03-07T20:06:07.349578",
+            "duration": 150
+        },
+        {
+            "from": "Daughter",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-09T18:46:07.349580",
+            "duration": 214
+        },
+        {
+            "from": "Daughter",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-08T14:30:07.349582",
+            "duration": 144
+        },
+        {
+            "from": "Daughter",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T16:47:07.349584",
+            "duration": 86
+        },
+        {
+            "from": "Daughter",
+            "to": "DIANA",
+            "timestamp": "2025-03-08T01:45:07.349586",
+            "duration": 137
+        },
+        {
+            "from": "Daughter",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T19:01:07.349589",
+            "duration": 143
+        },
+        {
+            "from": "Daughter",
+            "to": "BOULT",
+            "timestamp": "2025-03-03T15:21:07.349591",
+            "duration": 167
+        },
+        {
+            "from": "Daughter",
+            "to": "BOULT",
+            "timestamp": "2025-03-03T17:02:07.349593",
+            "duration": 299
+        },
+        {
+            "from": "Daughter",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-03T21:01:07.349595",
+            "duration": 60
+        },
+        {
+            "from": "Daughter",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-03T06:43:07.349597",
+            "duration": 164
+        },
+        {
+            "from": "Daughter",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-08T04:24:07.349599",
+            "duration": 220
+        },
+        {
+            "from": "Daughter",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-06T17:42:07.349603",
+            "duration": 199
+        },
+        {
+            "from": "Daughter",
+            "to": "Servant",
+            "timestamp": "2025-03-04T12:53:07.349606",
+            "duration": 286
+        },
+        {
+            "from": "Daughter",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-10T08:42:07.349608",
+            "duration": 295
+        },
+        {
+            "from": "Daughter",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-09T03:39:07.349610",
+            "duration": 224
+        },
+        {
+            "from": "Daughter",
+            "to": "Pandar",
+            "timestamp": "2025-03-08T22:34:07.349612",
+            "duration": 106
+        },
+        {
+            "from": "Daughter",
+            "to": "THAISA",
+            "timestamp": "2025-03-05T16:42:07.349615",
+            "duration": 270
+        },
+        {
+            "from": "Daughter",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T15:00:07.349617",
+            "duration": 119
+        },
+        {
+            "from": "Daughter",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T23:25:07.349619",
+            "duration": 134
+        },
+        {
+            "from": "Daughter",
+            "to": "Lord",
+            "timestamp": "2025-03-10T12:00:07.349621",
+            "duration": 120
+        },
+        {
+            "from": "Daughter",
+            "to": "Lord",
+            "timestamp": "2025-03-07T15:31:07.349623",
+            "duration": 269
+        },
+        {
+            "from": "Daughter",
+            "to": "Lord",
+            "timestamp": "2025-03-04T14:20:07.349625",
+            "duration": 271
+        },
+        {
+            "from": "Daughter",
+            "to": "CLEON",
+            "timestamp": "2025-03-10T01:57:07.349628",
+            "duration": 272
+        },
+        {
+            "from": "Daughter",
+            "to": "CLEON",
+            "timestamp": "2025-03-06T12:56:07.349630",
+            "duration": 297
+        },
+        {
+            "from": "Daughter",
+            "to": "CLEON",
+            "timestamp": "2025-03-03T07:59:07.349632",
+            "duration": 256
+        },
+        {
+            "from": "Daughter",
+            "to": "Third Lord",
+            "timestamp": "2025-03-03T19:37:07.349634",
+            "duration": 202
+        },
+        {
+            "from": "Daughter",
+            "to": "Third Lord",
+            "timestamp": "2025-03-07T15:37:07.349636",
+            "duration": 289
+        },
+        {
+            "from": "Daughter",
+            "to": "LEONINE",
+            "timestamp": "2025-03-07T13:42:07.349638",
+            "duration": 229
+        },
+        {
+            "from": "Daughter",
+            "to": "LEONINE",
+            "timestamp": "2025-03-10T12:31:07.349640",
+            "duration": 142
+        },
+        {
+            "from": "Daughter",
+            "to": "ESCANES",
+            "timestamp": "2025-03-05T23:32:07.349643",
+            "duration": 92
+        },
+        {
+            "from": "Daughter",
+            "to": "ESCANES",
+            "timestamp": "2025-03-03T22:40:07.349645",
+            "duration": 68
+        },
+        {
+            "from": "Daughter",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-03T22:22:07.349647",
+            "duration": 184
+        },
+        {
+            "from": "Daughter",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T18:13:07.349649",
+            "duration": 137
+        },
+        {
+            "from": "Daughter",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-04T08:33:07.349651",
+            "duration": 108
+        },
+        {
+            "from": "Marshal",
+            "to": "SIMONIDES",
+            "timestamp": "2025-03-05T13:49:07.349654",
+            "duration": 244
+        },
+        {
+            "from": "Marshal",
+            "to": "Bawd",
+            "timestamp": "2025-03-02T21:55:07.349656",
+            "duration": 275
+        },
+        {
+            "from": "Marshal",
+            "to": "Bawd",
+            "timestamp": "2025-03-07T11:35:07.349658",
+            "duration": 127
+        },
+        {
+            "from": "Marshal",
+            "to": "Third Knight",
+            "timestamp": "2025-03-07T05:16:07.349661",
+            "duration": 174
+        },
+        {
+            "from": "Marshal",
+            "to": "Third Knight",
+            "timestamp": "2025-03-09T02:02:07.349663",
+            "duration": 88
+        },
+        {
+            "from": "Marshal",
+            "to": "PERICLES",
+            "timestamp": "2025-03-05T04:39:07.349665",
+            "duration": 162
+        },
+        {
+            "from": "Marshal",
+            "to": "PERICLES",
+            "timestamp": "2025-03-07T16:34:07.349667",
+            "duration": 287
+        },
+        {
+            "from": "Marshal",
+            "to": "PERICLES",
+            "timestamp": "2025-03-06T07:41:07.349670",
+            "duration": 208
+        },
+        {
+            "from": "Marshal",
+            "to": "CERIMON",
+            "timestamp": "2025-03-04T09:04:07.349672",
+            "duration": 267
+        },
+        {
+            "from": "Marshal",
+            "to": "CERIMON",
+            "timestamp": "2025-03-04T08:11:07.349674",
+            "duration": 196
+        },
+        {
+            "from": "Marshal",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T10:30:07.349676",
+            "duration": 279
+        },
+        {
+            "from": "Marshal",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-06T07:31:07.349679",
+            "duration": 64
+        },
+        {
+            "from": "Marshal",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-05T21:35:07.349681",
+            "duration": 136
+        },
+        {
+            "from": "Marshal",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-09T12:00:07.349683",
+            "duration": 227
+        },
+        {
+            "from": "Marshal",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-06T04:28:07.349685",
+            "duration": 176
+        },
+        {
+            "from": "Marshal",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-03T03:49:07.349687",
+            "duration": 287
+        },
+        {
+            "from": "Marshal",
+            "to": "Knights",
+            "timestamp": "2025-03-09T00:57:07.349689",
+            "duration": 192
+        },
+        {
+            "from": "Marshal",
+            "to": "Knights",
+            "timestamp": "2025-03-09T07:20:07.349691",
+            "duration": 259
+        },
+        {
+            "from": "Marshal",
+            "to": "Knights",
+            "timestamp": "2025-03-03T00:33:07.349693",
+            "duration": 106
+        },
+        {
+            "from": "Marshal",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-04T15:05:07.349696",
+            "duration": 217
+        },
+        {
+            "from": "Marshal",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T18:57:07.349698",
+            "duration": 137
+        },
+        {
+            "from": "Marshal",
+            "to": "DIANA",
+            "timestamp": "2025-03-04T15:55:07.349700",
+            "duration": 264
+        },
+        {
+            "from": "Marshal",
+            "to": "BOULT",
+            "timestamp": "2025-03-08T20:22:07.349702",
+            "duration": 147
+        },
+        {
+            "from": "Marshal",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-07T12:22:07.349704",
+            "duration": 156
+        },
+        {
+            "from": "Marshal",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-05T03:43:07.349707",
+            "duration": 110
+        },
+        {
+            "from": "Marshal",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-03T14:53:07.349709",
+            "duration": 65
+        },
+        {
+            "from": "Marshal",
+            "to": "Servant",
+            "timestamp": "2025-03-08T01:15:07.349711",
+            "duration": 193
+        },
+        {
+            "from": "Marshal",
+            "to": "Servant",
+            "timestamp": "2025-03-08T03:30:07.349713",
+            "duration": 74
+        },
+        {
+            "from": "Marshal",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-05T00:04:07.349715",
+            "duration": 165
+        },
+        {
+            "from": "Marshal",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-02T17:27:07.349717",
+            "duration": 69
+        },
+        {
+            "from": "Marshal",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-05T12:14:07.349719",
+            "duration": 243
+        },
+        {
+            "from": "Marshal",
+            "to": "Pandar",
+            "timestamp": "2025-03-05T09:37:07.349722",
+            "duration": 234
+        },
+        {
+            "from": "Marshal",
+            "to": "THAISA",
+            "timestamp": "2025-03-02T18:25:07.349724",
+            "duration": 185
+        },
+        {
+            "from": "Marshal",
+            "to": "THAISA",
+            "timestamp": "2025-03-05T00:12:07.349726",
+            "duration": 204
+        },
+        {
+            "from": "Marshal",
+            "to": "THAISA",
+            "timestamp": "2025-03-04T18:01:07.349728",
+            "duration": 224
+        },
+        {
+            "from": "Marshal",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T20:09:07.349730",
+            "duration": 152
+        },
+        {
+            "from": "Marshal",
+            "to": "Lord",
+            "timestamp": "2025-03-08T20:08:07.349733",
+            "duration": 173
+        },
+        {
+            "from": "Marshal",
+            "to": "Lord",
+            "timestamp": "2025-03-03T00:25:07.349735",
+            "duration": 146
+        },
+        {
+            "from": "Marshal",
+            "to": "Lord",
+            "timestamp": "2025-03-04T10:35:07.349737",
+            "duration": 269
+        },
+        {
+            "from": "Marshal",
+            "to": "CLEON",
+            "timestamp": "2025-03-06T17:52:07.349739",
+            "duration": 70
+        },
+        {
+            "from": "Marshal",
+            "to": "CLEON",
+            "timestamp": "2025-03-09T01:32:07.349741",
+            "duration": 300
+        },
+        {
+            "from": "Marshal",
+            "to": "Third Lord",
+            "timestamp": "2025-03-06T13:32:07.349743",
+            "duration": 296
+        },
+        {
+            "from": "Marshal",
+            "to": "LEONINE",
+            "timestamp": "2025-03-04T17:08:07.349746",
+            "duration": 127
+        },
+        {
+            "from": "Marshal",
+            "to": "LEONINE",
+            "timestamp": "2025-03-06T12:56:07.349748",
+            "duration": 167
+        },
+        {
+            "from": "Marshal",
+            "to": "ESCANES",
+            "timestamp": "2025-03-05T13:04:07.349750",
+            "duration": 125
+        },
+        {
+            "from": "Marshal",
+            "to": "ESCANES",
+            "timestamp": "2025-03-08T03:16:07.349752",
+            "duration": 106
+        },
+        {
+            "from": "Marshal",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-05T04:54:07.349754",
+            "duration": 214
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Bawd",
+            "timestamp": "2025-03-02T17:25:07.349757",
+            "duration": 245
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Third Knight",
+            "timestamp": "2025-03-07T00:48:07.349759",
+            "duration": 213
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "PERICLES",
+            "timestamp": "2025-03-08T14:26:07.349761",
+            "duration": 190
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "CERIMON",
+            "timestamp": "2025-03-04T03:18:07.349764",
+            "duration": 273
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "CERIMON",
+            "timestamp": "2025-03-09T20:42:07.349766",
+            "duration": 159
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "CERIMON",
+            "timestamp": "2025-03-09T03:29:07.349768",
+            "duration": 174
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "BOTH",
+            "timestamp": "2025-03-03T05:23:07.349770",
+            "duration": 75
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "BOTH",
+            "timestamp": "2025-03-10T05:09:07.349772",
+            "duration": 141
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-03T12:35:07.349774",
+            "duration": 281
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-06T23:30:07.349776",
+            "duration": 215
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-08T04:10:07.349779",
+            "duration": 248
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-03T04:30:07.349781",
+            "duration": 181
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-06T01:54:07.349783",
+            "duration": 124
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Knights",
+            "timestamp": "2025-03-08T16:04:07.349785",
+            "duration": 246
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-05T15:55:07.349788",
+            "duration": 188
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-05T12:57:07.349790",
+            "duration": 146
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-09T09:40:07.349792",
+            "duration": 235
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "DIANA",
+            "timestamp": "2025-03-08T22:20:07.349794",
+            "duration": 186
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "DIANA",
+            "timestamp": "2025-03-05T14:37:07.349796",
+            "duration": 130
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "BOULT",
+            "timestamp": "2025-03-05T07:43:07.349799",
+            "duration": 139
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-10T00:38:07.349801",
+            "duration": 153
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-05T02:25:07.349803",
+            "duration": 260
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-07T20:10:07.349805",
+            "duration": 92
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-04T03:09:07.349811",
+            "duration": 266
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-07T00:00:07.349814",
+            "duration": 126
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Servant",
+            "timestamp": "2025-03-04T03:58:07.349816",
+            "duration": 85
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Servant",
+            "timestamp": "2025-03-10T06:36:07.349818",
+            "duration": 185
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Servant",
+            "timestamp": "2025-03-08T05:08:07.349820",
+            "duration": 66
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-06T08:56:07.349823",
+            "duration": 89
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-07T23:01:07.349825",
+            "duration": 284
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Pandar",
+            "timestamp": "2025-03-04T01:12:07.349827",
+            "duration": 167
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "THAISA",
+            "timestamp": "2025-03-07T23:44:07.349830",
+            "duration": 186
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T23:18:07.349832",
+            "duration": 92
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Lord",
+            "timestamp": "2025-03-05T15:04:07.349834",
+            "duration": 74
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Lord",
+            "timestamp": "2025-03-08T14:46:07.349836",
+            "duration": 228
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Lord",
+            "timestamp": "2025-03-04T03:13:07.349838",
+            "duration": 141
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "CLEON",
+            "timestamp": "2025-03-03T11:54:07.349840",
+            "duration": 160
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "CLEON",
+            "timestamp": "2025-03-06T05:02:07.349843",
+            "duration": 134
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Third Lord",
+            "timestamp": "2025-03-09T00:10:07.349845",
+            "duration": 223
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "LEONINE",
+            "timestamp": "2025-03-10T07:06:07.349847",
+            "duration": 262
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "LEONINE",
+            "timestamp": "2025-03-10T10:18:07.349849",
+            "duration": 131
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "ESCANES",
+            "timestamp": "2025-03-03T14:38:07.349852",
+            "duration": 181
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "ESCANES",
+            "timestamp": "2025-03-02T17:46:07.349854",
+            "duration": 278
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-08T21:43:07.349856",
+            "duration": 113
+        },
+        {
+            "from": "SIMONIDES",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-06T13:53:07.349858",
+            "duration": 98
+        },
+        {
+            "from": "Bawd",
+            "to": "Third Knight",
+            "timestamp": "2025-03-10T05:43:07.349861",
+            "duration": 94
+        },
+        {
+            "from": "Bawd",
+            "to": "Third Knight",
+            "timestamp": "2025-03-06T19:09:07.349863",
+            "duration": 137
+        },
+        {
+            "from": "Bawd",
+            "to": "Third Knight",
+            "timestamp": "2025-03-04T12:24:07.349865",
+            "duration": 95
+        },
+        {
+            "from": "Bawd",
+            "to": "PERICLES",
+            "timestamp": "2025-03-04T11:50:07.349867",
+            "duration": 204
+        },
+        {
+            "from": "Bawd",
+            "to": "PERICLES",
+            "timestamp": "2025-03-09T10:45:07.349869",
+            "duration": 186
+        },
+        {
+            "from": "Bawd",
+            "to": "PERICLES",
+            "timestamp": "2025-03-05T14:54:07.349871",
+            "duration": 201
+        },
+        {
+            "from": "Bawd",
+            "to": "CERIMON",
+            "timestamp": "2025-03-10T08:29:07.349874",
+            "duration": 123
+        },
+        {
+            "from": "Bawd",
+            "to": "CERIMON",
+            "timestamp": "2025-03-04T09:05:07.349876",
+            "duration": 227
+        },
+        {
+            "from": "Bawd",
+            "to": "CERIMON",
+            "timestamp": "2025-03-08T10:36:07.349878",
+            "duration": 157
+        },
+        {
+            "from": "Bawd",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T00:11:07.349880",
+            "duration": 167
+        },
+        {
+            "from": "Bawd",
+            "to": "BOTH",
+            "timestamp": "2025-03-06T02:08:07.349882",
+            "duration": 144
+        },
+        {
+            "from": "Bawd",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-04T17:02:07.349885",
+            "duration": 130
+        },
+        {
+            "from": "Bawd",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-10T11:35:07.349887",
+            "duration": 196
+        },
+        {
+            "from": "Bawd",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-03T11:43:07.349889",
+            "duration": 210
+        },
+        {
+            "from": "Bawd",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-07T07:13:07.349891",
+            "duration": 126
+        },
+        {
+            "from": "Bawd",
+            "to": "Knights",
+            "timestamp": "2025-03-10T02:44:07.349894",
+            "duration": 235
+        },
+        {
+            "from": "Bawd",
+            "to": "Knights",
+            "timestamp": "2025-03-03T10:56:07.349896",
+            "duration": 222
+        },
+        {
+            "from": "Bawd",
+            "to": "Knights",
+            "timestamp": "2025-03-06T13:16:07.349898",
+            "duration": 221
+        },
+        {
+            "from": "Bawd",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-08T06:59:07.349900",
+            "duration": 150
+        },
+        {
+            "from": "Bawd",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-09T02:38:07.349902",
+            "duration": 247
+        },
+        {
+            "from": "Bawd",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-05T10:18:07.349904",
+            "duration": 229
+        },
+        {
+            "from": "Bawd",
+            "to": "DIANA",
+            "timestamp": "2025-03-05T11:24:07.349906",
+            "duration": 200
+        },
+        {
+            "from": "Bawd",
+            "to": "DIANA",
+            "timestamp": "2025-03-08T02:41:07.349908",
+            "duration": 152
+        },
+        {
+            "from": "Bawd",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T10:18:07.349910",
+            "duration": 202
+        },
+        {
+            "from": "Bawd",
+            "to": "BOULT",
+            "timestamp": "2025-03-04T09:05:07.349913",
+            "duration": 154
+        },
+        {
+            "from": "Bawd",
+            "to": "BOULT",
+            "timestamp": "2025-03-10T10:07:07.349915",
+            "duration": 143
+        },
+        {
+            "from": "Bawd",
+            "to": "BOULT",
+            "timestamp": "2025-03-10T01:58:07.349917",
+            "duration": 76
+        },
+        {
+            "from": "Bawd",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-10T12:39:07.349919",
+            "duration": 91
+        },
+        {
+            "from": "Bawd",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-06T22:05:07.349921",
+            "duration": 207
+        },
+        {
+            "from": "Bawd",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-03T09:03:07.349924",
+            "duration": 141
+        },
+        {
+            "from": "Bawd",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-03T16:26:07.349926",
+            "duration": 228
+        },
+        {
+            "from": "Bawd",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-09T21:54:07.349928",
+            "duration": 227
+        },
+        {
+            "from": "Bawd",
+            "to": "Servant",
+            "timestamp": "2025-03-02T18:50:07.349930",
+            "duration": 145
+        },
+        {
+            "from": "Bawd",
+            "to": "Servant",
+            "timestamp": "2025-03-06T09:02:07.349932",
+            "duration": 214
+        },
+        {
+            "from": "Bawd",
+            "to": "Servant",
+            "timestamp": "2025-03-07T22:50:07.349934",
+            "duration": 144
+        },
+        {
+            "from": "Bawd",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-08T06:46:07.349937",
+            "duration": 102
+        },
+        {
+            "from": "Bawd",
+            "to": "Pandar",
+            "timestamp": "2025-03-09T15:32:07.349940",
+            "duration": 75
+        },
+        {
+            "from": "Bawd",
+            "to": "Pandar",
+            "timestamp": "2025-03-04T04:36:07.349942",
+            "duration": 222
+        },
+        {
+            "from": "Bawd",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T20:49:07.349945",
+            "duration": 295
+        },
+        {
+            "from": "Bawd",
+            "to": "THAISA",
+            "timestamp": "2025-03-08T20:46:07.349947",
+            "duration": 240
+        },
+        {
+            "from": "Bawd",
+            "to": "THAISA",
+            "timestamp": "2025-03-04T22:01:07.349949",
+            "duration": 257
+        },
+        {
+            "from": "Bawd",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T22:57:07.349951",
+            "duration": 129
+        },
+        {
+            "from": "Bawd",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T18:20:07.349953",
+            "duration": 263
+        },
+        {
+            "from": "Bawd",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T02:04:07.349955",
+            "duration": 198
+        },
+        {
+            "from": "Bawd",
+            "to": "Lord",
+            "timestamp": "2025-03-04T06:24:07.349957",
+            "duration": 295
+        },
+        {
+            "from": "Bawd",
+            "to": "CLEON",
+            "timestamp": "2025-03-04T07:51:07.349960",
+            "duration": 149
+        },
+        {
+            "from": "Bawd",
+            "to": "Third Lord",
+            "timestamp": "2025-03-06T01:19:07.349962",
+            "duration": 297
+        },
+        {
+            "from": "Bawd",
+            "to": "Third Lord",
+            "timestamp": "2025-03-09T11:13:07.349964",
+            "duration": 103
+        },
+        {
+            "from": "Bawd",
+            "to": "Third Lord",
+            "timestamp": "2025-03-10T08:55:07.349966",
+            "duration": 92
+        },
+        {
+            "from": "Bawd",
+            "to": "LEONINE",
+            "timestamp": "2025-03-05T00:21:07.349969",
+            "duration": 257
+        },
+        {
+            "from": "Bawd",
+            "to": "LEONINE",
+            "timestamp": "2025-03-09T00:20:07.349971",
+            "duration": 245
+        },
+        {
+            "from": "Bawd",
+            "to": "ESCANES",
+            "timestamp": "2025-03-05T21:48:07.349973",
+            "duration": 151
+        },
+        {
+            "from": "Bawd",
+            "to": "ESCANES",
+            "timestamp": "2025-03-07T20:52:07.349975",
+            "duration": 83
+        },
+        {
+            "from": "Bawd",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T08:43:07.349977",
+            "duration": 86
+        },
+        {
+            "from": "Bawd",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-09T08:05:07.349980",
+            "duration": 109
+        },
+        {
+            "from": "Third Knight",
+            "to": "PERICLES",
+            "timestamp": "2025-03-08T19:41:07.349982",
+            "duration": 63
+        },
+        {
+            "from": "Third Knight",
+            "to": "CERIMON",
+            "timestamp": "2025-03-08T03:26:07.349984",
+            "duration": 261
+        },
+        {
+            "from": "Third Knight",
+            "to": "CERIMON",
+            "timestamp": "2025-03-07T11:25:07.349986",
+            "duration": 279
+        },
+        {
+            "from": "Third Knight",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T05:06:07.349989",
+            "duration": 239
+        },
+        {
+            "from": "Third Knight",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-03T22:26:07.349991",
+            "duration": 234
+        },
+        {
+            "from": "Third Knight",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-05T09:41:07.349993",
+            "duration": 126
+        },
+        {
+            "from": "Third Knight",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-09T02:27:07.349995",
+            "duration": 231
+        },
+        {
+            "from": "Third Knight",
+            "to": "Knights",
+            "timestamp": "2025-03-09T19:22:07.349998",
+            "duration": 111
+        },
+        {
+            "from": "Third Knight",
+            "to": "Knights",
+            "timestamp": "2025-03-05T17:44:07.350000",
+            "duration": 122
+        },
+        {
+            "from": "Third Knight",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-06T21:27:07.350002",
+            "duration": 96
+        },
+        {
+            "from": "Third Knight",
+            "to": "DIANA",
+            "timestamp": "2025-03-09T19:56:07.350005",
+            "duration": 270
+        },
+        {
+            "from": "Third Knight",
+            "to": "BOULT",
+            "timestamp": "2025-03-06T09:31:07.350007",
+            "duration": 96
+        },
+        {
+            "from": "Third Knight",
+            "to": "BOULT",
+            "timestamp": "2025-03-06T18:11:07.350009",
+            "duration": 121
+        },
+        {
+            "from": "Third Knight",
+            "to": "BOULT",
+            "timestamp": "2025-03-04T14:59:07.350011",
+            "duration": 282
+        },
+        {
+            "from": "Third Knight",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-04T14:54:07.350013",
+            "duration": 61
+        },
+        {
+            "from": "Third Knight",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-07T15:56:07.350015",
+            "duration": 229
+        },
+        {
+            "from": "Third Knight",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-04T00:08:07.350018",
+            "duration": 232
+        },
+        {
+            "from": "Third Knight",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-08T01:05:07.350020",
+            "duration": 243
+        },
+        {
+            "from": "Third Knight",
+            "to": "Servant",
+            "timestamp": "2025-03-07T19:36:07.350022",
+            "duration": 235
+        },
+        {
+            "from": "Third Knight",
+            "to": "Servant",
+            "timestamp": "2025-03-07T14:50:07.350024",
+            "duration": 251
+        },
+        {
+            "from": "Third Knight",
+            "to": "Servant",
+            "timestamp": "2025-03-04T07:38:07.350026",
+            "duration": 127
+        },
+        {
+            "from": "Third Knight",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-06T06:41:07.350029",
+            "duration": 219
+        },
+        {
+            "from": "Third Knight",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-03T17:39:07.350031",
+            "duration": 240
+        },
+        {
+            "from": "Third Knight",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-05T04:50:07.350033",
+            "duration": 88
+        },
+        {
+            "from": "Third Knight",
+            "to": "Pandar",
+            "timestamp": "2025-03-06T14:32:07.350036",
+            "duration": 74
+        },
+        {
+            "from": "Third Knight",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T19:43:07.350038",
+            "duration": 109
+        },
+        {
+            "from": "Third Knight",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T15:06:07.350040",
+            "duration": 177
+        },
+        {
+            "from": "Third Knight",
+            "to": "THAISA",
+            "timestamp": "2025-03-07T09:25:07.350042",
+            "duration": 223
+        },
+        {
+            "from": "Third Knight",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T05:57:07.350045",
+            "duration": 206
+        },
+        {
+            "from": "Third Knight",
+            "to": "Lord",
+            "timestamp": "2025-03-09T11:24:07.350047",
+            "duration": 201
+        },
+        {
+            "from": "Third Knight",
+            "to": "Lord",
+            "timestamp": "2025-03-05T02:10:07.350049",
+            "duration": 277
+        },
+        {
+            "from": "Third Knight",
+            "to": "Lord",
+            "timestamp": "2025-03-08T21:23:07.350051",
+            "duration": 234
+        },
+        {
+            "from": "Third Knight",
+            "to": "CLEON",
+            "timestamp": "2025-03-09T16:01:07.350053",
+            "duration": 255
+        },
+        {
+            "from": "Third Knight",
+            "to": "CLEON",
+            "timestamp": "2025-03-09T18:05:07.350055",
+            "duration": 139
+        },
+        {
+            "from": "Third Knight",
+            "to": "Third Lord",
+            "timestamp": "2025-03-09T08:07:07.350058",
+            "duration": 77
+        },
+        {
+            "from": "Third Knight",
+            "to": "Third Lord",
+            "timestamp": "2025-03-09T18:33:07.350060",
+            "duration": 84
+        },
+        {
+            "from": "Third Knight",
+            "to": "LEONINE",
+            "timestamp": "2025-03-09T07:48:07.350062",
+            "duration": 255
+        },
+        {
+            "from": "Third Knight",
+            "to": "LEONINE",
+            "timestamp": "2025-03-06T08:40:07.350064",
+            "duration": 83
+        },
+        {
+            "from": "Third Knight",
+            "to": "ESCANES",
+            "timestamp": "2025-03-06T10:49:07.350066",
+            "duration": 207
+        },
+        {
+            "from": "Third Knight",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-10T09:48:07.350069",
+            "duration": 297
+        },
+        {
+            "from": "Third Knight",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T23:52:07.350071",
+            "duration": 230
+        },
+        {
+            "from": "PERICLES",
+            "to": "CERIMON",
+            "timestamp": "2025-03-06T20:58:07.350073",
+            "duration": 140
+        },
+        {
+            "from": "PERICLES",
+            "to": "CERIMON",
+            "timestamp": "2025-03-05T17:51:07.350075",
+            "duration": 115
+        },
+        {
+            "from": "PERICLES",
+            "to": "BOTH",
+            "timestamp": "2025-03-05T01:37:07.350077",
+            "duration": 279
+        },
+        {
+            "from": "PERICLES",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-10T13:48:07.350080",
+            "duration": 94
+        },
+        {
+            "from": "PERICLES",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-04T22:39:07.350082",
+            "duration": 245
+        },
+        {
+            "from": "PERICLES",
+            "to": "Knights",
+            "timestamp": "2025-03-06T08:35:07.350085",
+            "duration": 149
+        },
+        {
+            "from": "PERICLES",
+            "to": "Knights",
+            "timestamp": "2025-03-04T05:17:07.350087",
+            "duration": 76
+        },
+        {
+            "from": "PERICLES",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-02T15:54:07.350089",
+            "duration": 157
+        },
+        {
+            "from": "PERICLES",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-06T05:45:07.350105",
+            "duration": 278
+        },
+        {
+            "from": "PERICLES",
+            "to": "DIANA",
+            "timestamp": "2025-03-08T15:18:07.350115",
+            "duration": 118
+        },
+        {
+            "from": "PERICLES",
+            "to": "DIANA",
+            "timestamp": "2025-03-03T21:29:07.350118",
+            "duration": 282
+        },
+        {
+            "from": "PERICLES",
+            "to": "BOULT",
+            "timestamp": "2025-03-06T14:40:07.350122",
+            "duration": 196
+        },
+        {
+            "from": "PERICLES",
+            "to": "BOULT",
+            "timestamp": "2025-03-06T14:22:07.350124",
+            "duration": 255
+        },
+        {
+            "from": "PERICLES",
+            "to": "BOULT",
+            "timestamp": "2025-03-08T19:49:07.350126",
+            "duration": 161
+        },
+        {
+            "from": "PERICLES",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-08T17:30:07.350129",
+            "duration": 120
+        },
+        {
+            "from": "PERICLES",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-08T01:37:07.350131",
+            "duration": 85
+        },
+        {
+            "from": "PERICLES",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-06T23:56:07.350133",
+            "duration": 157
+        },
+        {
+            "from": "PERICLES",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-06T11:16:07.350136",
+            "duration": 138
+        },
+        {
+            "from": "PERICLES",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-05T00:38:07.350138",
+            "duration": 205
+        },
+        {
+            "from": "PERICLES",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-02T19:33:07.350140",
+            "duration": 212
+        },
+        {
+            "from": "PERICLES",
+            "to": "Servant",
+            "timestamp": "2025-03-04T03:05:07.350142",
+            "duration": 225
+        },
+        {
+            "from": "PERICLES",
+            "to": "Servant",
+            "timestamp": "2025-03-06T01:38:07.350144",
+            "duration": 106
+        },
+        {
+            "from": "PERICLES",
+            "to": "Servant",
+            "timestamp": "2025-03-07T01:10:07.350146",
+            "duration": 254
+        },
+        {
+            "from": "PERICLES",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-10T01:12:07.350149",
+            "duration": 193
+        },
+        {
+            "from": "PERICLES",
+            "to": "Pandar",
+            "timestamp": "2025-03-06T22:35:07.350151",
+            "duration": 124
+        },
+        {
+            "from": "PERICLES",
+            "to": "Pandar",
+            "timestamp": "2025-03-03T01:50:07.350154",
+            "duration": 107
+        },
+        {
+            "from": "PERICLES",
+            "to": "Pandar",
+            "timestamp": "2025-03-02T22:57:07.350156",
+            "duration": 171
+        },
+        {
+            "from": "PERICLES",
+            "to": "THAISA",
+            "timestamp": "2025-03-04T20:29:07.350159",
+            "duration": 209
+        },
+        {
+            "from": "PERICLES",
+            "to": "THAISA",
+            "timestamp": "2025-03-08T00:13:07.350161",
+            "duration": 161
+        },
+        {
+            "from": "PERICLES",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T08:58:07.350163",
+            "duration": 209
+        },
+        {
+            "from": "PERICLES",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T08:21:07.350165",
+            "duration": 256
+        },
+        {
+            "from": "PERICLES",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T03:23:07.350167",
+            "duration": 208
+        },
+        {
+            "from": "PERICLES",
+            "to": "Lord",
+            "timestamp": "2025-03-10T08:40:07.350169",
+            "duration": 239
+        },
+        {
+            "from": "PERICLES",
+            "to": "Lord",
+            "timestamp": "2025-03-09T05:58:07.350171",
+            "duration": 215
+        },
+        {
+            "from": "PERICLES",
+            "to": "Lord",
+            "timestamp": "2025-03-07T02:51:07.350174",
+            "duration": 79
+        },
+        {
+            "from": "PERICLES",
+            "to": "CLEON",
+            "timestamp": "2025-03-08T17:01:07.350176",
+            "duration": 153
+        },
+        {
+            "from": "PERICLES",
+            "to": "CLEON",
+            "timestamp": "2025-03-07T14:47:07.350178",
+            "duration": 122
+        },
+        {
+            "from": "PERICLES",
+            "to": "Third Lord",
+            "timestamp": "2025-03-05T13:16:07.350180",
+            "duration": 81
+        },
+        {
+            "from": "PERICLES",
+            "to": "Third Lord",
+            "timestamp": "2025-03-03T11:17:07.350182",
+            "duration": 86
+        },
+        {
+            "from": "PERICLES",
+            "to": "LEONINE",
+            "timestamp": "2025-03-02T19:22:07.350185",
+            "duration": 211
+        },
+        {
+            "from": "PERICLES",
+            "to": "ESCANES",
+            "timestamp": "2025-03-03T00:21:07.350187",
+            "duration": 207
+        },
+        {
+            "from": "PERICLES",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-08T22:48:07.350189",
+            "duration": 206
+        },
+        {
+            "from": "PERICLES",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-09T13:29:07.350191",
+            "duration": 206
+        },
+        {
+            "from": "CERIMON",
+            "to": "BOTH",
+            "timestamp": "2025-03-02T20:11:07.350194",
+            "duration": 238
+        },
+        {
+            "from": "CERIMON",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-07T19:15:07.350196",
+            "duration": 104
+        },
+        {
+            "from": "CERIMON",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-07T00:03:07.350198",
+            "duration": 277
+        },
+        {
+            "from": "CERIMON",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-07T14:13:07.350201",
+            "duration": 137
+        },
+        {
+            "from": "CERIMON",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-03T08:05:07.350203",
+            "duration": 171
+        },
+        {
+            "from": "CERIMON",
+            "to": "Knights",
+            "timestamp": "2025-03-07T20:12:07.350205",
+            "duration": 152
+        },
+        {
+            "from": "CERIMON",
+            "to": "Knights",
+            "timestamp": "2025-03-07T19:54:07.350207",
+            "duration": 67
+        },
+        {
+            "from": "CERIMON",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-04T22:45:07.350209",
+            "duration": 99
+        },
+        {
+            "from": "CERIMON",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-03T15:33:07.350211",
+            "duration": 254
+        },
+        {
+            "from": "CERIMON",
+            "to": "DIANA",
+            "timestamp": "2025-03-06T20:50:07.350214",
+            "duration": 230
+        },
+        {
+            "from": "CERIMON",
+            "to": "DIANA",
+            "timestamp": "2025-03-02T15:53:07.350216",
+            "duration": 249
+        },
+        {
+            "from": "CERIMON",
+            "to": "DIANA",
+            "timestamp": "2025-03-05T05:42:07.350218",
+            "duration": 248
+        },
+        {
+            "from": "CERIMON",
+            "to": "BOULT",
+            "timestamp": "2025-03-10T01:00:07.350221",
+            "duration": 294
+        },
+        {
+            "from": "CERIMON",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-03T17:54:07.350223",
+            "duration": 97
+        },
+        {
+            "from": "CERIMON",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-09T15:44:07.350225",
+            "duration": 127
+        },
+        {
+            "from": "CERIMON",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-07T21:45:07.350227",
+            "duration": 299
+        },
+        {
+            "from": "CERIMON",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-10T01:16:07.350230",
+            "duration": 171
+        },
+        {
+            "from": "CERIMON",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-09T00:25:07.350232",
+            "duration": 73
+        },
+        {
+            "from": "CERIMON",
+            "to": "Servant",
+            "timestamp": "2025-03-09T21:38:07.350234",
+            "duration": 131
+        },
+        {
+            "from": "CERIMON",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-07T15:46:07.350236",
+            "duration": 229
+        },
+        {
+            "from": "CERIMON",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-09T18:16:07.350238",
+            "duration": 273
+        },
+        {
+            "from": "CERIMON",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-02T22:03:07.350241",
+            "duration": 244
+        },
+        {
+            "from": "CERIMON",
+            "to": "Pandar",
+            "timestamp": "2025-03-06T22:55:07.350243",
+            "duration": 150
+        },
+        {
+            "from": "CERIMON",
+            "to": "THAISA",
+            "timestamp": "2025-03-06T04:39:07.350245",
+            "duration": 300
+        },
+        {
+            "from": "CERIMON",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T16:39:07.350247",
+            "duration": 210
+        },
+        {
+            "from": "CERIMON",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T19:35:07.350250",
+            "duration": 250
+        },
+        {
+            "from": "CERIMON",
+            "to": "Lord",
+            "timestamp": "2025-03-02T17:59:07.350252",
+            "duration": 293
+        },
+        {
+            "from": "CERIMON",
+            "to": "CLEON",
+            "timestamp": "2025-03-09T13:14:07.350254",
+            "duration": 129
+        },
+        {
+            "from": "CERIMON",
+            "to": "Third Lord",
+            "timestamp": "2025-03-04T13:30:07.350257",
+            "duration": 193
+        },
+        {
+            "from": "CERIMON",
+            "to": "Third Lord",
+            "timestamp": "2025-03-07T21:51:07.350259",
+            "duration": 99
+        },
+        {
+            "from": "CERIMON",
+            "to": "Third Lord",
+            "timestamp": "2025-03-02T14:58:07.350261",
+            "duration": 135
+        },
+        {
+            "from": "CERIMON",
+            "to": "LEONINE",
+            "timestamp": "2025-03-07T09:57:07.350263",
+            "duration": 214
+        },
+        {
+            "from": "CERIMON",
+            "to": "LEONINE",
+            "timestamp": "2025-03-04T03:23:07.350265",
+            "duration": 225
+        },
+        {
+            "from": "CERIMON",
+            "to": "ESCANES",
+            "timestamp": "2025-03-05T03:16:07.350268",
+            "duration": 102
+        },
+        {
+            "from": "CERIMON",
+            "to": "ESCANES",
+            "timestamp": "2025-03-08T20:54:07.350270",
+            "duration": 119
+        },
+        {
+            "from": "CERIMON",
+            "to": "ESCANES",
+            "timestamp": "2025-03-03T00:45:07.350272",
+            "duration": 284
+        },
+        {
+            "from": "CERIMON",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T14:43:07.350274",
+            "duration": 278
+        },
+        {
+            "from": "CERIMON",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-08T18:21:07.350276",
+            "duration": 216
+        },
+        {
+            "from": "CERIMON",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-06T05:35:07.350279",
+            "duration": 175
+        },
+        {
+            "from": "BOTH",
+            "to": "LYCHORIDA",
+            "timestamp": "2025-03-09T18:35:07.350281",
+            "duration": 74
+        },
+        {
+            "from": "BOTH",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-05T02:12:07.350283",
+            "duration": 193
+        },
+        {
+            "from": "BOTH",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-06T12:55:07.350285",
+            "duration": 253
+        },
+        {
+            "from": "BOTH",
+            "to": "Knights",
+            "timestamp": "2025-03-04T14:37:07.350288",
+            "duration": 85
+        },
+        {
+            "from": "BOTH",
+            "to": "Knights",
+            "timestamp": "2025-03-07T00:05:07.350290",
+            "duration": 111
+        },
+        {
+            "from": "BOTH",
+            "to": "Knights",
+            "timestamp": "2025-03-09T19:34:07.350292",
+            "duration": 291
+        },
+        {
+            "from": "BOTH",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-04T01:29:07.350294",
+            "duration": 216
+        },
+        {
+            "from": "BOTH",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-05T02:26:07.350296",
+            "duration": 93
+        },
+        {
+            "from": "BOTH",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-06T06:52:07.350298",
+            "duration": 130
+        },
+        {
+            "from": "BOTH",
+            "to": "DIANA",
+            "timestamp": "2025-03-03T09:08:07.350303",
+            "duration": 171
+        },
+        {
+            "from": "BOTH",
+            "to": "BOULT",
+            "timestamp": "2025-03-08T08:03:07.350305",
+            "duration": 202
+        },
+        {
+            "from": "BOTH",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-07T19:23:07.350307",
+            "duration": 297
+        },
+        {
+            "from": "BOTH",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-07T15:46:07.350309",
+            "duration": 215
+        },
+        {
+            "from": "BOTH",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-05T17:35:07.350311",
+            "duration": 183
+        },
+        {
+            "from": "BOTH",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-09T09:31:07.350314",
+            "duration": 261
+        },
+        {
+            "from": "BOTH",
+            "to": "Servant",
+            "timestamp": "2025-03-08T08:15:07.350316",
+            "duration": 60
+        },
+        {
+            "from": "BOTH",
+            "to": "Servant",
+            "timestamp": "2025-03-08T09:10:07.350318",
+            "duration": 284
+        },
+        {
+            "from": "BOTH",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-04T18:41:07.350320",
+            "duration": 107
+        },
+        {
+            "from": "BOTH",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-10T06:29:07.350323",
+            "duration": 292
+        },
+        {
+            "from": "BOTH",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-04T14:53:07.350325",
+            "duration": 220
+        },
+        {
+            "from": "BOTH",
+            "to": "Pandar",
+            "timestamp": "2025-03-09T23:38:07.350327",
+            "duration": 171
+        },
+        {
+            "from": "BOTH",
+            "to": "Pandar",
+            "timestamp": "2025-03-06T22:01:07.350330",
+            "duration": 140
+        },
+        {
+            "from": "BOTH",
+            "to": "THAISA",
+            "timestamp": "2025-03-09T15:59:07.350332",
+            "duration": 82
+        },
+        {
+            "from": "BOTH",
+            "to": "THAISA",
+            "timestamp": "2025-03-06T05:10:07.350334",
+            "duration": 113
+        },
+        {
+            "from": "BOTH",
+            "to": "THAISA",
+            "timestamp": "2025-03-07T10:30:07.350336",
+            "duration": 74
+        },
+        {
+            "from": "BOTH",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T23:33:07.350339",
+            "duration": 180
+        },
+        {
+            "from": "BOTH",
+            "to": "Lord",
+            "timestamp": "2025-03-04T10:45:07.350341",
+            "duration": 177
+        },
+        {
+            "from": "BOTH",
+            "to": "CLEON",
+            "timestamp": "2025-03-03T06:07:07.350344",
+            "duration": 217
+        },
+        {
+            "from": "BOTH",
+            "to": "CLEON",
+            "timestamp": "2025-03-04T07:28:07.350346",
+            "duration": 290
+        },
+        {
+            "from": "BOTH",
+            "to": "CLEON",
+            "timestamp": "2025-03-08T18:31:07.350348",
+            "duration": 157
+        },
+        {
+            "from": "BOTH",
+            "to": "Third Lord",
+            "timestamp": "2025-03-10T05:54:07.350350",
+            "duration": 120
+        },
+        {
+            "from": "BOTH",
+            "to": "Third Lord",
+            "timestamp": "2025-03-02T23:45:07.350352",
+            "duration": 108
+        },
+        {
+            "from": "BOTH",
+            "to": "LEONINE",
+            "timestamp": "2025-03-04T04:42:07.350354",
+            "duration": 153
+        },
+        {
+            "from": "BOTH",
+            "to": "LEONINE",
+            "timestamp": "2025-03-08T03:24:07.350356",
+            "duration": 177
+        },
+        {
+            "from": "BOTH",
+            "to": "ESCANES",
+            "timestamp": "2025-03-02T18:20:07.350359",
+            "duration": 249
+        },
+        {
+            "from": "BOTH",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-05T14:18:07.350361",
+            "duration": 150
+        },
+        {
+            "from": "BOTH",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-04T23:48:07.350363",
+            "duration": 117
+        },
+        {
+            "from": "BOTH",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-04T20:51:07.350365",
+            "duration": 80
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "PHILEMON",
+            "timestamp": "2025-03-03T09:28:07.350368",
+            "duration": 240
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Knights",
+            "timestamp": "2025-03-07T08:59:07.350370",
+            "duration": 275
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Knights",
+            "timestamp": "2025-03-06T16:54:07.350373",
+            "duration": 101
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-03T03:25:07.350375",
+            "duration": 214
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-09T11:08:07.350377",
+            "duration": 268
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-07T05:24:07.350379",
+            "duration": 125
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "DIANA",
+            "timestamp": "2025-03-06T06:09:07.350381",
+            "duration": 150
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "BOULT",
+            "timestamp": "2025-03-03T22:36:07.350383",
+            "duration": 158
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "BOULT",
+            "timestamp": "2025-03-04T06:43:07.350386",
+            "duration": 140
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-08T21:07:07.350388",
+            "duration": 184
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-02T17:32:07.350390",
+            "duration": 60
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-06T09:20:07.350392",
+            "duration": 241
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Servant",
+            "timestamp": "2025-03-09T09:16:07.350395",
+            "duration": 144
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Servant",
+            "timestamp": "2025-03-05T16:58:07.350397",
+            "duration": 189
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-10T03:00:07.350399",
+            "duration": 95
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-05T22:51:07.350401",
+            "duration": 81
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-09T20:31:07.350403",
+            "duration": 134
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Pandar",
+            "timestamp": "2025-03-05T09:32:07.350405",
+            "duration": 263
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Pandar",
+            "timestamp": "2025-03-07T05:49:07.350407",
+            "duration": 296
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Pandar",
+            "timestamp": "2025-03-08T06:19:07.350410",
+            "duration": 238
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "THAISA",
+            "timestamp": "2025-03-04T03:59:07.350412",
+            "duration": 95
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T08:00:07.350414",
+            "duration": 166
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T09:45:07.350416",
+            "duration": 150
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T14:20:07.350418",
+            "duration": 74
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Lord",
+            "timestamp": "2025-03-06T08:57:07.350421",
+            "duration": 245
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Lord",
+            "timestamp": "2025-03-03T21:35:07.350423",
+            "duration": 241
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Lord",
+            "timestamp": "2025-03-10T02:04:07.350425",
+            "duration": 220
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "CLEON",
+            "timestamp": "2025-03-02T22:40:07.350427",
+            "duration": 180
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "CLEON",
+            "timestamp": "2025-03-08T02:27:07.350433",
+            "duration": 286
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "CLEON",
+            "timestamp": "2025-03-09T23:22:07.350436",
+            "duration": 166
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Third Lord",
+            "timestamp": "2025-03-09T01:06:07.350439",
+            "duration": 164
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-05T22:14:07.350441",
+            "duration": 130
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-06T15:30:07.350443",
+            "duration": 267
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-05T22:59:07.350445",
+            "duration": 81
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "ESCANES",
+            "timestamp": "2025-03-07T04:57:07.350448",
+            "duration": 294
+        },
+        {
+            "from": "LYCHORIDA",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-05T19:13:07.350450",
+            "duration": 87
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Knights",
+            "timestamp": "2025-03-06T15:52:07.350452",
+            "duration": 183
+        },
+        {
+            "from": "PHILEMON",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-05T18:50:07.350455",
+            "duration": 202
+        },
+        {
+            "from": "PHILEMON",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-02T22:02:07.350457",
+            "duration": 113
+        },
+        {
+            "from": "PHILEMON",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-08T14:37:07.350459",
+            "duration": 275
+        },
+        {
+            "from": "PHILEMON",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T11:40:07.350461",
+            "duration": 220
+        },
+        {
+            "from": "PHILEMON",
+            "to": "DIANA",
+            "timestamp": "2025-03-08T05:46:07.350463",
+            "duration": 134
+        },
+        {
+            "from": "PHILEMON",
+            "to": "DIANA",
+            "timestamp": "2025-03-04T04:48:07.350465",
+            "duration": 62
+        },
+        {
+            "from": "PHILEMON",
+            "to": "BOULT",
+            "timestamp": "2025-03-08T17:39:07.350468",
+            "duration": 259
+        },
+        {
+            "from": "PHILEMON",
+            "to": "BOULT",
+            "timestamp": "2025-03-06T22:17:07.350470",
+            "duration": 189
+        },
+        {
+            "from": "PHILEMON",
+            "to": "BOULT",
+            "timestamp": "2025-03-09T22:40:07.350472",
+            "duration": 76
+        },
+        {
+            "from": "PHILEMON",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-02T23:20:07.350474",
+            "duration": 193
+        },
+        {
+            "from": "PHILEMON",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-04T09:23:07.350476",
+            "duration": 127
+        },
+        {
+            "from": "PHILEMON",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-05T14:11:07.350479",
+            "duration": 141
+        },
+        {
+            "from": "PHILEMON",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-09T07:04:07.350481",
+            "duration": 233
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Servant",
+            "timestamp": "2025-03-09T12:04:07.350483",
+            "duration": 281
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Servant",
+            "timestamp": "2025-03-08T02:32:07.350485",
+            "duration": 103
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-05T06:46:07.350488",
+            "duration": 177
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Pandar",
+            "timestamp": "2025-03-03T19:23:07.350490",
+            "duration": 145
+        },
+        {
+            "from": "PHILEMON",
+            "to": "THAISA",
+            "timestamp": "2025-03-05T20:01:07.350493",
+            "duration": 234
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T14:57:07.350495",
+            "duration": 252
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T17:19:07.350497",
+            "duration": 138
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T01:01:07.350499",
+            "duration": 67
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Lord",
+            "timestamp": "2025-03-09T07:58:07.350502",
+            "duration": 185
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Lord",
+            "timestamp": "2025-03-09T20:27:07.350505",
+            "duration": 165
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Lord",
+            "timestamp": "2025-03-08T19:47:07.350507",
+            "duration": 179
+        },
+        {
+            "from": "PHILEMON",
+            "to": "CLEON",
+            "timestamp": "2025-03-09T14:02:07.350509",
+            "duration": 72
+        },
+        {
+            "from": "PHILEMON",
+            "to": "CLEON",
+            "timestamp": "2025-03-04T10:58:07.350511",
+            "duration": 121
+        },
+        {
+            "from": "PHILEMON",
+            "to": "CLEON",
+            "timestamp": "2025-03-06T15:30:07.350513",
+            "duration": 154
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Third Lord",
+            "timestamp": "2025-03-10T02:12:07.350516",
+            "duration": 288
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Third Lord",
+            "timestamp": "2025-03-05T02:20:07.350518",
+            "duration": 271
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Third Lord",
+            "timestamp": "2025-03-10T13:35:07.350520",
+            "duration": 228
+        },
+        {
+            "from": "PHILEMON",
+            "to": "LEONINE",
+            "timestamp": "2025-03-05T21:02:07.350523",
+            "duration": 125
+        },
+        {
+            "from": "PHILEMON",
+            "to": "LEONINE",
+            "timestamp": "2025-03-09T03:24:07.350525",
+            "duration": 121
+        },
+        {
+            "from": "PHILEMON",
+            "to": "ESCANES",
+            "timestamp": "2025-03-04T23:42:07.350527",
+            "duration": 267
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T10:26:07.350529",
+            "duration": 253
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-10T06:19:07.350532",
+            "duration": 188
+        },
+        {
+            "from": "PHILEMON",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-08T23:45:07.350534",
+            "duration": 103
+        },
+        {
+            "from": "Knights",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-02T20:05:07.350536",
+            "duration": 185
+        },
+        {
+            "from": "Knights",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-04T05:44:07.350539",
+            "duration": 173
+        },
+        {
+            "from": "Knights",
+            "to": "KNIGHTS",
+            "timestamp": "2025-03-07T08:40:07.350541",
+            "duration": 80
+        },
+        {
+            "from": "Knights",
+            "to": "DIANA",
+            "timestamp": "2025-03-09T11:42:07.350543",
+            "duration": 195
+        },
+        {
+            "from": "Knights",
+            "to": "DIANA",
+            "timestamp": "2025-03-06T22:31:07.350545",
+            "duration": 120
+        },
+        {
+            "from": "Knights",
+            "to": "BOULT",
+            "timestamp": "2025-03-10T10:17:07.350547",
+            "duration": 214
+        },
+        {
+            "from": "Knights",
+            "to": "BOULT",
+            "timestamp": "2025-03-03T01:38:07.350549",
+            "duration": 260
+        },
+        {
+            "from": "Knights",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-05T00:04:07.350552",
+            "duration": 214
+        },
+        {
+            "from": "Knights",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-05T18:14:07.350554",
+            "duration": 224
+        },
+        {
+            "from": "Knights",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-03T04:23:07.350556",
+            "duration": 207
+        },
+        {
+            "from": "Knights",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-03T20:46:07.350558",
+            "duration": 71
+        },
+        {
+            "from": "Knights",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-04T08:36:07.350560",
+            "duration": 83
+        },
+        {
+            "from": "Knights",
+            "to": "Servant",
+            "timestamp": "2025-03-05T01:32:07.350563",
+            "duration": 195
+        },
+        {
+            "from": "Knights",
+            "to": "Servant",
+            "timestamp": "2025-03-05T23:33:07.350565",
+            "duration": 256
+        },
+        {
+            "from": "Knights",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-06T02:54:07.350567",
+            "duration": 284
+        },
+        {
+            "from": "Knights",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-03T14:29:07.350569",
+            "duration": 99
+        },
+        {
+            "from": "Knights",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-03T15:01:07.350571",
+            "duration": 76
+        },
+        {
+            "from": "Knights",
+            "to": "Pandar",
+            "timestamp": "2025-03-06T17:21:07.350574",
+            "duration": 203
+        },
+        {
+            "from": "Knights",
+            "to": "Pandar",
+            "timestamp": "2025-03-06T17:21:07.350576",
+            "duration": 268
+        },
+        {
+            "from": "Knights",
+            "to": "THAISA",
+            "timestamp": "2025-03-04T00:55:07.350578",
+            "duration": 123
+        },
+        {
+            "from": "Knights",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T11:00:07.350581",
+            "duration": 72
+        },
+        {
+            "from": "Knights",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T23:03:07.350583",
+            "duration": 180
+        },
+        {
+            "from": "Knights",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T04:54:07.350585",
+            "duration": 63
+        },
+        {
+            "from": "Knights",
+            "to": "Lord",
+            "timestamp": "2025-03-04T06:15:07.350587",
+            "duration": 124
+        },
+        {
+            "from": "Knights",
+            "to": "Lord",
+            "timestamp": "2025-03-03T14:18:07.350589",
+            "duration": 213
+        },
+        {
+            "from": "Knights",
+            "to": "Lord",
+            "timestamp": "2025-03-04T19:28:07.350591",
+            "duration": 64
+        },
+        {
+            "from": "Knights",
+            "to": "CLEON",
+            "timestamp": "2025-03-05T01:04:07.350594",
+            "duration": 119
+        },
+        {
+            "from": "Knights",
+            "to": "CLEON",
+            "timestamp": "2025-03-08T17:51:07.350596",
+            "duration": 190
+        },
+        {
+            "from": "Knights",
+            "to": "CLEON",
+            "timestamp": "2025-03-05T11:39:07.350598",
+            "duration": 106
+        },
+        {
+            "from": "Knights",
+            "to": "Third Lord",
+            "timestamp": "2025-03-05T04:19:07.350600",
+            "duration": 217
+        },
+        {
+            "from": "Knights",
+            "to": "Third Lord",
+            "timestamp": "2025-03-10T02:53:07.350602",
+            "duration": 251
+        },
+        {
+            "from": "Knights",
+            "to": "Third Lord",
+            "timestamp": "2025-03-02T14:41:07.350605",
+            "duration": 190
+        },
+        {
+            "from": "Knights",
+            "to": "LEONINE",
+            "timestamp": "2025-03-09T11:52:07.350607",
+            "duration": 167
+        },
+        {
+            "from": "Knights",
+            "to": "LEONINE",
+            "timestamp": "2025-03-02T20:21:07.350609",
+            "duration": 119
+        },
+        {
+            "from": "Knights",
+            "to": "ESCANES",
+            "timestamp": "2025-03-09T02:21:07.350612",
+            "duration": 153
+        },
+        {
+            "from": "Knights",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-10T11:10:07.350614",
+            "duration": 152
+        },
+        {
+            "from": "Knights",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-03T10:22:07.350616",
+            "duration": 83
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "DIANA",
+            "timestamp": "2025-03-02T16:57:07.350619",
+            "duration": 203
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "DIANA",
+            "timestamp": "2025-03-05T19:37:07.350621",
+            "duration": 293
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "DIANA",
+            "timestamp": "2025-03-07T16:44:07.350623",
+            "duration": 61
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "BOULT",
+            "timestamp": "2025-03-03T15:44:07.350625",
+            "duration": 188
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "BOULT",
+            "timestamp": "2025-03-08T05:21:07.350627",
+            "duration": 96
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-10T07:15:07.350630",
+            "duration": 155
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-05T05:11:07.350632",
+            "duration": 248
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-03T06:55:07.350634",
+            "duration": 132
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-09T13:46:07.350636",
+            "duration": 213
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-06T10:55:07.350638",
+            "duration": 287
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Servant",
+            "timestamp": "2025-03-04T04:08:07.350641",
+            "duration": 67
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Servant",
+            "timestamp": "2025-03-05T02:33:07.350643",
+            "duration": 133
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Servant",
+            "timestamp": "2025-03-08T03:50:07.350645",
+            "duration": 101
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-06T15:54:07.350647",
+            "duration": 128
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Pandar",
+            "timestamp": "2025-03-08T07:07:07.350650",
+            "duration": 88
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Pandar",
+            "timestamp": "2025-03-04T22:24:07.350652",
+            "duration": 213
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Pandar",
+            "timestamp": "2025-03-04T19:22:07.350654",
+            "duration": 73
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "THAISA",
+            "timestamp": "2025-03-10T03:03:07.350656",
+            "duration": 291
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "THAISA",
+            "timestamp": "2025-03-09T15:45:07.350658",
+            "duration": 241
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T18:58:07.350661",
+            "duration": 78
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Lord",
+            "timestamp": "2025-03-08T14:35:07.350663",
+            "duration": 255
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "CLEON",
+            "timestamp": "2025-03-03T02:12:07.350666",
+            "duration": 176
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "CLEON",
+            "timestamp": "2025-03-06T23:58:07.350668",
+            "duration": 189
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "CLEON",
+            "timestamp": "2025-03-04T19:53:07.350670",
+            "duration": 95
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Third Lord",
+            "timestamp": "2025-03-07T05:00:07.350672",
+            "duration": 238
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Third Lord",
+            "timestamp": "2025-03-10T11:30:07.350674",
+            "duration": 72
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "LEONINE",
+            "timestamp": "2025-03-09T02:43:07.350677",
+            "duration": 199
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "ESCANES",
+            "timestamp": "2025-03-07T04:38:07.350679",
+            "duration": 247
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "ESCANES",
+            "timestamp": "2025-03-07T08:48:07.350681",
+            "duration": 100
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "ESCANES",
+            "timestamp": "2025-03-07T08:48:07.350683",
+            "duration": 213
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-09T11:03:07.350686",
+            "duration": 182
+        },
+        {
+            "from": "KNIGHTS",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-06T07:32:07.350688",
+            "duration": 102
+        },
+        {
+            "from": "DIANA",
+            "to": "BOULT",
+            "timestamp": "2025-03-03T11:52:07.350690",
+            "duration": 68
+        },
+        {
+            "from": "DIANA",
+            "to": "BOULT",
+            "timestamp": "2025-03-10T07:54:07.350692",
+            "duration": 122
+        },
+        {
+            "from": "DIANA",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-07T00:35:07.350695",
+            "duration": 166
+        },
+        {
+            "from": "DIANA",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-10T14:21:07.350697",
+            "duration": 210
+        },
+        {
+            "from": "DIANA",
+            "to": "Servant",
+            "timestamp": "2025-03-06T10:06:07.350700",
+            "duration": 277
+        },
+        {
+            "from": "DIANA",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-10T10:49:07.350702",
+            "duration": 167
+        },
+        {
+            "from": "DIANA",
+            "to": "Pandar",
+            "timestamp": "2025-03-08T16:21:07.350704",
+            "duration": 252
+        },
+        {
+            "from": "DIANA",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T06:11:07.350707",
+            "duration": 217
+        },
+        {
+            "from": "DIANA",
+            "to": "THAISA",
+            "timestamp": "2025-03-02T19:31:07.350709",
+            "duration": 275
+        },
+        {
+            "from": "DIANA",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T05:52:07.350711",
+            "duration": 97
+        },
+        {
+            "from": "DIANA",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T21:58:07.350713",
+            "duration": 272
+        },
+        {
+            "from": "DIANA",
+            "to": "Lord",
+            "timestamp": "2025-03-09T09:40:07.350716",
+            "duration": 172
+        },
+        {
+            "from": "DIANA",
+            "to": "Lord",
+            "timestamp": "2025-03-04T19:11:07.350718",
+            "duration": 265
+        },
+        {
+            "from": "DIANA",
+            "to": "CLEON",
+            "timestamp": "2025-03-02T15:47:07.350720",
+            "duration": 64
+        },
+        {
+            "from": "DIANA",
+            "to": "CLEON",
+            "timestamp": "2025-03-05T13:09:07.350722",
+            "duration": 126
+        },
+        {
+            "from": "DIANA",
+            "to": "Third Lord",
+            "timestamp": "2025-03-03T16:53:07.350724",
+            "duration": 130
+        },
+        {
+            "from": "DIANA",
+            "to": "Third Lord",
+            "timestamp": "2025-03-07T14:59:07.350727",
+            "duration": 74
+        },
+        {
+            "from": "DIANA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-04T13:55:07.350730",
+            "duration": 82
+        },
+        {
+            "from": "DIANA",
+            "to": "ESCANES",
+            "timestamp": "2025-03-09T03:10:07.350732",
+            "duration": 266
+        },
+        {
+            "from": "DIANA",
+            "to": "ESCANES",
+            "timestamp": "2025-03-08T08:38:07.350734",
+            "duration": 109
+        },
+        {
+            "from": "DIANA",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-03T13:08:07.350737",
+            "duration": 229
+        },
+        {
+            "from": "DIANA",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-02T23:34:07.350739",
+            "duration": 65
+        },
+        {
+            "from": "DIANA",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-08T06:33:07.350741",
+            "duration": 286
+        },
+        {
+            "from": "BOULT",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-02T15:00:07.350743",
+            "duration": 128
+        },
+        {
+            "from": "BOULT",
+            "to": "LYSIMACHUS",
+            "timestamp": "2025-03-04T15:18:07.350745",
+            "duration": 131
+        },
+        {
+            "from": "BOULT",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-07T19:48:07.350748",
+            "duration": 140
+        },
+        {
+            "from": "BOULT",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-04T18:36:07.350750",
+            "duration": 138
+        },
+        {
+            "from": "BOULT",
+            "to": "Servant",
+            "timestamp": "2025-03-08T12:16:07.350752",
+            "duration": 186
+        },
+        {
+            "from": "BOULT",
+            "to": "Servant",
+            "timestamp": "2025-03-03T23:33:07.350754",
+            "duration": 285
+        },
+        {
+            "from": "BOULT",
+            "to": "Servant",
+            "timestamp": "2025-03-06T07:32:07.350756",
+            "duration": 191
+        },
+        {
+            "from": "BOULT",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-09T00:48:07.350759",
+            "duration": 215
+        },
+        {
+            "from": "BOULT",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-05T22:43:07.350761",
+            "duration": 297
+        },
+        {
+            "from": "BOULT",
+            "to": "Pandar",
+            "timestamp": "2025-03-09T13:24:07.350766",
+            "duration": 191
+        },
+        {
+            "from": "BOULT",
+            "to": "Pandar",
+            "timestamp": "2025-03-04T12:26:07.350769",
+            "duration": 295
+        },
+        {
+            "from": "BOULT",
+            "to": "THAISA",
+            "timestamp": "2025-03-07T00:44:07.350771",
+            "duration": 72
+        },
+        {
+            "from": "BOULT",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T05:52:07.350773",
+            "duration": 79
+        },
+        {
+            "from": "BOULT",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T06:01:07.350776",
+            "duration": 277
+        },
+        {
+            "from": "BOULT",
+            "to": "Lord",
+            "timestamp": "2025-03-08T11:08:07.350778",
+            "duration": 224
+        },
+        {
+            "from": "BOULT",
+            "to": "Lord",
+            "timestamp": "2025-03-03T03:02:07.350780",
+            "duration": 99
+        },
+        {
+            "from": "BOULT",
+            "to": "CLEON",
+            "timestamp": "2025-03-08T12:52:07.350783",
+            "duration": 190
+        },
+        {
+            "from": "BOULT",
+            "to": "CLEON",
+            "timestamp": "2025-03-08T16:07:07.350785",
+            "duration": 63
+        },
+        {
+            "from": "BOULT",
+            "to": "Third Lord",
+            "timestamp": "2025-03-03T03:57:07.350787",
+            "duration": 163
+        },
+        {
+            "from": "BOULT",
+            "to": "LEONINE",
+            "timestamp": "2025-03-03T09:18:07.350790",
+            "duration": 183
+        },
+        {
+            "from": "BOULT",
+            "to": "LEONINE",
+            "timestamp": "2025-03-02T18:36:07.350792",
+            "duration": 118
+        },
+        {
+            "from": "BOULT",
+            "to": "ESCANES",
+            "timestamp": "2025-03-02T23:46:07.350794",
+            "duration": 178
+        },
+        {
+            "from": "BOULT",
+            "to": "ESCANES",
+            "timestamp": "2025-03-03T07:45:07.350796",
+            "duration": 138
+        },
+        {
+            "from": "BOULT",
+            "to": "ESCANES",
+            "timestamp": "2025-03-04T12:27:07.350798",
+            "duration": 224
+        },
+        {
+            "from": "BOULT",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-04T15:11:07.350801",
+            "duration": 102
+        },
+        {
+            "from": "BOULT",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-02T19:22:07.350803",
+            "duration": 110
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-08T23:22:07.350805",
+            "duration": 178
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-05T17:40:07.350807",
+            "duration": 228
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "ANTIOCHUS",
+            "timestamp": "2025-03-05T17:32:07.350809",
+            "duration": 295
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Servant",
+            "timestamp": "2025-03-09T17:48:07.350812",
+            "duration": 166
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Servant",
+            "timestamp": "2025-03-07T09:26:07.350814",
+            "duration": 148
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Servant",
+            "timestamp": "2025-03-07T12:09:07.350816",
+            "duration": 152
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-06T04:27:07.350818",
+            "duration": 123
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Pandar",
+            "timestamp": "2025-03-03T01:04:07.350821",
+            "duration": 138
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Pandar",
+            "timestamp": "2025-03-05T12:31:07.350823",
+            "duration": 295
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "THAISA",
+            "timestamp": "2025-03-07T14:16:07.350825",
+            "duration": 189
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "THAISA",
+            "timestamp": "2025-03-06T09:15:07.350828",
+            "duration": 70
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T22:37:07.350830",
+            "duration": 225
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Lord",
+            "timestamp": "2025-03-03T07:59:07.350833",
+            "duration": 215
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Lord",
+            "timestamp": "2025-03-08T17:20:07.350835",
+            "duration": 79
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Lord",
+            "timestamp": "2025-03-06T23:24:07.350837",
+            "duration": 118
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "CLEON",
+            "timestamp": "2025-03-06T02:13:07.350839",
+            "duration": 133
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Third Lord",
+            "timestamp": "2025-03-04T04:51:07.350842",
+            "duration": 70
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Third Lord",
+            "timestamp": "2025-03-06T16:43:07.350844",
+            "duration": 247
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "LEONINE",
+            "timestamp": "2025-03-08T22:27:07.350846",
+            "duration": 258
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "LEONINE",
+            "timestamp": "2025-03-03T18:50:07.350848",
+            "duration": 279
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "LEONINE",
+            "timestamp": "2025-03-06T18:33:07.350850",
+            "duration": 90
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "ESCANES",
+            "timestamp": "2025-03-07T16:31:07.350853",
+            "duration": 64
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-03T21:03:07.350855",
+            "duration": 69
+        },
+        {
+            "from": "LYSIMACHUS",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T00:23:07.350857",
+            "duration": 257
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Servant",
+            "timestamp": "2025-03-08T08:30:07.350860",
+            "duration": 245
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Servant",
+            "timestamp": "2025-03-02T21:13:07.350862",
+            "duration": 108
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Servant",
+            "timestamp": "2025-03-07T12:24:07.350864",
+            "duration": 152
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-07T00:03:07.350866",
+            "duration": 115
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-07T22:49:07.350868",
+            "duration": 220
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Pandar",
+            "timestamp": "2025-03-08T16:51:07.350871",
+            "duration": 231
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Pandar",
+            "timestamp": "2025-03-04T17:08:07.350873",
+            "duration": 78
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "THAISA",
+            "timestamp": "2025-03-05T07:42:07.350875",
+            "duration": 191
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "THAISA",
+            "timestamp": "2025-03-09T10:23:07.350877",
+            "duration": 257
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "THAISA",
+            "timestamp": "2025-03-10T00:29:07.350879",
+            "duration": 250
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T02:34:07.350882",
+            "duration": 270
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T20:53:07.350884",
+            "duration": 81
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Lord",
+            "timestamp": "2025-03-06T06:38:07.350886",
+            "duration": 254
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Lord",
+            "timestamp": "2025-03-08T23:49:07.350888",
+            "duration": 296
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "CLEON",
+            "timestamp": "2025-03-06T03:04:07.350891",
+            "duration": 276
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "CLEON",
+            "timestamp": "2025-03-04T12:57:07.350893",
+            "duration": 120
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "CLEON",
+            "timestamp": "2025-03-07T03:54:07.350895",
+            "duration": 208
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Third Lord",
+            "timestamp": "2025-03-08T09:10:07.350897",
+            "duration": 263
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Third Lord",
+            "timestamp": "2025-03-07T22:40:07.350899",
+            "duration": 101
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Third Lord",
+            "timestamp": "2025-03-08T08:58:07.350901",
+            "duration": 134
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "LEONINE",
+            "timestamp": "2025-03-06T14:38:07.350904",
+            "duration": 205
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "LEONINE",
+            "timestamp": "2025-03-05T19:44:07.350906",
+            "duration": 219
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "LEONINE",
+            "timestamp": "2025-03-08T21:33:07.350908",
+            "duration": 63
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "ESCANES",
+            "timestamp": "2025-03-04T00:42:07.350911",
+            "duration": 271
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-06T04:53:07.350913",
+            "duration": 195
+        },
+        {
+            "from": "ANTIOCHUS",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-06T00:00:07.350915",
+            "duration": 244
+        },
+        {
+            "from": "Servant",
+            "to": "Tyrian Sailor",
+            "timestamp": "2025-03-09T10:50:07.350918",
+            "duration": 193
+        },
+        {
+            "from": "Servant",
+            "to": "Pandar",
+            "timestamp": "2025-03-09T02:45:07.350920",
+            "duration": 115
+        },
+        {
+            "from": "Servant",
+            "to": "Pandar",
+            "timestamp": "2025-03-05T09:49:07.350922",
+            "duration": 75
+        },
+        {
+            "from": "Servant",
+            "to": "Pandar",
+            "timestamp": "2025-03-05T12:21:07.350924",
+            "duration": 248
+        },
+        {
+            "from": "Servant",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T02:29:07.350927",
+            "duration": 178
+        },
+        {
+            "from": "Servant",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T00:29:07.350929",
+            "duration": 83
+        },
+        {
+            "from": "Servant",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T19:11:07.350931",
+            "duration": 255
+        },
+        {
+            "from": "Servant",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T23:18:07.350933",
+            "duration": 242
+        },
+        {
+            "from": "Servant",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T07:22:07.350935",
+            "duration": 72
+        },
+        {
+            "from": "Servant",
+            "to": "Lord",
+            "timestamp": "2025-03-05T10:43:07.350938",
+            "duration": 216
+        },
+        {
+            "from": "Servant",
+            "to": "Lord",
+            "timestamp": "2025-03-05T07:46:07.350940",
+            "duration": 261
+        },
+        {
+            "from": "Servant",
+            "to": "CLEON",
+            "timestamp": "2025-03-03T12:02:07.350942",
+            "duration": 205
+        },
+        {
+            "from": "Servant",
+            "to": "CLEON",
+            "timestamp": "2025-03-07T01:32:07.350944",
+            "duration": 227
+        },
+        {
+            "from": "Servant",
+            "to": "Third Lord",
+            "timestamp": "2025-03-03T18:39:07.350947",
+            "duration": 262
+        },
+        {
+            "from": "Servant",
+            "to": "Third Lord",
+            "timestamp": "2025-03-05T11:58:07.350949",
+            "duration": 96
+        },
+        {
+            "from": "Servant",
+            "to": "Third Lord",
+            "timestamp": "2025-03-05T09:18:07.350951",
+            "duration": 75
+        },
+        {
+            "from": "Servant",
+            "to": "LEONINE",
+            "timestamp": "2025-03-04T03:03:07.350953",
+            "duration": 247
+        },
+        {
+            "from": "Servant",
+            "to": "ESCANES",
+            "timestamp": "2025-03-04T12:50:07.350956",
+            "duration": 150
+        },
+        {
+            "from": "Servant",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-08T16:58:07.350958",
+            "duration": 163
+        },
+        {
+            "from": "Servant",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-06T15:28:07.350960",
+            "duration": 216
+        },
+        {
+            "from": "Servant",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T16:03:07.350962",
+            "duration": 256
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Pandar",
+            "timestamp": "2025-03-06T12:59:07.350965",
+            "duration": 211
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Pandar",
+            "timestamp": "2025-03-08T00:45:07.350967",
+            "duration": 61
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "THAISA",
+            "timestamp": "2025-03-08T17:23:07.350969",
+            "duration": 94
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T12:04:07.350972",
+            "duration": 198
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T23:56:07.350974",
+            "duration": 277
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Lord",
+            "timestamp": "2025-03-08T22:37:07.350976",
+            "duration": 235
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Lord",
+            "timestamp": "2025-03-05T16:45:07.350979",
+            "duration": 98
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "CLEON",
+            "timestamp": "2025-03-03T03:02:07.350981",
+            "duration": 286
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "CLEON",
+            "timestamp": "2025-03-03T19:10:07.350983",
+            "duration": 296
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Third Lord",
+            "timestamp": "2025-03-03T21:26:07.350987",
+            "duration": 136
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Third Lord",
+            "timestamp": "2025-03-08T22:00:07.350989",
+            "duration": 181
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Third Lord",
+            "timestamp": "2025-03-08T19:55:07.350991",
+            "duration": 291
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "LEONINE",
+            "timestamp": "2025-03-10T07:17:07.350993",
+            "duration": 147
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "LEONINE",
+            "timestamp": "2025-03-07T00:22:07.350995",
+            "duration": 67
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "ESCANES",
+            "timestamp": "2025-03-08T04:27:07.350998",
+            "duration": 141
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "ESCANES",
+            "timestamp": "2025-03-05T00:48:07.351000",
+            "duration": 66
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "ESCANES",
+            "timestamp": "2025-03-04T19:52:07.351002",
+            "duration": 207
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-09T01:40:07.351004",
+            "duration": 89
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-03T03:06:07.351007",
+            "duration": 76
+        },
+        {
+            "from": "Tyrian Sailor",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-04T12:07:07.351009",
+            "duration": 180
+        },
+        {
+            "from": "Pandar",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T01:47:07.351011",
+            "duration": 98
+        },
+        {
+            "from": "Pandar",
+            "to": "THAISA",
+            "timestamp": "2025-03-04T03:38:07.351013",
+            "duration": 133
+        },
+        {
+            "from": "Pandar",
+            "to": "THAISA",
+            "timestamp": "2025-03-03T13:50:07.351016",
+            "duration": 249
+        },
+        {
+            "from": "Pandar",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T09:42:07.351018",
+            "duration": 208
+        },
+        {
+            "from": "Pandar",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T03:23:07.351020",
+            "duration": 87
+        },
+        {
+            "from": "Pandar",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T00:18:07.351022",
+            "duration": 225
+        },
+        {
+            "from": "Pandar",
+            "to": "Lord",
+            "timestamp": "2025-03-07T18:02:07.351024",
+            "duration": 71
+        },
+        {
+            "from": "Pandar",
+            "to": "Lord",
+            "timestamp": "2025-03-04T02:03:07.351027",
+            "duration": 169
+        },
+        {
+            "from": "Pandar",
+            "to": "Lord",
+            "timestamp": "2025-03-03T10:24:07.351029",
+            "duration": 252
+        },
+        {
+            "from": "Pandar",
+            "to": "CLEON",
+            "timestamp": "2025-03-10T13:12:07.351031",
+            "duration": 95
+        },
+        {
+            "from": "Pandar",
+            "to": "CLEON",
+            "timestamp": "2025-03-06T01:30:07.351033",
+            "duration": 110
+        },
+        {
+            "from": "Pandar",
+            "to": "CLEON",
+            "timestamp": "2025-03-08T17:31:07.351035",
+            "duration": 80
+        },
+        {
+            "from": "Pandar",
+            "to": "Third Lord",
+            "timestamp": "2025-03-05T19:29:07.351037",
+            "duration": 115
+        },
+        {
+            "from": "Pandar",
+            "to": "LEONINE",
+            "timestamp": "2025-03-07T23:13:07.351040",
+            "duration": 160
+        },
+        {
+            "from": "Pandar",
+            "to": "LEONINE",
+            "timestamp": "2025-03-10T14:08:07.351042",
+            "duration": 134
+        },
+        {
+            "from": "Pandar",
+            "to": "ESCANES",
+            "timestamp": "2025-03-03T19:20:07.351044",
+            "duration": 247
+        },
+        {
+            "from": "Pandar",
+            "to": "ESCANES",
+            "timestamp": "2025-03-05T19:21:07.351046",
+            "duration": 230
+        },
+        {
+            "from": "Pandar",
+            "to": "ESCANES",
+            "timestamp": "2025-03-10T02:35:07.351049",
+            "duration": 146
+        },
+        {
+            "from": "Pandar",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T10:52:07.351051",
+            "duration": 132
+        },
+        {
+            "from": "THAISA",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T04:21:07.351053",
+            "duration": 287
+        },
+        {
+            "from": "THAISA",
+            "to": "Lord",
+            "timestamp": "2025-03-08T01:54:07.351056",
+            "duration": 171
+        },
+        {
+            "from": "THAISA",
+            "to": "Lord",
+            "timestamp": "2025-03-06T06:29:07.351058",
+            "duration": 72
+        },
+        {
+            "from": "THAISA",
+            "to": "CLEON",
+            "timestamp": "2025-03-06T12:37:07.351061",
+            "duration": 202
+        },
+        {
+            "from": "THAISA",
+            "to": "CLEON",
+            "timestamp": "2025-03-05T10:36:07.351063",
+            "duration": 220
+        },
+        {
+            "from": "THAISA",
+            "to": "CLEON",
+            "timestamp": "2025-03-08T10:10:07.351065",
+            "duration": 129
+        },
+        {
+            "from": "THAISA",
+            "to": "Third Lord",
+            "timestamp": "2025-03-03T03:34:07.351067",
+            "duration": 162
+        },
+        {
+            "from": "THAISA",
+            "to": "Third Lord",
+            "timestamp": "2025-03-09T20:54:07.351069",
+            "duration": 104
+        },
+        {
+            "from": "THAISA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-09T08:56:07.351072",
+            "duration": 148
+        },
+        {
+            "from": "THAISA",
+            "to": "LEONINE",
+            "timestamp": "2025-03-08T03:45:07.351074",
+            "duration": 132
+        },
+        {
+            "from": "THAISA",
+            "to": "ESCANES",
+            "timestamp": "2025-03-09T00:42:07.351076",
+            "duration": 231
+        },
+        {
+            "from": "THAISA",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-05T14:47:07.351078",
+            "duration": 181
+        },
+        {
+            "from": "Messenger",
+            "to": "Lord",
+            "timestamp": "2025-03-03T15:46:07.351081",
+            "duration": 278
+        },
+        {
+            "from": "Messenger",
+            "to": "CLEON",
+            "timestamp": "2025-03-08T22:34:07.351083",
+            "duration": 61
+        },
+        {
+            "from": "Messenger",
+            "to": "Third Lord",
+            "timestamp": "2025-03-03T06:37:07.351085",
+            "duration": 296
+        },
+        {
+            "from": "Messenger",
+            "to": "LEONINE",
+            "timestamp": "2025-03-04T02:43:07.351088",
+            "duration": 234
+        },
+        {
+            "from": "Messenger",
+            "to": "LEONINE",
+            "timestamp": "2025-03-10T02:35:07.351090",
+            "duration": 174
+        },
+        {
+            "from": "Messenger",
+            "to": "ESCANES",
+            "timestamp": "2025-03-05T05:14:07.351095",
+            "duration": 129
+        },
+        {
+            "from": "Messenger",
+            "to": "ESCANES",
+            "timestamp": "2025-03-09T13:57:07.351098",
+            "duration": 259
+        },
+        {
+            "from": "Messenger",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-06T15:38:07.351100",
+            "duration": 256
+        },
+        {
+            "from": "Messenger",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-10T00:10:07.351102",
+            "duration": 299
+        },
+        {
+            "from": "Messenger",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-05T09:08:07.351104",
+            "duration": 265
+        },
+        {
+            "from": "Lord",
+            "to": "CLEON",
+            "timestamp": "2025-03-07T00:29:07.351107",
+            "duration": 228
+        },
+        {
+            "from": "Lord",
+            "to": "CLEON",
+            "timestamp": "2025-03-05T14:31:07.351109",
+            "duration": 143
+        },
+        {
+            "from": "Lord",
+            "to": "Third Lord",
+            "timestamp": "2025-03-04T04:44:07.351111",
+            "duration": 104
+        },
+        {
+            "from": "Lord",
+            "to": "Third Lord",
+            "timestamp": "2025-03-02T22:25:07.351113",
+            "duration": 95
+        },
+        {
+            "from": "Lord",
+            "to": "Third Lord",
+            "timestamp": "2025-03-07T05:18:07.351115",
+            "duration": 132
+        },
+        {
+            "from": "Lord",
+            "to": "LEONINE",
+            "timestamp": "2025-03-08T04:41:07.351118",
+            "duration": 139
+        },
+        {
+            "from": "Lord",
+            "to": "ESCANES",
+            "timestamp": "2025-03-08T16:18:07.351120",
+            "duration": 128
+        },
+        {
+            "from": "Lord",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T00:06:07.351123",
+            "duration": 83
+        },
+        {
+            "from": "Lord",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T02:50:07.351125",
+            "duration": 95
+        },
+        {
+            "from": "CLEON",
+            "to": "Third Lord",
+            "timestamp": "2025-03-04T01:03:07.351127",
+            "duration": 251
+        },
+        {
+            "from": "CLEON",
+            "to": "Third Lord",
+            "timestamp": "2025-03-07T06:50:07.351129",
+            "duration": 166
+        },
+        {
+            "from": "CLEON",
+            "to": "LEONINE",
+            "timestamp": "2025-03-09T13:30:07.351132",
+            "duration": 195
+        },
+        {
+            "from": "CLEON",
+            "to": "LEONINE",
+            "timestamp": "2025-03-03T07:05:07.351134",
+            "duration": 75
+        },
+        {
+            "from": "CLEON",
+            "to": "ESCANES",
+            "timestamp": "2025-03-03T18:35:07.351136",
+            "duration": 78
+        },
+        {
+            "from": "CLEON",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T23:48:07.351138",
+            "duration": 235
+        },
+        {
+            "from": "Third Lord",
+            "to": "LEONINE",
+            "timestamp": "2025-03-04T23:55:07.351141",
+            "duration": 161
+        },
+        {
+            "from": "Third Lord",
+            "to": "LEONINE",
+            "timestamp": "2025-03-05T19:56:07.351143",
+            "duration": 131
+        },
+        {
+            "from": "Third Lord",
+            "to": "ESCANES",
+            "timestamp": "2025-03-04T11:29:07.351145",
+            "duration": 235
+        },
+        {
+            "from": "Third Lord",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-09T23:18:07.351147",
+            "duration": 115
+        },
+        {
+            "from": "Third Lord",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-07T05:32:07.351149",
+            "duration": 265
+        },
+        {
+            "from": "Third Lord",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-06T22:54:07.351152",
+            "duration": 285
+        },
+        {
+            "from": "LEONINE",
+            "to": "ESCANES",
+            "timestamp": "2025-03-05T00:53:07.351154",
+            "duration": 106
+        },
+        {
+            "from": "LEONINE",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-06T03:50:07.351156",
+            "duration": 72
+        },
+        {
+            "from": "ESCANES",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-06T11:36:07.351159",
+            "duration": 149
+        },
+        {
+            "from": "ESCANES",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-05T19:06:07.351161",
+            "duration": 276
+        },
+        {
+            "from": "ESCANES",
+            "to": "Third Pirate",
+            "timestamp": "2025-03-09T07:01:07.351163",
+            "duration": 291
+        }
+    ],
+    "contact_data": {
+        "HELICANUS": {
+            "phone": "323-479-5578",
+            "email": "helicanus@marketdyn.com",
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "THALIARD": {
+            "phone": "323-829-5334",
+            "email": "thaliard@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "DIONYZA": {
+            "phone": "323-976-5947",
+            "email": "dionyza@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "MARINA": {
+            "phone": "213-837-7902",
+            "email": "marina@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "GOWER": {
+            "phone": "323-759-6939",
+            "email": "gower@commercetrade.com",
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Third Fisherman": {
+            "phone": "323-893-1646",
+            "email": "third.fisherman@marketdyn.com",
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "Daughter": {
+            "phone": "323-335-1276",
+            "email": "daughter@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "Marshal": {
+            "phone": "213-782-4234",
+            "email": "marshal@globaltradepart.com",
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "SIMONIDES": {
+            "phone": "323-413-6005",
+            "email": "simonides@commercetrade.com",
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Bawd": {
+            "phone": "323-364-1548",
+            "email": "bawd@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Third Knight": {
+            "phone": "213-676-3161",
+            "email": "third.knight@marketdyn.com",
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "PERICLES": {
+            "phone": "323-867-9601",
+            "email": "pericles@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "CERIMON": {
+            "phone": "323-832-4031",
+            "email": "cerimon@tradewinds.com",
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "BOTH": {
+            "phone": "323-888-1176",
+            "email": "both@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "LYCHORIDA": {
+            "phone": "213-805-6694",
+            "email": "lychorida@globaltradepart.com",
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "PHILEMON": {
+            "phone": "213-989-8625",
+            "email": "philemon@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Knights": {
+            "phone": "310-955-1073",
+            "email": "knights@commercelink.com",
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "KNIGHTS": {
+            "phone": "323-905-8294",
+            "email": "knights@merchantsexchange.com",
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "DIANA": {
+            "phone": "323-356-2591",
+            "email": "diana@tradewinds.com",
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "BOULT": {
+            "phone": "310-613-6877",
+            "email": "boult@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "LYSIMACHUS": {
+            "phone": "323-523-6609",
+            "email": "lysimachus@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "ANTIOCHUS": {
+            "phone": "310-266-6961",
+            "email": "antiochus@commercelink.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "Servant": {
+            "phone": "310-751-1359",
+            "email": "servant@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Tyrian Sailor": {
+            "phone": "213-439-2008",
+            "email": "tyrian.sailor@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Pandar": {
+            "phone": "213-841-9850",
+            "email": "pandar@marketdyn.com",
+            "title": "Trading Operations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "THAISA": {
+            "phone": "323-424-7247",
+            "email": "thaisa@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Messenger": {
+            "phone": "310-772-7078",
+            "email": "messenger@globalrelations.org",
+            "title": "Diplomatic Affairs Manager",
+            "company": "Global Relations Institute",
+            "industry": "Diplomatic"
+        },
+        "Lord": {
+            "phone": "323-837-1972",
+            "email": "lord@pinnacleinv.com",
+            "title": "Executive Director",
+            "company": "Pinnacle Investment Group",
+            "industry": "Noble"
+        },
+        "CLEON": {
+            "phone": "310-528-6133",
+            "email": "cleon@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Third Lord": {
+            "phone": "213-264-8061",
+            "email": "third.lord@noblesterling.com",
+            "title": "Portfolio Director",
+            "company": "Noble & Sterling Partners",
+            "industry": "Noble"
+        },
+        "LEONINE": {
+            "phone": "323-955-9343",
+            "email": "leonine@marketdyn.com",
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "ESCANES": {
+            "phone": "213-739-7880",
+            "email": "escanes@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Third Pirate": {
+            "phone": "310-419-2217",
+            "email": "third.pirate@marketdyn.com",
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        }
+    }
+}

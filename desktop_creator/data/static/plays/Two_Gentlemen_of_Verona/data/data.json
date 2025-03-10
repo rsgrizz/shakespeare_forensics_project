@@ -1,0 +1,1547 @@
+{
+    "characters": {
+        "DUKE": {
+            "title": "Managing Director",
+            "company": "Imperial Ventures",
+            "industry": "Royal",
+            "location": "Los Angeles",
+            "phone": "310-922-4701",
+            "email": "duke@imperialventures.com"
+        },
+        "Outlaws": {
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-850-8806",
+            "email": "outlaws@commercetrade.com"
+        },
+        "SILVIA": {
+            "title": "Market Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-605-6152",
+            "email": "silvia@marketdyn.com"
+        },
+        "LAUNCE": {
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-213-8575",
+            "email": "launce@merchantsexchange.com"
+        },
+        "Host": {
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-658-1912",
+            "email": "host@marketdyn.com"
+        },
+        "EGLAMOUR": {
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-660-9266",
+            "email": "eglamour@marketdyn.com"
+        },
+        "Third Outlaw": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-332-6259",
+            "email": "third.outlaw@commercelink.com"
+        },
+        "VALENTINE": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-341-1252",
+            "email": "valentine@commercetrade.com"
+        },
+        "JULIA": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-833-7823",
+            "email": "julia@commercelink.com"
+        },
+        "LUCETTA": {
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-936-8822",
+            "email": "lucetta@tradewinds.com"
+        },
+        "SPEED": {
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-882-4467",
+            "email": "speed@commercetrade.com"
+        },
+        "ANTONIO": {
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-426-1845",
+            "email": "antonio@commercetrade.com"
+        },
+        "PROTEUS": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-687-9613",
+            "email": "proteus@merchantsexchange.com"
+        },
+        "THURIO": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-615-7658",
+            "email": "thurio@commercelink.com"
+        },
+        "PANTHINO": {
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-782-5467",
+            "email": "panthino@globaltradepart.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "DUKE",
+            "to": "Outlaws",
+            "timestamp": "2025-03-10T09:22:09.526676",
+            "duration": 131
+        },
+        {
+            "from": "DUKE",
+            "to": "SILVIA",
+            "timestamp": "2025-03-06T13:38:09.526687",
+            "duration": 179
+        },
+        {
+            "from": "DUKE",
+            "to": "SILVIA",
+            "timestamp": "2025-03-09T12:02:09.526690",
+            "duration": 165
+        },
+        {
+            "from": "DUKE",
+            "to": "SILVIA",
+            "timestamp": "2025-03-10T09:07:09.526693",
+            "duration": 77
+        },
+        {
+            "from": "DUKE",
+            "to": "LAUNCE",
+            "timestamp": "2025-03-04T02:32:09.526718",
+            "duration": 281
+        },
+        {
+            "from": "DUKE",
+            "to": "LAUNCE",
+            "timestamp": "2025-03-07T17:00:09.526727",
+            "duration": 139
+        },
+        {
+            "from": "DUKE",
+            "to": "Host",
+            "timestamp": "2025-03-07T16:26:09.526731",
+            "duration": 276
+        },
+        {
+            "from": "DUKE",
+            "to": "Host",
+            "timestamp": "2025-03-06T11:31:09.526734",
+            "duration": 99
+        },
+        {
+            "from": "DUKE",
+            "to": "Host",
+            "timestamp": "2025-03-03T12:30:09.526736",
+            "duration": 287
+        },
+        {
+            "from": "DUKE",
+            "to": "EGLAMOUR",
+            "timestamp": "2025-03-03T10:21:09.526769",
+            "duration": 77
+        },
+        {
+            "from": "DUKE",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-03T18:46:09.526780",
+            "duration": 119
+        },
+        {
+            "from": "DUKE",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-02T20:20:09.526784",
+            "duration": 267
+        },
+        {
+            "from": "DUKE",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-08T18:18:09.526786",
+            "duration": 170
+        },
+        {
+            "from": "DUKE",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-06T02:35:09.526789",
+            "duration": 147
+        },
+        {
+            "from": "DUKE",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-02T19:22:09.526791",
+            "duration": 244
+        },
+        {
+            "from": "DUKE",
+            "to": "JULIA",
+            "timestamp": "2025-03-06T19:30:09.526793",
+            "duration": 153
+        },
+        {
+            "from": "DUKE",
+            "to": "JULIA",
+            "timestamp": "2025-03-05T22:22:09.526796",
+            "duration": 178
+        },
+        {
+            "from": "DUKE",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-08T22:17:09.526798",
+            "duration": 162
+        },
+        {
+            "from": "DUKE",
+            "to": "SPEED",
+            "timestamp": "2025-03-04T05:46:09.526805",
+            "duration": 175
+        },
+        {
+            "from": "DUKE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-06T20:45:09.526808",
+            "duration": 126
+        },
+        {
+            "from": "DUKE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-09T09:52:09.526810",
+            "duration": 252
+        },
+        {
+            "from": "DUKE",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-05T11:51:09.526812",
+            "duration": 287
+        },
+        {
+            "from": "DUKE",
+            "to": "THURIO",
+            "timestamp": "2025-03-04T22:06:09.526815",
+            "duration": 101
+        },
+        {
+            "from": "DUKE",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-05T09:02:09.526817",
+            "duration": 77
+        },
+        {
+            "from": "DUKE",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-08T04:35:09.526819",
+            "duration": 222
+        },
+        {
+            "from": "DUKE",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-02T20:12:09.526821",
+            "duration": 246
+        },
+        {
+            "from": "Outlaws",
+            "to": "SILVIA",
+            "timestamp": "2025-03-04T01:27:09.526824",
+            "duration": 156
+        },
+        {
+            "from": "Outlaws",
+            "to": "SILVIA",
+            "timestamp": "2025-03-03T22:03:09.526826",
+            "duration": 242
+        },
+        {
+            "from": "Outlaws",
+            "to": "LAUNCE",
+            "timestamp": "2025-03-03T17:13:09.526828",
+            "duration": 255
+        },
+        {
+            "from": "Outlaws",
+            "to": "Host",
+            "timestamp": "2025-03-06T03:12:09.526831",
+            "duration": 220
+        },
+        {
+            "from": "Outlaws",
+            "to": "Host",
+            "timestamp": "2025-03-05T01:46:09.526833",
+            "duration": 166
+        },
+        {
+            "from": "Outlaws",
+            "to": "EGLAMOUR",
+            "timestamp": "2025-03-03T14:29:09.526835",
+            "duration": 100
+        },
+        {
+            "from": "Outlaws",
+            "to": "EGLAMOUR",
+            "timestamp": "2025-03-05T23:55:09.526837",
+            "duration": 175
+        },
+        {
+            "from": "Outlaws",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-06T13:42:09.526840",
+            "duration": 112
+        },
+        {
+            "from": "Outlaws",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-03T16:41:09.526842",
+            "duration": 158
+        },
+        {
+            "from": "Outlaws",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-09T15:50:09.526844",
+            "duration": 107
+        },
+        {
+            "from": "Outlaws",
+            "to": "JULIA",
+            "timestamp": "2025-03-03T22:59:09.526847",
+            "duration": 127
+        },
+        {
+            "from": "Outlaws",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-03T22:14:09.526849",
+            "duration": 210
+        },
+        {
+            "from": "Outlaws",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-03T13:30:09.526851",
+            "duration": 236
+        },
+        {
+            "from": "Outlaws",
+            "to": "SPEED",
+            "timestamp": "2025-03-05T18:04:09.526853",
+            "duration": 208
+        },
+        {
+            "from": "Outlaws",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-06T06:34:09.526856",
+            "duration": 176
+        },
+        {
+            "from": "Outlaws",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-07T08:10:09.526858",
+            "duration": 235
+        },
+        {
+            "from": "Outlaws",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-06T09:56:09.526860",
+            "duration": 201
+        },
+        {
+            "from": "Outlaws",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-06T05:19:09.526871",
+            "duration": 175
+        },
+        {
+            "from": "Outlaws",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-10T12:24:09.526873",
+            "duration": 145
+        },
+        {
+            "from": "Outlaws",
+            "to": "THURIO",
+            "timestamp": "2025-03-02T21:37:09.526876",
+            "duration": 262
+        },
+        {
+            "from": "Outlaws",
+            "to": "THURIO",
+            "timestamp": "2025-03-08T13:17:09.526878",
+            "duration": 270
+        },
+        {
+            "from": "Outlaws",
+            "to": "THURIO",
+            "timestamp": "2025-03-08T10:09:09.526880",
+            "duration": 234
+        },
+        {
+            "from": "Outlaws",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-08T09:29:09.526882",
+            "duration": 64
+        },
+        {
+            "from": "Outlaws",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-08T05:45:09.526884",
+            "duration": 188
+        },
+        {
+            "from": "SILVIA",
+            "to": "LAUNCE",
+            "timestamp": "2025-03-05T21:01:09.526887",
+            "duration": 252
+        },
+        {
+            "from": "SILVIA",
+            "to": "LAUNCE",
+            "timestamp": "2025-03-08T03:19:09.526889",
+            "duration": 186
+        },
+        {
+            "from": "SILVIA",
+            "to": "Host",
+            "timestamp": "2025-03-04T19:33:09.526891",
+            "duration": 120
+        },
+        {
+            "from": "SILVIA",
+            "to": "Host",
+            "timestamp": "2025-03-06T16:28:09.526893",
+            "duration": 76
+        },
+        {
+            "from": "SILVIA",
+            "to": "Host",
+            "timestamp": "2025-03-04T08:39:09.526895",
+            "duration": 229
+        },
+        {
+            "from": "SILVIA",
+            "to": "EGLAMOUR",
+            "timestamp": "2025-03-10T11:40:09.526898",
+            "duration": 233
+        },
+        {
+            "from": "SILVIA",
+            "to": "EGLAMOUR",
+            "timestamp": "2025-03-05T00:52:09.526900",
+            "duration": 126
+        },
+        {
+            "from": "SILVIA",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-06T07:07:09.526902",
+            "duration": 97
+        },
+        {
+            "from": "SILVIA",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-05T23:23:09.526904",
+            "duration": 244
+        },
+        {
+            "from": "SILVIA",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-10T11:26:09.526906",
+            "duration": 298
+        },
+        {
+            "from": "SILVIA",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-02T15:03:09.526908",
+            "duration": 98
+        },
+        {
+            "from": "SILVIA",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-09T23:12:09.526910",
+            "duration": 144
+        },
+        {
+            "from": "SILVIA",
+            "to": "JULIA",
+            "timestamp": "2025-03-06T10:00:09.526913",
+            "duration": 164
+        },
+        {
+            "from": "SILVIA",
+            "to": "JULIA",
+            "timestamp": "2025-03-07T13:29:09.526915",
+            "duration": 299
+        },
+        {
+            "from": "SILVIA",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-10T12:49:09.526917",
+            "duration": 176
+        },
+        {
+            "from": "SILVIA",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-07T20:36:09.526920",
+            "duration": 211
+        },
+        {
+            "from": "SILVIA",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-08T05:02:09.526922",
+            "duration": 164
+        },
+        {
+            "from": "SILVIA",
+            "to": "SPEED",
+            "timestamp": "2025-03-07T16:18:09.526924",
+            "duration": 160
+        },
+        {
+            "from": "SILVIA",
+            "to": "SPEED",
+            "timestamp": "2025-03-10T04:01:09.526926",
+            "duration": 81
+        },
+        {
+            "from": "SILVIA",
+            "to": "SPEED",
+            "timestamp": "2025-03-02T16:41:09.526928",
+            "duration": 237
+        },
+        {
+            "from": "SILVIA",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-08T03:21:09.526930",
+            "duration": 112
+        },
+        {
+            "from": "SILVIA",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-10T04:10:09.526933",
+            "duration": 148
+        },
+        {
+            "from": "SILVIA",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-09T20:59:09.526935",
+            "duration": 86
+        },
+        {
+            "from": "SILVIA",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-09T15:18:09.526937",
+            "duration": 123
+        },
+        {
+            "from": "SILVIA",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-05T01:01:09.526939",
+            "duration": 258
+        },
+        {
+            "from": "SILVIA",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-07T19:13:09.526941",
+            "duration": 85
+        },
+        {
+            "from": "SILVIA",
+            "to": "THURIO",
+            "timestamp": "2025-03-02T15:59:09.526943",
+            "duration": 61
+        },
+        {
+            "from": "SILVIA",
+            "to": "THURIO",
+            "timestamp": "2025-03-06T14:19:09.526946",
+            "duration": 100
+        },
+        {
+            "from": "SILVIA",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-06T13:15:09.526948",
+            "duration": 220
+        },
+        {
+            "from": "SILVIA",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-08T10:51:09.526950",
+            "duration": 69
+        },
+        {
+            "from": "LAUNCE",
+            "to": "Host",
+            "timestamp": "2025-03-08T16:59:09.526953",
+            "duration": 261
+        },
+        {
+            "from": "LAUNCE",
+            "to": "EGLAMOUR",
+            "timestamp": "2025-03-07T20:58:09.526955",
+            "duration": 283
+        },
+        {
+            "from": "LAUNCE",
+            "to": "EGLAMOUR",
+            "timestamp": "2025-03-10T13:26:09.526957",
+            "duration": 275
+        },
+        {
+            "from": "LAUNCE",
+            "to": "EGLAMOUR",
+            "timestamp": "2025-03-05T02:45:09.526959",
+            "duration": 83
+        },
+        {
+            "from": "LAUNCE",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-02T22:40:09.526961",
+            "duration": 152
+        },
+        {
+            "from": "LAUNCE",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-05T12:57:09.526963",
+            "duration": 234
+        },
+        {
+            "from": "LAUNCE",
+            "to": "JULIA",
+            "timestamp": "2025-03-04T06:34:09.526966",
+            "duration": 283
+        },
+        {
+            "from": "LAUNCE",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-07T02:56:09.526968",
+            "duration": 64
+        },
+        {
+            "from": "LAUNCE",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-04T03:48:09.526970",
+            "duration": 297
+        },
+        {
+            "from": "LAUNCE",
+            "to": "SPEED",
+            "timestamp": "2025-03-06T03:42:09.526972",
+            "duration": 159
+        },
+        {
+            "from": "LAUNCE",
+            "to": "SPEED",
+            "timestamp": "2025-03-04T11:44:09.526974",
+            "duration": 281
+        },
+        {
+            "from": "LAUNCE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-08T07:24:09.526977",
+            "duration": 211
+        },
+        {
+            "from": "LAUNCE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-03T13:27:09.526979",
+            "duration": 129
+        },
+        {
+            "from": "LAUNCE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-08T09:56:09.526981",
+            "duration": 125
+        },
+        {
+            "from": "LAUNCE",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-04T05:46:09.526984",
+            "duration": 140
+        },
+        {
+            "from": "LAUNCE",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-09T09:40:09.526986",
+            "duration": 167
+        },
+        {
+            "from": "LAUNCE",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-06T10:54:09.526988",
+            "duration": 285
+        },
+        {
+            "from": "LAUNCE",
+            "to": "THURIO",
+            "timestamp": "2025-03-08T07:00:09.526990",
+            "duration": 194
+        },
+        {
+            "from": "LAUNCE",
+            "to": "THURIO",
+            "timestamp": "2025-03-04T03:59:09.526992",
+            "duration": 190
+        },
+        {
+            "from": "LAUNCE",
+            "to": "THURIO",
+            "timestamp": "2025-03-10T12:07:09.526994",
+            "duration": 83
+        },
+        {
+            "from": "LAUNCE",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-10T07:43:09.526996",
+            "duration": 106
+        },
+        {
+            "from": "Host",
+            "to": "EGLAMOUR",
+            "timestamp": "2025-03-03T04:11:09.526999",
+            "duration": 168
+        },
+        {
+            "from": "Host",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-03T14:38:09.527001",
+            "duration": 193
+        },
+        {
+            "from": "Host",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-03T08:02:09.527003",
+            "duration": 255
+        },
+        {
+            "from": "Host",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-08T05:35:09.527005",
+            "duration": 191
+        },
+        {
+            "from": "Host",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-07T03:10:09.527007",
+            "duration": 296
+        },
+        {
+            "from": "Host",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-09T08:17:09.527009",
+            "duration": 128
+        },
+        {
+            "from": "Host",
+            "to": "JULIA",
+            "timestamp": "2025-03-06T15:52:09.527012",
+            "duration": 65
+        },
+        {
+            "from": "Host",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-09T09:41:09.527014",
+            "duration": 60
+        },
+        {
+            "from": "Host",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-04T02:42:09.527016",
+            "duration": 79
+        },
+        {
+            "from": "Host",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-06T05:12:09.527018",
+            "duration": 265
+        },
+        {
+            "from": "Host",
+            "to": "SPEED",
+            "timestamp": "2025-03-06T16:09:09.527020",
+            "duration": 239
+        },
+        {
+            "from": "Host",
+            "to": "SPEED",
+            "timestamp": "2025-03-10T07:16:09.527022",
+            "duration": 143
+        },
+        {
+            "from": "Host",
+            "to": "SPEED",
+            "timestamp": "2025-03-07T18:32:09.527024",
+            "duration": 125
+        },
+        {
+            "from": "Host",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-07T23:33:09.527027",
+            "duration": 74
+        },
+        {
+            "from": "Host",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-10T00:50:09.527029",
+            "duration": 228
+        },
+        {
+            "from": "Host",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-03T01:11:09.527031",
+            "duration": 275
+        },
+        {
+            "from": "Host",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-08T02:45:09.527033",
+            "duration": 93
+        },
+        {
+            "from": "Host",
+            "to": "THURIO",
+            "timestamp": "2025-03-05T01:56:09.527035",
+            "duration": 247
+        },
+        {
+            "from": "Host",
+            "to": "THURIO",
+            "timestamp": "2025-03-03T02:07:09.527038",
+            "duration": 264
+        },
+        {
+            "from": "Host",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-10T05:01:09.527040",
+            "duration": 192
+        },
+        {
+            "from": "Host",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-03T09:21:09.527042",
+            "duration": 231
+        },
+        {
+            "from": "Host",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-09T15:12:09.527044",
+            "duration": 256
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-08T22:04:09.527046",
+            "duration": 191
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "Third Outlaw",
+            "timestamp": "2025-03-04T22:16:09.527049",
+            "duration": 128
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-03T20:10:09.527051",
+            "duration": 151
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-04T02:49:09.527053",
+            "duration": 241
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-04T17:26:09.527055",
+            "duration": 246
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "JULIA",
+            "timestamp": "2025-03-03T16:41:09.527057",
+            "duration": 177
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-07T06:32:09.527060",
+            "duration": 227
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-04T11:06:09.527062",
+            "duration": 118
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-06T15:54:09.527064",
+            "duration": 109
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "SPEED",
+            "timestamp": "2025-03-04T20:17:09.527066",
+            "duration": 192
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "SPEED",
+            "timestamp": "2025-03-05T08:58:09.527068",
+            "duration": 271
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "SPEED",
+            "timestamp": "2025-03-04T22:51:09.527070",
+            "duration": 210
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-06T15:55:09.527073",
+            "duration": 194
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-04T18:38:09.527075",
+            "duration": 109
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-03T14:18:09.527077",
+            "duration": 247
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-05T14:11:09.527079",
+            "duration": 95
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "THURIO",
+            "timestamp": "2025-03-03T04:16:09.527081",
+            "duration": 182
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "THURIO",
+            "timestamp": "2025-03-06T02:09:09.527083",
+            "duration": 199
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-10T09:41:09.527086",
+            "duration": 287
+        },
+        {
+            "from": "EGLAMOUR",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-04T23:40:09.527088",
+            "duration": 91
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "VALENTINE",
+            "timestamp": "2025-03-10T01:55:09.527090",
+            "duration": 60
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "JULIA",
+            "timestamp": "2025-03-08T20:09:09.527092",
+            "duration": 93
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "JULIA",
+            "timestamp": "2025-03-07T00:25:09.527094",
+            "duration": 97
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-03T12:33:09.527097",
+            "duration": 77
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-03T02:22:09.527099",
+            "duration": 77
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "SPEED",
+            "timestamp": "2025-03-10T12:45:09.527101",
+            "duration": 193
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "SPEED",
+            "timestamp": "2025-03-10T07:55:09.527103",
+            "duration": 139
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "SPEED",
+            "timestamp": "2025-03-08T15:47:09.527105",
+            "duration": 284
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-05T20:19:09.527108",
+            "duration": 248
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-09T06:24:09.527110",
+            "duration": 132
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-03T06:53:09.527112",
+            "duration": 140
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "THURIO",
+            "timestamp": "2025-03-07T08:52:09.527114",
+            "duration": 182
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-10T00:57:09.527116",
+            "duration": 90
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-05T23:46:09.527118",
+            "duration": 278
+        },
+        {
+            "from": "Third Outlaw",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-03T13:20:09.527120",
+            "duration": 272
+        },
+        {
+            "from": "VALENTINE",
+            "to": "JULIA",
+            "timestamp": "2025-03-04T08:18:09.527123",
+            "duration": 208
+        },
+        {
+            "from": "VALENTINE",
+            "to": "JULIA",
+            "timestamp": "2025-03-05T04:33:09.527125",
+            "duration": 228
+        },
+        {
+            "from": "VALENTINE",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-09T09:43:09.527127",
+            "duration": 299
+        },
+        {
+            "from": "VALENTINE",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-04T15:11:09.527129",
+            "duration": 210
+        },
+        {
+            "from": "VALENTINE",
+            "to": "SPEED",
+            "timestamp": "2025-03-03T22:04:09.527131",
+            "duration": 87
+        },
+        {
+            "from": "VALENTINE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-06T01:39:09.527134",
+            "duration": 178
+        },
+        {
+            "from": "VALENTINE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-09T21:27:09.527136",
+            "duration": 263
+        },
+        {
+            "from": "VALENTINE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-07T17:38:09.527138",
+            "duration": 277
+        },
+        {
+            "from": "VALENTINE",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-09T13:20:09.527140",
+            "duration": 79
+        },
+        {
+            "from": "VALENTINE",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-02T19:16:09.527142",
+            "duration": 231
+        },
+        {
+            "from": "VALENTINE",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-07T13:52:09.527144",
+            "duration": 269
+        },
+        {
+            "from": "VALENTINE",
+            "to": "THURIO",
+            "timestamp": "2025-03-07T09:22:09.527146",
+            "duration": 272
+        },
+        {
+            "from": "VALENTINE",
+            "to": "THURIO",
+            "timestamp": "2025-03-08T20:09:09.527148",
+            "duration": 79
+        },
+        {
+            "from": "VALENTINE",
+            "to": "THURIO",
+            "timestamp": "2025-03-02T21:53:09.527150",
+            "duration": 183
+        },
+        {
+            "from": "VALENTINE",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-08T13:34:09.527153",
+            "duration": 264
+        },
+        {
+            "from": "VALENTINE",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-10T03:14:09.527155",
+            "duration": 132
+        },
+        {
+            "from": "JULIA",
+            "to": "LUCETTA",
+            "timestamp": "2025-03-09T02:18:09.527157",
+            "duration": 184
+        },
+        {
+            "from": "JULIA",
+            "to": "SPEED",
+            "timestamp": "2025-03-07T10:49:09.527160",
+            "duration": 118
+        },
+        {
+            "from": "JULIA",
+            "to": "SPEED",
+            "timestamp": "2025-03-09T09:58:09.527162",
+            "duration": 291
+        },
+        {
+            "from": "JULIA",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-05T17:04:09.527164",
+            "duration": 213
+        },
+        {
+            "from": "JULIA",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-03T07:46:09.527166",
+            "duration": 146
+        },
+        {
+            "from": "JULIA",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-05T06:21:09.527168",
+            "duration": 180
+        },
+        {
+            "from": "JULIA",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-09T03:29:09.527170",
+            "duration": 134
+        },
+        {
+            "from": "JULIA",
+            "to": "THURIO",
+            "timestamp": "2025-03-09T02:40:09.527173",
+            "duration": 221
+        },
+        {
+            "from": "JULIA",
+            "to": "THURIO",
+            "timestamp": "2025-03-05T22:59:09.527175",
+            "duration": 143
+        },
+        {
+            "from": "JULIA",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-04T23:50:09.527177",
+            "duration": 162
+        },
+        {
+            "from": "LUCETTA",
+            "to": "SPEED",
+            "timestamp": "2025-03-09T20:53:09.527179",
+            "duration": 126
+        },
+        {
+            "from": "LUCETTA",
+            "to": "SPEED",
+            "timestamp": "2025-03-04T11:07:09.527181",
+            "duration": 282
+        },
+        {
+            "from": "LUCETTA",
+            "to": "SPEED",
+            "timestamp": "2025-03-02T17:39:09.527183",
+            "duration": 232
+        },
+        {
+            "from": "LUCETTA",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-07T14:21:09.527186",
+            "duration": 289
+        },
+        {
+            "from": "LUCETTA",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-03T01:52:09.527188",
+            "duration": 194
+        },
+        {
+            "from": "LUCETTA",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-04T23:33:09.527190",
+            "duration": 167
+        },
+        {
+            "from": "LUCETTA",
+            "to": "THURIO",
+            "timestamp": "2025-03-03T18:32:09.527196",
+            "duration": 84
+        },
+        {
+            "from": "LUCETTA",
+            "to": "THURIO",
+            "timestamp": "2025-03-05T18:14:09.527198",
+            "duration": 241
+        },
+        {
+            "from": "LUCETTA",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-05T22:07:09.527201",
+            "duration": 230
+        },
+        {
+            "from": "LUCETTA",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-03T23:00:09.527203",
+            "duration": 149
+        },
+        {
+            "from": "LUCETTA",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-05T00:19:09.527205",
+            "duration": 104
+        },
+        {
+            "from": "SPEED",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-03T22:44:09.527207",
+            "duration": 142
+        },
+        {
+            "from": "SPEED",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-05T14:42:09.527209",
+            "duration": 218
+        },
+        {
+            "from": "SPEED",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-02T18:16:09.527212",
+            "duration": 214
+        },
+        {
+            "from": "SPEED",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-04T03:17:09.527214",
+            "duration": 62
+        },
+        {
+            "from": "SPEED",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-08T19:52:09.527216",
+            "duration": 63
+        },
+        {
+            "from": "SPEED",
+            "to": "THURIO",
+            "timestamp": "2025-03-04T13:28:09.527218",
+            "duration": 192
+        },
+        {
+            "from": "SPEED",
+            "to": "THURIO",
+            "timestamp": "2025-03-05T20:15:09.527221",
+            "duration": 72
+        },
+        {
+            "from": "SPEED",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-06T16:43:09.527223",
+            "duration": 179
+        },
+        {
+            "from": "SPEED",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-09T08:35:09.527225",
+            "duration": 210
+        },
+        {
+            "from": "SPEED",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-04T06:50:09.527227",
+            "duration": 286
+        },
+        {
+            "from": "ANTONIO",
+            "to": "PROTEUS",
+            "timestamp": "2025-03-06T18:39:09.527229",
+            "duration": 75
+        },
+        {
+            "from": "ANTONIO",
+            "to": "THURIO",
+            "timestamp": "2025-03-03T14:22:09.527232",
+            "duration": 83
+        },
+        {
+            "from": "ANTONIO",
+            "to": "THURIO",
+            "timestamp": "2025-03-07T10:44:09.527234",
+            "duration": 140
+        },
+        {
+            "from": "ANTONIO",
+            "to": "THURIO",
+            "timestamp": "2025-03-09T07:21:09.527236",
+            "duration": 128
+        },
+        {
+            "from": "ANTONIO",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-08T09:27:09.527243",
+            "duration": 275
+        },
+        {
+            "from": "PROTEUS",
+            "to": "THURIO",
+            "timestamp": "2025-03-07T11:27:09.527245",
+            "duration": 122
+        },
+        {
+            "from": "PROTEUS",
+            "to": "THURIO",
+            "timestamp": "2025-03-09T10:42:09.527247",
+            "duration": 66
+        },
+        {
+            "from": "PROTEUS",
+            "to": "THURIO",
+            "timestamp": "2025-03-10T08:55:09.527249",
+            "duration": 229
+        },
+        {
+            "from": "PROTEUS",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-10T12:43:09.527252",
+            "duration": 189
+        },
+        {
+            "from": "PROTEUS",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-08T20:17:09.527254",
+            "duration": 148
+        },
+        {
+            "from": "PROTEUS",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-04T10:52:09.527256",
+            "duration": 224
+        },
+        {
+            "from": "THURIO",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-06T20:14:09.527258",
+            "duration": 185
+        },
+        {
+            "from": "THURIO",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-08T13:44:09.527260",
+            "duration": 283
+        },
+        {
+            "from": "THURIO",
+            "to": "PANTHINO",
+            "timestamp": "2025-03-07T17:07:09.527262",
+            "duration": 88
+        }
+    ],
+    "contact_data": {
+        "DUKE": {
+            "phone": "628-538-2960",
+            "email": "duke@dynastyglobal.com",
+            "title": "Global President",
+            "company": "Dynasty Global Investments",
+            "industry": "Royal"
+        },
+        "Outlaws": {
+            "phone": "628-573-7472",
+            "email": "outlaws@commercetrade.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "SILVIA": {
+            "phone": "415-467-1913",
+            "email": "silvia@commercelink.com",
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "LAUNCE": {
+            "phone": "628-722-1061",
+            "email": "launce@commercetrade.com",
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Host": {
+            "phone": "415-722-8620",
+            "email": "host@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "EGLAMOUR": {
+            "phone": "628-405-9279",
+            "email": "eglamour@commercelink.com",
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "Third Outlaw": {
+            "phone": "628-727-3382",
+            "email": "third.outlaw@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "VALENTINE": {
+            "phone": "628-554-9062",
+            "email": "valentine@commercetrade.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "JULIA": {
+            "phone": "415-683-1016",
+            "email": "julia@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "LUCETTA": {
+            "phone": "415-255-8187",
+            "email": "lucetta@marketdyn.com",
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "SPEED": {
+            "phone": "628-610-5680",
+            "email": "speed@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "ANTONIO": {
+            "phone": "628-809-9768",
+            "email": "antonio@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "PROTEUS": {
+            "phone": "628-670-1204",
+            "email": "proteus@merchantsexchange.com",
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "THURIO": {
+            "phone": "415-762-6133",
+            "email": "thurio@marketdyn.com",
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "PANTHINO": {
+            "phone": "415-251-4126",
+            "email": "panthino@commercelink.com",
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        }
+    }
+}

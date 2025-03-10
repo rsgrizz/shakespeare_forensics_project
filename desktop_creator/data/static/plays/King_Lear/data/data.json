@@ -1,0 +1,3794 @@
+{
+    "characters": {
+        "REGAN": {
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-380-3286",
+            "email": "regan@marketdyn.com"
+        },
+        "Herald": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-481-7019",
+            "email": "herald@commercelink.com"
+        },
+        "CORNWALL": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-624-4992",
+            "email": "cornwall@merchantsexchange.com"
+        },
+        "LEAR": {
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-921-9592",
+            "email": "lear@tradewinds.com"
+        },
+        "KING LEAR": {
+            "title": "President",
+            "company": "Regency Financial",
+            "industry": "Royal",
+            "location": "Houston",
+            "phone": "713-252-6314",
+            "email": "king.lear@regencyfinancial.com"
+        },
+        "BURGUNDY": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-796-2537",
+            "email": "burgundy@tradewinds.com"
+        },
+        "KING OF FRANCE": {
+            "title": "Managing Director",
+            "company": "Monarch Capital Group",
+            "industry": "Royal",
+            "location": "San Francisco",
+            "phone": "415-419-8938",
+            "email": "king.of.france@monarchcap.com"
+        },
+        "Old Man": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-554-9515",
+            "email": "old.man@tradewinds.com"
+        },
+        "CURAN": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-803-7952",
+            "email": "curan@commercelink.com"
+        },
+        "KENT": {
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-918-5246",
+            "email": "kent@commercetrade.com"
+        },
+        "EDMUND": {
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-260-3549",
+            "email": "edmund@globaltradepart.com"
+        },
+        "OSWALD": {
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-144-1795",
+            "email": "oswald@globaltradepart.com"
+        },
+        "Doctor": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-590-4077",
+            "email": "doctor@globaltradepart.com"
+        },
+        "Knight": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-781-1506",
+            "email": "knight@commercetrade.com"
+        },
+        "Gentleman": {
+            "title": "Market Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-154-8246",
+            "email": "gentleman@marketdyn.com"
+        },
+        "CORDELIA": {
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-487-7039",
+            "email": "cordelia@globaltradepart.com"
+        },
+        "GLOUCESTER": {
+            "title": "Market Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-320-3345",
+            "email": "gloucester@marketdyn.com"
+        },
+        "GONERIL": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-707-8474",
+            "email": "goneril@merchantsexchange.com"
+        },
+        "Messenger": {
+            "title": "Global Communications Director",
+            "company": "Alliance International",
+            "industry": "Diplomatic",
+            "location": "San Francisco",
+            "phone": "415-134-8736",
+            "email": "messenger@allianceintl.com"
+        },
+        "Third Servant": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-927-9780",
+            "email": "third.servant@commercetrade.com"
+        },
+        "EDGAR": {
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-515-4839",
+            "email": "edgar@globaltradepart.com"
+        },
+        "Captain": {
+            "title": "Strategic Defense Coordinator",
+            "company": "Strategic Operations Group",
+            "industry": "Military",
+            "location": "Houston",
+            "phone": "713-895-4990",
+            "email": "captain@stratops.com"
+        },
+        "Fool": {
+            "title": "Arts Program Manager",
+            "company": "Stage & Screen Studios",
+            "industry": "Artistic",
+            "location": "Los Angeles",
+            "phone": "213-731-8841",
+            "email": "fool@stagescreen.com"
+        },
+        "ALBANY": {
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-216-3418",
+            "email": "albany@merchantsexchange.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "REGAN",
+            "to": "Herald",
+            "timestamp": "2025-03-08T16:55:06.414984",
+            "duration": 182
+        },
+        {
+            "from": "REGAN",
+            "to": "Herald",
+            "timestamp": "2025-03-03T16:17:06.414994",
+            "duration": 223
+        },
+        {
+            "from": "REGAN",
+            "to": "CORNWALL",
+            "timestamp": "2025-03-04T04:41:06.414997",
+            "duration": 74
+        },
+        {
+            "from": "REGAN",
+            "to": "CORNWALL",
+            "timestamp": "2025-03-06T10:41:06.414999",
+            "duration": 106
+        },
+        {
+            "from": "REGAN",
+            "to": "CORNWALL",
+            "timestamp": "2025-03-04T09:05:06.415001",
+            "duration": 86
+        },
+        {
+            "from": "REGAN",
+            "to": "LEAR",
+            "timestamp": "2025-03-05T20:14:06.415004",
+            "duration": 206
+        },
+        {
+            "from": "REGAN",
+            "to": "LEAR",
+            "timestamp": "2025-03-02T17:17:06.415006",
+            "duration": 291
+        },
+        {
+            "from": "REGAN",
+            "to": "LEAR",
+            "timestamp": "2025-03-05T20:01:06.415008",
+            "duration": 129
+        },
+        {
+            "from": "REGAN",
+            "to": "KING LEAR",
+            "timestamp": "2025-03-05T11:21:06.415011",
+            "duration": 168
+        },
+        {
+            "from": "REGAN",
+            "to": "BURGUNDY",
+            "timestamp": "2025-03-06T22:22:06.415013",
+            "duration": 136
+        },
+        {
+            "from": "REGAN",
+            "to": "BURGUNDY",
+            "timestamp": "2025-03-06T13:39:06.415015",
+            "duration": 194
+        },
+        {
+            "from": "REGAN",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-04T02:48:06.415018",
+            "duration": 279
+        },
+        {
+            "from": "REGAN",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-04T17:58:06.415020",
+            "duration": 253
+        },
+        {
+            "from": "REGAN",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-03T08:42:06.415022",
+            "duration": 255
+        },
+        {
+            "from": "REGAN",
+            "to": "Old Man",
+            "timestamp": "2025-03-03T09:50:06.415024",
+            "duration": 284
+        },
+        {
+            "from": "REGAN",
+            "to": "Old Man",
+            "timestamp": "2025-03-06T12:54:06.415026",
+            "duration": 130
+        },
+        {
+            "from": "REGAN",
+            "to": "Old Man",
+            "timestamp": "2025-03-04T19:02:06.415028",
+            "duration": 109
+        },
+        {
+            "from": "REGAN",
+            "to": "CURAN",
+            "timestamp": "2025-03-09T15:42:06.415030",
+            "duration": 77
+        },
+        {
+            "from": "REGAN",
+            "to": "KENT",
+            "timestamp": "2025-03-08T08:24:06.415033",
+            "duration": 294
+        },
+        {
+            "from": "REGAN",
+            "to": "KENT",
+            "timestamp": "2025-03-04T05:30:06.415035",
+            "duration": 187
+        },
+        {
+            "from": "REGAN",
+            "to": "KENT",
+            "timestamp": "2025-03-10T09:15:06.415037",
+            "duration": 291
+        },
+        {
+            "from": "REGAN",
+            "to": "EDMUND",
+            "timestamp": "2025-03-03T14:46:06.415040",
+            "duration": 107
+        },
+        {
+            "from": "REGAN",
+            "to": "EDMUND",
+            "timestamp": "2025-03-03T18:44:06.415042",
+            "duration": 163
+        },
+        {
+            "from": "REGAN",
+            "to": "EDMUND",
+            "timestamp": "2025-03-10T01:36:06.415044",
+            "duration": 211
+        },
+        {
+            "from": "REGAN",
+            "to": "OSWALD",
+            "timestamp": "2025-03-03T11:29:06.415046",
+            "duration": 112
+        },
+        {
+            "from": "REGAN",
+            "to": "OSWALD",
+            "timestamp": "2025-03-03T05:22:06.415048",
+            "duration": 155
+        },
+        {
+            "from": "REGAN",
+            "to": "Doctor",
+            "timestamp": "2025-03-05T23:26:06.415050",
+            "duration": 278
+        },
+        {
+            "from": "REGAN",
+            "to": "Knight",
+            "timestamp": "2025-03-02T20:54:06.415053",
+            "duration": 271
+        },
+        {
+            "from": "REGAN",
+            "to": "Knight",
+            "timestamp": "2025-03-03T17:01:06.415055",
+            "duration": 107
+        },
+        {
+            "from": "REGAN",
+            "to": "Knight",
+            "timestamp": "2025-03-09T19:49:06.415057",
+            "duration": 87
+        },
+        {
+            "from": "REGAN",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T08:29:06.415059",
+            "duration": 181
+        },
+        {
+            "from": "REGAN",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T01:22:06.415061",
+            "duration": 62
+        },
+        {
+            "from": "REGAN",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T19:23:06.415063",
+            "duration": 104
+        },
+        {
+            "from": "REGAN",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-06T09:33:06.415065",
+            "duration": 128
+        },
+        {
+            "from": "REGAN",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-03T01:03:06.415067",
+            "duration": 70
+        },
+        {
+            "from": "REGAN",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-05T10:24:06.415070",
+            "duration": 221
+        },
+        {
+            "from": "REGAN",
+            "to": "GONERIL",
+            "timestamp": "2025-03-03T23:07:06.415072",
+            "duration": 84
+        },
+        {
+            "from": "REGAN",
+            "to": "GONERIL",
+            "timestamp": "2025-03-09T14:50:06.415074",
+            "duration": 93
+        },
+        {
+            "from": "REGAN",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T20:11:06.415076",
+            "duration": 220
+        },
+        {
+            "from": "REGAN",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T16:56:06.415078",
+            "duration": 211
+        },
+        {
+            "from": "REGAN",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T14:10:06.415080",
+            "duration": 227
+        },
+        {
+            "from": "REGAN",
+            "to": "Third Servant",
+            "timestamp": "2025-03-07T06:41:06.415083",
+            "duration": 73
+        },
+        {
+            "from": "REGAN",
+            "to": "EDGAR",
+            "timestamp": "2025-03-06T20:13:06.415085",
+            "duration": 207
+        },
+        {
+            "from": "REGAN",
+            "to": "EDGAR",
+            "timestamp": "2025-03-08T15:30:06.415087",
+            "duration": 78
+        },
+        {
+            "from": "REGAN",
+            "to": "EDGAR",
+            "timestamp": "2025-03-04T15:26:06.415089",
+            "duration": 101
+        },
+        {
+            "from": "REGAN",
+            "to": "Captain",
+            "timestamp": "2025-03-10T04:31:06.415091",
+            "duration": 257
+        },
+        {
+            "from": "REGAN",
+            "to": "Fool",
+            "timestamp": "2025-03-02T22:47:06.415093",
+            "duration": 74
+        },
+        {
+            "from": "REGAN",
+            "to": "Fool",
+            "timestamp": "2025-03-06T02:13:06.415095",
+            "duration": 265
+        },
+        {
+            "from": "REGAN",
+            "to": "ALBANY",
+            "timestamp": "2025-03-08T21:00:06.415098",
+            "duration": 217
+        },
+        {
+            "from": "Herald",
+            "to": "CORNWALL",
+            "timestamp": "2025-03-07T01:15:06.415100",
+            "duration": 140
+        },
+        {
+            "from": "Herald",
+            "to": "CORNWALL",
+            "timestamp": "2025-03-03T11:40:06.415102",
+            "duration": 166
+        },
+        {
+            "from": "Herald",
+            "to": "LEAR",
+            "timestamp": "2025-03-04T18:27:06.415104",
+            "duration": 261
+        },
+        {
+            "from": "Herald",
+            "to": "LEAR",
+            "timestamp": "2025-03-09T22:44:06.415106",
+            "duration": 207
+        },
+        {
+            "from": "Herald",
+            "to": "LEAR",
+            "timestamp": "2025-03-03T02:28:06.415109",
+            "duration": 88
+        },
+        {
+            "from": "Herald",
+            "to": "KING LEAR",
+            "timestamp": "2025-03-06T23:25:06.415111",
+            "duration": 265
+        },
+        {
+            "from": "Herald",
+            "to": "KING LEAR",
+            "timestamp": "2025-03-08T18:32:06.415113",
+            "duration": 185
+        },
+        {
+            "from": "Herald",
+            "to": "KING LEAR",
+            "timestamp": "2025-03-06T01:05:06.415115",
+            "duration": 209
+        },
+        {
+            "from": "Herald",
+            "to": "BURGUNDY",
+            "timestamp": "2025-03-03T20:53:06.415117",
+            "duration": 206
+        },
+        {
+            "from": "Herald",
+            "to": "BURGUNDY",
+            "timestamp": "2025-03-09T17:00:06.415119",
+            "duration": 249
+        },
+        {
+            "from": "Herald",
+            "to": "BURGUNDY",
+            "timestamp": "2025-03-10T08:46:06.415121",
+            "duration": 265
+        },
+        {
+            "from": "Herald",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-09T04:56:06.415124",
+            "duration": 66
+        },
+        {
+            "from": "Herald",
+            "to": "Old Man",
+            "timestamp": "2025-03-04T00:38:06.415126",
+            "duration": 163
+        },
+        {
+            "from": "Herald",
+            "to": "Old Man",
+            "timestamp": "2025-03-05T09:28:06.415128",
+            "duration": 146
+        },
+        {
+            "from": "Herald",
+            "to": "Old Man",
+            "timestamp": "2025-03-04T03:48:06.415130",
+            "duration": 110
+        },
+        {
+            "from": "Herald",
+            "to": "CURAN",
+            "timestamp": "2025-03-03T08:54:06.415133",
+            "duration": 70
+        },
+        {
+            "from": "Herald",
+            "to": "KENT",
+            "timestamp": "2025-03-07T11:21:06.415135",
+            "duration": 205
+        },
+        {
+            "from": "Herald",
+            "to": "KENT",
+            "timestamp": "2025-03-03T11:32:06.415137",
+            "duration": 171
+        },
+        {
+            "from": "Herald",
+            "to": "EDMUND",
+            "timestamp": "2025-03-07T10:42:06.415140",
+            "duration": 180
+        },
+        {
+            "from": "Herald",
+            "to": "EDMUND",
+            "timestamp": "2025-03-09T11:35:06.415142",
+            "duration": 157
+        },
+        {
+            "from": "Herald",
+            "to": "OSWALD",
+            "timestamp": "2025-03-07T07:06:06.415144",
+            "duration": 272
+        },
+        {
+            "from": "Herald",
+            "to": "OSWALD",
+            "timestamp": "2025-03-02T20:57:06.415146",
+            "duration": 275
+        },
+        {
+            "from": "Herald",
+            "to": "Doctor",
+            "timestamp": "2025-03-04T23:31:06.415149",
+            "duration": 271
+        },
+        {
+            "from": "Herald",
+            "to": "Knight",
+            "timestamp": "2025-03-06T22:55:06.415151",
+            "duration": 120
+        },
+        {
+            "from": "Herald",
+            "to": "Knight",
+            "timestamp": "2025-03-06T01:20:06.415153",
+            "duration": 75
+        },
+        {
+            "from": "Herald",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T09:05:06.415155",
+            "duration": 76
+        },
+        {
+            "from": "Herald",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-06T02:33:06.415157",
+            "duration": 246
+        },
+        {
+            "from": "Herald",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-07T14:03:06.415159",
+            "duration": 116
+        },
+        {
+            "from": "Herald",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-04T01:04:06.415166",
+            "duration": 281
+        },
+        {
+            "from": "Herald",
+            "to": "GONERIL",
+            "timestamp": "2025-03-07T00:35:06.415169",
+            "duration": 60
+        },
+        {
+            "from": "Herald",
+            "to": "GONERIL",
+            "timestamp": "2025-03-05T20:01:06.415172",
+            "duration": 284
+        },
+        {
+            "from": "Herald",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T20:42:06.415174",
+            "duration": 98
+        },
+        {
+            "from": "Herald",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T09:32:06.415176",
+            "duration": 184
+        },
+        {
+            "from": "Herald",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T08:34:06.415178",
+            "duration": 64
+        },
+        {
+            "from": "Herald",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T06:19:06.415181",
+            "duration": 86
+        },
+        {
+            "from": "Herald",
+            "to": "EDGAR",
+            "timestamp": "2025-03-10T14:29:06.415183",
+            "duration": 189
+        },
+        {
+            "from": "Herald",
+            "to": "EDGAR",
+            "timestamp": "2025-03-09T20:05:06.415185",
+            "duration": 111
+        },
+        {
+            "from": "Herald",
+            "to": "Captain",
+            "timestamp": "2025-03-08T20:35:06.415187",
+            "duration": 128
+        },
+        {
+            "from": "Herald",
+            "to": "Captain",
+            "timestamp": "2025-03-05T12:52:06.415190",
+            "duration": 60
+        },
+        {
+            "from": "Herald",
+            "to": "Fool",
+            "timestamp": "2025-03-03T19:56:06.415192",
+            "duration": 235
+        },
+        {
+            "from": "Herald",
+            "to": "Fool",
+            "timestamp": "2025-03-07T04:27:06.415194",
+            "duration": 115
+        },
+        {
+            "from": "Herald",
+            "to": "Fool",
+            "timestamp": "2025-03-04T21:28:06.415196",
+            "duration": 238
+        },
+        {
+            "from": "Herald",
+            "to": "ALBANY",
+            "timestamp": "2025-03-04T14:38:06.415198",
+            "duration": 256
+        },
+        {
+            "from": "Herald",
+            "to": "ALBANY",
+            "timestamp": "2025-03-10T08:27:06.415200",
+            "duration": 278
+        },
+        {
+            "from": "CORNWALL",
+            "to": "LEAR",
+            "timestamp": "2025-03-05T04:04:06.415208",
+            "duration": 236
+        },
+        {
+            "from": "CORNWALL",
+            "to": "LEAR",
+            "timestamp": "2025-03-03T01:18:06.415212",
+            "duration": 211
+        },
+        {
+            "from": "CORNWALL",
+            "to": "LEAR",
+            "timestamp": "2025-03-08T23:33:06.415214",
+            "duration": 237
+        },
+        {
+            "from": "CORNWALL",
+            "to": "KING LEAR",
+            "timestamp": "2025-03-04T04:23:06.415216",
+            "duration": 144
+        },
+        {
+            "from": "CORNWALL",
+            "to": "KING LEAR",
+            "timestamp": "2025-03-09T18:48:06.415218",
+            "duration": 99
+        },
+        {
+            "from": "CORNWALL",
+            "to": "KING LEAR",
+            "timestamp": "2025-03-05T11:25:06.415220",
+            "duration": 257
+        },
+        {
+            "from": "CORNWALL",
+            "to": "BURGUNDY",
+            "timestamp": "2025-03-09T07:08:06.415223",
+            "duration": 144
+        },
+        {
+            "from": "CORNWALL",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-03T15:56:06.415225",
+            "duration": 179
+        },
+        {
+            "from": "CORNWALL",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-07T07:19:06.415227",
+            "duration": 259
+        },
+        {
+            "from": "CORNWALL",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-10T11:41:06.415229",
+            "duration": 87
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Old Man",
+            "timestamp": "2025-03-07T10:31:06.415232",
+            "duration": 223
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Old Man",
+            "timestamp": "2025-03-05T07:37:06.415234",
+            "duration": 208
+        },
+        {
+            "from": "CORNWALL",
+            "to": "CURAN",
+            "timestamp": "2025-03-05T13:03:06.415236",
+            "duration": 190
+        },
+        {
+            "from": "CORNWALL",
+            "to": "KENT",
+            "timestamp": "2025-03-06T22:05:06.415238",
+            "duration": 236
+        },
+        {
+            "from": "CORNWALL",
+            "to": "EDMUND",
+            "timestamp": "2025-03-07T15:47:06.415241",
+            "duration": 255
+        },
+        {
+            "from": "CORNWALL",
+            "to": "EDMUND",
+            "timestamp": "2025-03-07T21:13:06.415243",
+            "duration": 60
+        },
+        {
+            "from": "CORNWALL",
+            "to": "EDMUND",
+            "timestamp": "2025-03-04T03:17:06.415245",
+            "duration": 300
+        },
+        {
+            "from": "CORNWALL",
+            "to": "OSWALD",
+            "timestamp": "2025-03-09T23:00:06.415248",
+            "duration": 190
+        },
+        {
+            "from": "CORNWALL",
+            "to": "OSWALD",
+            "timestamp": "2025-03-06T17:32:06.415250",
+            "duration": 82
+        },
+        {
+            "from": "CORNWALL",
+            "to": "OSWALD",
+            "timestamp": "2025-03-08T02:00:06.415252",
+            "duration": 229
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Doctor",
+            "timestamp": "2025-03-07T20:39:06.415254",
+            "duration": 229
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Doctor",
+            "timestamp": "2025-03-09T20:20:06.415256",
+            "duration": 251
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Doctor",
+            "timestamp": "2025-03-03T04:21:06.415258",
+            "duration": 62
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Knight",
+            "timestamp": "2025-03-08T19:08:06.415261",
+            "duration": 174
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Knight",
+            "timestamp": "2025-03-07T05:54:06.415263",
+            "duration": 99
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Knight",
+            "timestamp": "2025-03-08T17:42:06.415265",
+            "duration": 114
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T12:20:06.415267",
+            "duration": 263
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T22:52:06.415269",
+            "duration": 109
+        },
+        {
+            "from": "CORNWALL",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-05T03:52:06.415272",
+            "duration": 124
+        },
+        {
+            "from": "CORNWALL",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-07T15:47:06.415274",
+            "duration": 99
+        },
+        {
+            "from": "CORNWALL",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-07T09:08:06.415276",
+            "duration": 84
+        },
+        {
+            "from": "CORNWALL",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-03T15:53:06.415278",
+            "duration": 211
+        },
+        {
+            "from": "CORNWALL",
+            "to": "GONERIL",
+            "timestamp": "2025-03-05T03:45:06.415280",
+            "duration": 170
+        },
+        {
+            "from": "CORNWALL",
+            "to": "GONERIL",
+            "timestamp": "2025-03-09T05:06:06.415282",
+            "duration": 191
+        },
+        {
+            "from": "CORNWALL",
+            "to": "GONERIL",
+            "timestamp": "2025-03-09T04:28:06.415285",
+            "duration": 101
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T04:35:06.415287",
+            "duration": 96
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T21:21:06.415289",
+            "duration": 142
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T12:15:06.415292",
+            "duration": 224
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Third Servant",
+            "timestamp": "2025-03-03T15:37:06.415294",
+            "duration": 64
+        },
+        {
+            "from": "CORNWALL",
+            "to": "EDGAR",
+            "timestamp": "2025-03-05T11:15:06.415296",
+            "duration": 300
+        },
+        {
+            "from": "CORNWALL",
+            "to": "EDGAR",
+            "timestamp": "2025-03-07T12:59:06.415298",
+            "duration": 259
+        },
+        {
+            "from": "CORNWALL",
+            "to": "EDGAR",
+            "timestamp": "2025-03-06T21:17:06.415300",
+            "duration": 293
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Captain",
+            "timestamp": "2025-03-09T05:40:06.415302",
+            "duration": 126
+        },
+        {
+            "from": "CORNWALL",
+            "to": "Fool",
+            "timestamp": "2025-03-03T19:02:06.415305",
+            "duration": 250
+        },
+        {
+            "from": "CORNWALL",
+            "to": "ALBANY",
+            "timestamp": "2025-03-06T04:50:06.415307",
+            "duration": 238
+        },
+        {
+            "from": "LEAR",
+            "to": "KING LEAR",
+            "timestamp": "2025-03-03T08:21:06.415310",
+            "duration": 93
+        },
+        {
+            "from": "LEAR",
+            "to": "KING LEAR",
+            "timestamp": "2025-03-10T13:38:06.415312",
+            "duration": 128
+        },
+        {
+            "from": "LEAR",
+            "to": "BURGUNDY",
+            "timestamp": "2025-03-04T08:59:06.415314",
+            "duration": 236
+        },
+        {
+            "from": "LEAR",
+            "to": "BURGUNDY",
+            "timestamp": "2025-03-09T06:04:06.415316",
+            "duration": 177
+        },
+        {
+            "from": "LEAR",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-07T14:27:06.415319",
+            "duration": 280
+        },
+        {
+            "from": "LEAR",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-04T13:31:06.415321",
+            "duration": 200
+        },
+        {
+            "from": "LEAR",
+            "to": "Old Man",
+            "timestamp": "2025-03-03T10:09:06.415323",
+            "duration": 238
+        },
+        {
+            "from": "LEAR",
+            "to": "Old Man",
+            "timestamp": "2025-03-09T08:13:06.415325",
+            "duration": 152
+        },
+        {
+            "from": "LEAR",
+            "to": "Old Man",
+            "timestamp": "2025-03-05T06:33:06.415327",
+            "duration": 181
+        },
+        {
+            "from": "LEAR",
+            "to": "CURAN",
+            "timestamp": "2025-03-08T02:42:06.415330",
+            "duration": 198
+        },
+        {
+            "from": "LEAR",
+            "to": "KENT",
+            "timestamp": "2025-03-04T00:15:06.415332",
+            "duration": 87
+        },
+        {
+            "from": "LEAR",
+            "to": "KENT",
+            "timestamp": "2025-03-08T21:38:06.415340",
+            "duration": 69
+        },
+        {
+            "from": "LEAR",
+            "to": "EDMUND",
+            "timestamp": "2025-03-03T12:50:06.415342",
+            "duration": 99
+        },
+        {
+            "from": "LEAR",
+            "to": "EDMUND",
+            "timestamp": "2025-03-06T00:56:06.415344",
+            "duration": 180
+        },
+        {
+            "from": "LEAR",
+            "to": "EDMUND",
+            "timestamp": "2025-03-06T07:55:06.415346",
+            "duration": 283
+        },
+        {
+            "from": "LEAR",
+            "to": "OSWALD",
+            "timestamp": "2025-03-05T12:44:06.415349",
+            "duration": 251
+        },
+        {
+            "from": "LEAR",
+            "to": "OSWALD",
+            "timestamp": "2025-03-09T08:58:06.415351",
+            "duration": 239
+        },
+        {
+            "from": "LEAR",
+            "to": "Doctor",
+            "timestamp": "2025-03-06T23:33:06.415353",
+            "duration": 275
+        },
+        {
+            "from": "LEAR",
+            "to": "Knight",
+            "timestamp": "2025-03-09T05:55:06.415356",
+            "duration": 277
+        },
+        {
+            "from": "LEAR",
+            "to": "Knight",
+            "timestamp": "2025-03-08T05:05:06.415358",
+            "duration": 259
+        },
+        {
+            "from": "LEAR",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T18:03:06.415361",
+            "duration": 256
+        },
+        {
+            "from": "LEAR",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T07:17:06.415363",
+            "duration": 288
+        },
+        {
+            "from": "LEAR",
+            "to": "Gentleman",
+            "timestamp": "2025-03-02T16:13:06.415365",
+            "duration": 172
+        },
+        {
+            "from": "LEAR",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-07T19:24:06.415367",
+            "duration": 234
+        },
+        {
+            "from": "LEAR",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-09T09:34:06.415369",
+            "duration": 254
+        },
+        {
+            "from": "LEAR",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-07T13:50:06.415372",
+            "duration": 85
+        },
+        {
+            "from": "LEAR",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-10T03:57:06.415374",
+            "duration": 275
+        },
+        {
+            "from": "LEAR",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-09T18:42:06.415376",
+            "duration": 118
+        },
+        {
+            "from": "LEAR",
+            "to": "GONERIL",
+            "timestamp": "2025-03-09T23:28:06.415378",
+            "duration": 89
+        },
+        {
+            "from": "LEAR",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T03:27:06.415381",
+            "duration": 157
+        },
+        {
+            "from": "LEAR",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T04:14:06.415383",
+            "duration": 135
+        },
+        {
+            "from": "LEAR",
+            "to": "EDGAR",
+            "timestamp": "2025-03-06T00:06:06.415388",
+            "duration": 161
+        },
+        {
+            "from": "LEAR",
+            "to": "EDGAR",
+            "timestamp": "2025-03-09T05:46:06.415390",
+            "duration": 85
+        },
+        {
+            "from": "LEAR",
+            "to": "EDGAR",
+            "timestamp": "2025-03-08T05:08:06.415392",
+            "duration": 126
+        },
+        {
+            "from": "LEAR",
+            "to": "Captain",
+            "timestamp": "2025-03-06T19:20:06.415394",
+            "duration": 184
+        },
+        {
+            "from": "LEAR",
+            "to": "Captain",
+            "timestamp": "2025-03-03T12:52:06.415396",
+            "duration": 236
+        },
+        {
+            "from": "LEAR",
+            "to": "Fool",
+            "timestamp": "2025-03-05T17:34:06.415399",
+            "duration": 266
+        },
+        {
+            "from": "LEAR",
+            "to": "Fool",
+            "timestamp": "2025-03-05T19:17:06.415401",
+            "duration": 244
+        },
+        {
+            "from": "LEAR",
+            "to": "Fool",
+            "timestamp": "2025-03-05T19:56:06.415403",
+            "duration": 218
+        },
+        {
+            "from": "LEAR",
+            "to": "ALBANY",
+            "timestamp": "2025-03-07T07:08:06.415405",
+            "duration": 165
+        },
+        {
+            "from": "LEAR",
+            "to": "ALBANY",
+            "timestamp": "2025-03-05T18:11:06.415407",
+            "duration": 288
+        },
+        {
+            "from": "LEAR",
+            "to": "ALBANY",
+            "timestamp": "2025-03-05T00:13:06.415409",
+            "duration": 175
+        },
+        {
+            "from": "KING LEAR",
+            "to": "BURGUNDY",
+            "timestamp": "2025-03-10T12:06:06.415412",
+            "duration": 110
+        },
+        {
+            "from": "KING LEAR",
+            "to": "BURGUNDY",
+            "timestamp": "2025-03-05T03:25:06.415414",
+            "duration": 133
+        },
+        {
+            "from": "KING LEAR",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-07T10:41:06.415416",
+            "duration": 232
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Old Man",
+            "timestamp": "2025-03-07T03:08:06.415418",
+            "duration": 140
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Old Man",
+            "timestamp": "2025-03-08T09:43:06.415421",
+            "duration": 225
+        },
+        {
+            "from": "KING LEAR",
+            "to": "CURAN",
+            "timestamp": "2025-03-05T09:56:06.415423",
+            "duration": 178
+        },
+        {
+            "from": "KING LEAR",
+            "to": "KENT",
+            "timestamp": "2025-03-10T09:41:06.415425",
+            "duration": 64
+        },
+        {
+            "from": "KING LEAR",
+            "to": "EDMUND",
+            "timestamp": "2025-03-09T14:08:06.415428",
+            "duration": 99
+        },
+        {
+            "from": "KING LEAR",
+            "to": "EDMUND",
+            "timestamp": "2025-03-03T20:38:06.415430",
+            "duration": 207
+        },
+        {
+            "from": "KING LEAR",
+            "to": "EDMUND",
+            "timestamp": "2025-03-06T13:54:06.415432",
+            "duration": 170
+        },
+        {
+            "from": "KING LEAR",
+            "to": "OSWALD",
+            "timestamp": "2025-03-09T03:51:06.415434",
+            "duration": 271
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Doctor",
+            "timestamp": "2025-03-06T19:06:06.415437",
+            "duration": 247
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Doctor",
+            "timestamp": "2025-03-09T05:15:06.415439",
+            "duration": 241
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Knight",
+            "timestamp": "2025-03-09T21:38:06.415441",
+            "duration": 185
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T14:09:06.415443",
+            "duration": 267
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T12:03:06.415445",
+            "duration": 272
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T05:44:06.415448",
+            "duration": 263
+        },
+        {
+            "from": "KING LEAR",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-04T11:08:06.415450",
+            "duration": 72
+        },
+        {
+            "from": "KING LEAR",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-02T22:49:06.415452",
+            "duration": 296
+        },
+        {
+            "from": "KING LEAR",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-07T21:55:06.415454",
+            "duration": 227
+        },
+        {
+            "from": "KING LEAR",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-05T03:17:06.415456",
+            "duration": 207
+        },
+        {
+            "from": "KING LEAR",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-03T01:01:06.415459",
+            "duration": 166
+        },
+        {
+            "from": "KING LEAR",
+            "to": "GONERIL",
+            "timestamp": "2025-03-06T03:31:06.415461",
+            "duration": 246
+        },
+        {
+            "from": "KING LEAR",
+            "to": "GONERIL",
+            "timestamp": "2025-03-03T05:52:06.415463",
+            "duration": 300
+        },
+        {
+            "from": "KING LEAR",
+            "to": "GONERIL",
+            "timestamp": "2025-03-02T14:55:06.415465",
+            "duration": 74
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T05:20:06.415468",
+            "duration": 237
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T15:14:06.415470",
+            "duration": 204
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T05:31:06.415472",
+            "duration": 237
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T09:41:06.415474",
+            "duration": 84
+        },
+        {
+            "from": "KING LEAR",
+            "to": "EDGAR",
+            "timestamp": "2025-03-07T19:33:06.415476",
+            "duration": 289
+        },
+        {
+            "from": "KING LEAR",
+            "to": "EDGAR",
+            "timestamp": "2025-03-04T11:21:06.415479",
+            "duration": 223
+        },
+        {
+            "from": "KING LEAR",
+            "to": "EDGAR",
+            "timestamp": "2025-03-04T08:43:06.415481",
+            "duration": 136
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Captain",
+            "timestamp": "2025-03-07T21:27:06.415483",
+            "duration": 242
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Captain",
+            "timestamp": "2025-03-08T07:26:06.415485",
+            "duration": 195
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Captain",
+            "timestamp": "2025-03-07T03:33:06.415487",
+            "duration": 235
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Fool",
+            "timestamp": "2025-03-09T08:47:06.415489",
+            "duration": 232
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Fool",
+            "timestamp": "2025-03-08T15:00:06.415494",
+            "duration": 63
+        },
+        {
+            "from": "KING LEAR",
+            "to": "Fool",
+            "timestamp": "2025-03-07T23:41:06.415497",
+            "duration": 223
+        },
+        {
+            "from": "KING LEAR",
+            "to": "ALBANY",
+            "timestamp": "2025-03-04T00:43:06.415499",
+            "duration": 212
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-10T07:45:06.415502",
+            "duration": 81
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "KING OF FRANCE",
+            "timestamp": "2025-03-07T06:53:06.415504",
+            "duration": 67
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Old Man",
+            "timestamp": "2025-03-06T23:18:06.415506",
+            "duration": 208
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "CURAN",
+            "timestamp": "2025-03-09T23:02:06.415509",
+            "duration": 75
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "CURAN",
+            "timestamp": "2025-03-10T13:54:06.415511",
+            "duration": 256
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "KENT",
+            "timestamp": "2025-03-08T01:12:06.415513",
+            "duration": 138
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "KENT",
+            "timestamp": "2025-03-02T17:16:06.415515",
+            "duration": 173
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "EDMUND",
+            "timestamp": "2025-03-07T22:40:06.415517",
+            "duration": 103
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "EDMUND",
+            "timestamp": "2025-03-05T18:06:06.415519",
+            "duration": 187
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "EDMUND",
+            "timestamp": "2025-03-04T14:14:06.415521",
+            "duration": 117
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "OSWALD",
+            "timestamp": "2025-03-09T09:34:06.415524",
+            "duration": 92
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "OSWALD",
+            "timestamp": "2025-03-02T20:26:06.415526",
+            "duration": 191
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "OSWALD",
+            "timestamp": "2025-03-02T18:12:06.415528",
+            "duration": 297
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Doctor",
+            "timestamp": "2025-03-08T09:46:06.415530",
+            "duration": 131
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Doctor",
+            "timestamp": "2025-03-06T07:24:06.415532",
+            "duration": 207
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Knight",
+            "timestamp": "2025-03-07T04:05:06.415535",
+            "duration": 109
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Knight",
+            "timestamp": "2025-03-03T12:22:06.415537",
+            "duration": 135
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Knight",
+            "timestamp": "2025-03-04T19:40:06.415539",
+            "duration": 120
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T10:14:06.415541",
+            "duration": 138
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-07T13:36:06.415543",
+            "duration": 273
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-09T13:58:06.415545",
+            "duration": 192
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-04T00:57:06.415547",
+            "duration": 65
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-09T04:18:06.415550",
+            "duration": 185
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-05T19:50:06.415552",
+            "duration": 139
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-08T00:25:06.415554",
+            "duration": 85
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "GONERIL",
+            "timestamp": "2025-03-03T22:22:06.415556",
+            "duration": 234
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "GONERIL",
+            "timestamp": "2025-03-05T17:16:06.415558",
+            "duration": 88
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "GONERIL",
+            "timestamp": "2025-03-03T23:29:06.415560",
+            "duration": 188
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T06:07:06.415562",
+            "duration": 244
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T00:09:06.415564",
+            "duration": 236
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T14:31:06.415566",
+            "duration": 280
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T15:07:06.415569",
+            "duration": 209
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "EDGAR",
+            "timestamp": "2025-03-04T04:54:06.415571",
+            "duration": 240
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Captain",
+            "timestamp": "2025-03-08T22:58:06.415573",
+            "duration": 174
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "Fool",
+            "timestamp": "2025-03-02T20:20:06.415576",
+            "duration": 255
+        },
+        {
+            "from": "BURGUNDY",
+            "to": "ALBANY",
+            "timestamp": "2025-03-07T18:52:06.415578",
+            "duration": 282
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Old Man",
+            "timestamp": "2025-03-10T10:23:06.415580",
+            "duration": 90
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Old Man",
+            "timestamp": "2025-03-05T16:51:06.415582",
+            "duration": 242
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Old Man",
+            "timestamp": "2025-03-06T03:18:06.415584",
+            "duration": 226
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "CURAN",
+            "timestamp": "2025-03-07T00:44:06.415587",
+            "duration": 105
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "CURAN",
+            "timestamp": "2025-03-05T04:43:06.415589",
+            "duration": 184
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "KENT",
+            "timestamp": "2025-03-06T21:27:06.415591",
+            "duration": 150
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "KENT",
+            "timestamp": "2025-03-02T21:39:06.415593",
+            "duration": 179
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "EDMUND",
+            "timestamp": "2025-03-04T13:22:06.415595",
+            "duration": 144
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "EDMUND",
+            "timestamp": "2025-03-07T12:45:06.415597",
+            "duration": 126
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "EDMUND",
+            "timestamp": "2025-03-08T00:02:06.415599",
+            "duration": 283
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "OSWALD",
+            "timestamp": "2025-03-06T07:42:06.415601",
+            "duration": 143
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Doctor",
+            "timestamp": "2025-03-04T04:01:06.415604",
+            "duration": 272
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Doctor",
+            "timestamp": "2025-03-09T20:34:06.415606",
+            "duration": 225
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Doctor",
+            "timestamp": "2025-03-06T03:56:06.415608",
+            "duration": 82
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Knight",
+            "timestamp": "2025-03-04T23:06:06.415611",
+            "duration": 84
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T07:18:06.415613",
+            "duration": 108
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T04:51:06.415615",
+            "duration": 227
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-08T15:47:06.415617",
+            "duration": 96
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-09T14:25:06.415619",
+            "duration": 77
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-03T06:38:06.415621",
+            "duration": 233
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-02T18:49:06.415623",
+            "duration": 61
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-10T00:32:06.415625",
+            "duration": 186
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-08T16:13:06.415627",
+            "duration": 147
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "GONERIL",
+            "timestamp": "2025-03-03T15:20:06.415630",
+            "duration": 178
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "GONERIL",
+            "timestamp": "2025-03-08T04:23:06.415632",
+            "duration": 153
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T10:11:06.415634",
+            "duration": 152
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T06:21:06.415636",
+            "duration": 295
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T02:48:06.415638",
+            "duration": 253
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Third Servant",
+            "timestamp": "2025-03-10T13:47:06.415640",
+            "duration": 214
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Third Servant",
+            "timestamp": "2025-03-10T03:32:06.415642",
+            "duration": 226
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T03:57:06.415644",
+            "duration": 118
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "EDGAR",
+            "timestamp": "2025-03-06T00:55:06.415647",
+            "duration": 78
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Captain",
+            "timestamp": "2025-03-07T20:33:06.415649",
+            "duration": 271
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Captain",
+            "timestamp": "2025-03-09T00:57:06.415651",
+            "duration": 164
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Captain",
+            "timestamp": "2025-03-08T12:10:06.415653",
+            "duration": 212
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Fool",
+            "timestamp": "2025-03-07T03:10:06.415656",
+            "duration": 70
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "Fool",
+            "timestamp": "2025-03-05T08:31:06.415658",
+            "duration": 98
+        },
+        {
+            "from": "KING OF FRANCE",
+            "to": "ALBANY",
+            "timestamp": "2025-03-10T10:09:06.415661",
+            "duration": 154
+        },
+        {
+            "from": "Old Man",
+            "to": "CURAN",
+            "timestamp": "2025-03-04T12:02:06.415663",
+            "duration": 282
+        },
+        {
+            "from": "Old Man",
+            "to": "CURAN",
+            "timestamp": "2025-03-03T05:32:06.415665",
+            "duration": 101
+        },
+        {
+            "from": "Old Man",
+            "to": "KENT",
+            "timestamp": "2025-03-07T07:34:06.415667",
+            "duration": 233
+        },
+        {
+            "from": "Old Man",
+            "to": "EDMUND",
+            "timestamp": "2025-03-04T22:05:06.415670",
+            "duration": 211
+        },
+        {
+            "from": "Old Man",
+            "to": "OSWALD",
+            "timestamp": "2025-03-04T09:58:06.415672",
+            "duration": 93
+        },
+        {
+            "from": "Old Man",
+            "to": "Doctor",
+            "timestamp": "2025-03-03T19:54:06.415674",
+            "duration": 158
+        },
+        {
+            "from": "Old Man",
+            "to": "Doctor",
+            "timestamp": "2025-03-02T17:34:06.415676",
+            "duration": 97
+        },
+        {
+            "from": "Old Man",
+            "to": "Doctor",
+            "timestamp": "2025-03-05T14:19:06.415679",
+            "duration": 280
+        },
+        {
+            "from": "Old Man",
+            "to": "Knight",
+            "timestamp": "2025-03-05T02:18:06.415681",
+            "duration": 286
+        },
+        {
+            "from": "Old Man",
+            "to": "Knight",
+            "timestamp": "2025-03-04T20:00:06.415683",
+            "duration": 230
+        },
+        {
+            "from": "Old Man",
+            "to": "Knight",
+            "timestamp": "2025-03-07T09:46:06.415685",
+            "duration": 86
+        },
+        {
+            "from": "Old Man",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T22:14:06.415687",
+            "duration": 78
+        },
+        {
+            "from": "Old Man",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T09:42:06.415689",
+            "duration": 294
+        },
+        {
+            "from": "Old Man",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T16:26:06.415691",
+            "duration": 299
+        },
+        {
+            "from": "Old Man",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-03T04:02:06.415694",
+            "duration": 271
+        },
+        {
+            "from": "Old Man",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-09T22:29:06.415696",
+            "duration": 239
+        },
+        {
+            "from": "Old Man",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-05T03:12:06.415698",
+            "duration": 259
+        },
+        {
+            "from": "Old Man",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-09T13:53:06.415700",
+            "duration": 259
+        },
+        {
+            "from": "Old Man",
+            "to": "GONERIL",
+            "timestamp": "2025-03-10T09:16:06.415703",
+            "duration": 235
+        },
+        {
+            "from": "Old Man",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T01:17:06.415705",
+            "duration": 64
+        },
+        {
+            "from": "Old Man",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T09:20:06.415707",
+            "duration": 119
+        },
+        {
+            "from": "Old Man",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T15:50:06.415709",
+            "duration": 115
+        },
+        {
+            "from": "Old Man",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T03:23:06.415711",
+            "duration": 142
+        },
+        {
+            "from": "Old Man",
+            "to": "Third Servant",
+            "timestamp": "2025-03-08T13:27:06.415713",
+            "duration": 166
+        },
+        {
+            "from": "Old Man",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T00:17:06.415716",
+            "duration": 82
+        },
+        {
+            "from": "Old Man",
+            "to": "EDGAR",
+            "timestamp": "2025-03-06T23:16:06.415718",
+            "duration": 178
+        },
+        {
+            "from": "Old Man",
+            "to": "Captain",
+            "timestamp": "2025-03-09T20:26:06.415734",
+            "duration": 138
+        },
+        {
+            "from": "Old Man",
+            "to": "Captain",
+            "timestamp": "2025-03-04T11:54:06.415736",
+            "duration": 172
+        },
+        {
+            "from": "Old Man",
+            "to": "Captain",
+            "timestamp": "2025-03-09T18:37:06.415738",
+            "duration": 188
+        },
+        {
+            "from": "Old Man",
+            "to": "Fool",
+            "timestamp": "2025-03-06T18:20:06.415741",
+            "duration": 253
+        },
+        {
+            "from": "Old Man",
+            "to": "ALBANY",
+            "timestamp": "2025-03-06T01:13:06.415743",
+            "duration": 298
+        },
+        {
+            "from": "Old Man",
+            "to": "ALBANY",
+            "timestamp": "2025-03-09T12:50:06.415745",
+            "duration": 241
+        },
+        {
+            "from": "CURAN",
+            "to": "KENT",
+            "timestamp": "2025-03-03T03:59:06.415747",
+            "duration": 226
+        },
+        {
+            "from": "CURAN",
+            "to": "EDMUND",
+            "timestamp": "2025-03-07T15:37:06.415750",
+            "duration": 148
+        },
+        {
+            "from": "CURAN",
+            "to": "EDMUND",
+            "timestamp": "2025-03-08T04:12:06.415752",
+            "duration": 174
+        },
+        {
+            "from": "CURAN",
+            "to": "EDMUND",
+            "timestamp": "2025-03-04T14:12:06.415754",
+            "duration": 164
+        },
+        {
+            "from": "CURAN",
+            "to": "OSWALD",
+            "timestamp": "2025-03-04T19:22:06.415756",
+            "duration": 161
+        },
+        {
+            "from": "CURAN",
+            "to": "Doctor",
+            "timestamp": "2025-03-09T10:49:06.415758",
+            "duration": 281
+        },
+        {
+            "from": "CURAN",
+            "to": "Doctor",
+            "timestamp": "2025-03-07T12:31:06.415760",
+            "duration": 296
+        },
+        {
+            "from": "CURAN",
+            "to": "Knight",
+            "timestamp": "2025-03-07T03:56:06.415762",
+            "duration": 300
+        },
+        {
+            "from": "CURAN",
+            "to": "Knight",
+            "timestamp": "2025-03-03T14:11:06.415764",
+            "duration": 177
+        },
+        {
+            "from": "CURAN",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T12:26:06.415767",
+            "duration": 91
+        },
+        {
+            "from": "CURAN",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-06T21:42:06.415769",
+            "duration": 300
+        },
+        {
+            "from": "CURAN",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-06T22:28:06.415771",
+            "duration": 251
+        },
+        {
+            "from": "CURAN",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-06T07:50:06.415773",
+            "duration": 218
+        },
+        {
+            "from": "CURAN",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-08T19:15:06.415775",
+            "duration": 260
+        },
+        {
+            "from": "CURAN",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-04T05:55:06.415777",
+            "duration": 181
+        },
+        {
+            "from": "CURAN",
+            "to": "GONERIL",
+            "timestamp": "2025-03-07T22:36:06.415780",
+            "duration": 185
+        },
+        {
+            "from": "CURAN",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T19:14:06.415782",
+            "duration": 262
+        },
+        {
+            "from": "CURAN",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T12:22:06.415784",
+            "duration": 82
+        },
+        {
+            "from": "CURAN",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T11:09:06.415786",
+            "duration": 167
+        },
+        {
+            "from": "CURAN",
+            "to": "Third Servant",
+            "timestamp": "2025-03-02T22:49:06.415788",
+            "duration": 229
+        },
+        {
+            "from": "CURAN",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T00:24:06.415790",
+            "duration": 77
+        },
+        {
+            "from": "CURAN",
+            "to": "EDGAR",
+            "timestamp": "2025-03-04T04:57:06.415793",
+            "duration": 68
+        },
+        {
+            "from": "CURAN",
+            "to": "Captain",
+            "timestamp": "2025-03-07T11:29:06.415795",
+            "duration": 170
+        },
+        {
+            "from": "CURAN",
+            "to": "Captain",
+            "timestamp": "2025-03-03T10:11:06.415797",
+            "duration": 111
+        },
+        {
+            "from": "CURAN",
+            "to": "Captain",
+            "timestamp": "2025-03-09T15:23:06.415799",
+            "duration": 172
+        },
+        {
+            "from": "CURAN",
+            "to": "Fool",
+            "timestamp": "2025-03-08T03:00:06.415801",
+            "duration": 265
+        },
+        {
+            "from": "CURAN",
+            "to": "ALBANY",
+            "timestamp": "2025-03-09T07:05:06.415803",
+            "duration": 292
+        },
+        {
+            "from": "CURAN",
+            "to": "ALBANY",
+            "timestamp": "2025-03-09T15:45:06.415805",
+            "duration": 139
+        },
+        {
+            "from": "KENT",
+            "to": "EDMUND",
+            "timestamp": "2025-03-07T00:36:06.415808",
+            "duration": 208
+        },
+        {
+            "from": "KENT",
+            "to": "EDMUND",
+            "timestamp": "2025-03-10T12:16:06.415810",
+            "duration": 167
+        },
+        {
+            "from": "KENT",
+            "to": "EDMUND",
+            "timestamp": "2025-03-06T05:27:06.415812",
+            "duration": 193
+        },
+        {
+            "from": "KENT",
+            "to": "OSWALD",
+            "timestamp": "2025-03-04T16:11:06.415814",
+            "duration": 243
+        },
+        {
+            "from": "KENT",
+            "to": "OSWALD",
+            "timestamp": "2025-03-09T19:21:06.415819",
+            "duration": 165
+        },
+        {
+            "from": "KENT",
+            "to": "OSWALD",
+            "timestamp": "2025-03-10T04:23:06.415822",
+            "duration": 101
+        },
+        {
+            "from": "KENT",
+            "to": "Doctor",
+            "timestamp": "2025-03-06T12:31:06.415825",
+            "duration": 231
+        },
+        {
+            "from": "KENT",
+            "to": "Knight",
+            "timestamp": "2025-03-07T07:55:06.415827",
+            "duration": 89
+        },
+        {
+            "from": "KENT",
+            "to": "Knight",
+            "timestamp": "2025-03-03T10:58:06.415829",
+            "duration": 129
+        },
+        {
+            "from": "KENT",
+            "to": "Knight",
+            "timestamp": "2025-03-07T20:11:06.415831",
+            "duration": 89
+        },
+        {
+            "from": "KENT",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T02:13:06.415833",
+            "duration": 250
+        },
+        {
+            "from": "KENT",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-10T09:50:06.415836",
+            "duration": 289
+        },
+        {
+            "from": "KENT",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-05T06:30:06.415838",
+            "duration": 111
+        },
+        {
+            "from": "KENT",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-10T01:47:06.415840",
+            "duration": 207
+        },
+        {
+            "from": "KENT",
+            "to": "GONERIL",
+            "timestamp": "2025-03-06T16:50:06.415842",
+            "duration": 195
+        },
+        {
+            "from": "KENT",
+            "to": "GONERIL",
+            "timestamp": "2025-03-10T03:27:06.415844",
+            "duration": 247
+        },
+        {
+            "from": "KENT",
+            "to": "GONERIL",
+            "timestamp": "2025-03-06T21:38:06.415846",
+            "duration": 251
+        },
+        {
+            "from": "KENT",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T13:42:06.415849",
+            "duration": 269
+        },
+        {
+            "from": "KENT",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T16:35:06.415851",
+            "duration": 238
+        },
+        {
+            "from": "KENT",
+            "to": "Third Servant",
+            "timestamp": "2025-03-08T22:28:06.415853",
+            "duration": 297
+        },
+        {
+            "from": "KENT",
+            "to": "EDGAR",
+            "timestamp": "2025-03-08T11:31:06.415855",
+            "duration": 216
+        },
+        {
+            "from": "KENT",
+            "to": "Captain",
+            "timestamp": "2025-03-03T00:36:06.415858",
+            "duration": 119
+        },
+        {
+            "from": "KENT",
+            "to": "Fool",
+            "timestamp": "2025-03-09T08:13:06.415865",
+            "duration": 63
+        },
+        {
+            "from": "KENT",
+            "to": "Fool",
+            "timestamp": "2025-03-09T16:01:06.415867",
+            "duration": 135
+        },
+        {
+            "from": "KENT",
+            "to": "ALBANY",
+            "timestamp": "2025-03-08T15:31:06.415869",
+            "duration": 91
+        },
+        {
+            "from": "EDMUND",
+            "to": "OSWALD",
+            "timestamp": "2025-03-03T19:40:06.415872",
+            "duration": 140
+        },
+        {
+            "from": "EDMUND",
+            "to": "Doctor",
+            "timestamp": "2025-03-07T05:35:06.415874",
+            "duration": 76
+        },
+        {
+            "from": "EDMUND",
+            "to": "Doctor",
+            "timestamp": "2025-03-05T08:00:06.415876",
+            "duration": 103
+        },
+        {
+            "from": "EDMUND",
+            "to": "Doctor",
+            "timestamp": "2025-03-05T15:33:06.415878",
+            "duration": 186
+        },
+        {
+            "from": "EDMUND",
+            "to": "Knight",
+            "timestamp": "2025-03-05T06:37:06.415881",
+            "duration": 113
+        },
+        {
+            "from": "EDMUND",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T01:24:06.415883",
+            "duration": 266
+        },
+        {
+            "from": "EDMUND",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T14:12:06.415885",
+            "duration": 98
+        },
+        {
+            "from": "EDMUND",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T01:01:06.415887",
+            "duration": 154
+        },
+        {
+            "from": "EDMUND",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-04T06:29:06.415889",
+            "duration": 61
+        },
+        {
+            "from": "EDMUND",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-03T06:08:06.415892",
+            "duration": 253
+        },
+        {
+            "from": "EDMUND",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-06T09:40:06.415894",
+            "duration": 145
+        },
+        {
+            "from": "EDMUND",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-04T20:51:06.415896",
+            "duration": 211
+        },
+        {
+            "from": "EDMUND",
+            "to": "GONERIL",
+            "timestamp": "2025-03-10T06:25:06.415898",
+            "duration": 282
+        },
+        {
+            "from": "EDMUND",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T22:23:06.415901",
+            "duration": 239
+        },
+        {
+            "from": "EDMUND",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T21:09:06.415903",
+            "duration": 82
+        },
+        {
+            "from": "EDMUND",
+            "to": "Third Servant",
+            "timestamp": "2025-03-07T02:21:06.415905",
+            "duration": 184
+        },
+        {
+            "from": "EDMUND",
+            "to": "EDGAR",
+            "timestamp": "2025-03-08T01:17:06.415907",
+            "duration": 123
+        },
+        {
+            "from": "EDMUND",
+            "to": "EDGAR",
+            "timestamp": "2025-03-05T02:48:06.415909",
+            "duration": 191
+        },
+        {
+            "from": "EDMUND",
+            "to": "Captain",
+            "timestamp": "2025-03-04T00:48:06.415912",
+            "duration": 162
+        },
+        {
+            "from": "EDMUND",
+            "to": "Captain",
+            "timestamp": "2025-03-09T10:51:06.415914",
+            "duration": 137
+        },
+        {
+            "from": "EDMUND",
+            "to": "Captain",
+            "timestamp": "2025-03-06T21:51:06.415916",
+            "duration": 168
+        },
+        {
+            "from": "EDMUND",
+            "to": "Fool",
+            "timestamp": "2025-03-07T07:16:06.415918",
+            "duration": 171
+        },
+        {
+            "from": "EDMUND",
+            "to": "ALBANY",
+            "timestamp": "2025-03-09T11:08:06.415920",
+            "duration": 222
+        },
+        {
+            "from": "EDMUND",
+            "to": "ALBANY",
+            "timestamp": "2025-03-07T23:40:06.415923",
+            "duration": 291
+        },
+        {
+            "from": "EDMUND",
+            "to": "ALBANY",
+            "timestamp": "2025-03-06T06:01:06.415925",
+            "duration": 93
+        },
+        {
+            "from": "OSWALD",
+            "to": "Doctor",
+            "timestamp": "2025-03-09T14:39:06.415927",
+            "duration": 121
+        },
+        {
+            "from": "OSWALD",
+            "to": "Knight",
+            "timestamp": "2025-03-08T23:15:06.415930",
+            "duration": 227
+        },
+        {
+            "from": "OSWALD",
+            "to": "Knight",
+            "timestamp": "2025-03-03T02:57:06.415932",
+            "duration": 106
+        },
+        {
+            "from": "OSWALD",
+            "to": "Knight",
+            "timestamp": "2025-03-02T17:02:06.415934",
+            "duration": 292
+        },
+        {
+            "from": "OSWALD",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T10:50:06.415936",
+            "duration": 100
+        },
+        {
+            "from": "OSWALD",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T03:29:06.415938",
+            "duration": 190
+        },
+        {
+            "from": "OSWALD",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T06:48:06.415940",
+            "duration": 185
+        },
+        {
+            "from": "OSWALD",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-03T20:29:06.415943",
+            "duration": 232
+        },
+        {
+            "from": "OSWALD",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-02T21:30:06.415945",
+            "duration": 253
+        },
+        {
+            "from": "OSWALD",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-10T14:34:06.415947",
+            "duration": 292
+        },
+        {
+            "from": "OSWALD",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-08T15:35:06.415949",
+            "duration": 82
+        },
+        {
+            "from": "OSWALD",
+            "to": "GONERIL",
+            "timestamp": "2025-03-09T21:10:06.415951",
+            "duration": 69
+        },
+        {
+            "from": "OSWALD",
+            "to": "GONERIL",
+            "timestamp": "2025-03-08T16:08:06.415954",
+            "duration": 117
+        },
+        {
+            "from": "OSWALD",
+            "to": "GONERIL",
+            "timestamp": "2025-03-08T23:32:06.415956",
+            "duration": 237
+        },
+        {
+            "from": "OSWALD",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T14:35:06.415958",
+            "duration": 79
+        },
+        {
+            "from": "OSWALD",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T22:05:06.415960",
+            "duration": 276
+        },
+        {
+            "from": "OSWALD",
+            "to": "Third Servant",
+            "timestamp": "2025-03-03T00:47:06.415962",
+            "duration": 146
+        },
+        {
+            "from": "OSWALD",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T19:49:06.415964",
+            "duration": 252
+        },
+        {
+            "from": "OSWALD",
+            "to": "EDGAR",
+            "timestamp": "2025-03-07T08:52:06.415967",
+            "duration": 79
+        },
+        {
+            "from": "OSWALD",
+            "to": "EDGAR",
+            "timestamp": "2025-03-10T05:37:06.415969",
+            "duration": 278
+        },
+        {
+            "from": "OSWALD",
+            "to": "EDGAR",
+            "timestamp": "2025-03-03T12:33:06.415971",
+            "duration": 65
+        },
+        {
+            "from": "OSWALD",
+            "to": "Captain",
+            "timestamp": "2025-03-03T15:29:06.415973",
+            "duration": 88
+        },
+        {
+            "from": "OSWALD",
+            "to": "Fool",
+            "timestamp": "2025-03-04T13:17:06.415975",
+            "duration": 270
+        },
+        {
+            "from": "OSWALD",
+            "to": "Fool",
+            "timestamp": "2025-03-04T05:50:06.415978",
+            "duration": 254
+        },
+        {
+            "from": "OSWALD",
+            "to": "Fool",
+            "timestamp": "2025-03-05T08:49:06.415980",
+            "duration": 209
+        },
+        {
+            "from": "OSWALD",
+            "to": "ALBANY",
+            "timestamp": "2025-03-09T21:14:06.415982",
+            "duration": 186
+        },
+        {
+            "from": "Doctor",
+            "to": "Knight",
+            "timestamp": "2025-03-03T22:37:06.415984",
+            "duration": 112
+        },
+        {
+            "from": "Doctor",
+            "to": "Knight",
+            "timestamp": "2025-03-06T10:27:06.415986",
+            "duration": 212
+        },
+        {
+            "from": "Doctor",
+            "to": "Knight",
+            "timestamp": "2025-03-06T00:07:06.415988",
+            "duration": 172
+        },
+        {
+            "from": "Doctor",
+            "to": "Gentleman",
+            "timestamp": "2025-03-02T23:49:06.415990",
+            "duration": 83
+        },
+        {
+            "from": "Doctor",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T08:52:06.415992",
+            "duration": 232
+        },
+        {
+            "from": "Doctor",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-04T09:59:06.415995",
+            "duration": 147
+        },
+        {
+            "from": "Doctor",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-10T01:53:06.415997",
+            "duration": 223
+        },
+        {
+            "from": "Doctor",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-07T08:50:06.415999",
+            "duration": 201
+        },
+        {
+            "from": "Doctor",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-06T15:49:06.416001",
+            "duration": 213
+        },
+        {
+            "from": "Doctor",
+            "to": "GONERIL",
+            "timestamp": "2025-03-03T17:09:06.416003",
+            "duration": 206
+        },
+        {
+            "from": "Doctor",
+            "to": "GONERIL",
+            "timestamp": "2025-03-07T19:11:06.416006",
+            "duration": 130
+        },
+        {
+            "from": "Doctor",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T14:53:06.416008",
+            "duration": 286
+        },
+        {
+            "from": "Doctor",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T15:54:06.416010",
+            "duration": 67
+        },
+        {
+            "from": "Doctor",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T09:08:06.416012",
+            "duration": 86
+        },
+        {
+            "from": "Doctor",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T14:18:06.416014",
+            "duration": 238
+        },
+        {
+            "from": "Doctor",
+            "to": "EDGAR",
+            "timestamp": "2025-03-09T11:28:06.416016",
+            "duration": 77
+        },
+        {
+            "from": "Doctor",
+            "to": "Captain",
+            "timestamp": "2025-03-07T02:07:06.416019",
+            "duration": 287
+        },
+        {
+            "from": "Doctor",
+            "to": "Captain",
+            "timestamp": "2025-03-07T23:30:06.416021",
+            "duration": 272
+        },
+        {
+            "from": "Doctor",
+            "to": "Captain",
+            "timestamp": "2025-03-03T07:22:06.416023",
+            "duration": 227
+        },
+        {
+            "from": "Doctor",
+            "to": "Fool",
+            "timestamp": "2025-03-09T16:02:06.416025",
+            "duration": 94
+        },
+        {
+            "from": "Doctor",
+            "to": "Fool",
+            "timestamp": "2025-03-02T18:21:06.416027",
+            "duration": 88
+        },
+        {
+            "from": "Doctor",
+            "to": "ALBANY",
+            "timestamp": "2025-03-09T06:04:06.416030",
+            "duration": 201
+        },
+        {
+            "from": "Doctor",
+            "to": "ALBANY",
+            "timestamp": "2025-03-08T15:17:06.416032",
+            "duration": 97
+        },
+        {
+            "from": "Knight",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T07:40:06.416034",
+            "duration": 93
+        },
+        {
+            "from": "Knight",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T19:51:06.416036",
+            "duration": 89
+        },
+        {
+            "from": "Knight",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-04T03:33:06.416038",
+            "duration": 92
+        },
+        {
+            "from": "Knight",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-05T20:43:06.416040",
+            "duration": 216
+        },
+        {
+            "from": "Knight",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-03T11:17:06.416042",
+            "duration": 277
+        },
+        {
+            "from": "Knight",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-08T13:11:06.416045",
+            "duration": 210
+        },
+        {
+            "from": "Knight",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-07T10:42:06.416047",
+            "duration": 290
+        },
+        {
+            "from": "Knight",
+            "to": "GONERIL",
+            "timestamp": "2025-03-04T09:29:06.416050",
+            "duration": 216
+        },
+        {
+            "from": "Knight",
+            "to": "GONERIL",
+            "timestamp": "2025-03-08T15:06:06.416052",
+            "duration": 226
+        },
+        {
+            "from": "Knight",
+            "to": "GONERIL",
+            "timestamp": "2025-03-06T14:38:06.416054",
+            "duration": 148
+        },
+        {
+            "from": "Knight",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T12:51:06.416056",
+            "duration": 250
+        },
+        {
+            "from": "Knight",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T00:47:06.416058",
+            "duration": 93
+        },
+        {
+            "from": "Knight",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T09:17:06.416060",
+            "duration": 116
+        },
+        {
+            "from": "Knight",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T04:09:06.416062",
+            "duration": 84
+        },
+        {
+            "from": "Knight",
+            "to": "Third Servant",
+            "timestamp": "2025-03-04T11:14:06.416064",
+            "duration": 114
+        },
+        {
+            "from": "Knight",
+            "to": "Third Servant",
+            "timestamp": "2025-03-08T07:45:06.416066",
+            "duration": 234
+        },
+        {
+            "from": "Knight",
+            "to": "EDGAR",
+            "timestamp": "2025-03-08T13:34:06.416069",
+            "duration": 246
+        },
+        {
+            "from": "Knight",
+            "to": "EDGAR",
+            "timestamp": "2025-03-04T10:57:06.416071",
+            "duration": 172
+        },
+        {
+            "from": "Knight",
+            "to": "EDGAR",
+            "timestamp": "2025-03-06T12:06:06.416073",
+            "duration": 78
+        },
+        {
+            "from": "Knight",
+            "to": "Captain",
+            "timestamp": "2025-03-05T04:10:06.416075",
+            "duration": 135
+        },
+        {
+            "from": "Knight",
+            "to": "Captain",
+            "timestamp": "2025-03-06T22:49:06.416078",
+            "duration": 169
+        },
+        {
+            "from": "Knight",
+            "to": "Fool",
+            "timestamp": "2025-03-10T03:35:06.416080",
+            "duration": 226
+        },
+        {
+            "from": "Knight",
+            "to": "Fool",
+            "timestamp": "2025-03-03T12:33:06.416082",
+            "duration": 227
+        },
+        {
+            "from": "Knight",
+            "to": "Fool",
+            "timestamp": "2025-03-07T16:45:06.416084",
+            "duration": 109
+        },
+        {
+            "from": "Knight",
+            "to": "ALBANY",
+            "timestamp": "2025-03-02T18:05:06.416086",
+            "duration": 204
+        },
+        {
+            "from": "Knight",
+            "to": "ALBANY",
+            "timestamp": "2025-03-03T07:07:06.416088",
+            "duration": 237
+        },
+        {
+            "from": "Knight",
+            "to": "ALBANY",
+            "timestamp": "2025-03-08T09:47:06.416090",
+            "duration": 235
+        },
+        {
+            "from": "Gentleman",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-03T08:09:06.416093",
+            "duration": 170
+        },
+        {
+            "from": "Gentleman",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-09T12:41:06.416095",
+            "duration": 117
+        },
+        {
+            "from": "Gentleman",
+            "to": "CORDELIA",
+            "timestamp": "2025-03-06T14:18:06.416097",
+            "duration": 169
+        },
+        {
+            "from": "Gentleman",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-07T05:58:06.416099",
+            "duration": 163
+        },
+        {
+            "from": "Gentleman",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-03T09:48:06.416101",
+            "duration": 213
+        },
+        {
+            "from": "Gentleman",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-03T06:11:06.416103",
+            "duration": 231
+        },
+        {
+            "from": "Gentleman",
+            "to": "GONERIL",
+            "timestamp": "2025-03-08T23:54:06.416106",
+            "duration": 280
+        },
+        {
+            "from": "Gentleman",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T23:25:06.416108",
+            "duration": 75
+        },
+        {
+            "from": "Gentleman",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T06:18:06.416110",
+            "duration": 207
+        },
+        {
+            "from": "Gentleman",
+            "to": "Third Servant",
+            "timestamp": "2025-03-03T01:10:06.416112",
+            "duration": 171
+        },
+        {
+            "from": "Gentleman",
+            "to": "EDGAR",
+            "timestamp": "2025-03-03T14:20:06.416114",
+            "duration": 63
+        },
+        {
+            "from": "Gentleman",
+            "to": "Captain",
+            "timestamp": "2025-03-03T07:13:06.416117",
+            "duration": 283
+        },
+        {
+            "from": "Gentleman",
+            "to": "Captain",
+            "timestamp": "2025-03-08T11:38:06.416119",
+            "duration": 77
+        },
+        {
+            "from": "Gentleman",
+            "to": "Captain",
+            "timestamp": "2025-03-10T09:26:06.416121",
+            "duration": 102
+        },
+        {
+            "from": "Gentleman",
+            "to": "Fool",
+            "timestamp": "2025-03-08T04:52:06.416123",
+            "duration": 124
+        },
+        {
+            "from": "Gentleman",
+            "to": "Fool",
+            "timestamp": "2025-03-04T06:21:06.416125",
+            "duration": 97
+        },
+        {
+            "from": "Gentleman",
+            "to": "ALBANY",
+            "timestamp": "2025-03-04T06:35:06.416128",
+            "duration": 221
+        },
+        {
+            "from": "Gentleman",
+            "to": "ALBANY",
+            "timestamp": "2025-03-05T16:04:06.416130",
+            "duration": 96
+        },
+        {
+            "from": "CORDELIA",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-03T02:20:06.416132",
+            "duration": 76
+        },
+        {
+            "from": "CORDELIA",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-07T22:35:06.416134",
+            "duration": 157
+        },
+        {
+            "from": "CORDELIA",
+            "to": "GLOUCESTER",
+            "timestamp": "2025-03-05T09:29:06.416136",
+            "duration": 284
+        },
+        {
+            "from": "CORDELIA",
+            "to": "GONERIL",
+            "timestamp": "2025-03-10T06:35:06.416139",
+            "duration": 73
+        },
+        {
+            "from": "CORDELIA",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T08:27:06.416141",
+            "duration": 217
+        },
+        {
+            "from": "CORDELIA",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T19:27:06.416143",
+            "duration": 250
+        },
+        {
+            "from": "CORDELIA",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T18:06:06.416148",
+            "duration": 116
+        },
+        {
+            "from": "CORDELIA",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T00:05:06.416151",
+            "duration": 170
+        },
+        {
+            "from": "CORDELIA",
+            "to": "Third Servant",
+            "timestamp": "2025-03-09T17:48:06.416153",
+            "duration": 253
+        },
+        {
+            "from": "CORDELIA",
+            "to": "EDGAR",
+            "timestamp": "2025-03-04T12:00:06.416156",
+            "duration": 247
+        },
+        {
+            "from": "CORDELIA",
+            "to": "Captain",
+            "timestamp": "2025-03-02T18:21:06.416158",
+            "duration": 138
+        },
+        {
+            "from": "CORDELIA",
+            "to": "Fool",
+            "timestamp": "2025-03-08T13:58:06.416160",
+            "duration": 237
+        },
+        {
+            "from": "CORDELIA",
+            "to": "Fool",
+            "timestamp": "2025-03-07T21:37:06.416163",
+            "duration": 267
+        },
+        {
+            "from": "CORDELIA",
+            "to": "ALBANY",
+            "timestamp": "2025-03-10T04:32:06.416165",
+            "duration": 214
+        },
+        {
+            "from": "CORDELIA",
+            "to": "ALBANY",
+            "timestamp": "2025-03-02T15:55:06.416167",
+            "duration": 160
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "GONERIL",
+            "timestamp": "2025-03-05T13:20:06.416169",
+            "duration": 161
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T02:41:06.416172",
+            "duration": 224
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T03:29:06.416174",
+            "duration": 97
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "Third Servant",
+            "timestamp": "2025-03-06T04:41:06.416176",
+            "duration": 295
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "EDGAR",
+            "timestamp": "2025-03-03T21:45:06.416178",
+            "duration": 186
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "EDGAR",
+            "timestamp": "2025-03-02T19:16:06.416180",
+            "duration": 287
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "EDGAR",
+            "timestamp": "2025-03-06T12:45:06.416182",
+            "duration": 81
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "Captain",
+            "timestamp": "2025-03-06T15:09:06.416185",
+            "duration": 65
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "Captain",
+            "timestamp": "2025-03-10T07:59:06.416187",
+            "duration": 277
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "Captain",
+            "timestamp": "2025-03-09T10:52:06.416189",
+            "duration": 214
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "Fool",
+            "timestamp": "2025-03-03T14:41:06.416192",
+            "duration": 61
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "ALBANY",
+            "timestamp": "2025-03-07T19:32:06.416194",
+            "duration": 141
+        },
+        {
+            "from": "GLOUCESTER",
+            "to": "ALBANY",
+            "timestamp": "2025-03-02T21:51:06.416196",
+            "duration": 99
+        },
+        {
+            "from": "GONERIL",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T02:11:06.416199",
+            "duration": 289
+        },
+        {
+            "from": "GONERIL",
+            "to": "Third Servant",
+            "timestamp": "2025-03-03T10:21:06.416201",
+            "duration": 107
+        },
+        {
+            "from": "GONERIL",
+            "to": "EDGAR",
+            "timestamp": "2025-03-09T16:52:06.416203",
+            "duration": 238
+        },
+        {
+            "from": "GONERIL",
+            "to": "EDGAR",
+            "timestamp": "2025-03-03T11:46:06.416205",
+            "duration": 241
+        },
+        {
+            "from": "GONERIL",
+            "to": "Captain",
+            "timestamp": "2025-03-04T19:16:06.416208",
+            "duration": 89
+        },
+        {
+            "from": "GONERIL",
+            "to": "Captain",
+            "timestamp": "2025-03-02T21:12:06.416210",
+            "duration": 283
+        },
+        {
+            "from": "GONERIL",
+            "to": "Captain",
+            "timestamp": "2025-03-08T05:30:06.416212",
+            "duration": 143
+        },
+        {
+            "from": "GONERIL",
+            "to": "Fool",
+            "timestamp": "2025-03-06T12:17:06.416214",
+            "duration": 235
+        },
+        {
+            "from": "GONERIL",
+            "to": "Fool",
+            "timestamp": "2025-03-08T15:41:06.416216",
+            "duration": 140
+        },
+        {
+            "from": "GONERIL",
+            "to": "Fool",
+            "timestamp": "2025-03-05T21:10:06.416218",
+            "duration": 225
+        },
+        {
+            "from": "GONERIL",
+            "to": "ALBANY",
+            "timestamp": "2025-03-05T08:16:06.416221",
+            "duration": 232
+        },
+        {
+            "from": "GONERIL",
+            "to": "ALBANY",
+            "timestamp": "2025-03-08T09:23:06.416223",
+            "duration": 249
+        },
+        {
+            "from": "Messenger",
+            "to": "Third Servant",
+            "timestamp": "2025-03-05T13:25:06.416225",
+            "duration": 68
+        },
+        {
+            "from": "Messenger",
+            "to": "EDGAR",
+            "timestamp": "2025-03-03T19:51:06.416227",
+            "duration": 231
+        },
+        {
+            "from": "Messenger",
+            "to": "EDGAR",
+            "timestamp": "2025-03-07T00:21:06.416229",
+            "duration": 161
+        },
+        {
+            "from": "Messenger",
+            "to": "EDGAR",
+            "timestamp": "2025-03-08T16:18:06.416232",
+            "duration": 119
+        },
+        {
+            "from": "Messenger",
+            "to": "Captain",
+            "timestamp": "2025-03-06T17:03:06.416234",
+            "duration": 242
+        },
+        {
+            "from": "Messenger",
+            "to": "Fool",
+            "timestamp": "2025-03-05T11:12:06.416236",
+            "duration": 275
+        },
+        {
+            "from": "Messenger",
+            "to": "ALBANY",
+            "timestamp": "2025-03-08T06:35:06.416239",
+            "duration": 184
+        },
+        {
+            "from": "Messenger",
+            "to": "ALBANY",
+            "timestamp": "2025-03-03T21:48:06.416241",
+            "duration": 220
+        },
+        {
+            "from": "Messenger",
+            "to": "ALBANY",
+            "timestamp": "2025-03-07T11:36:06.416243",
+            "duration": 93
+        },
+        {
+            "from": "Third Servant",
+            "to": "EDGAR",
+            "timestamp": "2025-03-08T19:30:06.416245",
+            "duration": 88
+        },
+        {
+            "from": "Third Servant",
+            "to": "EDGAR",
+            "timestamp": "2025-03-08T12:05:06.416248",
+            "duration": 276
+        },
+        {
+            "from": "Third Servant",
+            "to": "EDGAR",
+            "timestamp": "2025-03-09T23:47:06.416250",
+            "duration": 297
+        },
+        {
+            "from": "Third Servant",
+            "to": "Captain",
+            "timestamp": "2025-03-05T18:51:06.416252",
+            "duration": 280
+        },
+        {
+            "from": "Third Servant",
+            "to": "Fool",
+            "timestamp": "2025-03-07T21:50:06.416254",
+            "duration": 105
+        },
+        {
+            "from": "Third Servant",
+            "to": "Fool",
+            "timestamp": "2025-03-04T17:49:06.416257",
+            "duration": 205
+        },
+        {
+            "from": "Third Servant",
+            "to": "Fool",
+            "timestamp": "2025-03-03T17:41:06.416259",
+            "duration": 216
+        },
+        {
+            "from": "Third Servant",
+            "to": "ALBANY",
+            "timestamp": "2025-03-02T22:29:06.416261",
+            "duration": 282
+        },
+        {
+            "from": "EDGAR",
+            "to": "Captain",
+            "timestamp": "2025-03-09T12:09:06.416263",
+            "duration": 91
+        },
+        {
+            "from": "EDGAR",
+            "to": "Captain",
+            "timestamp": "2025-03-04T00:28:06.416265",
+            "duration": 238
+        },
+        {
+            "from": "EDGAR",
+            "to": "Captain",
+            "timestamp": "2025-03-09T04:25:06.416268",
+            "duration": 262
+        },
+        {
+            "from": "EDGAR",
+            "to": "Fool",
+            "timestamp": "2025-03-05T18:38:06.416270",
+            "duration": 202
+        },
+        {
+            "from": "EDGAR",
+            "to": "Fool",
+            "timestamp": "2025-03-04T18:15:06.416272",
+            "duration": 254
+        },
+        {
+            "from": "EDGAR",
+            "to": "Fool",
+            "timestamp": "2025-03-08T10:54:06.416274",
+            "duration": 262
+        },
+        {
+            "from": "EDGAR",
+            "to": "ALBANY",
+            "timestamp": "2025-03-03T02:20:06.416276",
+            "duration": 201
+        },
+        {
+            "from": "EDGAR",
+            "to": "ALBANY",
+            "timestamp": "2025-03-08T18:02:06.416278",
+            "duration": 92
+        },
+        {
+            "from": "EDGAR",
+            "to": "ALBANY",
+            "timestamp": "2025-03-10T12:51:06.416280",
+            "duration": 233
+        },
+        {
+            "from": "Captain",
+            "to": "Fool",
+            "timestamp": "2025-03-09T13:02:06.416283",
+            "duration": 126
+        },
+        {
+            "from": "Captain",
+            "to": "Fool",
+            "timestamp": "2025-03-05T14:08:06.416285",
+            "duration": 140
+        },
+        {
+            "from": "Captain",
+            "to": "Fool",
+            "timestamp": "2025-03-07T17:40:06.416287",
+            "duration": 111
+        },
+        {
+            "from": "Captain",
+            "to": "ALBANY",
+            "timestamp": "2025-03-06T21:15:06.416290",
+            "duration": 154
+        },
+        {
+            "from": "Captain",
+            "to": "ALBANY",
+            "timestamp": "2025-03-08T08:40:06.416292",
+            "duration": 69
+        },
+        {
+            "from": "Fool",
+            "to": "ALBANY",
+            "timestamp": "2025-03-09T17:56:06.416294",
+            "duration": 229
+        },
+        {
+            "from": "Fool",
+            "to": "ALBANY",
+            "timestamp": "2025-03-10T13:27:06.416296",
+            "duration": 187
+        },
+        {
+            "from": "Fool",
+            "to": "ALBANY",
+            "timestamp": "2025-03-08T08:59:06.416298",
+            "duration": 253
+        }
+    ],
+    "contact_data": {
+        "REGAN": {
+            "phone": "415-433-9060",
+            "email": "regan@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "Herald": {
+            "phone": "628-747-5781",
+            "email": "herald@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "CORNWALL": {
+            "phone": "628-764-9490",
+            "email": "cornwall@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "LEAR": {
+            "phone": "415-326-3917",
+            "email": "lear@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "KING LEAR": {
+            "phone": "415-209-8583",
+            "email": "king.lear@crownholdings.com",
+            "title": "Chairman of the Board",
+            "company": "Crown Holdings International",
+            "industry": "Royal"
+        },
+        "BURGUNDY": {
+            "phone": "628-913-9365",
+            "email": "burgundy@commercetrade.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "KING OF FRANCE": {
+            "phone": "628-782-1487",
+            "email": "king.of.france@dynastyglobal.com",
+            "title": "Global President",
+            "company": "Dynasty Global Investments",
+            "industry": "Royal"
+        },
+        "Old Man": {
+            "phone": "628-465-7510",
+            "email": "old.man@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "CURAN": {
+            "phone": "415-653-9880",
+            "email": "curan@commercetrade.com",
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "KENT": {
+            "phone": "415-483-4881",
+            "email": "kent@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "EDMUND": {
+            "phone": "415-351-1991",
+            "email": "edmund@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "OSWALD": {
+            "phone": "628-229-6668",
+            "email": "oswald@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Doctor": {
+            "phone": "415-410-4502",
+            "email": "doctor@merchantsexchange.com",
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Knight": {
+            "phone": "628-900-5308",
+            "email": "knight@merchantsexchange.com",
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Gentleman": {
+            "phone": "628-374-6054",
+            "email": "gentleman@commercelink.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "CORDELIA": {
+            "phone": "628-603-3277",
+            "email": "cordelia@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "GLOUCESTER": {
+            "phone": "415-868-1456",
+            "email": "gloucester@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "GONERIL": {
+            "phone": "415-530-2864",
+            "email": "goneril@commercetrade.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Messenger": {
+            "phone": "628-695-7311",
+            "email": "messenger@globalrelations.org",
+            "title": "Public Relations Director",
+            "company": "Global Relations Institute",
+            "industry": "Diplomatic"
+        },
+        "Third Servant": {
+            "phone": "628-292-6003",
+            "email": "third.servant@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "EDGAR": {
+            "phone": "415-589-6547",
+            "email": "edgar@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Captain": {
+            "phone": "628-466-7471",
+            "email": "captain@vanguardtech.com",
+            "title": "Operations Director",
+            "company": "Vanguard Defense Technologies",
+            "industry": "Military"
+        },
+        "Fool": {
+            "phone": "415-788-3957",
+            "email": "fool@artisticvision.com",
+            "title": "Creative Director",
+            "company": "Artistic Vision Group",
+            "industry": "Artistic"
+        },
+        "ALBANY": {
+            "phone": "415-321-5460",
+            "email": "albany@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        }
+    }
+}

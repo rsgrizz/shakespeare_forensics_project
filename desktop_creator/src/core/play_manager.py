@@ -93,7 +93,7 @@ class PlayManager:
         Returns:
             List[str]: List of character names
         """
-        if not self.play_data:
+        if not self.current_play:
             self.logger.warning("No play currently loaded")
             return []
         
@@ -109,7 +109,7 @@ class PlayManager:
         Returns:
             Dict: Character information
         """
-        if not self.play_data:
+        if not self.play_:
             return {}
             
         return self.play_data.get("characters", {}).get(character_name, {})
@@ -121,7 +121,7 @@ class PlayManager:
         Returns:
             Dict: Play summary
         """
-        if not self.play_data:
+        if not self.play_:
             return {"error": "No play loaded"}
             
         return {
@@ -141,7 +141,7 @@ class PlayManager:
         Returns:
             List[Dict]: List of character's lines with scene info
         """
-        if not self.play_data:
+        if not self.play_:
             return []
             
         lines = []
@@ -168,7 +168,7 @@ class PlayManager:
         Returns:
             Dict: Dictionary of interactions
         """
-        if not self.play_data:
+        if not self.play_:
             return {}
             
         interactions = {}
@@ -191,7 +191,7 @@ class PlayManager:
         Returns:
             List[Dict]: Matching lines with context
         """
-        if not self.play_data:
+        if not self.play_:
             return []
             
         matches = []
@@ -207,23 +207,29 @@ class PlayManager:
         return matches
 
 def main():
-    # Example usage
+    """Example usage of PlayManager."""
+    # Initialize PlayManager
     pm = PlayManager()
-    
-    # Show available plays
-    print("Available plays:", pm.get_available_plays())
-    
-    # Load a play
-    if pm.get_available_plays():
-        play_name = pm.get_available_plays()[0]
-        pm.load_play(play_name)
-        
-        # Show play summary
-        print("\nPlay Summary:", pm.get_play_summary())
-        
-        # Show characters
-        print("\nCharacters:", pm.get_characters())
+
+    # Load available plays
+    available_plays = pm.get_available_plays()
+    print("Available plays:", available_plays)
+
+    # Load a specific play
+    if available_plays:
+        play_name = available_plays[0]  # Get the first play
+        if pm.load_play(play_name):
+            print(f"\nSuccessfully loaded play: {play_name}")
+
+            # Get character list and print
+            characters = pm.get_characters()
+            print("\nCharacters in the play:")
+            for character in characters:
+                print(f"- {character}")
+        else:
+            print(f"Failed to load play: {play_name}")
+    else:
+        print("No plays available.")
 
 if __name__ == "__main__":
     main()
-

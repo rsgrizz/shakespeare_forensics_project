@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\desktop_creator",
+    "\\desktop_creator\\data",
+    "\\desktop_creator\\data\\static",
+    "\\desktop_creator\\data\\static\\plays",
+    "\\desktop_creator\\data\\static\\plays\\Coriolanus",
+    "\\desktop_creator\\data\\static\\plays\\Coriolanus\\data",
+    "\\desktop_creator\\data\\static\\plays\\Henry_IV_Part_2",
+    "\\desktop_creator\\data\\static\\plays\\Henry_IV_Part_2\\data",
+    "\\desktop_creator\\src",
+    "\\desktop_creator\\src\\core"
+  ],
+  "SelectedNode": "\\desktop_creator\\src\\core\\play_manager.py",
+  "PreviewInSolutionExplorer": false
+}

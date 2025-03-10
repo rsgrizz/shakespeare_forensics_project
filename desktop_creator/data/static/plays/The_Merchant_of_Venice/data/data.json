@@ -1,0 +1,3257 @@
+{
+    "characters": {
+        "DUKE": {
+            "title": "Executive Chairman",
+            "company": "Crown Holdings International",
+            "industry": "Royal",
+            "location": "Houston",
+            "phone": "832-777-9088",
+            "email": "duke@crownholdings.com"
+        },
+        "MOROCCO": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-345-2867",
+            "email": "morocco@globaltradepart.com"
+        },
+        "NERISSA": {
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-362-7936",
+            "email": "nerissa@commercelink.com"
+        },
+        "STEPHANO": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-188-6202",
+            "email": "stephano@commercetrade.com"
+        },
+        "BALTHASAR": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-102-7550",
+            "email": "balthasar@commercelink.com"
+        },
+        "SALARINO": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-579-7483",
+            "email": "salarino@commercelink.com"
+        },
+        "ALL": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-599-9454",
+            "email": "all@tradewinds.com"
+        },
+        "ANTONIO": {
+            "title": "Market Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-653-9643",
+            "email": "antonio@marketdyn.com"
+        },
+        "LAUNCELOT": {
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-144-1621",
+            "email": "launcelot@tradewinds.com"
+        },
+        "JESSICA": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-677-1050",
+            "email": "jessica@commercetrade.com"
+        },
+        "LEONARDO": {
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-253-9935",
+            "email": "leonardo@tradewinds.com"
+        },
+        "SALERIO": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-796-9141",
+            "email": "salerio@commercetrade.com"
+        },
+        "PORTIA": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-553-6498",
+            "email": "portia@tradewinds.com"
+        },
+        "BASSANIO": {
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-957-2276",
+            "email": "bassanio@marketdyn.com"
+        },
+        "ARRAGON": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-125-3500",
+            "email": "arragon@commercetrade.com"
+        },
+        "TUBAL": {
+            "title": "Market Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-134-5075",
+            "email": "tubal@marketdyn.com"
+        },
+        "SALANIO": {
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-741-9754",
+            "email": "salanio@merchantsexchange.com"
+        },
+        "GOBBO": {
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "310-355-9701",
+            "email": "gobbo@tradewinds.com"
+        },
+        "GRATIANO": {
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-147-8449",
+            "email": "gratiano@merchantsexchange.com"
+        },
+        "Servant": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-790-9839",
+            "email": "servant@commercelink.com"
+        },
+        "SHYLOCK": {
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-815-4765",
+            "email": "shylock@merchantsexchange.com"
+        },
+        "Clerk": {
+            "title": "Chief Commercial Officer",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-561-4286",
+            "email": "clerk@merchantsexchange.com"
+        },
+        "LORENZO": {
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-753-1363",
+            "email": "lorenzo@globaltradepart.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "DUKE",
+            "to": "MOROCCO",
+            "timestamp": "2025-03-08T02:29:08.146576",
+            "duration": 63
+        },
+        {
+            "from": "DUKE",
+            "to": "MOROCCO",
+            "timestamp": "2025-03-08T20:23:08.146588",
+            "duration": 63
+        },
+        {
+            "from": "DUKE",
+            "to": "MOROCCO",
+            "timestamp": "2025-03-08T12:26:08.146591",
+            "duration": 127
+        },
+        {
+            "from": "DUKE",
+            "to": "NERISSA",
+            "timestamp": "2025-03-09T07:26:08.146593",
+            "duration": 259
+        },
+        {
+            "from": "DUKE",
+            "to": "NERISSA",
+            "timestamp": "2025-03-04T08:32:08.146596",
+            "duration": 211
+        },
+        {
+            "from": "DUKE",
+            "to": "STEPHANO",
+            "timestamp": "2025-03-08T20:25:08.146598",
+            "duration": 101
+        },
+        {
+            "from": "DUKE",
+            "to": "BALTHASAR",
+            "timestamp": "2025-03-04T13:23:08.146601",
+            "duration": 146
+        },
+        {
+            "from": "DUKE",
+            "to": "SALARINO",
+            "timestamp": "2025-03-03T04:42:08.146603",
+            "duration": 180
+        },
+        {
+            "from": "DUKE",
+            "to": "ALL",
+            "timestamp": "2025-03-08T07:19:08.146606",
+            "duration": 276
+        },
+        {
+            "from": "DUKE",
+            "to": "ALL",
+            "timestamp": "2025-03-05T03:26:08.146608",
+            "duration": 120
+        },
+        {
+            "from": "DUKE",
+            "to": "ALL",
+            "timestamp": "2025-03-06T09:11:08.146610",
+            "duration": 177
+        },
+        {
+            "from": "DUKE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-09T19:33:08.146613",
+            "duration": 139
+        },
+        {
+            "from": "DUKE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-05T08:15:08.146615",
+            "duration": 249
+        },
+        {
+            "from": "DUKE",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-03T04:59:08.146617",
+            "duration": 141
+        },
+        {
+            "from": "DUKE",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-02T14:55:08.146619",
+            "duration": 81
+        },
+        {
+            "from": "DUKE",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-10T06:28:08.146621",
+            "duration": 180
+        },
+        {
+            "from": "DUKE",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-03T20:53:08.146624",
+            "duration": 100
+        },
+        {
+            "from": "DUKE",
+            "to": "JESSICA",
+            "timestamp": "2025-03-05T11:28:08.146626",
+            "duration": 286
+        },
+        {
+            "from": "DUKE",
+            "to": "JESSICA",
+            "timestamp": "2025-03-06T07:02:08.146628",
+            "duration": 78
+        },
+        {
+            "from": "DUKE",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-04T10:08:08.146631",
+            "duration": 242
+        },
+        {
+            "from": "DUKE",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-07T10:17:08.146633",
+            "duration": 228
+        },
+        {
+            "from": "DUKE",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-06T03:21:08.146635",
+            "duration": 174
+        },
+        {
+            "from": "DUKE",
+            "to": "SALERIO",
+            "timestamp": "2025-03-08T15:38:08.146637",
+            "duration": 132
+        },
+        {
+            "from": "DUKE",
+            "to": "SALERIO",
+            "timestamp": "2025-03-06T11:46:08.146639",
+            "duration": 274
+        },
+        {
+            "from": "DUKE",
+            "to": "PORTIA",
+            "timestamp": "2025-03-05T19:20:08.146642",
+            "duration": 195
+        },
+        {
+            "from": "DUKE",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-05T06:36:08.146644",
+            "duration": 220
+        },
+        {
+            "from": "DUKE",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-04T07:32:08.146646",
+            "duration": 135
+        },
+        {
+            "from": "DUKE",
+            "to": "TUBAL",
+            "timestamp": "2025-03-03T04:45:08.146649",
+            "duration": 291
+        },
+        {
+            "from": "DUKE",
+            "to": "TUBAL",
+            "timestamp": "2025-03-03T15:34:08.146651",
+            "duration": 290
+        },
+        {
+            "from": "DUKE",
+            "to": "TUBAL",
+            "timestamp": "2025-03-02T15:35:08.146653",
+            "duration": 144
+        },
+        {
+            "from": "DUKE",
+            "to": "SALANIO",
+            "timestamp": "2025-03-06T00:35:08.146655",
+            "duration": 94
+        },
+        {
+            "from": "DUKE",
+            "to": "SALANIO",
+            "timestamp": "2025-03-03T11:52:08.146660",
+            "duration": 94
+        },
+        {
+            "from": "DUKE",
+            "to": "GOBBO",
+            "timestamp": "2025-03-05T20:04:08.146663",
+            "duration": 156
+        },
+        {
+            "from": "DUKE",
+            "to": "GOBBO",
+            "timestamp": "2025-03-06T03:59:08.146665",
+            "duration": 179
+        },
+        {
+            "from": "DUKE",
+            "to": "GOBBO",
+            "timestamp": "2025-03-04T13:15:08.146667",
+            "duration": 200
+        },
+        {
+            "from": "DUKE",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-08T08:52:08.146670",
+            "duration": 271
+        },
+        {
+            "from": "DUKE",
+            "to": "Servant",
+            "timestamp": "2025-03-05T15:50:08.146672",
+            "duration": 144
+        },
+        {
+            "from": "DUKE",
+            "to": "Servant",
+            "timestamp": "2025-03-07T18:07:08.146674",
+            "duration": 103
+        },
+        {
+            "from": "DUKE",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-08T16:55:08.146676",
+            "duration": 81
+        },
+        {
+            "from": "DUKE",
+            "to": "Clerk",
+            "timestamp": "2025-03-10T14:19:08.146679",
+            "duration": 173
+        },
+        {
+            "from": "DUKE",
+            "to": "Clerk",
+            "timestamp": "2025-03-06T12:24:08.146681",
+            "duration": 158
+        },
+        {
+            "from": "DUKE",
+            "to": "Clerk",
+            "timestamp": "2025-03-09T12:35:08.146683",
+            "duration": 228
+        },
+        {
+            "from": "DUKE",
+            "to": "LORENZO",
+            "timestamp": "2025-03-05T06:38:08.146685",
+            "duration": 232
+        },
+        {
+            "from": "MOROCCO",
+            "to": "NERISSA",
+            "timestamp": "2025-03-07T18:55:08.146688",
+            "duration": 290
+        },
+        {
+            "from": "MOROCCO",
+            "to": "NERISSA",
+            "timestamp": "2025-03-06T11:13:08.146690",
+            "duration": 201
+        },
+        {
+            "from": "MOROCCO",
+            "to": "STEPHANO",
+            "timestamp": "2025-03-03T13:10:08.146693",
+            "duration": 145
+        },
+        {
+            "from": "MOROCCO",
+            "to": "STEPHANO",
+            "timestamp": "2025-03-09T01:09:08.146696",
+            "duration": 278
+        },
+        {
+            "from": "MOROCCO",
+            "to": "BALTHASAR",
+            "timestamp": "2025-03-09T22:05:08.146698",
+            "duration": 228
+        },
+        {
+            "from": "MOROCCO",
+            "to": "SALARINO",
+            "timestamp": "2025-03-08T00:10:08.146701",
+            "duration": 159
+        },
+        {
+            "from": "MOROCCO",
+            "to": "ALL",
+            "timestamp": "2025-03-09T08:30:08.146703",
+            "duration": 120
+        },
+        {
+            "from": "MOROCCO",
+            "to": "ALL",
+            "timestamp": "2025-03-05T00:30:08.146705",
+            "duration": 68
+        },
+        {
+            "from": "MOROCCO",
+            "to": "ALL",
+            "timestamp": "2025-03-04T16:51:08.146707",
+            "duration": 140
+        },
+        {
+            "from": "MOROCCO",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-07T06:24:08.146710",
+            "duration": 233
+        },
+        {
+            "from": "MOROCCO",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-04T15:50:08.146712",
+            "duration": 157
+        },
+        {
+            "from": "MOROCCO",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-03T13:59:08.146714",
+            "duration": 208
+        },
+        {
+            "from": "MOROCCO",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-05T17:27:08.146716",
+            "duration": 73
+        },
+        {
+            "from": "MOROCCO",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-06T19:30:08.146718",
+            "duration": 149
+        },
+        {
+            "from": "MOROCCO",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-08T12:23:08.146720",
+            "duration": 184
+        },
+        {
+            "from": "MOROCCO",
+            "to": "JESSICA",
+            "timestamp": "2025-03-06T03:43:08.146722",
+            "duration": 100
+        },
+        {
+            "from": "MOROCCO",
+            "to": "JESSICA",
+            "timestamp": "2025-03-08T17:20:08.146725",
+            "duration": 188
+        },
+        {
+            "from": "MOROCCO",
+            "to": "JESSICA",
+            "timestamp": "2025-03-06T12:16:08.146727",
+            "duration": 102
+        },
+        {
+            "from": "MOROCCO",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-04T07:37:08.146729",
+            "duration": 245
+        },
+        {
+            "from": "MOROCCO",
+            "to": "SALERIO",
+            "timestamp": "2025-03-10T08:46:08.146731",
+            "duration": 66
+        },
+        {
+            "from": "MOROCCO",
+            "to": "SALERIO",
+            "timestamp": "2025-03-10T08:32:08.146733",
+            "duration": 207
+        },
+        {
+            "from": "MOROCCO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-08T11:59:08.146736",
+            "duration": 232
+        },
+        {
+            "from": "MOROCCO",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-07T06:36:08.146738",
+            "duration": 226
+        },
+        {
+            "from": "MOROCCO",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-04T14:19:08.146741",
+            "duration": 187
+        },
+        {
+            "from": "MOROCCO",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-08T05:10:08.146743",
+            "duration": 250
+        },
+        {
+            "from": "MOROCCO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-08T01:06:08.146745",
+            "duration": 88
+        },
+        {
+            "from": "MOROCCO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-03T08:00:08.146747",
+            "duration": 187
+        },
+        {
+            "from": "MOROCCO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-03T12:12:08.146749",
+            "duration": 101
+        },
+        {
+            "from": "MOROCCO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-07T15:04:08.146751",
+            "duration": 153
+        },
+        {
+            "from": "MOROCCO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-09T14:06:08.146753",
+            "duration": 157
+        },
+        {
+            "from": "MOROCCO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-08T18:26:08.146756",
+            "duration": 221
+        },
+        {
+            "from": "MOROCCO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-05T20:21:08.146758",
+            "duration": 237
+        },
+        {
+            "from": "MOROCCO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-03T03:28:08.146760",
+            "duration": 222
+        },
+        {
+            "from": "MOROCCO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-10T06:54:08.146762",
+            "duration": 202
+        },
+        {
+            "from": "MOROCCO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-09T08:37:08.146765",
+            "duration": 214
+        },
+        {
+            "from": "MOROCCO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-05T00:00:08.146767",
+            "duration": 102
+        },
+        {
+            "from": "MOROCCO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-07T11:52:08.146769",
+            "duration": 184
+        },
+        {
+            "from": "MOROCCO",
+            "to": "Servant",
+            "timestamp": "2025-03-08T10:19:08.146771",
+            "duration": 82
+        },
+        {
+            "from": "MOROCCO",
+            "to": "Servant",
+            "timestamp": "2025-03-05T11:23:08.146773",
+            "duration": 266
+        },
+        {
+            "from": "MOROCCO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-04T05:50:08.146776",
+            "duration": 67
+        },
+        {
+            "from": "MOROCCO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-07T08:47:08.146778",
+            "duration": 166
+        },
+        {
+            "from": "MOROCCO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-04T13:54:08.146780",
+            "duration": 130
+        },
+        {
+            "from": "MOROCCO",
+            "to": "Clerk",
+            "timestamp": "2025-03-02T21:58:08.146782",
+            "duration": 167
+        },
+        {
+            "from": "MOROCCO",
+            "to": "Clerk",
+            "timestamp": "2025-03-06T00:11:08.146784",
+            "duration": 202
+        },
+        {
+            "from": "MOROCCO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-08T21:34:08.146786",
+            "duration": 286
+        },
+        {
+            "from": "NERISSA",
+            "to": "STEPHANO",
+            "timestamp": "2025-03-10T00:41:08.146789",
+            "duration": 282
+        },
+        {
+            "from": "NERISSA",
+            "to": "STEPHANO",
+            "timestamp": "2025-03-05T02:06:08.146791",
+            "duration": 173
+        },
+        {
+            "from": "NERISSA",
+            "to": "STEPHANO",
+            "timestamp": "2025-03-07T06:14:08.146793",
+            "duration": 85
+        },
+        {
+            "from": "NERISSA",
+            "to": "BALTHASAR",
+            "timestamp": "2025-03-04T04:08:08.146795",
+            "duration": 197
+        },
+        {
+            "from": "NERISSA",
+            "to": "SALARINO",
+            "timestamp": "2025-03-05T06:21:08.146798",
+            "duration": 205
+        },
+        {
+            "from": "NERISSA",
+            "to": "ALL",
+            "timestamp": "2025-03-09T05:33:08.146800",
+            "duration": 278
+        },
+        {
+            "from": "NERISSA",
+            "to": "ALL",
+            "timestamp": "2025-03-02T21:05:08.146802",
+            "duration": 279
+        },
+        {
+            "from": "NERISSA",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-06T23:58:08.146805",
+            "duration": 63
+        },
+        {
+            "from": "NERISSA",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-05T15:19:08.146807",
+            "duration": 75
+        },
+        {
+            "from": "NERISSA",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-08T06:04:08.146809",
+            "duration": 158
+        },
+        {
+            "from": "NERISSA",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-06T05:46:08.146811",
+            "duration": 101
+        },
+        {
+            "from": "NERISSA",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-10T03:49:08.146813",
+            "duration": 119
+        },
+        {
+            "from": "NERISSA",
+            "to": "JESSICA",
+            "timestamp": "2025-03-09T19:40:08.146816",
+            "duration": 245
+        },
+        {
+            "from": "NERISSA",
+            "to": "JESSICA",
+            "timestamp": "2025-03-08T08:10:08.146821",
+            "duration": 135
+        },
+        {
+            "from": "NERISSA",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-03T07:57:08.146824",
+            "duration": 242
+        },
+        {
+            "from": "NERISSA",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-03T16:24:08.146826",
+            "duration": 191
+        },
+        {
+            "from": "NERISSA",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-03T11:19:08.146828",
+            "duration": 61
+        },
+        {
+            "from": "NERISSA",
+            "to": "SALERIO",
+            "timestamp": "2025-03-05T22:45:08.146830",
+            "duration": 125
+        },
+        {
+            "from": "NERISSA",
+            "to": "SALERIO",
+            "timestamp": "2025-03-03T00:15:08.146832",
+            "duration": 130
+        },
+        {
+            "from": "NERISSA",
+            "to": "PORTIA",
+            "timestamp": "2025-03-09T19:24:08.146835",
+            "duration": 266
+        },
+        {
+            "from": "NERISSA",
+            "to": "PORTIA",
+            "timestamp": "2025-03-05T01:42:08.146837",
+            "duration": 60
+        },
+        {
+            "from": "NERISSA",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-04T01:15:08.146839",
+            "duration": 184
+        },
+        {
+            "from": "NERISSA",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-07T06:57:08.146842",
+            "duration": 234
+        },
+        {
+            "from": "NERISSA",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-06T16:38:08.146844",
+            "duration": 264
+        },
+        {
+            "from": "NERISSA",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-06T01:01:08.146846",
+            "duration": 222
+        },
+        {
+            "from": "NERISSA",
+            "to": "TUBAL",
+            "timestamp": "2025-03-04T12:22:08.146848",
+            "duration": 95
+        },
+        {
+            "from": "NERISSA",
+            "to": "TUBAL",
+            "timestamp": "2025-03-04T22:58:08.146850",
+            "duration": 119
+        },
+        {
+            "from": "NERISSA",
+            "to": "TUBAL",
+            "timestamp": "2025-03-08T17:30:08.146852",
+            "duration": 251
+        },
+        {
+            "from": "NERISSA",
+            "to": "SALANIO",
+            "timestamp": "2025-03-06T12:51:08.146855",
+            "duration": 143
+        },
+        {
+            "from": "NERISSA",
+            "to": "SALANIO",
+            "timestamp": "2025-03-03T07:27:08.146880",
+            "duration": 129
+        },
+        {
+            "from": "NERISSA",
+            "to": "GOBBO",
+            "timestamp": "2025-03-05T21:23:08.146886",
+            "duration": 174
+        },
+        {
+            "from": "NERISSA",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-04T18:03:08.146888",
+            "duration": 175
+        },
+        {
+            "from": "NERISSA",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-06T10:56:08.146891",
+            "duration": 149
+        },
+        {
+            "from": "NERISSA",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-10T06:42:08.146893",
+            "duration": 298
+        },
+        {
+            "from": "NERISSA",
+            "to": "Servant",
+            "timestamp": "2025-03-08T19:10:08.146896",
+            "duration": 183
+        },
+        {
+            "from": "NERISSA",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-09T10:20:08.146898",
+            "duration": 180
+        },
+        {
+            "from": "NERISSA",
+            "to": "Clerk",
+            "timestamp": "2025-03-09T14:33:08.146901",
+            "duration": 277
+        },
+        {
+            "from": "NERISSA",
+            "to": "Clerk",
+            "timestamp": "2025-03-10T11:07:08.146903",
+            "duration": 171
+        },
+        {
+            "from": "NERISSA",
+            "to": "LORENZO",
+            "timestamp": "2025-03-05T23:50:08.146906",
+            "duration": 131
+        },
+        {
+            "from": "NERISSA",
+            "to": "LORENZO",
+            "timestamp": "2025-03-07T07:20:08.146908",
+            "duration": 287
+        },
+        {
+            "from": "STEPHANO",
+            "to": "BALTHASAR",
+            "timestamp": "2025-03-07T19:33:08.146910",
+            "duration": 185
+        },
+        {
+            "from": "STEPHANO",
+            "to": "BALTHASAR",
+            "timestamp": "2025-03-04T03:38:08.146915",
+            "duration": 95
+        },
+        {
+            "from": "STEPHANO",
+            "to": "SALARINO",
+            "timestamp": "2025-03-09T23:40:08.146917",
+            "duration": 144
+        },
+        {
+            "from": "STEPHANO",
+            "to": "SALARINO",
+            "timestamp": "2025-03-07T22:48:08.146920",
+            "duration": 259
+        },
+        {
+            "from": "STEPHANO",
+            "to": "ALL",
+            "timestamp": "2025-03-03T01:14:08.146922",
+            "duration": 63
+        },
+        {
+            "from": "STEPHANO",
+            "to": "ALL",
+            "timestamp": "2025-03-09T18:26:08.146924",
+            "duration": 202
+        },
+        {
+            "from": "STEPHANO",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-05T20:14:08.146927",
+            "duration": 296
+        },
+        {
+            "from": "STEPHANO",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-04T18:59:08.146929",
+            "duration": 241
+        },
+        {
+            "from": "STEPHANO",
+            "to": "JESSICA",
+            "timestamp": "2025-03-05T22:24:08.146931",
+            "duration": 113
+        },
+        {
+            "from": "STEPHANO",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-10T13:29:08.146934",
+            "duration": 263
+        },
+        {
+            "from": "STEPHANO",
+            "to": "SALERIO",
+            "timestamp": "2025-03-03T15:42:08.146936",
+            "duration": 169
+        },
+        {
+            "from": "STEPHANO",
+            "to": "SALERIO",
+            "timestamp": "2025-03-10T04:56:08.146938",
+            "duration": 136
+        },
+        {
+            "from": "STEPHANO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-03T03:04:08.146941",
+            "duration": 60
+        },
+        {
+            "from": "STEPHANO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-07T05:55:08.146943",
+            "duration": 206
+        },
+        {
+            "from": "STEPHANO",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-03T21:06:08.146946",
+            "duration": 105
+        },
+        {
+            "from": "STEPHANO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-07T06:01:08.146949",
+            "duration": 217
+        },
+        {
+            "from": "STEPHANO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-07T02:53:08.146951",
+            "duration": 61
+        },
+        {
+            "from": "STEPHANO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-04T17:09:08.146953",
+            "duration": 145
+        },
+        {
+            "from": "STEPHANO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-09T03:17:08.146955",
+            "duration": 173
+        },
+        {
+            "from": "STEPHANO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-06T16:21:08.146957",
+            "duration": 77
+        },
+        {
+            "from": "STEPHANO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-08T12:55:08.146960",
+            "duration": 160
+        },
+        {
+            "from": "STEPHANO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-10T11:57:08.146962",
+            "duration": 282
+        },
+        {
+            "from": "STEPHANO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-10T10:29:08.146964",
+            "duration": 160
+        },
+        {
+            "from": "STEPHANO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-06T07:02:08.146966",
+            "duration": 152
+        },
+        {
+            "from": "STEPHANO",
+            "to": "Servant",
+            "timestamp": "2025-03-07T12:02:08.146969",
+            "duration": 116
+        },
+        {
+            "from": "STEPHANO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-03T17:12:08.146971",
+            "duration": 274
+        },
+        {
+            "from": "STEPHANO",
+            "to": "Clerk",
+            "timestamp": "2025-03-04T12:47:08.146973",
+            "duration": 130
+        },
+        {
+            "from": "STEPHANO",
+            "to": "Clerk",
+            "timestamp": "2025-03-07T23:23:08.146975",
+            "duration": 162
+        },
+        {
+            "from": "STEPHANO",
+            "to": "Clerk",
+            "timestamp": "2025-03-09T15:41:08.146977",
+            "duration": 207
+        },
+        {
+            "from": "STEPHANO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-10T12:11:08.146980",
+            "duration": 289
+        },
+        {
+            "from": "STEPHANO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-10T09:16:08.146982",
+            "duration": 161
+        },
+        {
+            "from": "STEPHANO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-06T18:07:08.146984",
+            "duration": 181
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "SALARINO",
+            "timestamp": "2025-03-09T19:19:08.146986",
+            "duration": 230
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "SALARINO",
+            "timestamp": "2025-03-03T09:39:08.146988",
+            "duration": 241
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ALL",
+            "timestamp": "2025-03-10T09:00:08.146990",
+            "duration": 132
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-06T01:02:08.146993",
+            "duration": 234
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-04T20:40:08.146995",
+            "duration": 186
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-09T12:12:08.146997",
+            "duration": 86
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "JESSICA",
+            "timestamp": "2025-03-08T04:27:08.146999",
+            "duration": 221
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-04T08:35:08.147002",
+            "duration": 239
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "SALERIO",
+            "timestamp": "2025-03-09T01:12:08.147004",
+            "duration": 195
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "PORTIA",
+            "timestamp": "2025-03-04T00:18:08.147006",
+            "duration": 182
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "PORTIA",
+            "timestamp": "2025-03-07T14:56:08.147008",
+            "duration": 142
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-06T23:14:08.147011",
+            "duration": 159
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-05T00:59:08.147013",
+            "duration": 222
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-06T02:09:08.147015",
+            "duration": 291
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-03T21:25:08.147017",
+            "duration": 228
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "TUBAL",
+            "timestamp": "2025-03-04T12:37:08.147019",
+            "duration": 137
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "TUBAL",
+            "timestamp": "2025-03-06T06:58:08.147021",
+            "duration": 295
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "TUBAL",
+            "timestamp": "2025-03-09T15:41:08.147024",
+            "duration": 125
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "SALANIO",
+            "timestamp": "2025-03-05T06:28:08.147026",
+            "duration": 67
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "GOBBO",
+            "timestamp": "2025-03-08T14:28:08.147028",
+            "duration": 136
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-03T04:13:08.147030",
+            "duration": 155
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-09T23:18:08.147032",
+            "duration": 260
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-08T13:43:08.147034",
+            "duration": 239
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Servant",
+            "timestamp": "2025-03-03T20:41:08.147037",
+            "duration": 130
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Servant",
+            "timestamp": "2025-03-09T00:08:08.147039",
+            "duration": 267
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-06T13:49:08.147041",
+            "duration": 243
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Clerk",
+            "timestamp": "2025-03-08T03:00:08.147043",
+            "duration": 67
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Clerk",
+            "timestamp": "2025-03-05T01:57:08.147045",
+            "duration": 141
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "Clerk",
+            "timestamp": "2025-03-05T11:07:08.147047",
+            "duration": 104
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LORENZO",
+            "timestamp": "2025-03-07T10:18:08.147049",
+            "duration": 74
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LORENZO",
+            "timestamp": "2025-03-05T01:15:08.147051",
+            "duration": 212
+        },
+        {
+            "from": "BALTHASAR",
+            "to": "LORENZO",
+            "timestamp": "2025-03-08T21:04:08.147053",
+            "duration": 243
+        },
+        {
+            "from": "SALARINO",
+            "to": "ALL",
+            "timestamp": "2025-03-09T21:46:08.147056",
+            "duration": 285
+        },
+        {
+            "from": "SALARINO",
+            "to": "ALL",
+            "timestamp": "2025-03-06T06:01:08.147058",
+            "duration": 288
+        },
+        {
+            "from": "SALARINO",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-05T13:42:08.147060",
+            "duration": 102
+        },
+        {
+            "from": "SALARINO",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-06T16:41:08.147062",
+            "duration": 191
+        },
+        {
+            "from": "SALARINO",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-03T23:44:08.147064",
+            "duration": 146
+        },
+        {
+            "from": "SALARINO",
+            "to": "JESSICA",
+            "timestamp": "2025-03-10T01:19:08.147067",
+            "duration": 152
+        },
+        {
+            "from": "SALARINO",
+            "to": "JESSICA",
+            "timestamp": "2025-03-07T22:12:08.147069",
+            "duration": 154
+        },
+        {
+            "from": "SALARINO",
+            "to": "JESSICA",
+            "timestamp": "2025-03-07T04:38:08.147071",
+            "duration": 94
+        },
+        {
+            "from": "SALARINO",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-09T03:54:08.147073",
+            "duration": 207
+        },
+        {
+            "from": "SALARINO",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-04T00:06:08.147075",
+            "duration": 138
+        },
+        {
+            "from": "SALARINO",
+            "to": "SALERIO",
+            "timestamp": "2025-03-06T02:55:08.147078",
+            "duration": 106
+        },
+        {
+            "from": "SALARINO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-09T02:30:08.147080",
+            "duration": 256
+        },
+        {
+            "from": "SALARINO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-08T00:29:08.147082",
+            "duration": 146
+        },
+        {
+            "from": "SALARINO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-08T05:14:08.147084",
+            "duration": 247
+        },
+        {
+            "from": "SALARINO",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-06T04:15:08.147086",
+            "duration": 87
+        },
+        {
+            "from": "SALARINO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-04T02:25:08.147088",
+            "duration": 193
+        },
+        {
+            "from": "SALARINO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-08T23:27:08.147091",
+            "duration": 69
+        },
+        {
+            "from": "SALARINO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-08T12:49:08.147093",
+            "duration": 64
+        },
+        {
+            "from": "SALARINO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-04T14:04:08.147094",
+            "duration": 222
+        },
+        {
+            "from": "SALARINO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-04T07:54:08.147097",
+            "duration": 298
+        },
+        {
+            "from": "SALARINO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-10T04:12:08.147099",
+            "duration": 167
+        },
+        {
+            "from": "SALARINO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-08T11:35:08.147101",
+            "duration": 126
+        },
+        {
+            "from": "SALARINO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-09T21:53:08.147103",
+            "duration": 264
+        },
+        {
+            "from": "SALARINO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-03T16:07:08.147106",
+            "duration": 266
+        },
+        {
+            "from": "SALARINO",
+            "to": "Servant",
+            "timestamp": "2025-03-10T07:18:08.147108",
+            "duration": 278
+        },
+        {
+            "from": "SALARINO",
+            "to": "Servant",
+            "timestamp": "2025-03-06T17:03:08.147110",
+            "duration": 112
+        },
+        {
+            "from": "SALARINO",
+            "to": "Servant",
+            "timestamp": "2025-03-08T12:17:08.147112",
+            "duration": 253
+        },
+        {
+            "from": "SALARINO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-04T05:30:08.147114",
+            "duration": 65
+        },
+        {
+            "from": "SALARINO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-06T23:31:08.147116",
+            "duration": 150
+        },
+        {
+            "from": "SALARINO",
+            "to": "Clerk",
+            "timestamp": "2025-03-04T00:35:08.147119",
+            "duration": 187
+        },
+        {
+            "from": "SALARINO",
+            "to": "Clerk",
+            "timestamp": "2025-03-03T22:55:08.147121",
+            "duration": 227
+        },
+        {
+            "from": "SALARINO",
+            "to": "Clerk",
+            "timestamp": "2025-03-08T11:52:08.147123",
+            "duration": 103
+        },
+        {
+            "from": "SALARINO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-08T17:20:08.147125",
+            "duration": 189
+        },
+        {
+            "from": "SALARINO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-07T18:04:08.147127",
+            "duration": 128
+        },
+        {
+            "from": "ALL",
+            "to": "ANTONIO",
+            "timestamp": "2025-03-09T05:17:08.147129",
+            "duration": 204
+        },
+        {
+            "from": "ALL",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-08T20:37:08.147131",
+            "duration": 247
+        },
+        {
+            "from": "ALL",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-09T01:33:08.147133",
+            "duration": 182
+        },
+        {
+            "from": "ALL",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-05T11:00:08.147135",
+            "duration": 99
+        },
+        {
+            "from": "ALL",
+            "to": "JESSICA",
+            "timestamp": "2025-03-08T10:00:08.147138",
+            "duration": 166
+        },
+        {
+            "from": "ALL",
+            "to": "JESSICA",
+            "timestamp": "2025-03-08T11:55:08.147140",
+            "duration": 167
+        },
+        {
+            "from": "ALL",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-04T07:19:08.147147",
+            "duration": 245
+        },
+        {
+            "from": "ALL",
+            "to": "SALERIO",
+            "timestamp": "2025-03-09T21:39:08.147152",
+            "duration": 139
+        },
+        {
+            "from": "ALL",
+            "to": "SALERIO",
+            "timestamp": "2025-03-02T14:54:08.147155",
+            "duration": 204
+        },
+        {
+            "from": "ALL",
+            "to": "PORTIA",
+            "timestamp": "2025-03-09T17:28:08.147159",
+            "duration": 81
+        },
+        {
+            "from": "ALL",
+            "to": "PORTIA",
+            "timestamp": "2025-03-05T04:07:08.147161",
+            "duration": 93
+        },
+        {
+            "from": "ALL",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-05T08:26:08.147163",
+            "duration": 119
+        },
+        {
+            "from": "ALL",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-04T20:58:08.147166",
+            "duration": 198
+        },
+        {
+            "from": "ALL",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-08T03:36:08.147168",
+            "duration": 78
+        },
+        {
+            "from": "ALL",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-06T14:21:08.147170",
+            "duration": 158
+        },
+        {
+            "from": "ALL",
+            "to": "TUBAL",
+            "timestamp": "2025-03-08T07:04:08.147173",
+            "duration": 182
+        },
+        {
+            "from": "ALL",
+            "to": "SALANIO",
+            "timestamp": "2025-03-04T10:22:08.147175",
+            "duration": 90
+        },
+        {
+            "from": "ALL",
+            "to": "SALANIO",
+            "timestamp": "2025-03-03T23:03:08.147177",
+            "duration": 237
+        },
+        {
+            "from": "ALL",
+            "to": "GOBBO",
+            "timestamp": "2025-03-07T06:50:08.147180",
+            "duration": 145
+        },
+        {
+            "from": "ALL",
+            "to": "GOBBO",
+            "timestamp": "2025-03-07T14:10:08.147182",
+            "duration": 178
+        },
+        {
+            "from": "ALL",
+            "to": "GOBBO",
+            "timestamp": "2025-03-02T17:54:08.147184",
+            "duration": 271
+        },
+        {
+            "from": "ALL",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-03T18:20:08.147186",
+            "duration": 87
+        },
+        {
+            "from": "ALL",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-03T14:25:08.147188",
+            "duration": 273
+        },
+        {
+            "from": "ALL",
+            "to": "Servant",
+            "timestamp": "2025-03-08T02:56:08.147191",
+            "duration": 258
+        },
+        {
+            "from": "ALL",
+            "to": "Servant",
+            "timestamp": "2025-03-08T17:40:08.147193",
+            "duration": 297
+        },
+        {
+            "from": "ALL",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-03T12:17:08.147195",
+            "duration": 249
+        },
+        {
+            "from": "ALL",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-04T17:16:08.147197",
+            "duration": 243
+        },
+        {
+            "from": "ALL",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-07T13:23:08.147199",
+            "duration": 210
+        },
+        {
+            "from": "ALL",
+            "to": "Clerk",
+            "timestamp": "2025-03-08T19:43:08.147202",
+            "duration": 62
+        },
+        {
+            "from": "ALL",
+            "to": "Clerk",
+            "timestamp": "2025-03-10T12:36:08.147204",
+            "duration": 221
+        },
+        {
+            "from": "ALL",
+            "to": "Clerk",
+            "timestamp": "2025-03-08T01:04:08.147206",
+            "duration": 264
+        },
+        {
+            "from": "ALL",
+            "to": "LORENZO",
+            "timestamp": "2025-03-06T13:32:08.147208",
+            "duration": 249
+        },
+        {
+            "from": "ALL",
+            "to": "LORENZO",
+            "timestamp": "2025-03-05T20:19:08.147210",
+            "duration": 155
+        },
+        {
+            "from": "ANTONIO",
+            "to": "LAUNCELOT",
+            "timestamp": "2025-03-04T23:35:08.147213",
+            "duration": 300
+        },
+        {
+            "from": "ANTONIO",
+            "to": "JESSICA",
+            "timestamp": "2025-03-08T13:55:08.147215",
+            "duration": 117
+        },
+        {
+            "from": "ANTONIO",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-10T07:06:08.147217",
+            "duration": 205
+        },
+        {
+            "from": "ANTONIO",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-07T03:20:08.147219",
+            "duration": 214
+        },
+        {
+            "from": "ANTONIO",
+            "to": "SALERIO",
+            "timestamp": "2025-03-03T05:33:08.147222",
+            "duration": 152
+        },
+        {
+            "from": "ANTONIO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-02T23:38:08.147225",
+            "duration": 77
+        },
+        {
+            "from": "ANTONIO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-03T01:47:08.147227",
+            "duration": 200
+        },
+        {
+            "from": "ANTONIO",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-07T07:33:08.147230",
+            "duration": 299
+        },
+        {
+            "from": "ANTONIO",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-06T03:31:08.147232",
+            "duration": 117
+        },
+        {
+            "from": "ANTONIO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-06T09:36:08.147234",
+            "duration": 84
+        },
+        {
+            "from": "ANTONIO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-09T07:52:08.147237",
+            "duration": 165
+        },
+        {
+            "from": "ANTONIO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-03T18:17:08.147239",
+            "duration": 74
+        },
+        {
+            "from": "ANTONIO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-03T05:42:08.147241",
+            "duration": 105
+        },
+        {
+            "from": "ANTONIO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-03T04:30:08.147243",
+            "duration": 219
+        },
+        {
+            "from": "ANTONIO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-04T12:01:08.147246",
+            "duration": 205
+        },
+        {
+            "from": "ANTONIO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-09T19:04:08.147248",
+            "duration": 213
+        },
+        {
+            "from": "ANTONIO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-07T07:01:08.147250",
+            "duration": 273
+        },
+        {
+            "from": "ANTONIO",
+            "to": "Servant",
+            "timestamp": "2025-03-04T17:58:08.147253",
+            "duration": 249
+        },
+        {
+            "from": "ANTONIO",
+            "to": "Servant",
+            "timestamp": "2025-03-08T22:09:08.147255",
+            "duration": 97
+        },
+        {
+            "from": "ANTONIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-05T12:43:08.147257",
+            "duration": 216
+        },
+        {
+            "from": "ANTONIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-05T20:43:08.147259",
+            "duration": 257
+        },
+        {
+            "from": "ANTONIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-05T17:23:08.147261",
+            "duration": 195
+        },
+        {
+            "from": "ANTONIO",
+            "to": "Clerk",
+            "timestamp": "2025-03-03T05:02:08.147263",
+            "duration": 274
+        },
+        {
+            "from": "ANTONIO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-03T08:25:08.147266",
+            "duration": 250
+        },
+        {
+            "from": "ANTONIO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-05T07:23:08.147268",
+            "duration": 232
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "JESSICA",
+            "timestamp": "2025-03-07T19:55:08.147270",
+            "duration": 273
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "JESSICA",
+            "timestamp": "2025-03-05T12:45:08.147272",
+            "duration": 150
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-10T07:52:08.147275",
+            "duration": 237
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "SALERIO",
+            "timestamp": "2025-03-08T00:44:08.147277",
+            "duration": 81
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "SALERIO",
+            "timestamp": "2025-03-06T22:12:08.147279",
+            "duration": 141
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "PORTIA",
+            "timestamp": "2025-03-05T20:52:08.147281",
+            "duration": 154
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-06T03:39:08.147284",
+            "duration": 270
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-04T23:42:08.147286",
+            "duration": 69
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-04T15:37:08.147288",
+            "duration": 146
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-03T06:00:08.147290",
+            "duration": 275
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "TUBAL",
+            "timestamp": "2025-03-04T17:59:08.147292",
+            "duration": 126
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "TUBAL",
+            "timestamp": "2025-03-04T09:59:08.147294",
+            "duration": 134
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "SALANIO",
+            "timestamp": "2025-03-06T15:41:08.147297",
+            "duration": 167
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "SALANIO",
+            "timestamp": "2025-03-04T22:39:08.147299",
+            "duration": 79
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "SALANIO",
+            "timestamp": "2025-03-02T20:10:08.147301",
+            "duration": 257
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "GOBBO",
+            "timestamp": "2025-03-10T08:22:08.147303",
+            "duration": 171
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "GOBBO",
+            "timestamp": "2025-03-04T18:12:08.147305",
+            "duration": 162
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "GOBBO",
+            "timestamp": "2025-03-08T18:22:08.147307",
+            "duration": 100
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-06T12:59:08.147309",
+            "duration": 214
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-07T11:58:08.147312",
+            "duration": 261
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "Servant",
+            "timestamp": "2025-03-02T23:33:08.147314",
+            "duration": 205
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "Servant",
+            "timestamp": "2025-03-08T11:31:08.147316",
+            "duration": 150
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "Servant",
+            "timestamp": "2025-03-08T06:39:08.147318",
+            "duration": 111
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-08T00:30:08.147320",
+            "duration": 170
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-04T09:48:08.147322",
+            "duration": 139
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-06T07:49:08.147325",
+            "duration": 297
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "Clerk",
+            "timestamp": "2025-03-07T12:15:08.147327",
+            "duration": 171
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "Clerk",
+            "timestamp": "2025-03-08T01:09:08.147329",
+            "duration": 136
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "LORENZO",
+            "timestamp": "2025-03-09T15:32:08.147332",
+            "duration": 282
+        },
+        {
+            "from": "LAUNCELOT",
+            "to": "LORENZO",
+            "timestamp": "2025-03-08T04:01:08.147334",
+            "duration": 244
+        },
+        {
+            "from": "JESSICA",
+            "to": "LEONARDO",
+            "timestamp": "2025-03-04T03:18:08.147336",
+            "duration": 127
+        },
+        {
+            "from": "JESSICA",
+            "to": "SALERIO",
+            "timestamp": "2025-03-03T06:24:08.147338",
+            "duration": 262
+        },
+        {
+            "from": "JESSICA",
+            "to": "PORTIA",
+            "timestamp": "2025-03-04T05:15:08.147341",
+            "duration": 110
+        },
+        {
+            "from": "JESSICA",
+            "to": "PORTIA",
+            "timestamp": "2025-03-08T02:17:08.147343",
+            "duration": 137
+        },
+        {
+            "from": "JESSICA",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-05T18:09:08.147345",
+            "duration": 241
+        },
+        {
+            "from": "JESSICA",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-05T06:01:08.147348",
+            "duration": 197
+        },
+        {
+            "from": "JESSICA",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-07T22:43:08.147350",
+            "duration": 251
+        },
+        {
+            "from": "JESSICA",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-08T17:31:08.147352",
+            "duration": 188
+        },
+        {
+            "from": "JESSICA",
+            "to": "TUBAL",
+            "timestamp": "2025-03-03T21:30:08.147354",
+            "duration": 156
+        },
+        {
+            "from": "JESSICA",
+            "to": "SALANIO",
+            "timestamp": "2025-03-03T19:59:08.147356",
+            "duration": 157
+        },
+        {
+            "from": "JESSICA",
+            "to": "GOBBO",
+            "timestamp": "2025-03-08T02:24:08.147359",
+            "duration": 169
+        },
+        {
+            "from": "JESSICA",
+            "to": "GOBBO",
+            "timestamp": "2025-03-02T17:09:08.147361",
+            "duration": 246
+        },
+        {
+            "from": "JESSICA",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-08T19:15:08.147363",
+            "duration": 131
+        },
+        {
+            "from": "JESSICA",
+            "to": "Servant",
+            "timestamp": "2025-03-08T23:48:08.147365",
+            "duration": 229
+        },
+        {
+            "from": "JESSICA",
+            "to": "Servant",
+            "timestamp": "2025-03-03T00:42:08.147367",
+            "duration": 66
+        },
+        {
+            "from": "JESSICA",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-05T15:10:08.147370",
+            "duration": 63
+        },
+        {
+            "from": "JESSICA",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-05T10:42:08.147372",
+            "duration": 280
+        },
+        {
+            "from": "JESSICA",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-08T15:54:08.147374",
+            "duration": 222
+        },
+        {
+            "from": "JESSICA",
+            "to": "Clerk",
+            "timestamp": "2025-03-06T09:07:08.147376",
+            "duration": 225
+        },
+        {
+            "from": "JESSICA",
+            "to": "LORENZO",
+            "timestamp": "2025-03-06T03:51:08.147379",
+            "duration": 203
+        },
+        {
+            "from": "LEONARDO",
+            "to": "SALERIO",
+            "timestamp": "2025-03-07T23:19:08.147381",
+            "duration": 76
+        },
+        {
+            "from": "LEONARDO",
+            "to": "SALERIO",
+            "timestamp": "2025-03-04T18:44:08.147383",
+            "duration": 247
+        },
+        {
+            "from": "LEONARDO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-05T01:05:08.147385",
+            "duration": 230
+        },
+        {
+            "from": "LEONARDO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-03T19:38:08.147387",
+            "duration": 191
+        },
+        {
+            "from": "LEONARDO",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-06T01:18:08.147390",
+            "duration": 113
+        },
+        {
+            "from": "LEONARDO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-04T06:31:08.147392",
+            "duration": 122
+        },
+        {
+            "from": "LEONARDO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-10T04:00:08.147394",
+            "duration": 182
+        },
+        {
+            "from": "LEONARDO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-09T05:42:08.147397",
+            "duration": 161
+        },
+        {
+            "from": "LEONARDO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-05T10:05:08.147399",
+            "duration": 192
+        },
+        {
+            "from": "LEONARDO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-07T15:50:08.147401",
+            "duration": 273
+        },
+        {
+            "from": "LEONARDO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-09T18:56:08.147403",
+            "duration": 74
+        },
+        {
+            "from": "LEONARDO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-04T11:22:08.147406",
+            "duration": 101
+        },
+        {
+            "from": "LEONARDO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-10T07:27:08.147408",
+            "duration": 174
+        },
+        {
+            "from": "LEONARDO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-06T04:45:08.147410",
+            "duration": 86
+        },
+        {
+            "from": "LEONARDO",
+            "to": "Servant",
+            "timestamp": "2025-03-09T07:37:08.147412",
+            "duration": 160
+        },
+        {
+            "from": "LEONARDO",
+            "to": "Servant",
+            "timestamp": "2025-03-06T14:39:08.147414",
+            "duration": 149
+        },
+        {
+            "from": "LEONARDO",
+            "to": "Servant",
+            "timestamp": "2025-03-07T16:07:08.147416",
+            "duration": 214
+        },
+        {
+            "from": "LEONARDO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-06T11:17:08.147419",
+            "duration": 131
+        },
+        {
+            "from": "LEONARDO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-09T07:21:08.147421",
+            "duration": 175
+        },
+        {
+            "from": "LEONARDO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-10T07:47:08.147423",
+            "duration": 201
+        },
+        {
+            "from": "LEONARDO",
+            "to": "Clerk",
+            "timestamp": "2025-03-05T22:13:08.147425",
+            "duration": 107
+        },
+        {
+            "from": "LEONARDO",
+            "to": "Clerk",
+            "timestamp": "2025-03-03T18:06:08.147427",
+            "duration": 278
+        },
+        {
+            "from": "LEONARDO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-03T13:13:08.147430",
+            "duration": 126
+        },
+        {
+            "from": "SALERIO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-09T14:55:08.147432",
+            "duration": 147
+        },
+        {
+            "from": "SALERIO",
+            "to": "PORTIA",
+            "timestamp": "2025-03-09T19:42:08.147434",
+            "duration": 229
+        },
+        {
+            "from": "SALERIO",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-09T11:10:08.147437",
+            "duration": 66
+        },
+        {
+            "from": "SALERIO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-05T11:09:08.147439",
+            "duration": 108
+        },
+        {
+            "from": "SALERIO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-05T03:57:08.147441",
+            "duration": 63
+        },
+        {
+            "from": "SALERIO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-07T00:38:08.147444",
+            "duration": 240
+        },
+        {
+            "from": "SALERIO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-05T00:03:08.147446",
+            "duration": 185
+        },
+        {
+            "from": "SALERIO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-10T05:42:08.147448",
+            "duration": 114
+        },
+        {
+            "from": "SALERIO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-07T14:36:08.147450",
+            "duration": 256
+        },
+        {
+            "from": "SALERIO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-06T10:55:08.147452",
+            "duration": 139
+        },
+        {
+            "from": "SALERIO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-09T20:33:08.147454",
+            "duration": 287
+        },
+        {
+            "from": "SALERIO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-10T00:58:08.147456",
+            "duration": 279
+        },
+        {
+            "from": "SALERIO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-03T21:04:08.147458",
+            "duration": 163
+        },
+        {
+            "from": "SALERIO",
+            "to": "Servant",
+            "timestamp": "2025-03-05T21:51:08.147461",
+            "duration": 155
+        },
+        {
+            "from": "SALERIO",
+            "to": "Servant",
+            "timestamp": "2025-03-07T08:39:08.147463",
+            "duration": 105
+        },
+        {
+            "from": "SALERIO",
+            "to": "Servant",
+            "timestamp": "2025-03-10T08:27:08.147465",
+            "duration": 68
+        },
+        {
+            "from": "SALERIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-03T02:32:08.147467",
+            "duration": 91
+        },
+        {
+            "from": "SALERIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-09T03:01:08.147469",
+            "duration": 203
+        },
+        {
+            "from": "SALERIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-08T11:21:08.147471",
+            "duration": 134
+        },
+        {
+            "from": "SALERIO",
+            "to": "Clerk",
+            "timestamp": "2025-03-09T03:03:08.147473",
+            "duration": 186
+        },
+        {
+            "from": "SALERIO",
+            "to": "Clerk",
+            "timestamp": "2025-03-03T05:02:08.147475",
+            "duration": 270
+        },
+        {
+            "from": "SALERIO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-06T10:41:08.147478",
+            "duration": 116
+        },
+        {
+            "from": "PORTIA",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-05T01:40:08.147480",
+            "duration": 128
+        },
+        {
+            "from": "PORTIA",
+            "to": "BASSANIO",
+            "timestamp": "2025-03-06T20:48:08.147482",
+            "duration": 289
+        },
+        {
+            "from": "PORTIA",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-08T14:47:08.147485",
+            "duration": 108
+        },
+        {
+            "from": "PORTIA",
+            "to": "TUBAL",
+            "timestamp": "2025-03-05T21:45:08.147487",
+            "duration": 185
+        },
+        {
+            "from": "PORTIA",
+            "to": "SALANIO",
+            "timestamp": "2025-03-06T14:35:08.147489",
+            "duration": 157
+        },
+        {
+            "from": "PORTIA",
+            "to": "SALANIO",
+            "timestamp": "2025-03-04T11:07:08.147491",
+            "duration": 180
+        },
+        {
+            "from": "PORTIA",
+            "to": "SALANIO",
+            "timestamp": "2025-03-09T17:43:08.147493",
+            "duration": 174
+        },
+        {
+            "from": "PORTIA",
+            "to": "GOBBO",
+            "timestamp": "2025-03-08T11:02:08.147496",
+            "duration": 283
+        },
+        {
+            "from": "PORTIA",
+            "to": "GOBBO",
+            "timestamp": "2025-03-04T17:12:08.147498",
+            "duration": 280
+        },
+        {
+            "from": "PORTIA",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-06T05:35:08.147500",
+            "duration": 271
+        },
+        {
+            "from": "PORTIA",
+            "to": "Servant",
+            "timestamp": "2025-03-07T14:03:08.147503",
+            "duration": 114
+        },
+        {
+            "from": "PORTIA",
+            "to": "Servant",
+            "timestamp": "2025-03-09T02:40:08.147505",
+            "duration": 261
+        },
+        {
+            "from": "PORTIA",
+            "to": "Servant",
+            "timestamp": "2025-03-06T10:07:08.147507",
+            "duration": 135
+        },
+        {
+            "from": "PORTIA",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-07T10:44:08.147509",
+            "duration": 138
+        },
+        {
+            "from": "PORTIA",
+            "to": "Clerk",
+            "timestamp": "2025-03-07T22:42:08.147511",
+            "duration": 125
+        },
+        {
+            "from": "PORTIA",
+            "to": "Clerk",
+            "timestamp": "2025-03-02T19:00:08.147513",
+            "duration": 83
+        },
+        {
+            "from": "PORTIA",
+            "to": "Clerk",
+            "timestamp": "2025-03-07T22:16:08.147516",
+            "duration": 271
+        },
+        {
+            "from": "PORTIA",
+            "to": "LORENZO",
+            "timestamp": "2025-03-06T11:41:08.147518",
+            "duration": 67
+        },
+        {
+            "from": "BASSANIO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-04T19:55:08.147520",
+            "duration": 285
+        },
+        {
+            "from": "BASSANIO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-04T06:35:08.147522",
+            "duration": 124
+        },
+        {
+            "from": "BASSANIO",
+            "to": "ARRAGON",
+            "timestamp": "2025-03-08T14:58:08.147525",
+            "duration": 232
+        },
+        {
+            "from": "BASSANIO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-09T19:12:08.147527",
+            "duration": 203
+        },
+        {
+            "from": "BASSANIO",
+            "to": "TUBAL",
+            "timestamp": "2025-03-07T13:38:08.147530",
+            "duration": 274
+        },
+        {
+            "from": "BASSANIO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-07T07:08:08.147532",
+            "duration": 120
+        },
+        {
+            "from": "BASSANIO",
+            "to": "SALANIO",
+            "timestamp": "2025-03-09T03:34:08.147534",
+            "duration": 96
+        },
+        {
+            "from": "BASSANIO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-09T08:11:08.147537",
+            "duration": 252
+        },
+        {
+            "from": "BASSANIO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-06T15:46:08.147539",
+            "duration": 173
+        },
+        {
+            "from": "BASSANIO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-02T15:33:08.147541",
+            "duration": 272
+        },
+        {
+            "from": "BASSANIO",
+            "to": "Servant",
+            "timestamp": "2025-03-05T09:27:08.147543",
+            "duration": 249
+        },
+        {
+            "from": "BASSANIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-05T14:48:08.147546",
+            "duration": 194
+        },
+        {
+            "from": "BASSANIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-07T13:35:08.147548",
+            "duration": 235
+        },
+        {
+            "from": "BASSANIO",
+            "to": "Clerk",
+            "timestamp": "2025-03-03T02:54:08.147550",
+            "duration": 183
+        },
+        {
+            "from": "BASSANIO",
+            "to": "Clerk",
+            "timestamp": "2025-03-09T07:12:08.147552",
+            "duration": 178
+        },
+        {
+            "from": "BASSANIO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-07T14:00:08.147554",
+            "duration": 117
+        },
+        {
+            "from": "ARRAGON",
+            "to": "TUBAL",
+            "timestamp": "2025-03-06T08:09:08.147557",
+            "duration": 184
+        },
+        {
+            "from": "ARRAGON",
+            "to": "TUBAL",
+            "timestamp": "2025-03-05T13:02:08.147559",
+            "duration": 114
+        },
+        {
+            "from": "ARRAGON",
+            "to": "SALANIO",
+            "timestamp": "2025-03-08T13:17:08.147561",
+            "duration": 158
+        },
+        {
+            "from": "ARRAGON",
+            "to": "GOBBO",
+            "timestamp": "2025-03-07T23:34:08.147563",
+            "duration": 132
+        },
+        {
+            "from": "ARRAGON",
+            "to": "GOBBO",
+            "timestamp": "2025-03-06T23:44:08.147565",
+            "duration": 229
+        },
+        {
+            "from": "ARRAGON",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-08T03:50:08.147568",
+            "duration": 285
+        },
+        {
+            "from": "ARRAGON",
+            "to": "Servant",
+            "timestamp": "2025-03-06T16:00:08.147570",
+            "duration": 167
+        },
+        {
+            "from": "ARRAGON",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-03T03:38:08.147572",
+            "duration": 118
+        },
+        {
+            "from": "ARRAGON",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-10T10:21:08.147574",
+            "duration": 207
+        },
+        {
+            "from": "ARRAGON",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-10T07:42:08.147577",
+            "duration": 199
+        },
+        {
+            "from": "ARRAGON",
+            "to": "Clerk",
+            "timestamp": "2025-03-05T02:35:08.147579",
+            "duration": 279
+        },
+        {
+            "from": "ARRAGON",
+            "to": "Clerk",
+            "timestamp": "2025-03-05T18:50:08.147581",
+            "duration": 207
+        },
+        {
+            "from": "ARRAGON",
+            "to": "LORENZO",
+            "timestamp": "2025-03-07T22:48:08.147583",
+            "duration": 86
+        },
+        {
+            "from": "TUBAL",
+            "to": "SALANIO",
+            "timestamp": "2025-03-10T00:22:08.147585",
+            "duration": 291
+        },
+        {
+            "from": "TUBAL",
+            "to": "SALANIO",
+            "timestamp": "2025-03-03T21:44:08.147588",
+            "duration": 295
+        },
+        {
+            "from": "TUBAL",
+            "to": "SALANIO",
+            "timestamp": "2025-03-07T23:47:08.147590",
+            "duration": 234
+        },
+        {
+            "from": "TUBAL",
+            "to": "GOBBO",
+            "timestamp": "2025-03-04T18:20:08.147592",
+            "duration": 201
+        },
+        {
+            "from": "TUBAL",
+            "to": "GOBBO",
+            "timestamp": "2025-03-10T00:27:08.147594",
+            "duration": 165
+        },
+        {
+            "from": "TUBAL",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-05T00:44:08.147596",
+            "duration": 285
+        },
+        {
+            "from": "TUBAL",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-08T19:56:08.147598",
+            "duration": 198
+        },
+        {
+            "from": "TUBAL",
+            "to": "Servant",
+            "timestamp": "2025-03-07T18:45:08.147601",
+            "duration": 106
+        },
+        {
+            "from": "TUBAL",
+            "to": "Servant",
+            "timestamp": "2025-03-02T19:51:08.147603",
+            "duration": 166
+        },
+        {
+            "from": "TUBAL",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-04T17:54:08.147605",
+            "duration": 261
+        },
+        {
+            "from": "TUBAL",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-10T09:03:08.147607",
+            "duration": 185
+        },
+        {
+            "from": "TUBAL",
+            "to": "Clerk",
+            "timestamp": "2025-03-05T17:53:08.147610",
+            "duration": 152
+        },
+        {
+            "from": "TUBAL",
+            "to": "LORENZO",
+            "timestamp": "2025-03-05T03:08:08.147612",
+            "duration": 221
+        },
+        {
+            "from": "TUBAL",
+            "to": "LORENZO",
+            "timestamp": "2025-03-05T23:40:08.147614",
+            "duration": 229
+        },
+        {
+            "from": "SALANIO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-07T17:24:08.147617",
+            "duration": 181
+        },
+        {
+            "from": "SALANIO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-08T23:04:08.147619",
+            "duration": 72
+        },
+        {
+            "from": "SALANIO",
+            "to": "GOBBO",
+            "timestamp": "2025-03-06T00:16:08.147621",
+            "duration": 201
+        },
+        {
+            "from": "SALANIO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-10T10:39:08.147623",
+            "duration": 212
+        },
+        {
+            "from": "SALANIO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-07T19:06:08.147625",
+            "duration": 218
+        },
+        {
+            "from": "SALANIO",
+            "to": "Servant",
+            "timestamp": "2025-03-07T05:35:08.147627",
+            "duration": 83
+        },
+        {
+            "from": "SALANIO",
+            "to": "Servant",
+            "timestamp": "2025-03-08T06:09:08.147630",
+            "duration": 88
+        },
+        {
+            "from": "SALANIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-04T14:25:08.147632",
+            "duration": 224
+        },
+        {
+            "from": "SALANIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-05T00:01:08.147634",
+            "duration": 242
+        },
+        {
+            "from": "SALANIO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-09T05:18:08.147636",
+            "duration": 212
+        },
+        {
+            "from": "SALANIO",
+            "to": "Clerk",
+            "timestamp": "2025-03-08T05:09:08.147638",
+            "duration": 105
+        },
+        {
+            "from": "SALANIO",
+            "to": "Clerk",
+            "timestamp": "2025-03-10T10:09:08.147641",
+            "duration": 277
+        },
+        {
+            "from": "SALANIO",
+            "to": "Clerk",
+            "timestamp": "2025-03-05T14:48:08.147643",
+            "duration": 205
+        },
+        {
+            "from": "SALANIO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-04T16:35:08.147645",
+            "duration": 287
+        },
+        {
+            "from": "GOBBO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-03T11:39:08.147647",
+            "duration": 172
+        },
+        {
+            "from": "GOBBO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-05T09:30:08.147649",
+            "duration": 98
+        },
+        {
+            "from": "GOBBO",
+            "to": "Servant",
+            "timestamp": "2025-03-05T13:47:08.147651",
+            "duration": 196
+        },
+        {
+            "from": "GOBBO",
+            "to": "Servant",
+            "timestamp": "2025-03-04T02:18:08.147656",
+            "duration": 259
+        },
+        {
+            "from": "GOBBO",
+            "to": "Servant",
+            "timestamp": "2025-03-10T00:00:08.147658",
+            "duration": 91
+        },
+        {
+            "from": "GOBBO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-09T21:41:08.147660",
+            "duration": 254
+        },
+        {
+            "from": "GOBBO",
+            "to": "Clerk",
+            "timestamp": "2025-03-03T01:18:08.147662",
+            "duration": 65
+        },
+        {
+            "from": "GOBBO",
+            "to": "Clerk",
+            "timestamp": "2025-03-06T03:09:08.147664",
+            "duration": 252
+        },
+        {
+            "from": "GOBBO",
+            "to": "Clerk",
+            "timestamp": "2025-03-03T07:39:08.147666",
+            "duration": 195
+        },
+        {
+            "from": "GOBBO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-08T06:53:08.147669",
+            "duration": 126
+        },
+        {
+            "from": "GOBBO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-03T03:33:08.147671",
+            "duration": 99
+        },
+        {
+            "from": "GRATIANO",
+            "to": "Servant",
+            "timestamp": "2025-03-04T18:01:08.147673",
+            "duration": 205
+        },
+        {
+            "from": "GRATIANO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-05T02:31:08.147686",
+            "duration": 134
+        },
+        {
+            "from": "GRATIANO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-03T16:54:08.147689",
+            "duration": 296
+        },
+        {
+            "from": "GRATIANO",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-05T22:59:08.147691",
+            "duration": 199
+        },
+        {
+            "from": "GRATIANO",
+            "to": "Clerk",
+            "timestamp": "2025-03-03T01:18:08.147693",
+            "duration": 113
+        },
+        {
+            "from": "GRATIANO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-08T07:57:08.147696",
+            "duration": 75
+        },
+        {
+            "from": "GRATIANO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-04T02:08:08.147698",
+            "duration": 79
+        },
+        {
+            "from": "GRATIANO",
+            "to": "LORENZO",
+            "timestamp": "2025-03-10T10:43:08.147700",
+            "duration": 267
+        },
+        {
+            "from": "Servant",
+            "to": "SHYLOCK",
+            "timestamp": "2025-03-05T03:49:08.147703",
+            "duration": 65
+        },
+        {
+            "from": "Servant",
+            "to": "Clerk",
+            "timestamp": "2025-03-08T04:50:08.147705",
+            "duration": 183
+        },
+        {
+            "from": "Servant",
+            "to": "LORENZO",
+            "timestamp": "2025-03-09T00:05:08.147707",
+            "duration": 188
+        },
+        {
+            "from": "SHYLOCK",
+            "to": "Clerk",
+            "timestamp": "2025-03-09T02:55:08.147710",
+            "duration": 138
+        },
+        {
+            "from": "SHYLOCK",
+            "to": "Clerk",
+            "timestamp": "2025-03-09T17:06:08.147712",
+            "duration": 117
+        },
+        {
+            "from": "SHYLOCK",
+            "to": "Clerk",
+            "timestamp": "2025-03-07T19:36:08.147714",
+            "duration": 210
+        },
+        {
+            "from": "SHYLOCK",
+            "to": "LORENZO",
+            "timestamp": "2025-03-04T14:26:08.147716",
+            "duration": 250
+        },
+        {
+            "from": "SHYLOCK",
+            "to": "LORENZO",
+            "timestamp": "2025-03-08T21:40:08.147718",
+            "duration": 296
+        },
+        {
+            "from": "SHYLOCK",
+            "to": "LORENZO",
+            "timestamp": "2025-03-06T07:29:08.147732",
+            "duration": 163
+        },
+        {
+            "from": "Clerk",
+            "to": "LORENZO",
+            "timestamp": "2025-03-03T02:53:08.147734",
+            "duration": 103
+        },
+        {
+            "from": "Clerk",
+            "to": "LORENZO",
+            "timestamp": "2025-03-10T09:30:08.147736",
+            "duration": 210
+        }
+    ],
+    "contact_data": {
+        "DUKE": {
+            "phone": "415-334-8587",
+            "email": "duke@dynastyglobal.com",
+            "title": "Chairman of the Board",
+            "company": "Dynasty Global Investments",
+            "industry": "Royal"
+        },
+        "MOROCCO": {
+            "phone": "628-729-4192",
+            "email": "morocco@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "NERISSA": {
+            "phone": "628-669-2303",
+            "email": "nerissa@tradewinds.com",
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "STEPHANO": {
+            "phone": "415-308-1644",
+            "email": "stephano@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "BALTHASAR": {
+            "phone": "628-933-2764",
+            "email": "balthasar@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "SALARINO": {
+            "phone": "628-561-6284",
+            "email": "salarino@commercetrade.com",
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "ALL": {
+            "phone": "628-234-7701",
+            "email": "all@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "ANTONIO": {
+            "phone": "415-661-9138",
+            "email": "antonio@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "LAUNCELOT": {
+            "phone": "415-878-6819",
+            "email": "launcelot@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "JESSICA": {
+            "phone": "415-747-8081",
+            "email": "jessica@commercelink.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "LEONARDO": {
+            "phone": "628-873-9942",
+            "email": "leonardo@commercetrade.com",
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "SALERIO": {
+            "phone": "628-612-9975",
+            "email": "salerio@tradewinds.com",
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "PORTIA": {
+            "phone": "628-398-4018",
+            "email": "portia@merchantsexchange.com",
+            "title": "Trade Relations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "BASSANIO": {
+            "phone": "628-215-1372",
+            "email": "bassanio@merchantsexchange.com",
+            "title": "Trading Operations Manager",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "ARRAGON": {
+            "phone": "415-572-2915",
+            "email": "arragon@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "TUBAL": {
+            "phone": "628-578-6420",
+            "email": "tubal@tradewinds.com",
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "SALANIO": {
+            "phone": "628-319-1436",
+            "email": "salanio@commercelink.com",
+            "title": "Commercial Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "GOBBO": {
+            "phone": "415-839-9655",
+            "email": "gobbo@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "GRATIANO": {
+            "phone": "415-732-6113",
+            "email": "gratiano@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Servant": {
+            "phone": "628-500-6102",
+            "email": "servant@globaltradepart.com",
+            "title": "Chief Commercial Officer",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "SHYLOCK": {
+            "phone": "628-421-6443",
+            "email": "shylock@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Clerk": {
+            "phone": "415-485-6830",
+            "email": "clerk@commercelink.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "LORENZO": {
+            "phone": "628-536-9524",
+            "email": "lorenzo@tradewinds.com",
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        }
+    }
+}

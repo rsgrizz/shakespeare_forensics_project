@@ -1,0 +1,2654 @@
+{
+    "characters": {
+        "MARIA": {
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-350-7396",
+            "email": "maria@marketdyn.com"
+        },
+        "ARMADO": {
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-412-4137",
+            "email": "armado@commercelink.com"
+        },
+        "MOTH": {
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-299-8646",
+            "email": "moth@tradewinds.com"
+        },
+        "BOYET": {
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "646-794-2042",
+            "email": "boyet@commercelink.com"
+        },
+        "SIR NATHANIEL": {
+            "title": "Managing Partner",
+            "company": "Prestige Holdings",
+            "industry": "Noble",
+            "location": "Los Angeles",
+            "phone": "310-973-2343",
+            "email": "sir.nathaniel@prestigeholdings.com"
+        },
+        "BIRON": {
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-510-8269",
+            "email": "biron@globaltradepart.com"
+        },
+        "MERCADE": {
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-655-8548",
+            "email": "mercade@globaltradepart.com"
+        },
+        "PRINCESS": {
+            "title": "Managing Director",
+            "company": "Sovereign Wealth Partners",
+            "industry": "Royal",
+            "location": "Houston",
+            "phone": "713-536-8262",
+            "email": "princess@sovereignwealth.com"
+        },
+        "FERDINAND": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "415-895-2557",
+            "email": "ferdinand@commercetrade.com"
+        },
+        "COSTARD": {
+            "title": "Market Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-429-1525",
+            "email": "costard@marketdyn.com"
+        },
+        "LONGAVILLE": {
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-534-5900",
+            "email": "longaville@tradewinds.com"
+        },
+        "KATHARINE": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-132-9377",
+            "email": "katharine@commercelink.com"
+        },
+        "Here stand I": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-941-8961",
+            "email": "here.stand.i@commercetrade.com"
+        },
+        "DULL": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-802-6181",
+            "email": "dull@commercetrade.com"
+        },
+        "ADRIANO DE ARMADO": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-904-2108",
+            "email": "adriano.de.armado@commercetrade.com"
+        },
+        "ROSALINE": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "213-957-8303",
+            "email": "rosaline@commercelink.com"
+        },
+        "DUMAIN": {
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-106-1179",
+            "email": "dumain@globaltradepart.com"
+        },
+        "Forester": {
+            "title": "Commercial Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-367-9986",
+            "email": "forester@commercetrade.com"
+        },
+        "HOLOFERNES": {
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-816-3628",
+            "email": "holofernes@commercetrade.com"
+        },
+        "JAQUENETTA": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "773-643-9602",
+            "email": "jaquenetta@marketdyn.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "MARIA",
+            "to": "ARMADO",
+            "timestamp": "2025-03-05T21:31:06.574116",
+            "duration": 115
+        },
+        {
+            "from": "MARIA",
+            "to": "ARMADO",
+            "timestamp": "2025-03-06T21:15:06.574296",
+            "duration": 92
+        },
+        {
+            "from": "MARIA",
+            "to": "ARMADO",
+            "timestamp": "2025-03-04T18:05:06.574303",
+            "duration": 188
+        },
+        {
+            "from": "MARIA",
+            "to": "MOTH",
+            "timestamp": "2025-03-05T08:02:06.574306",
+            "duration": 163
+        },
+        {
+            "from": "MARIA",
+            "to": "BOYET",
+            "timestamp": "2025-03-04T14:26:06.574309",
+            "duration": 62
+        },
+        {
+            "from": "MARIA",
+            "to": "BOYET",
+            "timestamp": "2025-03-08T06:09:06.574311",
+            "duration": 241
+        },
+        {
+            "from": "MARIA",
+            "to": "BOYET",
+            "timestamp": "2025-03-05T07:36:06.574314",
+            "duration": 228
+        },
+        {
+            "from": "MARIA",
+            "to": "SIR NATHANIEL",
+            "timestamp": "2025-03-05T20:32:06.574316",
+            "duration": 111
+        },
+        {
+            "from": "MARIA",
+            "to": "SIR NATHANIEL",
+            "timestamp": "2025-03-08T20:06:06.574318",
+            "duration": 233
+        },
+        {
+            "from": "MARIA",
+            "to": "SIR NATHANIEL",
+            "timestamp": "2025-03-07T14:31:06.574321",
+            "duration": 124
+        },
+        {
+            "from": "MARIA",
+            "to": "BIRON",
+            "timestamp": "2025-03-09T22:30:06.574323",
+            "duration": 157
+        },
+        {
+            "from": "MARIA",
+            "to": "BIRON",
+            "timestamp": "2025-03-05T10:51:06.574325",
+            "duration": 224
+        },
+        {
+            "from": "MARIA",
+            "to": "MERCADE",
+            "timestamp": "2025-03-07T00:39:06.574328",
+            "duration": 277
+        },
+        {
+            "from": "MARIA",
+            "to": "MERCADE",
+            "timestamp": "2025-03-05T16:50:06.574330",
+            "duration": 98
+        },
+        {
+            "from": "MARIA",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-06T18:15:06.574334",
+            "duration": 191
+        },
+        {
+            "from": "MARIA",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-05T17:24:06.574336",
+            "duration": 112
+        },
+        {
+            "from": "MARIA",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-04T03:02:06.574338",
+            "duration": 102
+        },
+        {
+            "from": "MARIA",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-10T07:41:06.574346",
+            "duration": 204
+        },
+        {
+            "from": "MARIA",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-07T17:54:06.574348",
+            "duration": 90
+        },
+        {
+            "from": "MARIA",
+            "to": "COSTARD",
+            "timestamp": "2025-03-06T20:18:06.574350",
+            "duration": 196
+        },
+        {
+            "from": "MARIA",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-08T17:24:06.574352",
+            "duration": 298
+        },
+        {
+            "from": "MARIA",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-09T21:40:06.574354",
+            "duration": 206
+        },
+        {
+            "from": "MARIA",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-05T08:28:06.574357",
+            "duration": 189
+        },
+        {
+            "from": "MARIA",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-07T18:28:06.574359",
+            "duration": 76
+        },
+        {
+            "from": "MARIA",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-07T07:50:06.574361",
+            "duration": 83
+        },
+        {
+            "from": "MARIA",
+            "to": "Here stand I",
+            "timestamp": "2025-03-06T14:47:06.574364",
+            "duration": 144
+        },
+        {
+            "from": "MARIA",
+            "to": "DULL",
+            "timestamp": "2025-03-07T04:56:06.574366",
+            "duration": 202
+        },
+        {
+            "from": "MARIA",
+            "to": "DULL",
+            "timestamp": "2025-03-10T02:28:06.574368",
+            "duration": 66
+        },
+        {
+            "from": "MARIA",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-03T23:39:06.574370",
+            "duration": 265
+        },
+        {
+            "from": "MARIA",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-10T01:06:06.574372",
+            "duration": 292
+        },
+        {
+            "from": "MARIA",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-03T01:11:06.574375",
+            "duration": 87
+        },
+        {
+            "from": "MARIA",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-08T23:21:06.574377",
+            "duration": 247
+        },
+        {
+            "from": "MARIA",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-07T05:56:06.574379",
+            "duration": 254
+        },
+        {
+            "from": "MARIA",
+            "to": "Forester",
+            "timestamp": "2025-03-09T15:29:06.574381",
+            "duration": 288
+        },
+        {
+            "from": "MARIA",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-07T07:46:06.574384",
+            "duration": 101
+        },
+        {
+            "from": "MARIA",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-04T16:44:06.574386",
+            "duration": 61
+        },
+        {
+            "from": "MARIA",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-02T18:50:06.574388",
+            "duration": 65
+        },
+        {
+            "from": "MARIA",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-08T15:23:06.574390",
+            "duration": 213
+        },
+        {
+            "from": "MARIA",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-02T16:25:06.574392",
+            "duration": 91
+        },
+        {
+            "from": "ARMADO",
+            "to": "MOTH",
+            "timestamp": "2025-03-06T06:50:06.574395",
+            "duration": 235
+        },
+        {
+            "from": "ARMADO",
+            "to": "MOTH",
+            "timestamp": "2025-03-09T08:49:06.574397",
+            "duration": 134
+        },
+        {
+            "from": "ARMADO",
+            "to": "BOYET",
+            "timestamp": "2025-03-07T13:04:06.574399",
+            "duration": 144
+        },
+        {
+            "from": "ARMADO",
+            "to": "SIR NATHANIEL",
+            "timestamp": "2025-03-04T21:23:06.574401",
+            "duration": 165
+        },
+        {
+            "from": "ARMADO",
+            "to": "SIR NATHANIEL",
+            "timestamp": "2025-03-08T20:36:06.574403",
+            "duration": 161
+        },
+        {
+            "from": "ARMADO",
+            "to": "BIRON",
+            "timestamp": "2025-03-07T09:58:06.574406",
+            "duration": 224
+        },
+        {
+            "from": "ARMADO",
+            "to": "BIRON",
+            "timestamp": "2025-03-04T05:35:06.574408",
+            "duration": 66
+        },
+        {
+            "from": "ARMADO",
+            "to": "BIRON",
+            "timestamp": "2025-03-04T20:48:06.574410",
+            "duration": 288
+        },
+        {
+            "from": "ARMADO",
+            "to": "MERCADE",
+            "timestamp": "2025-03-04T07:27:06.574412",
+            "duration": 169
+        },
+        {
+            "from": "ARMADO",
+            "to": "MERCADE",
+            "timestamp": "2025-03-06T00:44:06.574414",
+            "duration": 270
+        },
+        {
+            "from": "ARMADO",
+            "to": "MERCADE",
+            "timestamp": "2025-03-06T20:56:06.574416",
+            "duration": 126
+        },
+        {
+            "from": "ARMADO",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-02T21:29:06.574419",
+            "duration": 266
+        },
+        {
+            "from": "ARMADO",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-07T09:35:06.574421",
+            "duration": 82
+        },
+        {
+            "from": "ARMADO",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-06T03:09:06.574423",
+            "duration": 256
+        },
+        {
+            "from": "ARMADO",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-08T06:39:06.574425",
+            "duration": 214
+        },
+        {
+            "from": "ARMADO",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-04T02:41:06.574427",
+            "duration": 194
+        },
+        {
+            "from": "ARMADO",
+            "to": "COSTARD",
+            "timestamp": "2025-03-07T12:45:06.574429",
+            "duration": 83
+        },
+        {
+            "from": "ARMADO",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-03T03:35:06.574431",
+            "duration": 293
+        },
+        {
+            "from": "ARMADO",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-08T03:07:06.574434",
+            "duration": 107
+        },
+        {
+            "from": "ARMADO",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-09T02:08:06.574437",
+            "duration": 300
+        },
+        {
+            "from": "ARMADO",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-08T11:50:06.574439",
+            "duration": 99
+        },
+        {
+            "from": "ARMADO",
+            "to": "Here stand I",
+            "timestamp": "2025-03-06T23:44:06.574441",
+            "duration": 162
+        },
+        {
+            "from": "ARMADO",
+            "to": "DULL",
+            "timestamp": "2025-03-05T07:21:06.574443",
+            "duration": 187
+        },
+        {
+            "from": "ARMADO",
+            "to": "DULL",
+            "timestamp": "2025-03-09T09:59:06.574445",
+            "duration": 86
+        },
+        {
+            "from": "ARMADO",
+            "to": "DULL",
+            "timestamp": "2025-03-07T07:44:06.574447",
+            "duration": 244
+        },
+        {
+            "from": "ARMADO",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-05T09:03:06.574450",
+            "duration": 142
+        },
+        {
+            "from": "ARMADO",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-05T09:59:06.574452",
+            "duration": 156
+        },
+        {
+            "from": "ARMADO",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-05T00:58:06.574454",
+            "duration": 149
+        },
+        {
+            "from": "ARMADO",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-08T07:41:06.574457",
+            "duration": 161
+        },
+        {
+            "from": "ARMADO",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-09T19:06:06.574459",
+            "duration": 130
+        },
+        {
+            "from": "ARMADO",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-04T18:00:06.574461",
+            "duration": 288
+        },
+        {
+            "from": "ARMADO",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-05T23:38:06.574463",
+            "duration": 280
+        },
+        {
+            "from": "ARMADO",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-07T01:19:06.574465",
+            "duration": 145
+        },
+        {
+            "from": "ARMADO",
+            "to": "Forester",
+            "timestamp": "2025-03-06T19:22:06.574467",
+            "duration": 291
+        },
+        {
+            "from": "ARMADO",
+            "to": "Forester",
+            "timestamp": "2025-03-03T21:26:06.574469",
+            "duration": 73
+        },
+        {
+            "from": "ARMADO",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-04T06:17:06.574472",
+            "duration": 169
+        },
+        {
+            "from": "ARMADO",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-09T04:22:06.574474",
+            "duration": 142
+        },
+        {
+            "from": "ARMADO",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-07T09:12:06.574476",
+            "duration": 66
+        },
+        {
+            "from": "ARMADO",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-02T20:17:06.574479",
+            "duration": 236
+        },
+        {
+            "from": "ARMADO",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-06T22:32:06.574481",
+            "duration": 98
+        },
+        {
+            "from": "MOTH",
+            "to": "BOYET",
+            "timestamp": "2025-03-07T07:54:06.574484",
+            "duration": 100
+        },
+        {
+            "from": "MOTH",
+            "to": "BOYET",
+            "timestamp": "2025-03-10T06:14:06.574486",
+            "duration": 85
+        },
+        {
+            "from": "MOTH",
+            "to": "BOYET",
+            "timestamp": "2025-03-09T04:44:06.574488",
+            "duration": 92
+        },
+        {
+            "from": "MOTH",
+            "to": "SIR NATHANIEL",
+            "timestamp": "2025-03-09T14:31:06.574490",
+            "duration": 133
+        },
+        {
+            "from": "MOTH",
+            "to": "BIRON",
+            "timestamp": "2025-03-06T14:47:06.574492",
+            "duration": 177
+        },
+        {
+            "from": "MOTH",
+            "to": "BIRON",
+            "timestamp": "2025-03-04T22:34:06.574494",
+            "duration": 250
+        },
+        {
+            "from": "MOTH",
+            "to": "MERCADE",
+            "timestamp": "2025-03-05T02:17:06.574497",
+            "duration": 104
+        },
+        {
+            "from": "MOTH",
+            "to": "MERCADE",
+            "timestamp": "2025-03-03T02:50:06.574499",
+            "duration": 178
+        },
+        {
+            "from": "MOTH",
+            "to": "MERCADE",
+            "timestamp": "2025-03-10T09:22:06.574502",
+            "duration": 141
+        },
+        {
+            "from": "MOTH",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-03T07:23:06.574504",
+            "duration": 199
+        },
+        {
+            "from": "MOTH",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-03T11:54:06.574506",
+            "duration": 245
+        },
+        {
+            "from": "MOTH",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-08T03:07:06.574508",
+            "duration": 159
+        },
+        {
+            "from": "MOTH",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-05T04:12:06.574511",
+            "duration": 70
+        },
+        {
+            "from": "MOTH",
+            "to": "COSTARD",
+            "timestamp": "2025-03-05T09:01:06.574513",
+            "duration": 291
+        },
+        {
+            "from": "MOTH",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-03T19:09:06.574515",
+            "duration": 269
+        },
+        {
+            "from": "MOTH",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-04T21:09:06.574517",
+            "duration": 156
+        },
+        {
+            "from": "MOTH",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-04T15:29:06.574520",
+            "duration": 250
+        },
+        {
+            "from": "MOTH",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-09T06:17:06.574522",
+            "duration": 194
+        },
+        {
+            "from": "MOTH",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-09T13:50:06.574524",
+            "duration": 241
+        },
+        {
+            "from": "MOTH",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-07T23:56:06.574526",
+            "duration": 172
+        },
+        {
+            "from": "MOTH",
+            "to": "Here stand I",
+            "timestamp": "2025-03-05T17:04:06.574528",
+            "duration": 159
+        },
+        {
+            "from": "MOTH",
+            "to": "Here stand I",
+            "timestamp": "2025-03-08T00:03:06.574530",
+            "duration": 163
+        },
+        {
+            "from": "MOTH",
+            "to": "DULL",
+            "timestamp": "2025-03-03T12:53:06.574533",
+            "duration": 162
+        },
+        {
+            "from": "MOTH",
+            "to": "DULL",
+            "timestamp": "2025-03-08T09:24:06.574535",
+            "duration": 81
+        },
+        {
+            "from": "MOTH",
+            "to": "DULL",
+            "timestamp": "2025-03-07T02:07:06.574537",
+            "duration": 171
+        },
+        {
+            "from": "MOTH",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-08T08:03:06.574539",
+            "duration": 179
+        },
+        {
+            "from": "MOTH",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-09T10:33:06.574541",
+            "duration": 254
+        },
+        {
+            "from": "MOTH",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-09T01:45:06.574543",
+            "duration": 217
+        },
+        {
+            "from": "MOTH",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-06T04:34:06.574546",
+            "duration": 64
+        },
+        {
+            "from": "MOTH",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-09T20:41:06.574548",
+            "duration": 62
+        },
+        {
+            "from": "MOTH",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-07T23:59:06.574550",
+            "duration": 75
+        },
+        {
+            "from": "MOTH",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-08T06:41:06.574552",
+            "duration": 67
+        },
+        {
+            "from": "MOTH",
+            "to": "Forester",
+            "timestamp": "2025-03-05T16:46:06.574555",
+            "duration": 249
+        },
+        {
+            "from": "MOTH",
+            "to": "Forester",
+            "timestamp": "2025-03-07T06:01:06.574557",
+            "duration": 129
+        },
+        {
+            "from": "MOTH",
+            "to": "Forester",
+            "timestamp": "2025-03-05T02:15:06.574559",
+            "duration": 146
+        },
+        {
+            "from": "MOTH",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-03T05:16:06.574561",
+            "duration": 135
+        },
+        {
+            "from": "MOTH",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-03T21:53:06.574563",
+            "duration": 102
+        },
+        {
+            "from": "MOTH",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-10T04:59:06.574565",
+            "duration": 97
+        },
+        {
+            "from": "BOYET",
+            "to": "SIR NATHANIEL",
+            "timestamp": "2025-03-09T20:15:06.574567",
+            "duration": 223
+        },
+        {
+            "from": "BOYET",
+            "to": "SIR NATHANIEL",
+            "timestamp": "2025-03-05T07:34:06.574569",
+            "duration": 182
+        },
+        {
+            "from": "BOYET",
+            "to": "SIR NATHANIEL",
+            "timestamp": "2025-03-08T21:10:06.574572",
+            "duration": 176
+        },
+        {
+            "from": "BOYET",
+            "to": "BIRON",
+            "timestamp": "2025-03-03T09:00:06.574574",
+            "duration": 131
+        },
+        {
+            "from": "BOYET",
+            "to": "BIRON",
+            "timestamp": "2025-03-02T18:55:06.574576",
+            "duration": 283
+        },
+        {
+            "from": "BOYET",
+            "to": "MERCADE",
+            "timestamp": "2025-03-03T10:22:06.574578",
+            "duration": 101
+        },
+        {
+            "from": "BOYET",
+            "to": "MERCADE",
+            "timestamp": "2025-03-10T02:47:06.574580",
+            "duration": 136
+        },
+        {
+            "from": "BOYET",
+            "to": "MERCADE",
+            "timestamp": "2025-03-08T13:58:06.574582",
+            "duration": 187
+        },
+        {
+            "from": "BOYET",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-06T20:37:06.574585",
+            "duration": 244
+        },
+        {
+            "from": "BOYET",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-07T12:12:06.574587",
+            "duration": 89
+        },
+        {
+            "from": "BOYET",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-08T01:34:06.574589",
+            "duration": 103
+        },
+        {
+            "from": "BOYET",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-02T14:37:06.574591",
+            "duration": 257
+        },
+        {
+            "from": "BOYET",
+            "to": "COSTARD",
+            "timestamp": "2025-03-06T05:00:06.574594",
+            "duration": 272
+        },
+        {
+            "from": "BOYET",
+            "to": "COSTARD",
+            "timestamp": "2025-03-06T19:35:06.574596",
+            "duration": 224
+        },
+        {
+            "from": "BOYET",
+            "to": "COSTARD",
+            "timestamp": "2025-03-03T15:47:06.574598",
+            "duration": 257
+        },
+        {
+            "from": "BOYET",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-03T06:22:06.574600",
+            "duration": 149
+        },
+        {
+            "from": "BOYET",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-10T13:17:06.574602",
+            "duration": 77
+        },
+        {
+            "from": "BOYET",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-06T01:24:06.574604",
+            "duration": 197
+        },
+        {
+            "from": "BOYET",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-09T21:18:06.574606",
+            "duration": 167
+        },
+        {
+            "from": "BOYET",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-03T06:28:06.574608",
+            "duration": 160
+        },
+        {
+            "from": "BOYET",
+            "to": "Here stand I",
+            "timestamp": "2025-03-08T17:34:06.574611",
+            "duration": 102
+        },
+        {
+            "from": "BOYET",
+            "to": "Here stand I",
+            "timestamp": "2025-03-07T18:10:06.574613",
+            "duration": 151
+        },
+        {
+            "from": "BOYET",
+            "to": "DULL",
+            "timestamp": "2025-03-07T01:30:06.574615",
+            "duration": 93
+        },
+        {
+            "from": "BOYET",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-10T02:41:06.574617",
+            "duration": 97
+        },
+        {
+            "from": "BOYET",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-10T05:32:06.574619",
+            "duration": 245
+        },
+        {
+            "from": "BOYET",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-10T06:59:06.574621",
+            "duration": 239
+        },
+        {
+            "from": "BOYET",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-07T18:55:06.574623",
+            "duration": 157
+        },
+        {
+            "from": "BOYET",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-03T21:02:06.574626",
+            "duration": 178
+        },
+        {
+            "from": "BOYET",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-07T08:14:06.574628",
+            "duration": 181
+        },
+        {
+            "from": "BOYET",
+            "to": "Forester",
+            "timestamp": "2025-03-06T16:14:06.574630",
+            "duration": 131
+        },
+        {
+            "from": "BOYET",
+            "to": "Forester",
+            "timestamp": "2025-03-04T10:48:06.574632",
+            "duration": 245
+        },
+        {
+            "from": "BOYET",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-05T13:54:06.574634",
+            "duration": 75
+        },
+        {
+            "from": "BOYET",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-05T16:10:06.574637",
+            "duration": 99
+        },
+        {
+            "from": "BOYET",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-08T08:17:06.574639",
+            "duration": 138
+        },
+        {
+            "from": "BOYET",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-07T07:43:06.574641",
+            "duration": 144
+        },
+        {
+            "from": "BOYET",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-05T09:59:06.574643",
+            "duration": 145
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "BIRON",
+            "timestamp": "2025-03-02T20:13:06.574645",
+            "duration": 106
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "BIRON",
+            "timestamp": "2025-03-07T09:13:06.574647",
+            "duration": 207
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "BIRON",
+            "timestamp": "2025-03-04T05:15:06.574649",
+            "duration": 194
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "MERCADE",
+            "timestamp": "2025-03-08T13:36:06.574652",
+            "duration": 271
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "MERCADE",
+            "timestamp": "2025-03-06T03:28:06.574653",
+            "duration": 182
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "MERCADE",
+            "timestamp": "2025-03-05T07:44:06.574656",
+            "duration": 149
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-04T02:58:06.574658",
+            "duration": 215
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-09T14:34:06.574660",
+            "duration": 127
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-09T08:43:06.574662",
+            "duration": 171
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-10T05:03:06.574664",
+            "duration": 106
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-04T19:06:06.574666",
+            "duration": 62
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-09T21:28:06.574669",
+            "duration": 210
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "COSTARD",
+            "timestamp": "2025-03-03T22:58:06.574671",
+            "duration": 251
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "COSTARD",
+            "timestamp": "2025-03-04T05:30:06.574673",
+            "duration": 210
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-05T08:50:06.574675",
+            "duration": 213
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-04T20:23:06.574677",
+            "duration": 293
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-03T16:20:06.574679",
+            "duration": 244
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-06T03:56:06.574682",
+            "duration": 230
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "Here stand I",
+            "timestamp": "2025-03-05T12:03:06.574684",
+            "duration": 274
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "DULL",
+            "timestamp": "2025-03-03T23:18:06.574686",
+            "duration": 93
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-03T00:36:06.574690",
+            "duration": 125
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-06T17:16:06.574692",
+            "duration": 219
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-09T12:07:06.574694",
+            "duration": 106
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-02T20:53:06.574696",
+            "duration": 140
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-07T21:15:06.574698",
+            "duration": 185
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-05T12:10:06.574700",
+            "duration": 152
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-02T15:28:06.574702",
+            "duration": 105
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "Forester",
+            "timestamp": "2025-03-03T12:28:06.574704",
+            "duration": 85
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "Forester",
+            "timestamp": "2025-03-04T10:10:06.574706",
+            "duration": 169
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-08T08:32:06.574709",
+            "duration": 146
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-09T23:48:06.574711",
+            "duration": 168
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-06T02:36:06.574713",
+            "duration": 262
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-08T09:37:06.574715",
+            "duration": 222
+        },
+        {
+            "from": "SIR NATHANIEL",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-09T17:29:06.574717",
+            "duration": 160
+        },
+        {
+            "from": "BIRON",
+            "to": "MERCADE",
+            "timestamp": "2025-03-05T21:11:06.574719",
+            "duration": 92
+        },
+        {
+            "from": "BIRON",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-04T13:51:06.574722",
+            "duration": 67
+        },
+        {
+            "from": "BIRON",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-09T07:56:06.574724",
+            "duration": 184
+        },
+        {
+            "from": "BIRON",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-07T08:16:06.574728",
+            "duration": 287
+        },
+        {
+            "from": "BIRON",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-07T05:23:06.574730",
+            "duration": 286
+        },
+        {
+            "from": "BIRON",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-09T13:26:06.574737",
+            "duration": 130
+        },
+        {
+            "from": "BIRON",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-03T06:45:06.574739",
+            "duration": 244
+        },
+        {
+            "from": "BIRON",
+            "to": "COSTARD",
+            "timestamp": "2025-03-05T22:24:06.574741",
+            "duration": 65
+        },
+        {
+            "from": "BIRON",
+            "to": "COSTARD",
+            "timestamp": "2025-03-06T21:55:06.574743",
+            "duration": 190
+        },
+        {
+            "from": "BIRON",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-04T17:00:06.574745",
+            "duration": 281
+        },
+        {
+            "from": "BIRON",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-09T16:05:06.574748",
+            "duration": 252
+        },
+        {
+            "from": "BIRON",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-10T04:49:06.574750",
+            "duration": 65
+        },
+        {
+            "from": "BIRON",
+            "to": "Here stand I",
+            "timestamp": "2025-03-07T23:13:06.574752",
+            "duration": 283
+        },
+        {
+            "from": "BIRON",
+            "to": "Here stand I",
+            "timestamp": "2025-03-08T23:23:06.574754",
+            "duration": 213
+        },
+        {
+            "from": "BIRON",
+            "to": "DULL",
+            "timestamp": "2025-03-04T01:45:06.574758",
+            "duration": 145
+        },
+        {
+            "from": "BIRON",
+            "to": "DULL",
+            "timestamp": "2025-03-06T09:15:06.574760",
+            "duration": 111
+        },
+        {
+            "from": "BIRON",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-05T03:27:06.574762",
+            "duration": 148
+        },
+        {
+            "from": "BIRON",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-07T10:06:06.574765",
+            "duration": 166
+        },
+        {
+            "from": "BIRON",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-06T05:59:06.574767",
+            "duration": 284
+        },
+        {
+            "from": "BIRON",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-03T07:54:06.574769",
+            "duration": 74
+        },
+        {
+            "from": "BIRON",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-04T02:14:06.574771",
+            "duration": 239
+        },
+        {
+            "from": "BIRON",
+            "to": "Forester",
+            "timestamp": "2025-03-06T05:16:06.574773",
+            "duration": 164
+        },
+        {
+            "from": "BIRON",
+            "to": "Forester",
+            "timestamp": "2025-03-08T20:40:06.574775",
+            "duration": 116
+        },
+        {
+            "from": "BIRON",
+            "to": "Forester",
+            "timestamp": "2025-03-07T03:22:06.574777",
+            "duration": 122
+        },
+        {
+            "from": "BIRON",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-09T08:50:06.574779",
+            "duration": 244
+        },
+        {
+            "from": "BIRON",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-05T22:51:06.574781",
+            "duration": 231
+        },
+        {
+            "from": "BIRON",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-08T07:02:06.574784",
+            "duration": 225
+        },
+        {
+            "from": "BIRON",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-07T13:55:06.574786",
+            "duration": 257
+        },
+        {
+            "from": "BIRON",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-05T15:55:06.574788",
+            "duration": 213
+        },
+        {
+            "from": "MERCADE",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-02T19:17:06.574790",
+            "duration": 106
+        },
+        {
+            "from": "MERCADE",
+            "to": "PRINCESS",
+            "timestamp": "2025-03-05T14:41:06.574792",
+            "duration": 156
+        },
+        {
+            "from": "MERCADE",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-03T06:18:06.574794",
+            "duration": 170
+        },
+        {
+            "from": "MERCADE",
+            "to": "COSTARD",
+            "timestamp": "2025-03-09T11:33:06.574797",
+            "duration": 238
+        },
+        {
+            "from": "MERCADE",
+            "to": "COSTARD",
+            "timestamp": "2025-03-07T00:18:06.574799",
+            "duration": 173
+        },
+        {
+            "from": "MERCADE",
+            "to": "COSTARD",
+            "timestamp": "2025-03-04T05:36:06.574801",
+            "duration": 85
+        },
+        {
+            "from": "MERCADE",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-07T16:53:06.574803",
+            "duration": 130
+        },
+        {
+            "from": "MERCADE",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-10T14:26:06.574805",
+            "duration": 99
+        },
+        {
+            "from": "MERCADE",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-08T09:37:06.574808",
+            "duration": 108
+        },
+        {
+            "from": "MERCADE",
+            "to": "Here stand I",
+            "timestamp": "2025-03-04T00:53:06.574810",
+            "duration": 212
+        },
+        {
+            "from": "MERCADE",
+            "to": "DULL",
+            "timestamp": "2025-03-10T03:10:06.574812",
+            "duration": 246
+        },
+        {
+            "from": "MERCADE",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-09T17:49:06.574814",
+            "duration": 88
+        },
+        {
+            "from": "MERCADE",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-07T14:35:06.574817",
+            "duration": 278
+        },
+        {
+            "from": "MERCADE",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-07T00:37:06.574819",
+            "duration": 223
+        },
+        {
+            "from": "MERCADE",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-03T23:21:06.574821",
+            "duration": 88
+        },
+        {
+            "from": "MERCADE",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-03T18:44:06.574823",
+            "duration": 232
+        },
+        {
+            "from": "MERCADE",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-05T11:38:06.574825",
+            "duration": 216
+        },
+        {
+            "from": "MERCADE",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-03T12:19:06.574828",
+            "duration": 278
+        },
+        {
+            "from": "MERCADE",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-09T12:14:06.574830",
+            "duration": 207
+        },
+        {
+            "from": "MERCADE",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-05T13:53:06.574832",
+            "duration": 157
+        },
+        {
+            "from": "MERCADE",
+            "to": "Forester",
+            "timestamp": "2025-03-06T08:16:06.574834",
+            "duration": 67
+        },
+        {
+            "from": "MERCADE",
+            "to": "Forester",
+            "timestamp": "2025-03-07T13:40:06.574836",
+            "duration": 116
+        },
+        {
+            "from": "MERCADE",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-04T20:04:06.574839",
+            "duration": 87
+        },
+        {
+            "from": "MERCADE",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-06T22:48:06.574841",
+            "duration": 118
+        },
+        {
+            "from": "MERCADE",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-07T20:38:06.574843",
+            "duration": 143
+        },
+        {
+            "from": "PRINCESS",
+            "to": "FERDINAND",
+            "timestamp": "2025-03-07T04:43:06.574845",
+            "duration": 75
+        },
+        {
+            "from": "PRINCESS",
+            "to": "COSTARD",
+            "timestamp": "2025-03-04T08:44:06.574847",
+            "duration": 89
+        },
+        {
+            "from": "PRINCESS",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-03T08:02:06.574850",
+            "duration": 221
+        },
+        {
+            "from": "PRINCESS",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-02T21:44:06.574852",
+            "duration": 196
+        },
+        {
+            "from": "PRINCESS",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-06T20:55:06.574854",
+            "duration": 186
+        },
+        {
+            "from": "PRINCESS",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-09T09:07:06.574856",
+            "duration": 118
+        },
+        {
+            "from": "PRINCESS",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-04T18:27:06.574858",
+            "duration": 148
+        },
+        {
+            "from": "PRINCESS",
+            "to": "Here stand I",
+            "timestamp": "2025-03-10T12:23:06.574861",
+            "duration": 68
+        },
+        {
+            "from": "PRINCESS",
+            "to": "DULL",
+            "timestamp": "2025-03-09T12:03:06.574863",
+            "duration": 277
+        },
+        {
+            "from": "PRINCESS",
+            "to": "DULL",
+            "timestamp": "2025-03-07T15:37:06.574865",
+            "duration": 208
+        },
+        {
+            "from": "PRINCESS",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-08T05:02:06.574867",
+            "duration": 113
+        },
+        {
+            "from": "PRINCESS",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-04T06:11:06.574869",
+            "duration": 261
+        },
+        {
+            "from": "PRINCESS",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-08T07:40:06.574872",
+            "duration": 205
+        },
+        {
+            "from": "PRINCESS",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-08T16:26:06.574874",
+            "duration": 213
+        },
+        {
+            "from": "PRINCESS",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-07T11:05:06.574876",
+            "duration": 196
+        },
+        {
+            "from": "PRINCESS",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-05T14:03:06.574878",
+            "duration": 253
+        },
+        {
+            "from": "PRINCESS",
+            "to": "Forester",
+            "timestamp": "2025-03-08T03:19:06.574880",
+            "duration": 259
+        },
+        {
+            "from": "PRINCESS",
+            "to": "Forester",
+            "timestamp": "2025-03-04T00:37:06.574882",
+            "duration": 217
+        },
+        {
+            "from": "PRINCESS",
+            "to": "Forester",
+            "timestamp": "2025-03-02T16:16:06.574884",
+            "duration": 103
+        },
+        {
+            "from": "PRINCESS",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-04T17:42:06.574887",
+            "duration": 123
+        },
+        {
+            "from": "PRINCESS",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-09T01:21:06.574889",
+            "duration": 98
+        },
+        {
+            "from": "PRINCESS",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-03T20:40:06.574891",
+            "duration": 298
+        },
+        {
+            "from": "PRINCESS",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-09T03:40:06.574893",
+            "duration": 136
+        },
+        {
+            "from": "PRINCESS",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-10T02:21:06.574895",
+            "duration": 186
+        },
+        {
+            "from": "FERDINAND",
+            "to": "COSTARD",
+            "timestamp": "2025-03-08T18:19:06.574898",
+            "duration": 97
+        },
+        {
+            "from": "FERDINAND",
+            "to": "COSTARD",
+            "timestamp": "2025-03-04T18:39:06.574900",
+            "duration": 211
+        },
+        {
+            "from": "FERDINAND",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-09T16:16:06.574902",
+            "duration": 161
+        },
+        {
+            "from": "FERDINAND",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-05T02:22:06.574904",
+            "duration": 128
+        },
+        {
+            "from": "FERDINAND",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-05T11:10:06.574906",
+            "duration": 145
+        },
+        {
+            "from": "FERDINAND",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-03T03:01:06.574909",
+            "duration": 296
+        },
+        {
+            "from": "FERDINAND",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-05T10:50:06.574911",
+            "duration": 132
+        },
+        {
+            "from": "FERDINAND",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-09T05:57:06.574913",
+            "duration": 154
+        },
+        {
+            "from": "FERDINAND",
+            "to": "Here stand I",
+            "timestamp": "2025-03-06T23:32:06.574915",
+            "duration": 201
+        },
+        {
+            "from": "FERDINAND",
+            "to": "Here stand I",
+            "timestamp": "2025-03-08T02:27:06.574917",
+            "duration": 119
+        },
+        {
+            "from": "FERDINAND",
+            "to": "DULL",
+            "timestamp": "2025-03-09T02:20:06.574919",
+            "duration": 254
+        },
+        {
+            "from": "FERDINAND",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-07T21:07:06.574922",
+            "duration": 114
+        },
+        {
+            "from": "FERDINAND",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-10T11:43:06.574924",
+            "duration": 227
+        },
+        {
+            "from": "FERDINAND",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-05T02:18:06.574926",
+            "duration": 252
+        },
+        {
+            "from": "FERDINAND",
+            "to": "Forester",
+            "timestamp": "2025-03-08T02:40:06.574928",
+            "duration": 169
+        },
+        {
+            "from": "FERDINAND",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-10T14:05:06.574931",
+            "duration": 190
+        },
+        {
+            "from": "FERDINAND",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-03T10:31:06.574933",
+            "duration": 190
+        },
+        {
+            "from": "FERDINAND",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-05T01:31:06.574935",
+            "duration": 60
+        },
+        {
+            "from": "FERDINAND",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-07T05:36:06.574937",
+            "duration": 244
+        },
+        {
+            "from": "FERDINAND",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-04T10:32:06.574939",
+            "duration": 265
+        },
+        {
+            "from": "COSTARD",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-08T02:26:06.574941",
+            "duration": 126
+        },
+        {
+            "from": "COSTARD",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-03T12:59:06.574944",
+            "duration": 93
+        },
+        {
+            "from": "COSTARD",
+            "to": "LONGAVILLE",
+            "timestamp": "2025-03-07T02:52:06.574946",
+            "duration": 287
+        },
+        {
+            "from": "COSTARD",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-07T05:14:06.574948",
+            "duration": 211
+        },
+        {
+            "from": "COSTARD",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-09T12:10:06.574950",
+            "duration": 166
+        },
+        {
+            "from": "COSTARD",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-05T08:53:06.574952",
+            "duration": 221
+        },
+        {
+            "from": "COSTARD",
+            "to": "Here stand I",
+            "timestamp": "2025-03-07T20:29:06.574954",
+            "duration": 281
+        },
+        {
+            "from": "COSTARD",
+            "to": "DULL",
+            "timestamp": "2025-03-08T04:06:06.574957",
+            "duration": 115
+        },
+        {
+            "from": "COSTARD",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-09T13:37:06.574959",
+            "duration": 285
+        },
+        {
+            "from": "COSTARD",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-03T12:49:06.574961",
+            "duration": 100
+        },
+        {
+            "from": "COSTARD",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-10T09:45:06.574964",
+            "duration": 191
+        },
+        {
+            "from": "COSTARD",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-03T10:34:06.574966",
+            "duration": 202
+        },
+        {
+            "from": "COSTARD",
+            "to": "Forester",
+            "timestamp": "2025-03-08T21:28:06.574968",
+            "duration": 291
+        },
+        {
+            "from": "COSTARD",
+            "to": "Forester",
+            "timestamp": "2025-03-10T00:07:06.574970",
+            "duration": 115
+        },
+        {
+            "from": "COSTARD",
+            "to": "Forester",
+            "timestamp": "2025-03-06T12:02:06.574972",
+            "duration": 293
+        },
+        {
+            "from": "COSTARD",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-07T05:50:06.574974",
+            "duration": 77
+        },
+        {
+            "from": "COSTARD",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-08T19:14:06.574976",
+            "duration": 153
+        },
+        {
+            "from": "COSTARD",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-10T10:52:06.574978",
+            "duration": 152
+        },
+        {
+            "from": "COSTARD",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-07T23:15:06.574981",
+            "duration": 241
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-07T18:29:06.574983",
+            "duration": 135
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "KATHARINE",
+            "timestamp": "2025-03-08T04:36:06.574985",
+            "duration": 85
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "Here stand I",
+            "timestamp": "2025-03-03T08:06:06.574987",
+            "duration": 192
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "Here stand I",
+            "timestamp": "2025-03-07T15:06:06.574989",
+            "duration": 284
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "Here stand I",
+            "timestamp": "2025-03-03T06:21:06.574991",
+            "duration": 250
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "DULL",
+            "timestamp": "2025-03-03T03:58:06.574994",
+            "duration": 228
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "DULL",
+            "timestamp": "2025-03-10T13:46:06.574996",
+            "duration": 241
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "DULL",
+            "timestamp": "2025-03-04T12:03:06.574998",
+            "duration": 142
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-10T13:25:06.575001",
+            "duration": 295
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-08T19:00:06.575003",
+            "duration": 283
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-10T08:02:06.575005",
+            "duration": 96
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-08T04:13:06.575007",
+            "duration": 177
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-07T01:34:06.575009",
+            "duration": 237
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "Forester",
+            "timestamp": "2025-03-08T08:49:06.575012",
+            "duration": 262
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "Forester",
+            "timestamp": "2025-03-03T08:50:06.575014",
+            "duration": 297
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-07T04:19:06.575016",
+            "duration": 177
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-04T00:38:06.575018",
+            "duration": 149
+        },
+        {
+            "from": "LONGAVILLE",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-03T07:14:06.575020",
+            "duration": 67
+        },
+        {
+            "from": "KATHARINE",
+            "to": "Here stand I",
+            "timestamp": "2025-03-07T04:04:06.575023",
+            "duration": 117
+        },
+        {
+            "from": "KATHARINE",
+            "to": "Here stand I",
+            "timestamp": "2025-03-06T10:19:06.575025",
+            "duration": 146
+        },
+        {
+            "from": "KATHARINE",
+            "to": "DULL",
+            "timestamp": "2025-03-09T04:02:06.575027",
+            "duration": 231
+        },
+        {
+            "from": "KATHARINE",
+            "to": "DULL",
+            "timestamp": "2025-03-07T19:32:06.575029",
+            "duration": 286
+        },
+        {
+            "from": "KATHARINE",
+            "to": "DULL",
+            "timestamp": "2025-03-09T05:36:06.575031",
+            "duration": 136
+        },
+        {
+            "from": "KATHARINE",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-08T01:52:06.575033",
+            "duration": 284
+        },
+        {
+            "from": "KATHARINE",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-07T02:28:06.575035",
+            "duration": 205
+        },
+        {
+            "from": "KATHARINE",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-09T16:54:06.575038",
+            "duration": 152
+        },
+        {
+            "from": "KATHARINE",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-07T00:55:06.575040",
+            "duration": 73
+        },
+        {
+            "from": "KATHARINE",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-05T19:33:06.575042",
+            "duration": 63
+        },
+        {
+            "from": "KATHARINE",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-05T20:37:06.575044",
+            "duration": 204
+        },
+        {
+            "from": "KATHARINE",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-03T20:45:06.575046",
+            "duration": 184
+        },
+        {
+            "from": "KATHARINE",
+            "to": "Forester",
+            "timestamp": "2025-03-03T02:08:06.575048",
+            "duration": 296
+        },
+        {
+            "from": "KATHARINE",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-03T11:41:06.575050",
+            "duration": 202
+        },
+        {
+            "from": "KATHARINE",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-05T20:38:06.575052",
+            "duration": 167
+        },
+        {
+            "from": "KATHARINE",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-03T21:28:06.575054",
+            "duration": 196
+        },
+        {
+            "from": "KATHARINE",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-09T00:12:06.575057",
+            "duration": 133
+        },
+        {
+            "from": "Here stand I",
+            "to": "DULL",
+            "timestamp": "2025-03-04T11:44:06.575059",
+            "duration": 210
+        },
+        {
+            "from": "Here stand I",
+            "to": "DULL",
+            "timestamp": "2025-03-02T14:51:06.575061",
+            "duration": 155
+        },
+        {
+            "from": "Here stand I",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-08T20:58:06.575063",
+            "duration": 258
+        },
+        {
+            "from": "Here stand I",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-03T02:25:06.575065",
+            "duration": 267
+        },
+        {
+            "from": "Here stand I",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-10T05:51:06.575067",
+            "duration": 186
+        },
+        {
+            "from": "Here stand I",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-05T17:10:06.575069",
+            "duration": 264
+        },
+        {
+            "from": "Here stand I",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-07T01:56:06.575071",
+            "duration": 221
+        },
+        {
+            "from": "Here stand I",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-03T12:42:06.575074",
+            "duration": 246
+        },
+        {
+            "from": "Here stand I",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-02T16:13:06.575076",
+            "duration": 173
+        },
+        {
+            "from": "Here stand I",
+            "to": "Forester",
+            "timestamp": "2025-03-04T10:21:06.575078",
+            "duration": 62
+        },
+        {
+            "from": "Here stand I",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-08T20:54:06.575080",
+            "duration": 92
+        },
+        {
+            "from": "Here stand I",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-06T06:24:06.575082",
+            "duration": 110
+        },
+        {
+            "from": "Here stand I",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-10T03:01:06.575084",
+            "duration": 157
+        },
+        {
+            "from": "DULL",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-02T18:32:06.575087",
+            "duration": 202
+        },
+        {
+            "from": "DULL",
+            "to": "ADRIANO DE ARMADO",
+            "timestamp": "2025-03-04T13:41:06.575089",
+            "duration": 217
+        },
+        {
+            "from": "DULL",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-06T16:06:06.575091",
+            "duration": 66
+        },
+        {
+            "from": "DULL",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-06T23:46:06.575093",
+            "duration": 77
+        },
+        {
+            "from": "DULL",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-05T21:30:06.575095",
+            "duration": 282
+        },
+        {
+            "from": "DULL",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-10T07:43:06.575097",
+            "duration": 143
+        },
+        {
+            "from": "DULL",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-07T09:18:06.575100",
+            "duration": 69
+        },
+        {
+            "from": "DULL",
+            "to": "Forester",
+            "timestamp": "2025-03-04T05:12:06.575102",
+            "duration": 154
+        },
+        {
+            "from": "DULL",
+            "to": "Forester",
+            "timestamp": "2025-03-08T04:05:06.575104",
+            "duration": 104
+        },
+        {
+            "from": "DULL",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-05T06:20:06.575106",
+            "duration": 89
+        },
+        {
+            "from": "DULL",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-09T00:45:06.575109",
+            "duration": 293
+        },
+        {
+            "from": "DULL",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-03T21:02:06.575111",
+            "duration": 128
+        },
+        {
+            "from": "DULL",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-09T18:03:06.575113",
+            "duration": 118
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-10T02:24:06.575115",
+            "duration": 267
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-08T00:56:06.575117",
+            "duration": 168
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "ROSALINE",
+            "timestamp": "2025-03-09T16:39:06.575119",
+            "duration": 221
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-09T08:06:06.575121",
+            "duration": 162
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-06T21:18:06.575124",
+            "duration": 112
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-04T02:54:06.575126",
+            "duration": 202
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "Forester",
+            "timestamp": "2025-03-08T08:50:06.575128",
+            "duration": 97
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "Forester",
+            "timestamp": "2025-03-05T01:52:06.575130",
+            "duration": 195
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-02T16:00:06.575132",
+            "duration": 79
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-03T22:36:06.575134",
+            "duration": 297
+        },
+        {
+            "from": "ADRIANO DE ARMADO",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-09T20:17:06.575136",
+            "duration": 282
+        },
+        {
+            "from": "ROSALINE",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-09T10:28:06.575139",
+            "duration": 149
+        },
+        {
+            "from": "ROSALINE",
+            "to": "DUMAIN",
+            "timestamp": "2025-03-05T11:43:06.575141",
+            "duration": 252
+        },
+        {
+            "from": "ROSALINE",
+            "to": "Forester",
+            "timestamp": "2025-03-06T07:59:06.575143",
+            "duration": 274
+        },
+        {
+            "from": "ROSALINE",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-05T21:17:06.575146",
+            "duration": 205
+        },
+        {
+            "from": "ROSALINE",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-09T02:06:06.575148",
+            "duration": 147
+        },
+        {
+            "from": "ROSALINE",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-05T21:02:06.575150",
+            "duration": 102
+        },
+        {
+            "from": "ROSALINE",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-08T20:58:06.575152",
+            "duration": 212
+        },
+        {
+            "from": "DUMAIN",
+            "to": "Forester",
+            "timestamp": "2025-03-04T09:05:06.575154",
+            "duration": 274
+        },
+        {
+            "from": "DUMAIN",
+            "to": "Forester",
+            "timestamp": "2025-03-08T08:29:06.575156",
+            "duration": 183
+        },
+        {
+            "from": "DUMAIN",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-02T22:54:06.575159",
+            "duration": 118
+        },
+        {
+            "from": "DUMAIN",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-03T17:09:06.575161",
+            "duration": 180
+        },
+        {
+            "from": "DUMAIN",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-05T21:45:06.575163",
+            "duration": 125
+        },
+        {
+            "from": "Forester",
+            "to": "HOLOFERNES",
+            "timestamp": "2025-03-07T02:51:06.575165",
+            "duration": 85
+        },
+        {
+            "from": "Forester",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-08T15:52:06.575168",
+            "duration": 246
+        },
+        {
+            "from": "HOLOFERNES",
+            "to": "JAQUENETTA",
+            "timestamp": "2025-03-06T06:52:06.575948",
+            "duration": 281
+        }
+    ],
+    "contact_data": {
+        "MARIA": {
+            "phone": "312-499-6998",
+            "email": "maria@globaltradepart.com",
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "ARMADO": {
+            "phone": "872-521-1555",
+            "email": "armado@marketdyn.com",
+            "title": "Trade Relations Manager",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "MOTH": {
+            "phone": "872-330-3066",
+            "email": "moth@marketdyn.com",
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "BOYET": {
+            "phone": "872-804-4323",
+            "email": "boyet@tradewinds.com",
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "SIR NATHANIEL": {
+            "phone": "773-879-3257",
+            "email": "sir.nathaniel@legacycap.com",
+            "title": "Senior Partner",
+            "company": "Legacy Capital Partners",
+            "industry": "Noble"
+        },
+        "BIRON": {
+            "phone": "773-754-6969",
+            "email": "biron@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "MERCADE": {
+            "phone": "312-546-9699",
+            "email": "mercade@merchantsexchange.com",
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "PRINCESS": {
+            "phone": "312-355-9303",
+            "email": "princess@imperialventures.com",
+            "title": "Global President",
+            "company": "Imperial Ventures",
+            "industry": "Royal"
+        },
+        "FERDINAND": {
+            "phone": "773-349-1756",
+            "email": "ferdinand@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "COSTARD": {
+            "phone": "312-961-4937",
+            "email": "costard@commercetrade.com",
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "LONGAVILLE": {
+            "phone": "312-624-7397",
+            "email": "longaville@commercetrade.com",
+            "title": "Market Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "KATHARINE": {
+            "phone": "312-842-4832",
+            "email": "katharine@globaltradepart.com",
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Here stand I": {
+            "phone": "312-878-5981",
+            "email": "here.stand.i@globaltradepart.com",
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "DULL": {
+            "phone": "872-274-5781",
+            "email": "dull@merchantsexchange.com",
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "ADRIANO DE ARMADO": {
+            "phone": "312-456-4242",
+            "email": "adriano.de.armado@marketdyn.com",
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "ROSALINE": {
+            "phone": "872-980-3295",
+            "email": "rosaline@marketdyn.com",
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "DUMAIN": {
+            "phone": "312-464-7472",
+            "email": "dumain@commercelink.com",
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "Forester": {
+            "phone": "773-794-2872",
+            "email": "forester@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "HOLOFERNES": {
+            "phone": "872-457-1620",
+            "email": "holofernes@globaltradepart.com",
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "JAQUENETTA": {
+            "phone": "312-533-6225",
+            "email": "jaquenetta@tradewinds.com",
+            "title": "Business Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        }
+    }
+}

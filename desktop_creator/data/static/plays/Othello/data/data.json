@@ -1,0 +1,2564 @@
+{
+    "characters": {
+        "EMILIA": {
+            "title": "Trade Relations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-739-7553",
+            "email": "emilia@commercelink.com"
+        },
+        "IAGO": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-145-4306",
+            "email": "iago@commercetrade.com"
+        },
+        "Fourth Gentleman": {
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-692-9639",
+            "email": "fourth.gentleman@marketdyn.com"
+        },
+        "CASSIO": {
+            "title": "Commercial Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-251-1472",
+            "email": "cassio@marketdyn.com"
+        },
+        "Herald": {
+            "title": "Market Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "713-459-3050",
+            "email": "herald@merchantsexchange.com"
+        },
+        "Clown": {
+            "title": "Creative Director",
+            "company": "Artistic Vision Group",
+            "industry": "Artistic",
+            "location": "San Francisco",
+            "phone": "628-256-8586",
+            "email": "clown@artisticvision.com"
+        },
+        "DESDEMONA": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "832-456-2207",
+            "email": "desdemona@marketdyn.com"
+        },
+        "Sailor": {
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-480-3968",
+            "email": "sailor@marketdyn.com"
+        },
+        "OTHELLO": {
+            "title": "Chief Commercial Officer",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-279-8402",
+            "email": "othello@marketdyn.com"
+        },
+        "Third Gentleman": {
+            "title": "Chief Commercial Officer",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "917-803-6644",
+            "email": "third.gentleman@commercelink.com"
+        },
+        "RODERIGO": {
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-607-1251",
+            "email": "roderigo@tradewinds.com"
+        },
+        "Senator": {
+            "title": "Trading Operations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-990-5542",
+            "email": "senator@globaltradepart.com"
+        },
+        "GRATIANO": {
+            "title": "Market Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "San Francisco",
+            "phone": "628-111-4631",
+            "email": "gratiano@commercelink.com"
+        },
+        "Gentleman": {
+            "title": "Commercial Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "312-615-6911",
+            "email": "gentleman@globaltradepart.com"
+        },
+        "DUKE OF VENICE": {
+            "title": "Executive Chairman",
+            "company": "Dynasty Global Investments",
+            "industry": "Royal",
+            "location": "Los Angeles",
+            "phone": "323-818-4783",
+            "email": "duke.of.venice@dynastyglobal.com"
+        },
+        "BIANCA": {
+            "title": "Trading Operations Manager",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant",
+            "location": "Houston",
+            "phone": "281-319-3501",
+            "email": "bianca@commercelink.com"
+        },
+        "LODOVICO": {
+            "title": "Trade Relations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant",
+            "location": "New York",
+            "phone": "212-603-7431",
+            "email": "lodovico@tradewinds.com"
+        },
+        "Messenger": {
+            "title": "External Relations Head",
+            "company": "Concord Mediation Group",
+            "industry": "Diplomatic",
+            "location": "Houston",
+            "phone": "832-371-8447",
+            "email": "messenger@concordmediation.com"
+        },
+        "MONTANO": {
+            "title": "Business Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant",
+            "location": "Chicago",
+            "phone": "872-591-5545",
+            "email": "montano@globaltradepart.com"
+        },
+        "BRABANTIO": {
+            "title": "Business Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant",
+            "location": "Los Angeles",
+            "phone": "323-977-4454",
+            "email": "brabantio@marketdyn.com"
+        }
+    },
+    "call_data": [
+        {
+            "from": "EMILIA",
+            "to": "IAGO",
+            "timestamp": "2025-03-04T17:40:07.227953",
+            "duration": 128
+        },
+        {
+            "from": "EMILIA",
+            "to": "IAGO",
+            "timestamp": "2025-03-07T00:20:07.227964",
+            "duration": 70
+        },
+        {
+            "from": "EMILIA",
+            "to": "Fourth Gentleman",
+            "timestamp": "2025-03-05T20:41:07.227967",
+            "duration": 285
+        },
+        {
+            "from": "EMILIA",
+            "to": "Fourth Gentleman",
+            "timestamp": "2025-03-08T18:44:07.227969",
+            "duration": 268
+        },
+        {
+            "from": "EMILIA",
+            "to": "CASSIO",
+            "timestamp": "2025-03-05T23:30:07.227972",
+            "duration": 128
+        },
+        {
+            "from": "EMILIA",
+            "to": "CASSIO",
+            "timestamp": "2025-03-09T06:10:07.227974",
+            "duration": 90
+        },
+        {
+            "from": "EMILIA",
+            "to": "Herald",
+            "timestamp": "2025-03-03T17:29:07.227976",
+            "duration": 254
+        },
+        {
+            "from": "EMILIA",
+            "to": "Herald",
+            "timestamp": "2025-03-03T15:05:07.227978",
+            "duration": 162
+        },
+        {
+            "from": "EMILIA",
+            "to": "Herald",
+            "timestamp": "2025-03-06T19:40:07.227980",
+            "duration": 288
+        },
+        {
+            "from": "EMILIA",
+            "to": "Clown",
+            "timestamp": "2025-03-08T13:16:07.227983",
+            "duration": 104
+        },
+        {
+            "from": "EMILIA",
+            "to": "Clown",
+            "timestamp": "2025-03-04T23:29:07.227985",
+            "duration": 85
+        },
+        {
+            "from": "EMILIA",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-08T03:32:07.227987",
+            "duration": 160
+        },
+        {
+            "from": "EMILIA",
+            "to": "Sailor",
+            "timestamp": "2025-03-08T07:32:07.227989",
+            "duration": 256
+        },
+        {
+            "from": "EMILIA",
+            "to": "Sailor",
+            "timestamp": "2025-03-03T05:51:07.227991",
+            "duration": 233
+        },
+        {
+            "from": "EMILIA",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-04T17:28:07.227994",
+            "duration": 154
+        },
+        {
+            "from": "EMILIA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-05T18:25:07.227996",
+            "duration": 120
+        },
+        {
+            "from": "EMILIA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-06T02:07:07.227998",
+            "duration": 224
+        },
+        {
+            "from": "EMILIA",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-09T06:03:07.228001",
+            "duration": 165
+        },
+        {
+            "from": "EMILIA",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-06T09:55:07.228003",
+            "duration": 137
+        },
+        {
+            "from": "EMILIA",
+            "to": "Senator",
+            "timestamp": "2025-03-09T10:50:07.228006",
+            "duration": 96
+        },
+        {
+            "from": "EMILIA",
+            "to": "Senator",
+            "timestamp": "2025-03-05T17:41:07.228008",
+            "duration": 72
+        },
+        {
+            "from": "EMILIA",
+            "to": "Senator",
+            "timestamp": "2025-03-03T08:58:07.228010",
+            "duration": 111
+        },
+        {
+            "from": "EMILIA",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-02T19:35:07.228012",
+            "duration": 87
+        },
+        {
+            "from": "EMILIA",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-03T12:41:07.228014",
+            "duration": 238
+        },
+        {
+            "from": "EMILIA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T00:08:07.228016",
+            "duration": 191
+        },
+        {
+            "from": "EMILIA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T09:28:07.228018",
+            "duration": 111
+        },
+        {
+            "from": "EMILIA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T05:40:07.228020",
+            "duration": 264
+        },
+        {
+            "from": "EMILIA",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-10T10:02:07.228023",
+            "duration": 81
+        },
+        {
+            "from": "EMILIA",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-07T14:21:07.228025",
+            "duration": 246
+        },
+        {
+            "from": "EMILIA",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-05T05:24:07.228027",
+            "duration": 159
+        },
+        {
+            "from": "EMILIA",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T10:03:07.228030",
+            "duration": 124
+        },
+        {
+            "from": "EMILIA",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T16:36:07.228032",
+            "duration": 227
+        },
+        {
+            "from": "EMILIA",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-02T19:42:07.228034",
+            "duration": 253
+        },
+        {
+            "from": "EMILIA",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-10T13:24:07.228036",
+            "duration": 108
+        },
+        {
+            "from": "EMILIA",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T09:51:07.228039",
+            "duration": 212
+        },
+        {
+            "from": "EMILIA",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T05:49:07.228041",
+            "duration": 286
+        },
+        {
+            "from": "EMILIA",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T06:12:07.228043",
+            "duration": 241
+        },
+        {
+            "from": "EMILIA",
+            "to": "MONTANO",
+            "timestamp": "2025-03-06T05:34:07.228045",
+            "duration": 108
+        },
+        {
+            "from": "EMILIA",
+            "to": "MONTANO",
+            "timestamp": "2025-03-02T20:19:07.228047",
+            "duration": 262
+        },
+        {
+            "from": "EMILIA",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-07T11:14:07.228049",
+            "duration": 179
+        },
+        {
+            "from": "EMILIA",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-05T14:46:07.228051",
+            "duration": 172
+        },
+        {
+            "from": "EMILIA",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-03T06:46:07.228053",
+            "duration": 250
+        },
+        {
+            "from": "IAGO",
+            "to": "Fourth Gentleman",
+            "timestamp": "2025-03-08T06:48:07.228056",
+            "duration": 148
+        },
+        {
+            "from": "IAGO",
+            "to": "Fourth Gentleman",
+            "timestamp": "2025-03-07T19:53:07.228058",
+            "duration": 186
+        },
+        {
+            "from": "IAGO",
+            "to": "CASSIO",
+            "timestamp": "2025-03-03T20:35:07.228060",
+            "duration": 144
+        },
+        {
+            "from": "IAGO",
+            "to": "CASSIO",
+            "timestamp": "2025-03-05T17:14:07.228062",
+            "duration": 292
+        },
+        {
+            "from": "IAGO",
+            "to": "Herald",
+            "timestamp": "2025-03-03T09:40:07.228064",
+            "duration": 119
+        },
+        {
+            "from": "IAGO",
+            "to": "Herald",
+            "timestamp": "2025-03-08T11:55:07.228066",
+            "duration": 131
+        },
+        {
+            "from": "IAGO",
+            "to": "Herald",
+            "timestamp": "2025-03-09T04:46:07.228068",
+            "duration": 233
+        },
+        {
+            "from": "IAGO",
+            "to": "Clown",
+            "timestamp": "2025-03-07T16:15:07.228071",
+            "duration": 198
+        },
+        {
+            "from": "IAGO",
+            "to": "Clown",
+            "timestamp": "2025-03-08T23:15:07.228073",
+            "duration": 86
+        },
+        {
+            "from": "IAGO",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-02T21:10:07.228075",
+            "duration": 157
+        },
+        {
+            "from": "IAGO",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-09T07:12:07.228077",
+            "duration": 157
+        },
+        {
+            "from": "IAGO",
+            "to": "Sailor",
+            "timestamp": "2025-03-07T19:39:07.228079",
+            "duration": 91
+        },
+        {
+            "from": "IAGO",
+            "to": "Sailor",
+            "timestamp": "2025-03-04T05:10:07.228081",
+            "duration": 102
+        },
+        {
+            "from": "IAGO",
+            "to": "Sailor",
+            "timestamp": "2025-03-06T20:52:07.228083",
+            "duration": 73
+        },
+        {
+            "from": "IAGO",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-10T02:36:07.228085",
+            "duration": 260
+        },
+        {
+            "from": "IAGO",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-04T13:50:07.228087",
+            "duration": 118
+        },
+        {
+            "from": "IAGO",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-08T03:07:07.228094",
+            "duration": 73
+        },
+        {
+            "from": "IAGO",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T15:22:07.228097",
+            "duration": 112
+        },
+        {
+            "from": "IAGO",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-09T23:15:07.228099",
+            "duration": 244
+        },
+        {
+            "from": "IAGO",
+            "to": "Senator",
+            "timestamp": "2025-03-04T04:12:07.228101",
+            "duration": 276
+        },
+        {
+            "from": "IAGO",
+            "to": "Senator",
+            "timestamp": "2025-03-06T12:30:07.228103",
+            "duration": 150
+        },
+        {
+            "from": "IAGO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-07T22:08:07.228105",
+            "duration": 70
+        },
+        {
+            "from": "IAGO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T21:09:07.228108",
+            "duration": 198
+        },
+        {
+            "from": "IAGO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T20:55:07.228111",
+            "duration": 136
+        },
+        {
+            "from": "IAGO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T16:59:07.228113",
+            "duration": 113
+        },
+        {
+            "from": "IAGO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-10T08:35:07.228115",
+            "duration": 202
+        },
+        {
+            "from": "IAGO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-07T01:43:07.228117",
+            "duration": 127
+        },
+        {
+            "from": "IAGO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-07T07:01:07.228119",
+            "duration": 194
+        },
+        {
+            "from": "IAGO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-09T09:31:07.228122",
+            "duration": 134
+        },
+        {
+            "from": "IAGO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-04T11:28:07.228124",
+            "duration": 82
+        },
+        {
+            "from": "IAGO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-09T18:22:07.228126",
+            "duration": 106
+        },
+        {
+            "from": "IAGO",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-08T15:12:07.228128",
+            "duration": 177
+        },
+        {
+            "from": "IAGO",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-05T16:10:07.228130",
+            "duration": 224
+        },
+        {
+            "from": "IAGO",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T21:09:07.228133",
+            "duration": 273
+        },
+        {
+            "from": "IAGO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-09T05:32:07.228135",
+            "duration": 257
+        },
+        {
+            "from": "IAGO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-06T07:22:07.228137",
+            "duration": 110
+        },
+        {
+            "from": "IAGO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-07T05:54:07.228140",
+            "duration": 215
+        },
+        {
+            "from": "IAGO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-09T04:49:07.228142",
+            "duration": 269
+        },
+        {
+            "from": "IAGO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-07T12:13:07.228144",
+            "duration": 272
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "CASSIO",
+            "timestamp": "2025-03-03T08:25:07.228146",
+            "duration": 273
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Herald",
+            "timestamp": "2025-03-10T03:17:07.228148",
+            "duration": 269
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Clown",
+            "timestamp": "2025-03-08T08:03:07.228151",
+            "duration": 216
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Clown",
+            "timestamp": "2025-03-10T08:32:07.228153",
+            "duration": 139
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Clown",
+            "timestamp": "2025-03-10T04:44:07.228155",
+            "duration": 84
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-08T00:17:07.228157",
+            "duration": 84
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-02T20:01:07.228159",
+            "duration": 264
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Sailor",
+            "timestamp": "2025-03-09T05:26:07.228161",
+            "duration": 266
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-04T04:03:07.228164",
+            "duration": 153
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-05T18:38:07.228166",
+            "duration": 248
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-09T07:44:07.228168",
+            "duration": 293
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-07T20:32:07.228170",
+            "duration": 162
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-03T11:26:07.228173",
+            "duration": 279
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Senator",
+            "timestamp": "2025-03-03T22:42:07.228176",
+            "duration": 179
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-05T18:50:07.228178",
+            "duration": 254
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T23:57:07.228180",
+            "duration": 97
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T08:47:07.228182",
+            "duration": 197
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-05T03:49:07.228184",
+            "duration": 251
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-04T04:46:07.228186",
+            "duration": 236
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-04T02:47:07.228189",
+            "duration": 294
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T18:59:07.228191",
+            "duration": 260
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T04:07:07.228193",
+            "duration": 112
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-08T10:07:07.228195",
+            "duration": 147
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-08T10:36:07.228197",
+            "duration": 93
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-07T12:11:07.228199",
+            "duration": 119
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T08:55:07.228201",
+            "duration": 96
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "Messenger",
+            "timestamp": "2025-03-10T06:35:07.228203",
+            "duration": 159
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "MONTANO",
+            "timestamp": "2025-03-06T18:52:07.228206",
+            "duration": 271
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-04T17:56:07.228208",
+            "duration": 74
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-04T04:49:07.228211",
+            "duration": 136
+        },
+        {
+            "from": "Fourth Gentleman",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-09T05:59:07.228213",
+            "duration": 148
+        },
+        {
+            "from": "CASSIO",
+            "to": "Herald",
+            "timestamp": "2025-03-07T04:35:07.228215",
+            "duration": 154
+        },
+        {
+            "from": "CASSIO",
+            "to": "Clown",
+            "timestamp": "2025-03-10T12:11:07.228217",
+            "duration": 102
+        },
+        {
+            "from": "CASSIO",
+            "to": "Clown",
+            "timestamp": "2025-03-04T02:57:07.228219",
+            "duration": 95
+        },
+        {
+            "from": "CASSIO",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-09T18:42:07.228221",
+            "duration": 103
+        },
+        {
+            "from": "CASSIO",
+            "to": "Sailor",
+            "timestamp": "2025-03-02T23:02:07.228224",
+            "duration": 92
+        },
+        {
+            "from": "CASSIO",
+            "to": "Sailor",
+            "timestamp": "2025-03-05T21:26:07.228226",
+            "duration": 78
+        },
+        {
+            "from": "CASSIO",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-05T01:09:07.228228",
+            "duration": 290
+        },
+        {
+            "from": "CASSIO",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-03T16:12:07.228231",
+            "duration": 105
+        },
+        {
+            "from": "CASSIO",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-05T01:35:07.228233",
+            "duration": 281
+        },
+        {
+            "from": "CASSIO",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-08T10:28:07.228235",
+            "duration": 150
+        },
+        {
+            "from": "CASSIO",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-05T12:40:07.228237",
+            "duration": 278
+        },
+        {
+            "from": "CASSIO",
+            "to": "Senator",
+            "timestamp": "2025-03-03T15:54:07.228239",
+            "duration": 148
+        },
+        {
+            "from": "CASSIO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-09T11:39:07.228242",
+            "duration": 195
+        },
+        {
+            "from": "CASSIO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T10:59:07.228244",
+            "duration": 271
+        },
+        {
+            "from": "CASSIO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-07T10:47:07.228246",
+            "duration": 219
+        },
+        {
+            "from": "CASSIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T20:06:07.228248",
+            "duration": 62
+        },
+        {
+            "from": "CASSIO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-05T15:44:07.228250",
+            "duration": 74
+        },
+        {
+            "from": "CASSIO",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-07T17:08:07.228253",
+            "duration": 178
+        },
+        {
+            "from": "CASSIO",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T23:22:07.228255",
+            "duration": 71
+        },
+        {
+            "from": "CASSIO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-06T15:21:07.228258",
+            "duration": 232
+        },
+        {
+            "from": "CASSIO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-10T08:05:07.228260",
+            "duration": 239
+        },
+        {
+            "from": "CASSIO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-06T10:27:07.228262",
+            "duration": 95
+        },
+        {
+            "from": "CASSIO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-03T17:46:07.228264",
+            "duration": 210
+        },
+        {
+            "from": "CASSIO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-10T11:22:07.228266",
+            "duration": 179
+        },
+        {
+            "from": "Herald",
+            "to": "Clown",
+            "timestamp": "2025-03-08T05:13:07.228268",
+            "duration": 229
+        },
+        {
+            "from": "Herald",
+            "to": "Clown",
+            "timestamp": "2025-03-06T13:40:07.228270",
+            "duration": 243
+        },
+        {
+            "from": "Herald",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-06T18:53:07.228273",
+            "duration": 285
+        },
+        {
+            "from": "Herald",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-04T07:16:07.228275",
+            "duration": 143
+        },
+        {
+            "from": "Herald",
+            "to": "Sailor",
+            "timestamp": "2025-03-04T16:15:07.228277",
+            "duration": 283
+        },
+        {
+            "from": "Herald",
+            "to": "Sailor",
+            "timestamp": "2025-03-09T08:14:07.228279",
+            "duration": 83
+        },
+        {
+            "from": "Herald",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-06T15:59:07.228281",
+            "duration": 145
+        },
+        {
+            "from": "Herald",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T15:34:07.228283",
+            "duration": 103
+        },
+        {
+            "from": "Herald",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-05T03:11:07.228286",
+            "duration": 91
+        },
+        {
+            "from": "Herald",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T17:21:07.228288",
+            "duration": 89
+        },
+        {
+            "from": "Herald",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-07T02:47:07.228307",
+            "duration": 138
+        },
+        {
+            "from": "Herald",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-05T18:53:07.228310",
+            "duration": 239
+        },
+        {
+            "from": "Herald",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-06T09:29:07.228313",
+            "duration": 196
+        },
+        {
+            "from": "Herald",
+            "to": "Senator",
+            "timestamp": "2025-03-07T18:33:07.228317",
+            "duration": 89
+        },
+        {
+            "from": "Herald",
+            "to": "Senator",
+            "timestamp": "2025-03-05T10:23:07.228319",
+            "duration": 294
+        },
+        {
+            "from": "Herald",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-07T08:26:07.228322",
+            "duration": 213
+        },
+        {
+            "from": "Herald",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T16:43:07.228324",
+            "duration": 115
+        },
+        {
+            "from": "Herald",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-05T10:58:07.228326",
+            "duration": 116
+        },
+        {
+            "from": "Herald",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-09T01:04:07.228328",
+            "duration": 160
+        },
+        {
+            "from": "Herald",
+            "to": "BIANCA",
+            "timestamp": "2025-03-09T07:59:07.228331",
+            "duration": 252
+        },
+        {
+            "from": "Herald",
+            "to": "BIANCA",
+            "timestamp": "2025-03-09T12:04:07.228333",
+            "duration": 269
+        },
+        {
+            "from": "Herald",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T13:29:07.228335",
+            "duration": 259
+        },
+        {
+            "from": "Herald",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-03T04:40:07.228337",
+            "duration": 96
+        },
+        {
+            "from": "Herald",
+            "to": "Messenger",
+            "timestamp": "2025-03-07T04:46:07.228339",
+            "duration": 161
+        },
+        {
+            "from": "Herald",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T07:33:07.228341",
+            "duration": 69
+        },
+        {
+            "from": "Herald",
+            "to": "MONTANO",
+            "timestamp": "2025-03-09T08:36:07.228343",
+            "duration": 228
+        },
+        {
+            "from": "Herald",
+            "to": "MONTANO",
+            "timestamp": "2025-03-08T20:00:07.228345",
+            "duration": 274
+        },
+        {
+            "from": "Herald",
+            "to": "MONTANO",
+            "timestamp": "2025-03-05T21:58:07.228348",
+            "duration": 210
+        },
+        {
+            "from": "Herald",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-08T11:06:07.228350",
+            "duration": 68
+        },
+        {
+            "from": "Herald",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-04T08:02:07.228352",
+            "duration": 121
+        },
+        {
+            "from": "Herald",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-07T13:11:07.228354",
+            "duration": 124
+        },
+        {
+            "from": "Clown",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-03T02:04:07.228356",
+            "duration": 280
+        },
+        {
+            "from": "Clown",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-03T16:12:07.228358",
+            "duration": 254
+        },
+        {
+            "from": "Clown",
+            "to": "DESDEMONA",
+            "timestamp": "2025-03-06T22:36:07.228360",
+            "duration": 214
+        },
+        {
+            "from": "Clown",
+            "to": "Sailor",
+            "timestamp": "2025-03-05T19:50:07.228362",
+            "duration": 288
+        },
+        {
+            "from": "Clown",
+            "to": "Sailor",
+            "timestamp": "2025-03-07T02:33:07.228364",
+            "duration": 111
+        },
+        {
+            "from": "Clown",
+            "to": "Sailor",
+            "timestamp": "2025-03-09T03:27:07.228366",
+            "duration": 102
+        },
+        {
+            "from": "Clown",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-05T08:57:07.228369",
+            "duration": 77
+        },
+        {
+            "from": "Clown",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-02T22:18:07.228371",
+            "duration": 167
+        },
+        {
+            "from": "Clown",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-05T10:48:07.228373",
+            "duration": 74
+        },
+        {
+            "from": "Clown",
+            "to": "Senator",
+            "timestamp": "2025-03-09T22:38:07.228375",
+            "duration": 246
+        },
+        {
+            "from": "Clown",
+            "to": "Senator",
+            "timestamp": "2025-03-06T20:13:07.228377",
+            "duration": 78
+        },
+        {
+            "from": "Clown",
+            "to": "Senator",
+            "timestamp": "2025-03-05T12:10:07.228379",
+            "duration": 97
+        },
+        {
+            "from": "Clown",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-09T20:33:07.228381",
+            "duration": 107
+        },
+        {
+            "from": "Clown",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-05T15:07:07.228383",
+            "duration": 280
+        },
+        {
+            "from": "Clown",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T16:59:07.228386",
+            "duration": 112
+        },
+        {
+            "from": "Clown",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T22:48:07.228388",
+            "duration": 70
+        },
+        {
+            "from": "Clown",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-09T06:43:07.228390",
+            "duration": 85
+        },
+        {
+            "from": "Clown",
+            "to": "BIANCA",
+            "timestamp": "2025-03-04T11:59:07.228392",
+            "duration": 215
+        },
+        {
+            "from": "Clown",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-07T16:05:07.228394",
+            "duration": 224
+        },
+        {
+            "from": "Clown",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-07T23:13:07.228396",
+            "duration": 280
+        },
+        {
+            "from": "Clown",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-10T11:54:07.228398",
+            "duration": 270
+        },
+        {
+            "from": "Clown",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T08:30:07.228401",
+            "duration": 282
+        },
+        {
+            "from": "Clown",
+            "to": "MONTANO",
+            "timestamp": "2025-03-08T12:24:07.228403",
+            "duration": 132
+        },
+        {
+            "from": "Clown",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-06T17:57:07.228405",
+            "duration": 170
+        },
+        {
+            "from": "Clown",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-05T23:31:07.228407",
+            "duration": 177
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "Sailor",
+            "timestamp": "2025-03-05T08:58:07.228409",
+            "duration": 119
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "Sailor",
+            "timestamp": "2025-03-05T08:27:07.228411",
+            "duration": 232
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-06T05:09:07.228414",
+            "duration": 241
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-06T22:04:07.228416",
+            "duration": 238
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T07:22:07.228418",
+            "duration": 281
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-02T14:54:07.228420",
+            "duration": 242
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "Senator",
+            "timestamp": "2025-03-04T22:25:07.228423",
+            "duration": 224
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "Senator",
+            "timestamp": "2025-03-09T22:00:07.228431",
+            "duration": 82
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-10T08:55:07.228434",
+            "duration": 189
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T03:42:07.228437",
+            "duration": 105
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-04T10:40:07.228439",
+            "duration": 72
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-04T03:17:07.228441",
+            "duration": 169
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-09T03:51:07.228443",
+            "duration": 87
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T15:43:07.228445",
+            "duration": 116
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-09T10:46:07.228447",
+            "duration": 149
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-09T02:55:07.228449",
+            "duration": 163
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "Messenger",
+            "timestamp": "2025-03-08T19:47:07.228451",
+            "duration": 82
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T02:56:07.228454",
+            "duration": 145
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T09:30:07.228456",
+            "duration": 156
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "MONTANO",
+            "timestamp": "2025-03-10T09:23:07.228458",
+            "duration": 247
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-06T03:51:07.228460",
+            "duration": 141
+        },
+        {
+            "from": "DESDEMONA",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-06T14:23:07.228462",
+            "duration": 258
+        },
+        {
+            "from": "Sailor",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-08T22:36:07.228464",
+            "duration": 122
+        },
+        {
+            "from": "Sailor",
+            "to": "OTHELLO",
+            "timestamp": "2025-03-03T15:32:07.228466",
+            "duration": 106
+        },
+        {
+            "from": "Sailor",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T10:07:07.228468",
+            "duration": 261
+        },
+        {
+            "from": "Sailor",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-09T10:10:07.228470",
+            "duration": 138
+        },
+        {
+            "from": "Sailor",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-07T18:44:07.228472",
+            "duration": 114
+        },
+        {
+            "from": "Sailor",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-04T15:58:07.228475",
+            "duration": 273
+        },
+        {
+            "from": "Sailor",
+            "to": "Senator",
+            "timestamp": "2025-03-07T13:50:07.228477",
+            "duration": 122
+        },
+        {
+            "from": "Sailor",
+            "to": "Senator",
+            "timestamp": "2025-03-09T17:01:07.228479",
+            "duration": 258
+        },
+        {
+            "from": "Sailor",
+            "to": "Senator",
+            "timestamp": "2025-03-02T22:05:07.228481",
+            "duration": 147
+        },
+        {
+            "from": "Sailor",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-07T08:38:07.228484",
+            "duration": 145
+        },
+        {
+            "from": "Sailor",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T05:11:07.228486",
+            "duration": 136
+        },
+        {
+            "from": "Sailor",
+            "to": "Gentleman",
+            "timestamp": "2025-03-10T06:52:07.228488",
+            "duration": 297
+        },
+        {
+            "from": "Sailor",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T12:47:07.228490",
+            "duration": 149
+        },
+        {
+            "from": "Sailor",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-04T21:50:07.228492",
+            "duration": 75
+        },
+        {
+            "from": "Sailor",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-06T09:23:07.228494",
+            "duration": 203
+        },
+        {
+            "from": "Sailor",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-07T07:21:07.228496",
+            "duration": 159
+        },
+        {
+            "from": "Sailor",
+            "to": "BIANCA",
+            "timestamp": "2025-03-07T21:59:07.228498",
+            "duration": 86
+        },
+        {
+            "from": "Sailor",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-05T21:25:07.228501",
+            "duration": 250
+        },
+        {
+            "from": "Sailor",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-05T02:13:07.228503",
+            "duration": 278
+        },
+        {
+            "from": "Sailor",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-05T05:05:07.228505",
+            "duration": 139
+        },
+        {
+            "from": "Sailor",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T20:24:07.228507",
+            "duration": 278
+        },
+        {
+            "from": "Sailor",
+            "to": "MONTANO",
+            "timestamp": "2025-03-08T17:29:07.228510",
+            "duration": 147
+        },
+        {
+            "from": "Sailor",
+            "to": "MONTANO",
+            "timestamp": "2025-03-02T20:13:07.228512",
+            "duration": 75
+        },
+        {
+            "from": "Sailor",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-10T13:35:07.228514",
+            "duration": 122
+        },
+        {
+            "from": "Sailor",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-02T20:49:07.228516",
+            "duration": 185
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-06T04:15:07.228518",
+            "duration": 64
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-02T23:08:07.228520",
+            "duration": 137
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Third Gentleman",
+            "timestamp": "2025-03-09T07:03:07.228522",
+            "duration": 106
+        },
+        {
+            "from": "OTHELLO",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-09T01:03:07.228524",
+            "duration": 136
+        },
+        {
+            "from": "OTHELLO",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-10T03:41:07.228526",
+            "duration": 293
+        },
+        {
+            "from": "OTHELLO",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-07T18:35:07.228528",
+            "duration": 75
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Senator",
+            "timestamp": "2025-03-09T03:54:07.228531",
+            "duration": 73
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Senator",
+            "timestamp": "2025-03-08T04:53:07.228533",
+            "duration": 254
+        },
+        {
+            "from": "OTHELLO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-05T23:36:07.228535",
+            "duration": 228
+        },
+        {
+            "from": "OTHELLO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-08T21:21:07.228537",
+            "duration": 172
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T20:40:07.228539",
+            "duration": 205
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-02T16:33:07.228541",
+            "duration": 156
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-07T09:40:07.228543",
+            "duration": 117
+        },
+        {
+            "from": "OTHELLO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-08T22:26:07.228545",
+            "duration": 185
+        },
+        {
+            "from": "OTHELLO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-04T11:47:07.228547",
+            "duration": 75
+        },
+        {
+            "from": "OTHELLO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-10T06:16:07.228549",
+            "duration": 279
+        },
+        {
+            "from": "OTHELLO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-05T05:45:07.228551",
+            "duration": 147
+        },
+        {
+            "from": "OTHELLO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-06T16:25:07.228553",
+            "duration": 242
+        },
+        {
+            "from": "OTHELLO",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-06T23:50:07.228556",
+            "duration": 188
+        },
+        {
+            "from": "OTHELLO",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-08T22:41:07.228558",
+            "duration": 80
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T05:36:07.228560",
+            "duration": 230
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T14:14:07.228562",
+            "duration": 293
+        },
+        {
+            "from": "OTHELLO",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T23:10:07.228564",
+            "duration": 222
+        },
+        {
+            "from": "OTHELLO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-05T15:49:07.228566",
+            "duration": 258
+        },
+        {
+            "from": "OTHELLO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-10T07:23:07.228568",
+            "duration": 286
+        },
+        {
+            "from": "OTHELLO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-03T06:44:07.228570",
+            "duration": 248
+        },
+        {
+            "from": "OTHELLO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-06T19:50:07.228572",
+            "duration": 175
+        },
+        {
+            "from": "OTHELLO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-03T13:27:07.228574",
+            "duration": 66
+        },
+        {
+            "from": "OTHELLO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-09T23:19:07.228576",
+            "duration": 64
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "RODERIGO",
+            "timestamp": "2025-03-04T02:45:07.228579",
+            "duration": 64
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Senator",
+            "timestamp": "2025-03-10T14:30:07.228581",
+            "duration": 262
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-09T17:05:07.228584",
+            "duration": 231
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T07:57:07.228586",
+            "duration": 219
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Gentleman",
+            "timestamp": "2025-03-04T01:51:07.228588",
+            "duration": 166
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Gentleman",
+            "timestamp": "2025-03-05T14:32:07.228590",
+            "duration": 254
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-03T13:18:07.228592",
+            "duration": 210
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T15:56:07.228595",
+            "duration": 94
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "BIANCA",
+            "timestamp": "2025-03-06T15:45:07.228597",
+            "duration": 300
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "BIANCA",
+            "timestamp": "2025-03-05T13:32:07.228599",
+            "duration": 156
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-04T12:58:07.228601",
+            "duration": 260
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-08T04:17:07.228603",
+            "duration": 122
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T02:39:07.228605",
+            "duration": 286
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T10:43:07.228607",
+            "duration": 166
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "MONTANO",
+            "timestamp": "2025-03-04T08:41:07.228609",
+            "duration": 85
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "MONTANO",
+            "timestamp": "2025-03-05T13:31:07.228611",
+            "duration": 119
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "MONTANO",
+            "timestamp": "2025-03-04T22:50:07.228613",
+            "duration": 269
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-06T03:29:07.228615",
+            "duration": 68
+        },
+        {
+            "from": "Third Gentleman",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-04T20:11:07.228617",
+            "duration": 225
+        },
+        {
+            "from": "RODERIGO",
+            "to": "Senator",
+            "timestamp": "2025-03-06T15:45:07.228620",
+            "duration": 111
+        },
+        {
+            "from": "RODERIGO",
+            "to": "Senator",
+            "timestamp": "2025-03-02T21:01:07.228622",
+            "duration": 201
+        },
+        {
+            "from": "RODERIGO",
+            "to": "Senator",
+            "timestamp": "2025-03-02T20:37:07.228624",
+            "duration": 75
+        },
+        {
+            "from": "RODERIGO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-04T17:12:07.228626",
+            "duration": 86
+        },
+        {
+            "from": "RODERIGO",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-08T04:57:07.228628",
+            "duration": 70
+        },
+        {
+            "from": "RODERIGO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T11:15:07.228630",
+            "duration": 114
+        },
+        {
+            "from": "RODERIGO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-02T21:23:07.228632",
+            "duration": 122
+        },
+        {
+            "from": "RODERIGO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-07T23:45:07.228634",
+            "duration": 227
+        },
+        {
+            "from": "RODERIGO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-07T12:23:07.228636",
+            "duration": 206
+        },
+        {
+            "from": "RODERIGO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-03T10:10:07.228638",
+            "duration": 108
+        },
+        {
+            "from": "RODERIGO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-02T21:46:07.228640",
+            "duration": 66
+        },
+        {
+            "from": "RODERIGO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-06T16:27:07.228642",
+            "duration": 86
+        },
+        {
+            "from": "RODERIGO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T03:24:07.228644",
+            "duration": 156
+        },
+        {
+            "from": "RODERIGO",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-04T15:38:07.228647",
+            "duration": 257
+        },
+        {
+            "from": "RODERIGO",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-08T05:15:07.228649",
+            "duration": 202
+        },
+        {
+            "from": "RODERIGO",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-06T09:25:07.228651",
+            "duration": 247
+        },
+        {
+            "from": "RODERIGO",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T17:41:07.228656",
+            "duration": 286
+        },
+        {
+            "from": "RODERIGO",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T23:44:07.228658",
+            "duration": 286
+        },
+        {
+            "from": "RODERIGO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-09T17:17:07.228660",
+            "duration": 221
+        },
+        {
+            "from": "RODERIGO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-04T12:23:07.228663",
+            "duration": 277
+        },
+        {
+            "from": "Senator",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-08T04:05:07.228665",
+            "duration": 245
+        },
+        {
+            "from": "Senator",
+            "to": "GRATIANO",
+            "timestamp": "2025-03-06T19:39:07.228704",
+            "duration": 129
+        },
+        {
+            "from": "Senator",
+            "to": "Gentleman",
+            "timestamp": "2025-03-03T19:45:07.228707",
+            "duration": 166
+        },
+        {
+            "from": "Senator",
+            "to": "Gentleman",
+            "timestamp": "2025-03-06T06:46:07.228709",
+            "duration": 101
+        },
+        {
+            "from": "Senator",
+            "to": "Gentleman",
+            "timestamp": "2025-03-09T20:49:07.228711",
+            "duration": 165
+        },
+        {
+            "from": "Senator",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-03T07:36:07.228713",
+            "duration": 105
+        },
+        {
+            "from": "Senator",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T22:40:07.228715",
+            "duration": 287
+        },
+        {
+            "from": "Senator",
+            "to": "BIANCA",
+            "timestamp": "2025-03-05T08:53:07.228717",
+            "duration": 198
+        },
+        {
+            "from": "Senator",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-10T08:47:07.228720",
+            "duration": 233
+        },
+        {
+            "from": "Senator",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T08:07:07.228722",
+            "duration": 181
+        },
+        {
+            "from": "Senator",
+            "to": "Messenger",
+            "timestamp": "2025-03-03T03:43:07.228724",
+            "duration": 213
+        },
+        {
+            "from": "Senator",
+            "to": "MONTANO",
+            "timestamp": "2025-03-04T04:34:07.228726",
+            "duration": 163
+        },
+        {
+            "from": "Senator",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-09T01:51:07.228729",
+            "duration": 197
+        },
+        {
+            "from": "GRATIANO",
+            "to": "Gentleman",
+            "timestamp": "2025-03-08T05:03:07.228731",
+            "duration": 199
+        },
+        {
+            "from": "GRATIANO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-06T18:33:07.228733",
+            "duration": 79
+        },
+        {
+            "from": "GRATIANO",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-08T22:16:07.228735",
+            "duration": 271
+        },
+        {
+            "from": "GRATIANO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-04T23:07:07.228738",
+            "duration": 65
+        },
+        {
+            "from": "GRATIANO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-07T00:03:07.228740",
+            "duration": 209
+        },
+        {
+            "from": "GRATIANO",
+            "to": "BIANCA",
+            "timestamp": "2025-03-03T06:07:07.228742",
+            "duration": 297
+        },
+        {
+            "from": "GRATIANO",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-03T07:05:07.228744",
+            "duration": 60
+        },
+        {
+            "from": "GRATIANO",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T02:03:07.228747",
+            "duration": 160
+        },
+        {
+            "from": "GRATIANO",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T02:02:07.228749",
+            "duration": 251
+        },
+        {
+            "from": "GRATIANO",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T20:33:07.228751",
+            "duration": 128
+        },
+        {
+            "from": "GRATIANO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-09T09:16:07.228753",
+            "duration": 259
+        },
+        {
+            "from": "GRATIANO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-02T15:28:07.228755",
+            "duration": 174
+        },
+        {
+            "from": "GRATIANO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-05T00:56:07.228757",
+            "duration": 167
+        },
+        {
+            "from": "GRATIANO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-06T18:18:07.228759",
+            "duration": 78
+        },
+        {
+            "from": "Gentleman",
+            "to": "DUKE OF VENICE",
+            "timestamp": "2025-03-08T06:40:07.228762",
+            "duration": 154
+        },
+        {
+            "from": "Gentleman",
+            "to": "BIANCA",
+            "timestamp": "2025-03-02T16:18:07.228764",
+            "duration": 98
+        },
+        {
+            "from": "Gentleman",
+            "to": "BIANCA",
+            "timestamp": "2025-03-08T18:38:07.228766",
+            "duration": 113
+        },
+        {
+            "from": "Gentleman",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-08T01:15:07.228768",
+            "duration": 232
+        },
+        {
+            "from": "Gentleman",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-10T04:08:07.228770",
+            "duration": 233
+        },
+        {
+            "from": "Gentleman",
+            "to": "Messenger",
+            "timestamp": "2025-03-02T23:27:07.228773",
+            "duration": 274
+        },
+        {
+            "from": "Gentleman",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T16:14:07.228775",
+            "duration": 128
+        },
+        {
+            "from": "Gentleman",
+            "to": "MONTANO",
+            "timestamp": "2025-03-07T23:18:07.228777",
+            "duration": 238
+        },
+        {
+            "from": "Gentleman",
+            "to": "MONTANO",
+            "timestamp": "2025-03-05T12:38:07.228779",
+            "duration": 271
+        },
+        {
+            "from": "Gentleman",
+            "to": "MONTANO",
+            "timestamp": "2025-03-10T05:00:07.228781",
+            "duration": 127
+        },
+        {
+            "from": "Gentleman",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-02T15:18:07.228783",
+            "duration": 193
+        },
+        {
+            "from": "Gentleman",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-02T19:40:07.228789",
+            "duration": 279
+        },
+        {
+            "from": "Gentleman",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-04T14:25:07.228791",
+            "duration": 84
+        },
+        {
+            "from": "DUKE OF VENICE",
+            "to": "BIANCA",
+            "timestamp": "2025-03-04T21:21:07.228794",
+            "duration": 245
+        },
+        {
+            "from": "DUKE OF VENICE",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-08T21:34:07.228796",
+            "duration": 228
+        },
+        {
+            "from": "DUKE OF VENICE",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-08T14:15:07.228798",
+            "duration": 272
+        },
+        {
+            "from": "DUKE OF VENICE",
+            "to": "Messenger",
+            "timestamp": "2025-03-05T22:51:07.228800",
+            "duration": 72
+        },
+        {
+            "from": "DUKE OF VENICE",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T15:25:07.228802",
+            "duration": 178
+        },
+        {
+            "from": "DUKE OF VENICE",
+            "to": "MONTANO",
+            "timestamp": "2025-03-04T17:28:07.228805",
+            "duration": 298
+        },
+        {
+            "from": "DUKE OF VENICE",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-05T03:05:07.228807",
+            "duration": 84
+        },
+        {
+            "from": "DUKE OF VENICE",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-08T04:17:07.228809",
+            "duration": 84
+        },
+        {
+            "from": "BIANCA",
+            "to": "LODOVICO",
+            "timestamp": "2025-03-07T18:41:07.228812",
+            "duration": 168
+        },
+        {
+            "from": "BIANCA",
+            "to": "Messenger",
+            "timestamp": "2025-03-09T08:17:07.228814",
+            "duration": 144
+        },
+        {
+            "from": "BIANCA",
+            "to": "MONTANO",
+            "timestamp": "2025-03-10T04:21:07.228816",
+            "duration": 181
+        },
+        {
+            "from": "BIANCA",
+            "to": "MONTANO",
+            "timestamp": "2025-03-09T14:42:07.228818",
+            "duration": 131
+        },
+        {
+            "from": "BIANCA",
+            "to": "MONTANO",
+            "timestamp": "2025-03-03T18:51:07.228820",
+            "duration": 273
+        },
+        {
+            "from": "BIANCA",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-07T15:38:07.228823",
+            "duration": 153
+        },
+        {
+            "from": "BIANCA",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-04T12:43:07.228825",
+            "duration": 73
+        },
+        {
+            "from": "LODOVICO",
+            "to": "Messenger",
+            "timestamp": "2025-03-06T03:17:07.228827",
+            "duration": 61
+        },
+        {
+            "from": "LODOVICO",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T22:49:07.228829",
+            "duration": 195
+        },
+        {
+            "from": "LODOVICO",
+            "to": "Messenger",
+            "timestamp": "2025-03-04T11:49:07.228831",
+            "duration": 193
+        },
+        {
+            "from": "LODOVICO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-05T02:13:07.228833",
+            "duration": 110
+        },
+        {
+            "from": "LODOVICO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-02T16:31:07.228835",
+            "duration": 89
+        },
+        {
+            "from": "LODOVICO",
+            "to": "MONTANO",
+            "timestamp": "2025-03-08T05:13:07.228837",
+            "duration": 149
+        },
+        {
+            "from": "LODOVICO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-02T16:45:07.228840",
+            "duration": 78
+        },
+        {
+            "from": "LODOVICO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-05T21:43:07.228842",
+            "duration": 71
+        },
+        {
+            "from": "LODOVICO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-03T18:00:07.228844",
+            "duration": 282
+        },
+        {
+            "from": "Messenger",
+            "to": "MONTANO",
+            "timestamp": "2025-03-09T12:33:07.228846",
+            "duration": 234
+        },
+        {
+            "from": "Messenger",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-03T22:43:07.228848",
+            "duration": 148
+        },
+        {
+            "from": "MONTANO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-03T10:36:07.228851",
+            "duration": 81
+        },
+        {
+            "from": "MONTANO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-08T16:47:07.228853",
+            "duration": 216
+        },
+        {
+            "from": "MONTANO",
+            "to": "BRABANTIO",
+            "timestamp": "2025-03-08T11:29:07.228855",
+            "duration": 146
+        }
+    ],
+    "contact_data": {
+        "EMILIA": {
+            "phone": "212-888-4748",
+            "email": "emilia@tradewinds.com",
+            "title": "Trading Operations Manager",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "IAGO": {
+            "phone": "212-276-7555",
+            "email": "iago@tradewinds.com",
+            "title": "Market Development Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Fourth Gentleman": {
+            "phone": "212-698-3645",
+            "email": "fourth.gentleman@commercetrade.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "CASSIO": {
+            "phone": "646-564-3448",
+            "email": "cassio@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "Herald": {
+            "phone": "212-300-3849",
+            "email": "herald@merchantsexchange.com",
+            "title": "Business Development Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Clown": {
+            "phone": "212-350-1948",
+            "email": "clown@artsglobal.com",
+            "title": "Arts Program Manager",
+            "company": "Arts & Entertainment Global",
+            "industry": "Artistic"
+        },
+        "DESDEMONA": {
+            "phone": "646-856-7624",
+            "email": "desdemona@commercelink.com",
+            "title": "Business Development Director",
+            "company": "Commerce Link Worldwide",
+            "industry": "Merchant"
+        },
+        "Sailor": {
+            "phone": "917-326-9568",
+            "email": "sailor@commercetrade.com",
+            "title": "Trade Relations Manager",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "OTHELLO": {
+            "phone": "646-539-8569",
+            "email": "othello@commercetrade.com",
+            "title": "Chief Commercial Officer",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        },
+        "Third Gentleman": {
+            "phone": "212-731-5057",
+            "email": "third.gentleman@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "RODERIGO": {
+            "phone": "646-566-1750",
+            "email": "roderigo@marketdyn.com",
+            "title": "Market Development Director",
+            "company": "Market Dynamics International",
+            "industry": "Merchant"
+        },
+        "Senator": {
+            "phone": "917-649-5078",
+            "email": "senator@globaltradepart.com",
+            "title": "Trade Relations Manager",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "GRATIANO": {
+            "phone": "917-729-8506",
+            "email": "gratiano@tradewinds.com",
+            "title": "Chief Commercial Officer",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "Gentleman": {
+            "phone": "212-519-6915",
+            "email": "gentleman@tradewinds.com",
+            "title": "Commercial Director",
+            "company": "Trade Winds Corporation",
+            "industry": "Merchant"
+        },
+        "DUKE OF VENICE": {
+            "phone": "917-902-5381",
+            "email": "duke.of.venice@dynastyglobal.com",
+            "title": "President",
+            "company": "Dynasty Global Investments",
+            "industry": "Royal"
+        },
+        "BIANCA": {
+            "phone": "212-351-9578",
+            "email": "bianca@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "LODOVICO": {
+            "phone": "917-305-9850",
+            "email": "lodovico@merchantsexchange.com",
+            "title": "Commercial Director",
+            "company": "Merchant's Exchange Group",
+            "industry": "Merchant"
+        },
+        "Messenger": {
+            "phone": "646-322-9023",
+            "email": "messenger@unitydiplomacy.com",
+            "title": "External Relations Head",
+            "company": "Unity Diplomatic Solutions",
+            "industry": "Diplomatic"
+        },
+        "MONTANO": {
+            "phone": "646-264-6837",
+            "email": "montano@globaltradepart.com",
+            "title": "Market Development Director",
+            "company": "Global Trade Partners",
+            "industry": "Merchant"
+        },
+        "BRABANTIO": {
+            "phone": "212-330-8538",
+            "email": "brabantio@commercetrade.com",
+            "title": "Business Development Director",
+            "company": "Commerce & Trade Solutions",
+            "industry": "Merchant"
+        }
+    }
+}

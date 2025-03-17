@@ -76,30 +76,4 @@ shakespeare_forensics_project/
 │       └── integration/
 │
 ├── android_injector/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   │   └── com/
-│   │   │   │       └── shakespeare/
-│   │   │   │           └── injector/
-│   │   │   │               ├── activities/
-│   │   │   │               ├── services/
-│   │   │   │               └── utils/
-│   │   │   └── res/
-│   │   │       ├── layout/
-│   │   │       ├── values/
-│   │   │       └── drawable/
-│   │   └── test/
-│   │
-│   └── assets/
-│       └── config/
-│
-├── docs/
-│   ├── setup/
-│   ├── usage/
-│   └── api/
-│
-└── scripts/
-    ├── setup.py
-    ├── directory_generator.py
-    └── cleanup.py
+│   ├forked from sms-db. 

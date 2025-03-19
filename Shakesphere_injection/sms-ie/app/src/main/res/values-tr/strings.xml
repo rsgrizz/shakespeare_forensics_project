@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SMS Import / Export: a simple Android app for importing and exporting SMS messages from and to JSON files.
+  ~ Copyright (c) 2021-2022,2023 Thomas More
+  ~
+  ~ This file is part of SMS Import / Export.
+  ~
+  ~ SMS Import / Export is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ SMS Import / Export is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with SMS Import / Export.  If not, see <https://www.gnu.org/licenses/>.
+  --><resources>
+    <string name="app_name">SMS İçe / Dışa Aktar</string>
+    <string name="export_messages_button_label">Mesajları Dışa Aktar</string>
+    <string name="import_messages_button_label">Mesajları İçe Aktar</string>
+    <string name="export_call_log_button_label">Arama Geçmişini Dışa Aktar</string>
+    <string name="import_call_log_button_label">Arama Geçmişini İçe Aktar</string>
+    <string name="ready">Hazır</string>
+    <!--<string name="begin_exporting_messages">Exporting messages …</string>
+    <string name="begin_exporting_sms">Exporting SMS messages …</string>
+    <string name="begin_exporting_mms">Exporting MMS messages …</string>
+    <string name="begin_importing_messages">Importing messages …</string>
+    <string name="begin_importing_sms">Importing SMS messages …</string>
+    <string name="begin_importing_mms">Exporting MMS messages …</string>
+    <string name="begin_exporting_call_log">Exporting call log …</string>
+    <string name="begin_importing_call_log">Importing call log</string>-->
+    <string name="call_log_export_progress">%1$d / %2$d arama dışa aktarıldı</string>
+    <string name="call_log_import_progress">%1$d arama içe aktarıldı</string>
+    <string name="sms_export_progress">%1$d / %2$d SMS dışa aktarıldı</string>
+    <string name="mms_export_progress">%1$d / %2$d MMS dışa aktarıldı</string>
+    <string name="message_import_progress">%1$d SMS ve %2$d MMS içe aktarıldı</string>
+    <string name="contacts_export_progress">%1$d / %2$d kişi dışa aktarıldı</string>
+    <string name="contacts_import_progress">%1$d kişi içe aktarıldı</string>
+    <string name="export_messages_results">%1$d SMS ve %2$d MMS dışa aktarıldı
+\nGeçen zaman: %3$s</string>
+    <string name="import_messages_results">%1$d SMS ve %2$d MMS içe aktarıldı
+\nGeçen zaman: %3$s</string>
+    <string name="export_call_log_results">%1$d arama dışa aktarıldı
+\nGeçen zaman: %2$s</string>
+    <string name="import_call_log_results">%1$d arama içe aktarıldı
+\nGeçen zaman: %2$s</string>
+    <string name="export_contacts_results">%1$d kişi dışa aktarıldı
+\nGeçen zaman: %2$s.</string>
+    <string name="import_contacts_results">%1$d kişi içe aktarıldı
+\nGeçen zaman: %2$s.</string>
+    <string name="sms_permissions_required">Mesajları dışa aktarmak için SMS\'leri ve kişileri okuma izni gerekir.</string>
+    <string name="default_sms_app_requirement">Mesajları içe aktarmak veya silmek için bu uygulama öntanımlı SMS uygulaması olmalıdır.</string>
+    <string name="call_logs_permissions_required">Arama geçmişini dışa aktarmak için Arama Geçmişi ve Kişileri okuma izni gerekir.</string>
+    <string name="call_logs_read_write_permissions_required">Arama geçmişini içe aktarmak için arama geçmişini okuma ve yazma izni gerekir.</string>
+    <string name="contacts_read_permission_required">Kişileri dışa aktarmak için Kişileri okuma izni gerekir.</string>
+    <string name="contacts_write_permissions_required">Kişileri içe aktarmak için Kişileri yazma izni gerekir.</string>
+    <string name="settings">Ayarlar</string>
+    <string name="include_binary_data">İkili MMS verilerini dahil et</string>
+    <string name="scheduled_export_executed">Planlanan dışa aktarma gerçekleştirildi</string>
+    <string name="scheduled_export_success">%1$d SMS, %2$d MMS, %3$d arama ve %4$d kisi dışa aktarıldı.</string>
+    <string name="scheduled_export_failure">Dışa aktarma başarısız — daha fazla ayrıntı için logcat\'e bakın.</string>
+    <string name="wipe_messages">Mesajları Sil</string>
+    <string name="dialog_confirm_wipe">Uyarı: Bu aygıttaki tüm mesajlar geri alamadan kalıcı olarak silinsin mi\?</string>
+    <string name="wipe">Sil</string>
+    <string name="cancel">İptal</string>
+    <string name="wipe_cancelled">Silme işlemi iptal edildi</string>
+    <string name="messages_wiped">Mesajlar silindi</string>
+    <string name="wiping_sms_messages">SMS mesajları siliniyor…</string>
+    <string name="wiping_mms_messages">MMS mesajları siliniyor…</string>
+    <string name="app_about_text">SMS İçe / Dışa Aktarma \n \nThomas More ve diğer katkıda bulunanlar tarafından \n \nSürüm %1$s \n \nTelif Hakkı © 2021-2024 \n \nGNU GPLv3 altında yayınlandı</string>
+    <string name="homepage">Ana sayfa:</string>
+    <string name="documentation">Belgelendirme:</string>
+    <string name="issue_tracker">Sorun izleyici:</string>
+    <string name="about">Hakkında</string>
+    <string name="export_contacts">Kişileri Dışa Aktar</string>
+    <string name="import_contacts">Kişileri İçe Aktar</string>
+    <string name="copying_mms_binary_data">İkili MMS verileri kopyalanıyor…</string>
+    <string name="importing_messages">Mesajlar içe aktarılıyor…</string>
+    <string name="default_sms_app_dialog_title">Öntanımlı SMS Uygulaması</string>
+    <string name="become_default_sms_app_warning">Mesajları içe aktarmak veya silmek için SMS İçe / Dışa Aktar öntanımlı SMS uygulaması olmalıdır. Lütfen README\'yi okuyun ve devam etmeden önce bunu yapmanın sonuçlarını anladığınızdan emin olun.</string>
+    <string name="scheduled_export_executing">Planlanan dışa aktarma gerçekleştiriliyor</string>
+    <string name="okay">Tamam</string>
+    <string name="message_import_api_23_requirement">Mesajları içe aktarmak yalnızca Android Marshmallow / 6.0 (API seviyesi 23) veya sonraki sürümlerde mümkündür.</string>
+    <string name="set_default_sms_app">Öntanımlı SMS uygulaması ayarla</string>
+    <string name="importing_calls">Aramalar içe aktarılıyor…</string>
+    <string name="default_sms_app_warning"><b>Uyarı</b>: Bu uygulama şu anda öntanımlı SMS uygulamasıdır, bu da gelen tüm SMS veya MMS mesajlarının kaybolacağı anlamına gelir! Bunu önlemek için, uygun bir öntanımlı SMS uygulaması ayarlayın.</string>
+    <string name="persistent_channel_name">Arka plan hizmetleri</string>
+    <string name="persistent_channel_description">Arka planda zamanlanan dışa aktarmalar için kalıcı bildirim</string>
+    <string name="alerts_channel_name">Zamanlanan dışa aktarma uyarıları</string>
+    <string name="alerts_channel_description">Zamanlanan dışa aktarmalar tamamlandığında başarı/başarısızlık uyarıları</string>
+</resources>

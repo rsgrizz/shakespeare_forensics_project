@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "category": "us_cities",
+    "description": "Major US cities with business districts and area codes",
+    "last_updated": "20250319_141646"
+  },
+  "regions": {
+    "northeast": {
+      "major_cities": {
+        "new_york": {
+          "name": "New York City",
+          "state": "NY",
+          "area_codes": [
+            "212",
+            "646",
+            "718",
+            "917",
+            "929"
+          ],
+          "business_districts": [
+            "Wall Street",
+            "Midtown Manhattan",
+            "Silicon Alley",
+            "Hudson Yards",
+            "World Trade Center"
+          ],
+          "industries": [
+            "Finance",
+            "Media",
+            "Technology",
+            "Fashion",
+            "Advertising"
+          ],
+          "major_employers": [
+            "JPMorgan Chase",
+            "Goldman Sachs",
+            "Morgan Stanley",
+            "IBM",
+            "Google"
+          ]
+        },
+        "boston": {
+          "name": "Boston",
+          "state": "MA",
+          "area_codes": [
+            "617",
+            "857"
+          ],
+          "business_districts": [
+            "Financial District",
+            "Seaport Innovation District",
+            "Kendall Square",
+            "Back Bay",
+            "Cambridge Innovation Center"
+          ],
+          "industries": [
+            "Biotechnology",
+            "Education",
+            "Healthcare",
+            "Technology",
+            "Financial Services"
+          ],
+          "major_employers": [
+            "Harvard University",
+            "MIT",
+            "Biogen",
+            "Fidelity Investments",
+            "State Street Corporation"
+          ]
+        }
+      },
+      "secondary_cities": {
+        "providence": {
+          "name": "Providence",
+          "state": "RI",
+          "area_codes": [
+            "401"
+          ],
+          "key_industries": [
+            "Healthcare",
+            "Education",
+            "Manufacturing"
+          ]
+        }
+      }
+    },
+    "midwest": {
+      "major_cities": {
+        "chicago": {
+          "name": "Chicago",
+          "state": "IL",
+          "area_codes": [
+            "312",
+            "773",
+            "872"
+          ],
+          "business_districts": [
+            "The Loop",
+            "River North",
+            "West Loop",
+            "Magnificent Mile",
+            "Chicago Tech Hub"
+          ],
+          "industries": [
+            "Finance",
+            "Technology",
+            "Manufacturing",
+            "Transportation",
+            "Professional Services"
+          ],
+          "major_employers": [
+            "Boeing",
+            "United Airlines",
+            "Abbott Laboratories",
+            "McDonald's Corporation",
+            "Northern Trust"
+          ]
+        }
+      }
+    },
+    "west_coast": {
+      "major_cities": {
+        "san_francisco": {
+          "name": "San Francisco",
+          "state": "CA",
+          "area_codes": [
+            "415",
+            "628"
+          ],
+          "business_districts": [
+            "Financial District",
+            "SoMa",
+            "Mission Bay",
+            "Silicon Valley",
+            "Embarcadero"
+          ],
+          "industries": [
+            "Technology",
+            "Finance",
+            "Biotechnology",
+            "Digital Media",
+            "Venture Capital"
+          ],
+          "major_employers": [
+            "Salesforce",
+            "Twitter",
+            "Uber",
+            "Wells Fargo",
+            "Genentech"
+          ]
+        }
+      }
+    }
+  },
+  "city_relationships": {
+    "business_corridors": [
+      {
+        "name": "Northeast Corridor",
+        "cities": [
+          "New York",
+          "Boston",
+          "Philadelphia"
+        ],
+        "primary_industries": [
+          "Finance",
+          "Technology",
+          "Education"
+        ]
+      },
+      {
+        "name": "Silicon Valley",
+        "cities": [
+          "San Francisco",
+          "San Jose",
+          "Oakland"
+        ],
+        "primary_industries": [
+          "Technology",
+          "Venture Capital",
+          "Innovation"
+        ]
+      }
+    ],
+    "sister_cities": {
+      "new_york": [
+        "London",
+        "Tokyo",
+        "Beijing"
+      ],
+      "chicago": [
+        "Mexico City",
+        "Toronto",
+        "Shanghai"
+      ],
+      "san_francisco": [
+        "Sydney",
+        "Seoul",
+        "Osaka"
+      ]
+    }
+  }
+}

@@ -1,8 +1,234 @@
 {
+  "characters": {
+    "PRINCE FORTINBRAS": {
+      "title": "President",
+      "company": "Sovereign Wealth Partners",
+      "industry": "Royal",
+      "location": "Chicago",
+      "phone": "773-805-7472",
+      "email": "prince.fortinbras@sovereignwealth.com"
+    },
+    "ROSENCRANTZ:": {
+      "title": "Trade Relations Manager",
+      "company": "Commerce & Trade Solutions",
+      "industry": "Merchant",
+      "location": "Chicago",
+      "phone": "773-200-6226",
+      "email": "rosencrantz@commercetrade.com"
+    },
+    "MARCELLUS": {
+      "title": "Trade Relations Manager",
+      "company": "Commerce & Trade Solutions",
+      "industry": "Merchant",
+      "location": "Los Angeles",
+      "phone": "323-750-7424",
+      "email": "marcellus@commercetrade.com"
+    },
+    "Prologue": {
+      "title": "Chief Commercial Officer",
+      "company": "Global Trade Partners",
+      "industry": "Merchant",
+      "location": "New York",
+      "phone": "212-139-4618",
+      "email": "prologue@globaltradepart.com"
+    },
+    "GUILDENSTERN:": {
+      "title": "Chief Commercial Officer",
+      "company": "Trade Winds Corporation",
+      "industry": "Merchant",
+      "location": "Chicago",
+      "phone": "872-812-3916",
+      "email": "guildenstern@tradewinds.com"
+    },
+    "HORATIO": {
+      "title": "Trading Operations Manager",
+      "company": "Market Dynamics International",
+      "industry": "Merchant",
+      "location": "San Francisco",
+      "phone": "415-973-2158",
+      "email": "horatio@marketdyn.com"
+    },
+    "BERNARDO": {
+      "title": "Market Development Director",
+      "company": "Market Dynamics International",
+      "industry": "Merchant",
+      "location": "San Francisco",
+      "phone": "415-943-3024",
+      "email": "bernardo@marketdyn.com"
+    },
+    "VOLTIMAND": {
+      "title": "Trading Operations Manager",
+      "company": "Merchant's Exchange Group",
+      "industry": "Merchant",
+      "location": "New York",
+      "phone": "917-898-3756",
+      "email": "voltimand@merchantsexchange.com"
+    },
+    "OSRIC": {
+      "title": "Trading Operations Manager",
+      "company": "Commerce & Trade Solutions",
+      "industry": "Merchant",
+      "location": "Chicago",
+      "phone": "773-917-6797",
+      "email": "osric@commercetrade.com"
+    },
     "FRANCISCO": {
-        "description": "To be added",
-        "modern_role": "To be added",
-        "department": "To be added",
-        "location": "To be added"
+      "title": "Commercial Director",
+      "company": "Global Trade Partners",
+      "industry": "Merchant",
+      "location": "Houston",
+      "phone": "832-263-1916",
+      "email": "francisco@globaltradepart.com"
+    },
+    "CORNELIUS": {
+      "title": "Trade Relations Manager",
+      "company": "Commerce & Trade Solutions",
+      "industry": "Merchant",
+      "location": "Los Angeles",
+      "phone": "213-515-8517",
+      "email": "cornelius@commercetrade.com"
+    },
+    "Player Queen": {
+      "title": "Chairman of the Board",
+      "company": "Dynasty Global Investments",
+      "industry": "Royal",
+      "location": "Houston",
+      "phone": "281-447-1036",
+      "email": "player.queen@dynastyglobal.com"
+    },
+    "QUEEN GERTRUDE": {
+      "title": "President",
+      "company": "Crown Holdings International",
+      "industry": "Royal",
+      "location": "Los Angeles",
+      "phone": "310-421-2238",
+      "email": "queen.gertrude@crownholdings.com"
+    },
+    "GUILDENSTERN": {
+      "title": "Trade Relations Manager",
+      "company": "Commerce & Trade Solutions",
+      "industry": "Merchant",
+      "location": "Los Angeles",
+      "phone": "323-563-6810",
+      "email": "guildenstern@commercetrade.com"
+    },
+    "LORD POLONIUS": {
+      "title": "Managing Partner",
+      "company": "Legacy Capital Partners",
+      "industry": "Noble",
+      "location": "New York",
+      "phone": "212-815-9285",
+      "email": "lord.polonius@legacycap.com"
+    },
+    "HAMLET": {
+      "title": "Chief Commercial Officer",
+      "company": "Trade Winds Corporation",
+      "industry": "Merchant",
+      "location": "Houston",
+      "phone": "281-589-5065",
+      "email": "hamlet@tradewinds.com"
+    },
+    "Gentleman": {
+      "title": "Trading Operations Manager",
+      "company": "Merchant's Exchange Group",
+      "industry": "Merchant",
+      "location": "Houston",
+      "phone": "713-493-2836",
+      "email": "gentleman@merchantsexchange.com"
+    },
+    "Danes": {
+      "title": "Business Development Director",
+      "company": "Commerce Link Worldwide",
+      "industry": "Merchant",
+      "location": "New York",
+      "phone": "212-980-5557",
+      "email": "danes@commercelink.com"
+    },
+    "LUCIANUS": {
+      "title": "Commercial Director",
+      "company": "Commerce Link Worldwide",
+      "industry": "Merchant",
+      "location": "San Francisco",
+      "phone": "415-713-8007",
+      "email": "lucianus@commercelink.com"
+    },
+    "Servant": {
+      "title": "Chief Commercial Officer",
+      "company": "Trade Winds Corporation",
+      "industry": "Merchant",
+      "location": "Houston",
+      "phone": "713-626-4101",
+      "email": "servant@tradewinds.com"
+    },
+    "OPHELIA": {
+      "title": "Commercial Director",
+      "company": "Global Trade Partners",
+      "industry": "Merchant",
+      "location": "New York",
+      "phone": "917-304-8410",
+      "email": "ophelia@globaltradepart.com"
+    },
+    "Messenger": {
+      "title": "External Relations Head",
+      "company": "Unity Diplomatic Solutions",
+      "industry": "Diplomatic",
+      "location": "Los Angeles",
+      "phone": "213-628-8930",
+      "email": "messenger@unitydiplomacy.com"
+    },
+    "KING CLAUDIUS": {
+      "title": "Executive Chairman",
+      "company": "Regency Financial",
+      "industry": "Royal",
+      "location": "Los Angeles",
+      "phone": "323-456-1190",
+      "email": "king.claudius@regencyfinancial.com"
+    },
+    "LAERTES": {
+      "title": "Trading Operations Manager",
+      "company": "Commerce Link Worldwide",
+      "industry": "Merchant",
+      "location": "Houston",
+      "phone": "713-571-2058",
+      "email": "laertes@commercelink.com"
+    },
+    "Lord": {
+      "title": "Executive Director",
+      "company": "Prestige Holdings",
+      "industry": "Noble",
+      "location": "New York",
+      "phone": "646-936-3943",
+      "email": "lord@prestigeholdings.com"
+    },
+    "ROSENCRANTZ": {
+      "title": "Business Development Director",
+      "company": "Merchant's Exchange Group",
+      "industry": "Merchant",
+      "location": "Houston",
+      "phone": "832-715-5100",
+      "email": "rosencrantz@merchantsexchange.com"
+    },
+    "Captain": {
+      "title": "Head of Special Operations",
+      "company": "Fortress Global Security",
+      "industry": "Military",
+      "location": "New York",
+      "phone": "212-702-5216",
+      "email": "captain@fortresssecurity.com"
+    },
+    "Player King": {
+      "title": "Chairman of the Board",
+      "company": "Dynasty Global Investments",
+      "industry": "Royal",
+      "location": "Houston",
+      "phone": "281-589-2285",
+      "email": "player.king@dynastyglobal.com"
+    },
+    "REYNALDO": {
+      "title": "Trading Operations Manager",
+      "company": "Commerce Link Worldwide",
+      "industry": "Merchant",
+      "location": "Houston",
+      "phone": "832-827-1743",
+      "email": "reynaldo@commercelink.com"
     }
-}

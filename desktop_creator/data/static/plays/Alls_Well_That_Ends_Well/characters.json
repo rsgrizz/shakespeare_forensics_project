@@ -1,14 +1,137 @@
 {
-  "CHARACTER_1": {
-    "description": "Generic Character",
-    "modern_role": "Employee",
-    "department": "General",
-    "location": "Anytown"
-  },
-  "CHARACTER_2": {
-    "description": "Generic Character",
-    "modern_role": "Manager",
-    "department": "Management",
-    "location": "Anytown"
-  }
-}
+  "characters": {
+    "Servant": {
+      "title": "Market Development Director",
+      "company": "Global Trade Partners",
+      "industry": "Merchant",
+      "location": "Chicago",
+      "phone": "312-712-6312",
+      "email": "servant@globaltradepart.com"
+    },
+    "DUKE": {
+      "title": "President",
+      "company": "Regency Financial",
+      "industry": "Royal",
+      "location": "Chicago",
+      "phone": "312-502-6752",
+      "email": "duke@regencyfinancial.com"
+    },
+    "Fourth Lord": {
+      "title": "Senior Partner",
+      "company": "Heritage Private Equity",
+      "industry": "Noble",
+      "location": "Chicago",
+      "phone": "312-418-4479",
+      "email": "fourth.lord@heritagepe.com"
+    },
+    "PAROLLES": {
+      "title": "Commercial Director",
+      "company": "Commerce Link Worldwide",
+      "industry": "Merchant",
+      "location": "New York",
+      "phone": "917-973-6695",
+      "email": "parolles@commercelink.com"
+    },
+    "LAFEU": {
+      "title": "Trading Operations Manager",
+      "company": "Market Dynamics International",
+      "industry": "Merchant",
+      "location": "San Francisco",
+      "phone": "415-745-9903",
+      "email": "lafeu@marketdyn.com"
+    },
+    "DIANA": {
+      "title": "Business Development Director",
+      "company": "Market Dynamics International",
+      "industry": "Merchant",
+      "location": "New York",
+      "phone": "917-747-9960",
+      "email": "diana@marketdyn.com"
+    },
+    "KING": {
+      "title": "Chairman of the Board",
+      "company": "Regency Financial",
+      "industry": "Royal",
+      "location": "San Francisco",
+      "phone": "628-857-9010",
+      "email": "king@regencyfinancial.com"
+    },
+    "Widow": {
+      "title": "Trade Relations Manager",
+      "company": "Merchant's Exchange Group",
+      "industry": "Merchant",
+      "location": "San Francisco",
+      "phone": "628-270-4843",
+      "email": "widow@merchantsexchange.com"
+    },
+    "MARIANA": {
+      "title": "Market Development Director",
+      "company": "Commerce Link Worldwide",
+      "industry": "Merchant",
+      "location": "New York",
+      "phone": "212-371-1407",
+      "email": "mariana@commercelink.com"
+    },
+    "Clown": {
+      "title": "Performance Director",
+      "company": "Creative Minds Studio",
+      "industry": "Artistic",
+      "location": "San Francisco",
+      "phone": "415-696-4100",
+      "email": "clown@creativeminds.art"
+    },
+    "Gentleman": {
+      "title": "Trading Operations Manager",
+      "company": "Market Dynamics International",
+      "industry": "Merchant",
+      "location": "Chicago",
+      "phone": "312-219-9480",
+      "email": "gentleman@marketdyn.com"
+    },
+    "Steward": {
+      "title": "Chief Commercial Officer",
+      "company": "Commerce & Trade Solutions",
+      "industry": "Merchant",
+      "location": "Los Angeles",
+      "phone": "323-987-6377",
+      "email": "steward@commercetrade.com"
+    },
+    "BERTRAM": {
+      "title": "Trading Operations Manager",
+      "company": "Commerce Link Worldwide",
+      "industry": "Merchant",
+      "location": "Houston",
+      "phone": "281-890-3989",
+      "email": "bertram@commercelink.com"
+    },
+    "COUNTESS": {
+      "title": "Executive Director",
+      "company": "Elite Management Associates",
+      "industry": "Noble",
+      "location": "San Francisco",
+      "phone": "628-783-9329",
+      "email": "countess@elitema.com"
+    },
+    "HELENA": {
+      "title": "Trade Relations Manager",
+      "company": "Commerce & Trade Solutions",
+      "industry": "Merchant",
+      "location": "San Francisco",
+      "phone": "415-570-6464",
+      "email": "helena@commercetrade.com"
+    },
+    "Page": {
+      "title": "Market Development Director",
+      "company": "Merchant's Exchange Group",
+      "industry": "Merchant",
+      "location": "Houston",
+      "phone": "713-979-7214",
+      "email": "page@merchantsexchange.com"
+    },
+    "BOTH": {
+      "title": "Trade Relations Manager",
+      "company": "Trade Winds Corporation",
+      "industry": "Merchant",
+      "location": "San Francisco",
+      "phone": "415-354-4727",
+      "email": "both@tradewinds.com"

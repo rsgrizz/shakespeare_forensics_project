@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "generated_by": "RSGrizz",
+    "generated_date": "20250319_141646",
+    "version": "1.2",
+    "project": "Shakespeare Forensics"
+  },
+  "data": {
+    "corporate_structures": {
+      "traditional_corporate": {
+        "executive_level": {
+          "c_suite": {
+            "positions": [
+              {
+                "title": "Chief Executive Officer",
+                "code": "CEO",
+                "reports_to": "Board of Directors",
+                "responsibilities": [
+                  "Corporate Strategy",
+                  "Executive Leadership",
+                  "Stakeholder Management"
+                ]
+              },
+              {
+                "title": "Chief Financial Officer",
+                "code": "CFO",
+                "reports_to": "CEO",
+                "responsibilities": [
+                  "Financial Strategy",
+                  "Risk Management",
+                  "Investor Relations"
+                ]
+              },
+              {
+                "title": "Chief Operating Officer",
+                "code": "COO",
+                "reports_to": "CEO",
+                "responsibilities": [
+                  "Operations Management",
+                  "Process Optimization",
+                  "Resource Allocation"
+                ]
+              }
+            ]
+          },
+          "executive_vp": {
+            "positions": [
+              "Executive VP of Sales",
+              "Executive VP of Marketing",
+              "Executive VP of Technology"
+            ]
+          }
+        },
+        "senior_management": {
+          "division_heads": {
+            "positions": [
+              "Senior VP of Product",
+              "Senior VP of Engineering",
+              "Senior VP of Customer Success"
+            ],
+            "reporting_structure": "Executive VPs"
+          },
+          "regional_directors": {
+            "positions": [
+              "Regional Director, East",
+              "Regional Director, West",
+              "Regional Director, Central"
+            ]
+          }
+        }
+      },
+      "startup_structure": {
+        "founding_team": {
+          "positions": [
+            "Founder/CEO",
+            "Co-Founder/CTO",
+            "Co-Founder/CPO"
+          ]
+        },
+        "early_stage": {
+          "core_team": [
+            "Head of Engineering",
+            "Head of Product",
+            "Head of Growth"
+          ]
+        }
+      }
+    },
+    "department_structures": {
+      "technology": {
+        "engineering": {
+          "leadership": "VP of Engineering",
+          "sub_departments": [
+            "Frontend Development",
+            "Backend Development",
+            "DevOps",
+            "Quality Assurance"
+          ],
+          "roles": [
+            "Senior Engineer",
+            "Software Engineer",
+            "QA Engineer",
+            "DevOps Engineer"
+          ]
+        },
+        "product": {
+          "leadership": "VP of Product",
+          "sub_departments": [
+            "Product Management",
+            "User Experience",
+            "Product Analytics"
+          ]
+        }
+      },
+      "sales": {
+        "structure": {
+          "leadership": "VP of Sales",
+          "teams": [
+            "Enterprise Sales",
+            "Mid-Market",
+            "SMB",
+            "Sales Operations"
+          ]
+        },
+        "hierarchy": [
+          "Sales Director",
+          "Sales Manager",
+          "Senior Account Executive",
+          "Account Executive"
+        ]
+      }
+    },
+    "reporting_relationships": {
+      "direct_reports": {
+        "CEO": [
+          "CFO",
+          "COO",
+          "CTO",
+          "CMO"
+        ],
+        "COO": [
+          "VP of Operations",
+          "VP of Sales",
+          "VP of Customer Success"
+        ]
+      },
+      "matrix_structure": {
+        "project_based": {
+          "project_manager": [
+            "Technical Lead",
+            "Design Lead",
+            "Marketing Lead"
+          ],
+          "functional_manager": [
+            "Engineering Manager",
+            "Design Manager",
+            "Marketing Manager"
+          ]
+        }
+      }
+    },
+    "communication_channels": {
+      "formal": [
+        "Board Meetings",
+        "Executive Sessions",
+        "Department Meetings",
+        "All-Hands Meetings"
+      ],
+      "informal": [
+        "Team Channels",
+        "Project Groups",
+        "Cross-functional Teams"
+      ],
+      "reporting_lines": [
+        "Direct Management",
+        "Matrix Reporting",
+        "Project-based Reporting"
+      ]
+    }
+  }
+}

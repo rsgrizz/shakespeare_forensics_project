@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "generated_by": "RSGrizz",
+    "generated_date": "20250319_141646",
+    "version": "1.2",
+    "project": "Shakespeare Forensics"
+  },
+  "data": {
+    "transportation_hubs": {
+      "airports": {
+        "new_york": [
+          "JFK",
+          "LaGuardia",
+          "Newark"
+        ],
+        "chicago": [
+          "O'Hare",
+          "Midway"
+        ],
+        "los_angeles": [
+          "LAX",
+          "Burbank",
+          "Long Beach"
+        ]
+      },
+      "train_stations": {
+        "new_york": [
+          "Penn Station",
+          "Grand Central"
+        ],
+        "boston": [
+          "South Station",
+          "North Station"
+        ],
+        "washington_dc": [
+          "Union Station"
+        ]
+      }
+    },
+    "technology_infrastructure": {
+      "data_centers": {
+        "virginia": [
+          "Ashburn",
+          "Sterling",
+          "Reston"
+        ],
+        "texas": [
+          "Dallas",
+          "Houston",
+          "Austin"
+        ],
+        "california": [
+          "Silicon Valley",
+          "Los Angeles",
+          "Sacramento"
+        ]
+      },
+      "tech_corridors": {
+        "route_128": {
+          "region": "Boston Area",
+          "focus": [
+            "Technology",
+            "Biotechnology",
+            "Defense"
+          ]
+        },
+        "silicon_valley": {
+          "region": "San Francisco Bay Area",
+          "focus": [
+            "Software",
+            "Hardware",
+            "Internet"
+          ]
+        }
+      }
+    }
+  }
+}

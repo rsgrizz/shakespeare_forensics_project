@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "generated_by": "RSGrizz",
+    "generated_date": "20250319_141646",
+    "version": "1.2",
+    "project": "Shakespeare Forensics"
+  },
+  "data": {
+    "south": {
+      "major_cities": {
+        "atlanta": {
+          "name": "Atlanta",
+          "state": "GA",
+          "area_codes": [
+            "404",
+            "470",
+            "678",
+            "770"
+          ],
+          "business_districts": [
+            "Downtown",
+            "Buckhead",
+            "Midtown",
+            "Atlantic Station",
+            "Perimeter Center"
+          ],
+          "industries": [
+            "Transportation",
+            "Media",
+            "Technology",
+            "Healthcare",
+            "Finance"
+          ],
+          "major_employers": [
+            "Coca-Cola",
+            "Delta Airlines",
+            "Home Depot",
+            "UPS",
+            "CNN"
+          ]
+        },
+        "miami": {
+          "name": "Miami",
+          "state": "FL",
+          "area_codes": [
+            "305",
+            "786"
+          ],
+          "business_districts": [
+            "Brickell",
+            "Downtown",
+            "Design District",
+            "Wynwood",
+            "Coral Gables"
+          ],
+          "industries": [
+            "Banking",
+            "Tourism",
+            "International Trade",
+            "Real Estate",
+            "Healthcare"
+          ]
+        },
+        "dallas": {
+          "name": "Dallas",
+          "state": "TX",
+          "area_codes": [
+            "214",
+            "469",
+            "972"
+          ],
+          "business_districts": [
+            "Downtown",
+            "Uptown",
+            "Deep Ellum",
+            "Preston Center",
+            "Legacy"
+          ],
+          "industries": [
+            "Technology",
+            "Finance",
+            "Energy",
+            "Healthcare",
+            "Defense"
+          ]
+        }
+      }
+    },
+    "southwest": {
+      "major_cities": {
+        "phoenix": {
+          "name": "Phoenix",
+          "state": "AZ",
+          "area_codes": [
+            "480",
+            "602",
+            "623"
+          ],
+          "business_districts": [
+            "Downtown",
+            "Camelback Corridor",
+            "Desert Ridge",
+            "Scottsdale Airpark"
+          ],
+          "industries": [
+            "Technology",
+            "Healthcare",
+            "Tourism",
+            "Real Estate"
+          ]
+        },
+        "denver": {
+          "name": "Denver",
+          "state": "CO",
+          "area_codes": [
+            "303",
+            "720"
+          ],
+          "business_districts": [
+            "Downtown",
+            "Denver Tech Center",
+            "RiNo",
+            "Cherry Creek"
+          ],
+          "industries": [
+            "Technology",
+            "Energy",
+            "Aerospace",
+            "Healthcare"
+          ]
+        }
+      }
+    },
+    "pacific_northwest": {
+      "major_cities": {
+        "seattle": {
+          "name": "Seattle",
+          "state": "WA",
+          "area_codes": [
+            "206",
+            "253",
+            "425"
+          ],
+          "business_districts": [
+            "Downtown",
+            "South Lake Union",
+            "Bellevue CBD",
+            "Pioneer Square"
+          ],
+          "industries": [
+            "Technology",
+            "Aerospace",
+            "Retail",
+            "Biotechnology"
+          ],
+          "major_employers": [
+            "Amazon",
+            "Microsoft",
+            "Boeing",
+            "Starbucks"
+          ]
+        },
+        "portland": {
+          "name": "Portland",
+          "state": "OR",
+          "area_codes": [
+            "503",
+            "971"
+          ],
+          "business_districts": [
+            "Downtown",
+            "Pearl District",
+            "Lloyd District",
+            "South Waterfront"
+          ],
+          "industries": [
+            "Technology",
+            "Athletic & Outdoor",
+            "Manufacturing",
+            "Green Technology"
+          ]
+        }
+      }
+    },
+    "southeast": {
+      "major_cities": {
+        "charlotte": {
+          "name": "Charlotte",
+          "state": "NC",
+          "area_codes": [
+            "704",
+            "980"
+          ],
+          "business_districts": [
+            "Uptown",
+            "South End",
+            "Ballantyne",
+            "University City"
+          ],
+          "industries": [
+            "Banking",
+            "Finance",
+            "Technology",
+            "Energy"
+          ]
+        },
+        "nashville": {
+          "name": "Nashville",
+          "state": "TN",
+          "area_codes": [
+            "615",
+            "629"
+          ],
+          "business_districts": [
+            "Downtown",
+            "The Gulch",
+            "Music Row",
+            "Green Hills"
+          ],
+          "industries": [
+            "Healthcare",
+            "Music & Entertainment",
+            "Tourism",
+            "Technology"
+          ]
+        },
+        "raleigh": {
+          "name": "Raleigh",
+          "state": "NC",
+          "area_codes": [
+            "919",
+            "984"
+          ],
+          "business_districts": [
+            "Downtown",
+            "North Hills",
+            "Research Triangle Park",
+            "Glenwood South"
+          ],
+          "industries": [
+            "Technology",
+            "Biotechnology",
+            "Education",
+            "Healthcare"
+          ]
+        }
+      }
+    }
+  }
+}

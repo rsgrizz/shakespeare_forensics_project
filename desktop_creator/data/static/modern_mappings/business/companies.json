@@ -1,502 +1,175 @@
-[
-  {
-    "name": "Company 1",
-    "industry": "Marketing",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 2",
-    "industry": "Marketing",
-    "location": "San Francisco"
-  },
-  {
-    "name": "Company 3",
-    "industry": "Software",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 4",
-    "industry": "Marketing",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 5",
-    "industry": "Energy",
-    "location": "Boston"
-  },
-  {
-    "name": "Company 6",
-    "industry": "Software",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 7",
-    "industry": "Venture Capital",
-    "location": "San Francisco"
-  },
-  {
-    "name": "Company 8",
-    "industry": "Manufacturing",
-    "location": "Memphis"
-  },
-  {
-    "name": "Company 9",
-    "industry": "Healthcare",
-    "location": "Boston"
-  },
-  {
-    "name": "Company 10",
-    "industry": "Consulting",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 11",
-    "industry": "Venture Capital",
-    "location": "Memphis"
-  },
-  {
-    "name": "Company 12",
-    "industry": "Finance",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 13",
-    "industry": "Marketing",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 14",
-    "industry": "Consulting",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 15",
-    "industry": "Software",
-    "location": "Boston"
-  },
-  {
-    "name": "Company 16",
-    "industry": "Logistics",
-    "location": "Seattle"
-  },
-  {
-    "name": "Company 17",
-    "industry": "Consulting",
-    "location": "San Francisco"
-  },
-  {
-    "name": "Company 18",
-    "industry": "Consulting",
-    "location": "Seattle"
-  },
-  {
-    "name": "Company 19",
-    "industry": "Venture Capital",
-    "location": "Memphis"
-  },
-  {
-    "name": "Company 20",
-    "industry": "Technology",
-    "location": "New York"
-  },
-  {
-    "name": "Company 21",
-    "industry": "Healthcare",
-    "location": "New York"
-  },
-  {
-    "name": "Company 22",
-    "industry": "Technology",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 23",
-    "industry": "Consulting",
-    "location": "New York"
-  },
-  {
-    "name": "Company 24",
-    "industry": "Logistics",
-    "location": "Seattle"
-  },
-  {
-    "name": "Company 25",
-    "industry": "Logistics",
-    "location": "San Francisco"
-  },
-  {
-    "name": "Company 26",
-    "industry": "Technology",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 27",
-    "industry": "Marketing",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 28",
-    "industry": "Software",
-    "location": "San Francisco"
-  },
-  {
-    "name": "Company 29",
-    "industry": "Energy",
-    "location": "Boston"
-  },
-  {
-    "name": "Company 30",
-    "industry": "Logistics",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 31",
-    "industry": "Technology",
-    "location": "Memphis"
-  },
-  {
-    "name": "Company 32",
-    "industry": "Venture Capital",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 33",
-    "industry": "Finance",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 34",
-    "industry": "Energy",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 35",
-    "industry": "Logistics",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 36",
-    "industry": "Venture Capital",
-    "location": "Boston"
-  },
-  {
-    "name": "Company 37",
-    "industry": "Finance",
-    "location": "New York"
-  },
-  {
-    "name": "Company 38",
-    "industry": "Marketing",
-    "location": "Memphis"
-  },
-  {
-    "name": "Company 39",
-    "industry": "Consulting",
-    "location": "Boston"
-  },
-  {
-    "name": "Company 40",
-    "industry": "Energy",
-    "location": "Boston"
-  },
-  {
-    "name": "Company 41",
-    "industry": "Energy",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 42",
-    "industry": "Software",
-    "location": "Houston"
-  },
-  {
-    "name": "Company 43",
-    "industry": "Healthcare",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 44",
-    "industry": "Consulting",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 45",
-    "industry": "Finance",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 46",
-    "industry": "Manufacturing",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 47",
-    "industry": "Venture Capital",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 48",
-    "industry": "Venture Capital",
-    "location": "New York"
-  },
-  {
-    "name": "Company 49",
-    "industry": "Marketing",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 50",
-    "industry": "Energy",
-    "location": "New York"
-  },
-  {
-    "name": "Company 51",
-    "industry": "Finance",
-    "location": "Houston"
-  },
-  {
-    "name": "Company 52",
-    "industry": "Finance",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 53",
-    "industry": "Energy",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 54",
-    "industry": "Consulting",
-    "location": "Memphis"
-  },
-  {
-    "name": "Company 55",
-    "industry": "Energy",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 56",
-    "industry": "Software",
-    "location": "New York"
-  },
-  {
-    "name": "Company 57",
-    "industry": "Healthcare",
-    "location": "Houston"
-  },
-  {
-    "name": "Company 58",
-    "industry": "Marketing",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 59",
-    "industry": "Energy",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 60",
-    "industry": "Technology",
-    "location": "Seattle"
-  },
-  {
-    "name": "Company 61",
-    "industry": "Logistics",
-    "location": "Boston"
-  },
-  {
-    "name": "Company 62",
-    "industry": "Software",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 63",
-    "industry": "Manufacturing",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 64",
-    "industry": "Marketing",
-    "location": "Boston"
-  },
-  {
-    "name": "Company 65",
-    "industry": "Logistics",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 66",
-    "industry": "Finance",
-    "location": "Boston"
-  },
-  {
-    "name": "Company 67",
-    "industry": "Healthcare",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 68",
-    "industry": "Software",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 69",
-    "industry": "Technology",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 70",
-    "industry": "Consulting",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 71",
-    "industry": "Energy",
-    "location": "Seattle"
-  },
-  {
-    "name": "Company 72",
-    "industry": "Energy",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 73",
-    "industry": "Logistics",
-    "location": "Houston"
-  },
-  {
-    "name": "Company 74",
-    "industry": "Energy",
-    "location": "Seattle"
-  },
-  {
-    "name": "Company 75",
-    "industry": "Finance",
-    "location": "Seattle"
-  },
-  {
-    "name": "Company 76",
-    "industry": "Healthcare",
-    "location": "San Francisco"
-  },
-  {
-    "name": "Company 77",
-    "industry": "Marketing",
-    "location": "Memphis"
-  },
-  {
-    "name": "Company 78",
-    "industry": "Healthcare",
-    "location": "Memphis"
-  },
-  {
-    "name": "Company 79",
-    "industry": "Software",
-    "location": "New York"
-  },
-  {
-    "name": "Company 80",
-    "industry": "Venture Capital",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 81",
-    "industry": "Venture Capital",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 82",
-    "industry": "Manufacturing",
-    "location": "Houston"
-  },
-  {
-    "name": "Company 83",
-    "industry": "Finance",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 84",
-    "industry": "Manufacturing",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 85",
-    "industry": "Manufacturing",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 86",
-    "industry": "Software",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 87",
-    "industry": "Logistics",
-    "location": "San Diego"
-  },
-  {
-    "name": "Company 88",
-    "industry": "Venture Capital",
-    "location": "Houston"
-  },
-  {
-    "name": "Company 89",
-    "industry": "Logistics",
-    "location": "Houston"
-  },
-  {
-    "name": "Company 90",
-    "industry": "Finance",
-    "location": "New York"
-  },
-  {
-    "name": "Company 91",
-    "industry": "Healthcare",
-    "location": "Seattle"
-  },
-  {
-    "name": "Company 92",
-    "industry": "Manufacturing",
-    "location": "Menlo Park"
-  },
-  {
-    "name": "Company 93",
-    "industry": "Manufacturing",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 94",
-    "industry": "Technology",
-    "location": "San Francisco"
-  },
-  {
-    "name": "Company 95",
-    "industry": "Consulting",
-    "location": "San Francisco"
-  },
-  {
-    "name": "Company 96",
-    "industry": "Marketing",
-    "location": "Los Angeles"
-  },
-  {
-    "name": "Company 97",
-    "industry": "Technology",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 98",
-    "industry": "Consulting",
-    "location": "Seattle"
-  },
-  {
-    "name": "Company 99",
-    "industry": "Healthcare",
-    "location": "Chicago"
-  },
-  {
-    "name": "Company 100",
-    "industry": "Healthcare",
-    "location": "Chicago"
+{
+  "metadata": {
+    "generated_by": "RSGrizz",
+    "generated_date": "20250319_141646",
+    "version": "1.2",
+    "project": "Shakespeare Forensics"
+  },
+  "data": {
+    "fortune_500": {
+      "technology": {
+        "major_tech": {
+          "innovation_systems": {
+            "name": "Innovation Systems Inc.",
+            "headquarters": "San Francisco",
+            "industry": "Technology",
+            "sectors": [
+              "Software",
+              "AI",
+              "Cloud Computing"
+            ],
+            "annual_revenue": "$50B+",
+            "employees": "50,000+",
+            "subsidiaries": [
+              "InnovateTech Solutions",
+              "CloudStack Systems",
+              "AI Research Division"
+            ],
+            "key_locations": [
+              "Silicon Valley HQ",
+              "Seattle R&D",
+              "Boston Innovation Lab",
+              "Austin Tech Center"
+            ]
+          },
+          "global_networks": {
+            "name": "Global Networks Corporation",
+            "headquarters": "Seattle",
+            "industry": "Technology",
+            "sectors": [
+              "Enterprise Software",
+              "Cloud Infrastructure"
+            ],
+            "annual_revenue": "$40B+",
+            "employees": "45,000+"
+          }
+        }
+      },
+      "finance": {
+        "banking": {
+          "atlantic_financial": {
+            "name": "Atlantic Financial Group",
+            "headquarters": "New York",
+            "industry": "Banking",
+            "sectors": [
+              "Investment Banking",
+              "Wealth Management"
+            ],
+            "annual_revenue": "$30B+",
+            "employees": "35,000+",
+            "subsidiaries": [
+              "Atlantic Securities",
+              "Atlantic Wealth",
+              "Atlantic Capital Markets"
+            ]
+          },
+          "midwest_banking": {
+            "name": "Midwest Banking Corporation",
+            "headquarters": "Chicago",
+            "industry": "Banking",
+            "sectors": [
+              "Commercial Banking",
+              "Retail Banking"
+            ],
+            "annual_revenue": "$25B+",
+            "employees": "30,000+"
+          }
+        }
+      },
+      "healthcare": {
+        "medical_systems": {
+          "unified_health": {
+            "name": "Unified Health Systems",
+            "headquarters": "Boston",
+            "industry": "Healthcare",
+            "sectors": [
+              "Medical Technology",
+              "Healthcare Services"
+            ],
+            "annual_revenue": "$20B+",
+            "employees": "25,000+"
+          }
+        }
+      }
+    },
+    "mid_size_companies": {
+      "technology": {
+        "software_solutions": {
+          "name": "Advanced Software Solutions",
+          "headquarters": "Austin",
+          "industry": "Technology",
+          "sectors": [
+            "Enterprise Software",
+            "Digital Services"
+          ],
+          "annual_revenue": "$500M+",
+          "employees": "2,000+"
+        }
+      },
+      "manufacturing": {
+        "precision_manufacturing": {
+          "name": "Precision Manufacturing Corp",
+          "headquarters": "Detroit",
+          "industry": "Manufacturing",
+          "sectors": [
+            "Industrial Equipment",
+            "Automation"
+          ],
+          "annual_revenue": "$750M+",
+          "employees": "3,000+"
+        }
+      }
+    },
+    "startup_ecosystem": {
+      "technology_startups": {
+        "quantum_computing": {
+          "name": "Quantum Dynamics",
+          "headquarters": "Boulder",
+          "industry": "Technology",
+          "sectors": [
+            "Quantum Computing",
+            "Research"
+          ],
+          "funding_stage": "Series B",
+          "employees": "150+"
+        }
+      },
+      "biotech_startups": {
+        "genome_research": {
+          "name": "Genome Innovations",
+          "headquarters": "Cambridge",
+          "industry": "Biotechnology",
+          "sectors": [
+            "Genetic Research",
+            "Medical Technology"
+          ],
+          "funding_stage": "Series C",
+          "employees": "200+"
+        }
+      }
+    },
+    "company_relationships": {
+      "strategic_partnerships": [
+        {
+          "companies": [
+            "Innovation Systems Inc.",
+            "Atlantic Financial Group"
+          ],
+          "partnership_type": "Technology Integration",
+          "description": "Financial technology development"
+        }
+      ],
+      "industry_alliances": [
+        {
+          "name": "Tech Innovation Alliance",
+          "members": [
+            "Innovation Systems Inc.",
+            "Global Networks Corporation",
+            "Advanced Software Solutions"
+          ],
+          "focus": "Technology Standards Development"
+        }
+      ]
+    }
   }
-]
+}

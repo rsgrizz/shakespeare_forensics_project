@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "generated_by": "RSGrizz",
+    "generated_date": "20250319_141646",
+    "version": "1.2",
+    "project": "Shakespeare Forensics"
+  },
+  "data": {
+    "federal_agencies": {
+      "executive_branch": {
+        "cabinet_departments": {
+          "state_department": {
+            "name": "Department of State",
+            "abbreviation": "DOS",
+            "headquarters": "Washington, DC",
+            "leadership_role": "Secretary of State",
+            "key_divisions": [
+              "Diplomatic Security",
+              "Foreign Service",
+              "International Security",
+              "Public Affairs"
+            ],
+            "regional_offices": [
+              "New York",
+              "Miami",
+              "Los Angeles",
+              "Chicago"
+            ]
+          },
+          "defense_department": {
+            "name": "Department of Defense",
+            "abbreviation": "DOD",
+            "headquarters": "Pentagon, Arlington, VA",
+            "leadership_role": "Secretary of Defense",
+            "key_divisions": [
+              "Army",
+              "Navy",
+              "Air Force",
+              "Space Force",
+              "Marines"
+            ],
+            "major_commands": [
+              "Strategic Command",
+              "Cyber Command",
+              "Special Operations"
+            ]
+          },
+          "treasury_department": {
+            "name": "Department of the Treasury",
+            "abbreviation": "USDT",
+            "headquarters": "Washington, DC",
+            "leadership_role": "Secretary of the Treasury",
+            "key_divisions": [
+              "Internal Revenue Service",
+              "U.S. Mint",
+              "Office of Financial Intelligence"
+            ]
+          }
+        },
+        "independent_agencies": {
+          "fbi": {
+            "name": "Federal Bureau of Investigation",
+            "abbreviation": "FBI",
+            "headquarters": "Washington, DC",
+            "leadership_role": "Director",
+            "key_divisions": [
+              "Criminal Investigation",
+              "Counterterrorism",
+              "Cybersecurity",
+              "Intelligence"
+            ],
+            "field_offices": [
+              "New York",
+              "Los Angeles",
+              "Chicago",
+              "Houston"
+            ]
+          },
+          "cia": {
+            "name": "Central Intelligence Agency",
+            "abbreviation": "CIA",
+            "headquarters": "Langley, VA",
+            "leadership_role": "Director",
+            "key_divisions": [
+              "Operations",
+              "Analysis",
+              "Science and Technology",
+              "Digital Innovation"
+            ]
+          }
+        }
+      },
+      "regulatory_agencies": {
+        "sec": {
+          "name": "Securities and Exchange Commission",
+          "abbreviation": "SEC",
+          "headquarters": "Washington, DC",
+          "leadership_role": "Chairman",
+          "key_divisions": [
+            "Corporation Finance",
+            "Trading and Markets",
+            "Investment Management",
+            "Enforcement"
+          ],
+          "regional_offices": [
+            "New York",
+            "Chicago",
+            "San Francisco",
+            "Miami"
+          ]
+        },
+        "fcc": {
+          "name": "Federal Communications Commission",
+          "abbreviation": "FCC",
+          "headquarters": "Washington, DC",
+          "leadership_role": "Chairman",
+          "key_divisions": [
+            "Media Bureau",
+            "Wireless Bureau",
+            "Enforcement Bureau"
+          ]
+        }
+      }
+    },
+    "state_agencies": {
+      "law_enforcement": {
+        "state_police": {
+          "structure": {
+            "headquarters": "State Capital",
+            "divisions": [
+              "Highway Patrol",
+              "Criminal Investigation",
+              "Special Operations"
+            ]
+          },
+          "examples": [
+            "New York State Police",
+            "California Highway Patrol",
+            "Texas Department of Public Safety"
+          ]
+        }
+      },
+      "regulatory": {
+        "financial_regulation": {
+          "structure": {
+            "divisions": [
+              "Banking",
+              "Insurance",
+              "Securities"
+            ]
+          },
+          "examples": [
+            "New York Department of Financial Services",
+            "California Department of Financial Protection"
+          ]
+        }
+      }
+    },
+    "interagency_relationships": {
+      "task_forces": [
+        {
+          "name": "Joint Terrorism Task Force",
+          "lead_agency": "FBI",
+          "participating_agencies": [
+            "CIA",
+            "DOD",
+            "State Police"
+          ]
+        },
+        {
+          "name": "Financial Crimes Task Force",
+          "lead_agency": "Treasury",
+          "participating_agencies": [
+            "FBI",
+            "SEC",
+            "State Regulatory Agencies"
+          ]
+        }
+      ],
+      "information_sharing": {
+        "intelligence_community": {
+          "coordinator": "Director of National Intelligence",
+          "member_agencies": [
+            "CIA",
+            "FBI",
+            "NSA",
+            "DIA"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "generated_by": "RSGrizz",
+    "generated_date": "20250319_141646",
+    "version": "1.2",
+    "project": "Shakespeare Forensics"
+  },
+  "data": {
+    "business_government": {
+      "regulatory_relationships": {
+        "technology_sector": {
+          "regulators": [
+            "FCC",
+            "FTC",
+            "SEC"
+          ],
+          "oversight_areas": [
+            "Data Privacy",
+            "Consumer Protection",
+            "Securities Compliance"
+          ]
+        },
+        "financial_sector": {
+          "regulators": [
+            "SEC",
+            "Federal Reserve",
+            "FDIC"
+          ],
+          "oversight_areas": [
+            "Banking Regulation",
+            "Securities Trading",
+            "Consumer Banking"
+          ]
+        }
+      },
+      "contracts_and_partnerships": {
+        "defense_contracts": {
+          "agencies": [
+            "DOD",
+            "DHS",
+            "NASA"
+          ],
+          "contractor_types": [
+            "Technology Providers",
+            "Defense Manufacturers",
+            "Research Institutions"
+          ]
+        }
+      }
+    },
+    "cross_sector_relationships": {
+      "technology_finance": {
+        "partnerships": [
+          "Digital Payment Systems",
+          "Fintech Innovation",
+          "Cybersecurity"
+        ],
+        "key_players": {
+          "tech_companies": [
+            "Innovation Systems Inc.",
+            "Global Networks"
+          ],
+          "financial_institutions": [
+            "Atlantic Financial",
+            "Midwest Banking"
+          ]
+        }
+      }
+    }
+  }
+}

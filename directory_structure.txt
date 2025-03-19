@@ -1,0 +1,768 @@
+Folder PATH listing for volume Windows
+Volume serial number is 9C56-2247
+C:.
+|   CHANGELOG.md
+|   CREDITS.md
+|   DEVELOPMENT_SEQUENCE..txt
+|   directory_structure.txt
+|   Inialize.py
+|   LICENSE
+|   OLD
+|   PROJECT_DESCRIPTION.md
+|   README.txt
+|   sms_messages.json
+|   
++---.vs
+|   |   ProjectSettings.json
+|   |   PythonSettings.json
+|   |   slnx.sqlite
+|   |   VSWorkspaceState.json
+|   |   
+|   \---shakespeare_forensics_project
+|       +---copilot-chat
+|       |   \---a275d8d4
+|       |       \---sessions
+|       |               0f8eb5cc-f4c3-4ffd-a458-22294c24c80b
+|       |               101c49a2-eab5-479d-bb2b-bbdfa615e740
+|       |               962bfdf1-6b75-42d4-a0dc-a90349683f7a
+|       |               ab84164c-2b2c-4f73-8b66-3e527132eff6
+|       |               d85f47aa-98fd-452f-8554-6a0932238ddf
+|       |               
+|       +---CopilotIndices
+|       |   +---0.2.1653.9816
+|       |   |       CodeChunks.db
+|       |   |       CodeChunks.db-shm
+|       |   |       CodeChunks.db-wal
+|       |   |       SemanticSymbols.db
+|       |   |       SemanticSymbols.db-shm
+|       |   |       SemanticSymbols.db-wal
+|       |   |       
+|       |   \---17.13.433.20974
+|       |           CodeChunks.db
+|       |           CodeChunks.db-shm
+|       |           CodeChunks.db-wal
+|       |           SemanticSymbols.db
+|       |           SemanticSymbols.db-shm
+|       |           SemanticSymbols.db-wal
+|       |           
+|       +---FileContentIndex
+|       |       0ce857ae-6110-468f-b79e-f4a644793036.vsidx
+|       |       339e526a-6ba1-433a-bdb2-6002da54ce43.vsidx
+|       |       6351bf05-c423-4b0c-b0c7-d7c08a1a291e.vsidx
+|       |       6640abad-d522-4315-bd7e-09c73e8e6c4d.vsidx
+|       |       d30175da-4938-42ce-8c63-0adb42bfb4a9.vsidx
+|       |       
+|       \---v17
+|               DocumentLayout.backup.json
+|               DocumentLayout.json
+|               
++---desktop_creator
+|   +---data
+|   |   \---static
+|   |       +---modern_mappings
+|   |       |   +---business
+|   |       |   |       companies.json
+|   |       |   |       departments.json
+|   |       |   |       titles.json
+|   |       |   |       
+|   |       |   +---government
+|   |       |   |       agencies.json
+|   |       |   |       positions.json
+|   |       |   |       
+|   |       |   \---locations
+|   |       |           area_codes.json
+|   |       |           cities.json
+|   |       |           
+|   |       +---plays
+|   |       |   +---Alls_Well_That_Ends_Well
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Antony_and_Cleopatra
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---As_You_Like_It
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---A_Midsummer_Nights_Dream
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Coriolanus
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Cymbeline
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Hamlet
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Henry_IV_Part_1
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Henry_IV_Part_2
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Henry_V
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Henry_VIII
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Henry_VI_Part_1
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Henry_VI_Part_2
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Henry_VI_Part_3
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Julius_Caesar
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---King_John
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---King_Lear
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Loves_Labours_Lost
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Macbeth
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Measure_for_Measure
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Much_Ado_About_Nothing
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Othello
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Pericles_Prince_of_Tyre
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Richard_II
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Richard_III
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Romeo_and_Juliet
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---The_Comedy_of_Errors
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---The_Merchant_of_Venice
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---The_Merry_Wives_of_Windsor
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---The_Taming_of_the_Shrew
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---The_Tempest
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---The_Winters_Tale
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Timon_of_Athens
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Titus_Andronicus
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Troilus_and_Cressida
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Twelfth_Night
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   +---Two_Gentlemen_of_Verona
+|   |       |   |   |   characters.json
+|   |       |   |   |   full.html
+|   |       |   |   |   play_data.json
+|   |       |   |   |   relationships.json
+|   |       |   |   |   script.json
+|   |       |   |   |   
+|   |       |   |   \---data
+|   |       |   |           data.json
+|   |       |   |           
+|   |       |   \---_Scripts
+|   |       |           play_data.py
+|   |       |           
+|   |       \---templates
+|   |           \---sms
+|   |                   patterns.json
+|   |                   
+|   \---src
+|       |   generate_play_data(old).py
+|       |   generate_play_data.py
+|       |   NewFile
+|       |   
+|       +---core
+|       |       character_manager.py
+|       |       play_manager.py
+|       |       shakespeare_scraper.py
+|       |       timeline_manager.py
+|       |       __init__.py
+|       |       
+|       +---generators
+|       |       call_generator.py
+|       |       contact_generator.py
+|       |       sms_generator.py
+|       |       __init__.py
+|       |       
+|       \---utils
+|               data_validator.py
+|               __init__.py
+|               
++---logs
+|       call_log_20250312.log
+|       sms_database_20250312.log
+|       
++---Scripts
+|       Add_charecters_to_json.py
+|       Generate_Static_data.py
+|       get_cwd.py
+|       utility.py
+|       
+\---Shakesphere_injection
+    |   shakespeare_contacts.vcf
+    |   
+    +---sms-ie
+    |   |   build.gradle
+    |   |   BUILDING.md
+    |   |   CONTRIBUTING.md
+    |   |   COPYING
+    |   |   gradle.properties
+    |   |   gradlew
+    |   |   gradlew.bat
+    |   |   README.md
+    |   |   settings.gradle
+    |   |   
+    |   +---app
+    |   |   |   build.gradle
+    |   |   |   proguard-rules.pro
+    |   |   |   
+    |   |   \---src
+    |   |       +---androidTest
+    |   |       |   \---java
+    |   |       |       \---com
+    |   |       |           \---github
+    |   |       |               \---tmo1
+    |   |       |                   \---sms_ie
+    |   |       |                           ExampleInstrumentedTest.kt
+    |   |       |                           
+    |   |       +---main
+    |   |       |   |   AndroidManifest.xml
+    |   |       |   |   ic_launcher-playstore.png
+    |   |       |   |   
+    |   |       |   +---java
+    |   |       |   |   \---com
+    |   |       |   |       \---github
+    |   |       |   |           \---tmo1
+    |   |       |   |               \---sms_ie
+    |   |       |   |                       AboutActivity.kt
+    |   |       |   |                       ComposeSmsActivity.kt
+    |   |       |   |                       CustomPreferenceDialogs.kt
+    |   |       |   |                       CustomPreferences.kt
+    |   |       |   |                       ExportService.kt
+    |   |       |   |                       ExportWorker.kt
+    |   |       |   |                       HeadlessSmsSendService.kt
+    |   |       |   |                       ImportExport.kt
+    |   |       |   |                       ImportExportCallLog.kt
+    |   |       |   |                       ImportExportContacts.kt
+    |   |       |   |                       ImportExportMessages.kt
+    |   |       |   |                       MainActivity.kt
+    |   |       |   |                       MmsReceiver.kt
+    |   |       |   |                       SettingsActivity.kt
+    |   |       |   |                       SmsReceiver.kt
+    |   |       |   |                       
+    |   |       |   \---res
+    |   |       |       +---drawable
+    |   |       |       |       ic_launcher_monochrome.xml
+    |   |       |       |       
+    |   |       |       +---drawable-anydpi-v24
+    |   |       |       |       ic_scheduled_export_done.xml
+    |   |       |       |       
+    |   |       |       +---drawable-hdpi
+    |   |       |       |       ic_scheduled_export_done.png
+    |   |       |       |       
+    |   |       |       +---drawable-mdpi
+    |   |       |       |       ic_scheduled_export_done.png
+    |   |       |       |       
+    |   |       |       +---drawable-xhdpi
+    |   |       |       |       ic_scheduled_export_done.png
+    |   |       |       |       
+    |   |       |       +---drawable-xxhdpi
+    |   |       |       |       ic_scheduled_export_done.png
+    |   |       |       |       
+    |   |       |       +---layout
+    |   |       |       |       activity_about.xml
+    |   |       |       |       activity_compose_sms.xml
+    |   |       |       |       activity_main.xml
+    |   |       |       |       settings_activity.xml
+    |   |       |       |       
+    |   |       |       +---menu
+    |   |       |       |       options_menu.xml
+    |   |       |       |       
+    |   |       |       +---mipmap-anydpi-v26
+    |   |       |       |       ic_launcher.xml
+    |   |       |       |       ic_launcher_round.xml
+    |   |       |       |       
+    |   |       |       +---mipmap-hdpi
+    |   |       |       |       ic_launcher.png
+    |   |       |       |       ic_launcher_foreground.png
+    |   |       |       |       ic_launcher_round.png
+    |   |       |       |       
+    |   |       |       +---mipmap-mdpi
+    |   |       |       |       ic_launcher.png
+    |   |       |       |       ic_launcher_foreground.png
+    |   |       |       |       ic_launcher_round.png
+    |   |       |       |       
+    |   |       |       +---mipmap-xhdpi
+    |   |       |       |       ic_launcher.png
+    |   |       |       |       ic_launcher_foreground.png
+    |   |       |       |       ic_launcher_round.png
+    |   |       |       |       
+    |   |       |       +---mipmap-xxhdpi
+    |   |       |       |       ic_launcher.png
+    |   |       |       |       ic_launcher_foreground.png
+    |   |       |       |       ic_launcher_round.png
+    |   |       |       |       
+    |   |       |       +---mipmap-xxxhdpi
+    |   |       |       |       ic_launcher.png
+    |   |       |       |       ic_launcher_foreground.png
+    |   |       |       |       ic_launcher_round.png
+    |   |       |       |       
+    |   |       |       +---values
+    |   |       |       |       colors.xml
+    |   |       |       |       ic_launcher_background.xml
+    |   |       |       |       strings.xml
+    |   |       |       |       themes.xml
+    |   |       |       |       
+    |   |       |       +---values-b+de
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-b+fr
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-da
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-es
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-fa
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-it
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-iw
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-ml
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-nb-rNO
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-night
+    |   |       |       |       themes.xml
+    |   |       |       |       
+    |   |       |       +---values-pl
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-pt
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-pt-rBR
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-ru
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-ta
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-tr
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-vi
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       +---values-zh-rCN
+    |   |       |       |       strings.xml
+    |   |       |       |       
+    |   |       |       \---xml
+    |   |       |               root_preferences.xml
+    |   |       |               
+    |   |       \---test
+    |   |           \---java
+    |   |               \---com
+    |   |                   \---github
+    |   |                       \---tmo1
+    |   |                           \---sms_ie
+    |   |                                   ExampleUnitTest.kt
+    |   |                                   
+    |   +---fastlane
+    |   |   \---metadata
+    |   |       \---android
+    |   |           \---en-US
+    |   |               |   full_description.txt
+    |   |               |   short_description.txt
+    |   |               |   title.txt
+    |   |               |   
+    |   |               +---changelogs
+    |   |               |       1.txt
+    |   |               |       10.txt
+    |   |               |       100.txt
+    |   |               |       101.txt
+    |   |               |       102.txt
+    |   |               |       103.txt
+    |   |               |       104.txt
+    |   |               |       105.txt
+    |   |               |       106.txt
+    |   |               |       107.txt
+    |   |               |       108.txt
+    |   |               |       109.txt
+    |   |               |       11.txt
+    |   |               |       12.txt
+    |   |               |       13.txt
+    |   |               |       14.txt
+    |   |               |       15.txt
+    |   |               |       2.txt
+    |   |               |       3.txt
+    |   |               |       4.txt
+    |   |               |       5.txt
+    |   |               |       6.txt
+    |   |               |       7.txt
+    |   |               |       8.txt
+    |   |               |       9.txt
+    |   |               |       
+    |   |               \---images
+    |   |                   |   icon.png
+    |   |                   |   
+    |   |                   \---phoneScreenshots
+    |   |                           01_start-screen.png
+    |   |                           02_import-messages-progress.png
+    |   |                           03_import-messages-results.png
+    |   |                           04_export-messages-progress.png
+    |   |                           05_export-messages-results.png
+    |   |                           06_import-calls-progress.png
+    |   |                           07_import-calls-results.png
+    |   |                           08_export-calls-progress.png
+    |   |                           09_export-calls-results.png
+    |   |                           10_wipe-messages-warning-dialog.png
+    |   |                           11_wipe-messages-progress.png
+    |   |                           12_wipe-messages-results.png
+    |   |                           13_settings.png
+    |   |                           14_about.png
+    |   |                           
+    |   +---gradle
+    |   |   \---wrapper
+    |   |           gradle-wrapper.jar
+    |   |           gradle-wrapper.properties
+    |   |           
+    |   +---icons
+    |   |       ic_launcher_monochrome.svg
+    |   |       
+    |   \---tools
+    |       |   csv-convert.py
+    |       |   redact-messages.py
+    |       |   silence-convert.py
+    |       |   silence-xml-fixer.py
+    |       |   Tools.md
+    |       |   v1-v2-convert.py
+    |       |   vmg-convert.py
+    |       |   
+    |       \---contrib
+    |               messages_browser.py
+    |               
+    +---sms-ie (FORK)
+    \---_OLD
+        +---platform-tools
+        |       fastboot.exe
+        |       hprof-conv.exe
+        |       
+        \---shakespeare_sms
+            |   call_log_generator.py
+            |   config.py
+            |   database.py
+            |   group_chat.py
+            |   main.py
+            |   message_generator.py
+            |   requirements.txt
+            |   utils.py
+            |   verification.py
+            |   
+            +---logs
+            |       sms_database_20250306.log
+            |       
+            \---__pycache__
+                    call_log_generator.cpython-313.pyc
+                    config.cpython-313.pyc
+                    database.cpython-313.pyc
+                    group_chat.cpython-313.pyc
+                    message_generator.cpython-313.pyc
+                    utils.cpython-313.pyc
+                    verification.cpython-313.pyc
+                    

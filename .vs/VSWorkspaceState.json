@@ -5,13 +5,14 @@
     "\\desktop_creator\\data",
     "\\desktop_creator\\data\\static",
     "\\desktop_creator\\data\\static\\plays",
-    "\\desktop_creator\\data\\static\\plays\\Coriolanus",
-    "\\desktop_creator\\data\\static\\plays\\Coriolanus\\data",
     "\\desktop_creator\\data\\static\\plays\\Henry_IV_Part_2",
     "\\desktop_creator\\data\\static\\plays\\Henry_IV_Part_2\\data",
     "\\desktop_creator\\src",
-    "\\desktop_creator\\src\\core"
+    "\\desktop_creator\\src\\core",
+    "\\Shakesphere_injection",
+    "\\Shakesphere_injection\\_OLD",
+    "\\Shakesphere_injection\\_OLD\\shakespeare_sms"
   ],
-  "SelectedNode": "\\desktop_creator\\src\\core\\play_manager.py",
+  "SelectedNode": "\\Shakesphere_injection\\_OLD\\shakespeare_sms\\call_log_generator.py",
   "PreviewInSolutionExplorer": false
 }
